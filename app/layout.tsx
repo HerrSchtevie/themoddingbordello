@@ -23,6 +23,15 @@ export const metadata: Metadata = {
     description: 'Welcome to the official sanctum of The Modding Bordello — the central archive of all Bordello modlists. Each modlist has its own tailored installation guide, overview, and support resources.',
     siteName: 'The Modding Bordello',
     type: 'website',
+    images: [
+      {
+        url: 'https://www.themoddingbordello.com/bordello-masque.png',
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    images: ['https://www.themoddingbordello.com/bordello-masque.png'],
   },
 };
 
