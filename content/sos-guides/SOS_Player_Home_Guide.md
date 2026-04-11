@@ -11,13 +11,14 @@ Welcome to the SOS Player Home Guide — a categorized list of recommended house
 - [Legacy of the Dragonborn Safehouse](#legacy-of-the-dragonborn-safehouse)
 - [Aemers Refuge](#aemers-refuge)
 - [Talos' Tease](#Talos-Tease)
+- [Thur Vonun Sanctum](#Thur-Vonun-Sanctum)
 
 ### 🛖 Small to Mid-Size Homes
 - [Mirele Bismath](#mirele-bismath)
 - [The Interdimensional Chambers](#the-interdimensional-chambers)
 
 ### 🎒 Portable Homes
-- [Dwemer Storage Cube](#dwemer-storage-cube)
+- [Home in a Hat](#home-in-a-hat)
 
 ### 🌲 Vanilla+ / Minimalist Homes
 - [Eclipse Cottage](#eclipse-cottage)
@@ -105,7 +106,7 @@ Welcome to the SOS Player Home Guide — a categorized list of recommended house
 
 ## Talos' Tease
 
-## JOJ and HOH only
+## Not available in TOT or VOV
 
 <img alt="Talos' Tease" src="https://github.com/user-attachments/assets/56dd63fc-a1fc-4439-b690-262f4a642d78" />
 
@@ -124,6 +125,29 @@ Welcome to the SOS Player Home Guide — a categorized list of recommended house
 - Home to a large selection of recruitable followers
 
 **Modpage:** https://www.nexusmods.com/skyrimspecialedition/mods/160241
+
+
+---
+
+## Thur Vonun Sanctum
+
+<img alt="Talos' Tease" src="https://github.com/user-attachments/assets/d996ea72-c506-4c94-b18c-06f1f044d14b" />
+
+**Location:** The Reach, northwest of Riften  
+**Acquisition:** Walk inside  
+**Vibe:** Nordic; Falmer and Dwemer themed Fortress
+
+**Special Features:**
+- Auto-Loot Crafting System and Auto-Sort Storage System
+- Guardian Black Sabretooth Family
+- Rope Travel Devices System (Thur Traverse's Togglable)
+
+**Pros:**
+- Massive, immersive fortress style home
+- Up to 8 Follower Sleep Places
+- Tons of Storage
+
+**Modpage:** https://www.nexusmods.com/skyrimspecialedition/mods/71283
 
 ---
 
@@ -169,24 +193,23 @@ Welcome to the SOS Player Home Guide — a categorized list of recommended house
 
 ---
 
-## Dwemer Storage Cube
+## Home in a Hat
 
-<img src="https://github.com/user-attachments/assets/c59f2df6-1fc2-4150-85a4-56e2c7224170" alt="image" />
+<img src="https://github.com/user-attachments/assets/a3eba05d-54d7-4f06-a1ba-1687a4e4ddf2" alt="image" />
 
-**Location:** Temple of Xrib (Sightless Pit, NW of Azura Shrine)  
-**Acquisition:** Pick up cube in Temple  
-**Vibe:** Portable minimalist Dwemer
+**Location:** Can be purchased from Spell Vendors  
+**Acquisition:** Purchase from Spell vendor in spawn in with Modex
+**Vibe:** Portable minimalist
 
 **Special Features:**
-- Portable inventory entry
+- Al crafting stations within reach
 - Named storage for all categories
-- Disease curing shrine
 
 **Pros:**
 - Ultimate utility
-- Safe to spawn replacement cube
+- Home always available in your pocket
 
-**Modpage:** https://www.nexusmods.com/skyrimspecialedition/mods/475
+**Modpage:** https://www.nexusmods.com/skyrimspecialedition/mods/81722
 
 ---
 
@@ -246,7 +269,7 @@ Welcome to the SOS Player Home Guide — a categorized list of recommended house
 
 ## Levelers Tower
 
-## Not available in HOH
+## Not available in HOH or DOD
 
 <img src="https://github.com/user-attachments/assets/1beecf4f-32b5-403a-8482-05590e36051a" alt="image" />
 
