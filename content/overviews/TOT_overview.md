@@ -1,9 +1,5 @@
 # 📖 Tomes of Talos (TOT) – Modlist Overview
 
-[Installation Guide](TOT-Install-Guide) • [Load Order Library](https://loadorderlibrary.com/lists/tomes-of-talos) • [Guides](https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki) • [Discord](https://discord.gg/themoddingbordello)
-
----
-
 **Tomes of Talos (TOT)** is a fully automated Wabbajack modlist for Skyrim Special Edition that transforms the game into a stunning and lore-rich adventure across Tamriel.
 
 Featuring complete visual overhauls, quest expansions, refined combat, and curated follower enhancements, TOT delivers an immersive and replayable experience focused on intensity, exploration, and narrative — all without adult content.  
