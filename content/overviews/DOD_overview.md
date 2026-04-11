@@ -1,7 +1,5 @@
 # 📖 Diaries of Dibella (DOD) – Modlist Overview
 
----
-
 **Diaries of Dibella (DOD)** is a NSFW Skyrim modlist from The Modding Bordello with full SexLab integration, combining brutal survival mechanics and MCO-driven combat with decadent, unapologetic sensuality. Set in a harsh and demanding world, DOD blends overhauled visuals, punishing progression, immersive survival systems, and an expansive suite of adult content to create an intense and intoxicating experience where beauty, temptation, and danger intertwine beneath the radiant influence of Dibella.
 
 Built on the bones of NGVO, this is Skyrim reimagined — darker, deeper, and far more dangerous.
