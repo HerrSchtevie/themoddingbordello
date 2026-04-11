@@ -38,6 +38,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 [Tailor - An Outfit and Wig Manager](https://www.nexusmods.com/skyrimspecialedition/mods/173691) - Thanks, [Coldsun](https://www.nexusmods.com/profile/coldsun1187)!  
 [PPA - Procedural Penis Animations](https://www.nexusmods.com/skyrimspecialedition/mods/172002)  
+[Modex - A Mod Explorer Menu (AddItemMenu)](https://www.nexusmods.com/skyrimspecialedition/mods/137877)  
 
 ---
 
