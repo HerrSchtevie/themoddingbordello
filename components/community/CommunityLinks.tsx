@@ -4,11 +4,76 @@ import { useState } from 'react';
 import { communityLinks, loadOrderEntries } from '@/lib/community';
 
 export function CommunityLinks() {
+  const [discordExpanded, setDiscordExpanded] = useState(false);
   const [lolExpanded, setLolExpanded] = useState(false);
 
   return (
     <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-      {communityLinks.map((link) => (
+      {/* Discord — Accordion */}
+      <div
+        className={`rounded-xl border border-bordello-border bg-bordello-surface/80 shadow-sm transition-all duration-200 ${
+          discordExpanded ? 'sm:col-span-2 lg:col-span-3' : ''
+        }`}
+      >
+        <button
+          onClick={() => setDiscordExpanded(!discordExpanded)}
+          className="group w-full flex flex-col gap-2 p-5 text-left hover:bg-bordello-surface hover:brightness-110 transition-all duration-200 rounded-xl"
+        >
+          <div className="flex items-center justify-between w-full">
+            <span className="text-lg font-medium text-white group-hover:brightness-125 transition-all">
+              Discord
+            </span>
+            <svg
+              className={`w-5 h-5 text-bordello-muted transition-transform duration-200 ${discordExpanded ? 'rotate-180' : ''}`}
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+            </svg>
+          </div>
+          <p className="text-sm text-bordello-muted">Join the community for support, updates, and discussion.</p>
+        </button>
+
+        {discordExpanded && (
+          <div className="px-5 pb-5 grid gap-2 sm:grid-cols-2">
+            <a
+              href="https://discord.com/invite/themoddingbordello"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex flex-col gap-1.5 px-4 py-3 rounded-lg border border-bordello-border bg-bordello-bg/50 hover:bg-bordello-bg hover:border-bordello-muted/30 transition-all group"
+            >
+              <div className="flex items-center justify-between">
+                <span className="text-sm font-medium text-white group-hover:brightness-125 transition-all">
+                  The Modding Bordello
+                </span>
+                <svg className="w-3.5 h-3.5 text-bordello-muted shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+                </svg>
+              </div>
+              <span className="text-xs text-bordello-muted">The official server for the modlists and resources featured on this site.</span>
+            </a>
+            <a
+              href="https://discord.com/invite/bungalo"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex flex-col gap-1.5 px-4 py-3 rounded-lg border border-bordello-border bg-bordello-bg/50 hover:bg-bordello-bg hover:border-bordello-muted/30 transition-all group"
+            >
+              <div className="flex items-center justify-between">
+                <span className="text-sm font-medium text-white group-hover:brightness-125 transition-all">
+                  The Modding Bungalo
+                </span>
+                <svg className="w-3.5 h-3.5 text-bordello-muted shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+                </svg>
+              </div>
+              <span className="text-xs text-bordello-muted">Our SFW sister server and affiliated community.</span>
+            </a>
+          </div>
+        )}
+      </div>
+
+      {communityLinks.filter((link) => link.platform !== 'discord').map((link) => (
         <a
           key={link.platform}
           href={link.url}
