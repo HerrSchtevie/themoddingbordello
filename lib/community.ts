@@ -11,6 +11,7 @@ export const communityLinks: CommunityLink[] = [
   { platform: 'kofi', url: 'https://ko-fi.com/herrschtevie', label: 'Ko-fi', description: 'Support development and ongoing work.' },
   { platform: 'twitch', url: 'https://www.twitch.tv/herrschtevie', label: 'Twitch', description: 'Watch live streams and development content.' },
   { platform: 'reddit', url: 'https://www.reddit.com/r/themoddingbordello/', label: 'Reddit', description: 'Public discussion hub for updates and community interaction.' },
+  { platform: 'bungalo', url: 'https://discord.com/invite/bungalo', label: 'The Modding Bungalo (SFW Sister Server)', description: 'Explore our SFW sister community within the modding ecosystem.' },
 ];
 
 export interface LoadOrderEntry {
