@@ -1,9 +1,5 @@
 # 📖 Journals of Jyggalag (JOJ) – Modlist Overview
 
-[Installation Guide](Journals-of-Jyggalag-ReadMe) • [Load Order Library](https://loadorderlibrary.com/lists/journals-of-jyggalag-2) • [Guides](https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki) • [Discord](https://discord.gg/themoddingbordello)
-
----
-
 **Journals of Jyggalag (JOJ)** is a fully automated Wabbajack modlist for Skyrim Special Edition that transforms the game into a stunning, lore-rich, and erotic adventure across Tamriel.  
 Featuring full integration of adult content, complete visual overhauls, quest expansions, and refined combat, JOJ creates an immersive, replayable experience for players who want both **intensity** and **intimacy**.
 
