@@ -1,0 +1,20 @@
+export const arrConfig = {
+  slug: 'arr' as const,
+  name: 'Authoria \u2013 Requiem Reforged',
+  abbreviation: 'ARR',
+  accentColor: '#A67C00',
+  wallpaper: '/assets/wallpapers/ARRWallpaper.png',
+  splashArt: '/assets/logos/splasharr.png',
+  tagline: 'Survival is written in frost and blood.',
+  label: 'Affiliated Modlist',
+  description: 'Authoria is a Requiem + LOTD modlist with Seasons (and Seasons Unfrozen).',
+  links: {
+    readme: 'https://github.com/Drheisen1/Authoria-Requiem-Reforged/blob/main/README.md',
+    changelog: 'https://github.com/Drheisen1/Authoria-Requiem-Reforged/blob/main/Changelog.md',
+    gameplayGuide: 'https://github.com/Drheisen1/Authoria-Requiem-Reforged/blob/main/GameplayGuide.md',
+    toolRunningGuide: 'https://github.com/Drheisen1/Authoria-Requiem-Reforged/blob/main/Authoria_Tool_Running_Guide.md',
+    nexus: 'https://www.nexusmods.com/skyrimspecialedition/mods/170235',
+    loadOrder: 'https://loadorderlibrary.com/lists/authoria-requiem-reforged-3',
+    arse: 'https://docs.google.com/document/d/1ZzThy-Am_SY8OCuITbB35KXYXMm1rg4v4BgrX3tKTaw/edit?tab=t.0',
+  },
+};

@@ -1,0 +1,94 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --accent-color: #7a0000;
+}
+
+body {
+  @apply bg-bordello-bg text-bordello-text antialiased;
+}
+
+/* Prose styling for markdown content */
+.prose {
+  @apply max-w-4xl mx-auto leading-relaxed;
+}
+
+.prose h1 {
+  @apply text-3xl font-bold mt-10 mb-4 text-white;
+}
+
+.prose h2 {
+  @apply text-2xl font-semibold mt-8 mb-3 text-white;
+}
+
+.prose h3 {
+  @apply text-xl font-semibold mt-6 mb-2 text-white;
+}
+
+.prose h4 {
+  @apply text-lg font-medium mt-4 mb-2 text-white;
+}
+
+.prose p {
+  @apply mb-4 text-bordello-text;
+}
+
+.prose a {
+  color: var(--accent-color);
+  @apply underline underline-offset-2 hover:brightness-125 transition-all;
+}
+
+.prose ul {
+  @apply list-disc pl-6 mb-4 space-y-1;
+}
+
+.prose ol {
+  @apply list-decimal pl-6 mb-4 space-y-1;
+}
+
+.prose li {
+  @apply text-bordello-text;
+}
+
+.prose code {
+  @apply bg-bordello-surface px-1.5 py-0.5 rounded text-sm font-mono;
+}
+
+.prose pre {
+  @apply bg-bordello-surface p-4 rounded-lg overflow-x-auto mb-4;
+}
+
+.prose pre code {
+  @apply bg-transparent p-0;
+}
+
+.prose blockquote {
+  @apply border-l-4 pl-4 italic text-bordello-muted mb-4;
+  border-color: var(--accent-color);
+}
+
+.prose table {
+  @apply w-full border-collapse mb-4;
+}
+
+.prose th {
+  @apply text-left p-2 border-b border-bordello-border font-semibold text-white;
+}
+
+.prose td {
+  @apply p-2 border-b border-bordello-border;
+}
+
+.prose hr {
+  @apply border-bordello-border my-6;
+}
+
+.prose img {
+  @apply max-w-full rounded-lg my-4;
+}
+
+.prose strong {
+  @apply text-white font-semibold;
+}
