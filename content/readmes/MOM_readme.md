@@ -51,7 +51,7 @@ View the Modlist
 </td>
 
 <td align="center">
-<a href="https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/JOJ-Changelog"><strong>View Changelog</strong></a><br>
+<a href="/modlists/mom/changelog"><strong>View Changelog</strong></a><br>
 See Version History
 </td>
 

@@ -51,7 +51,7 @@ View the Modlist
 </td>
 
 <td align="center">
-<a href="https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/TOT-Changelog"><strong>View Changelog</strong></a><br>
+<a href="/modlists/tot/changelog"><strong>View Changelog</strong></a><br>
 See Version History
 </td>
 
