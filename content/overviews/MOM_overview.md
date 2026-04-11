@@ -1,9 +1,5 @@
 # 📖 Mantras of Mara (MOM) – Modlist Overview
 
-[Installation Guide](Mantras-of-Mara-ReadMe) • [Load Order Library](https://loadorderlibrary.com/lists/mantras-of-mara) • [Guides](https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki) • [Discord](https://discord.gg/themoddingbordello)
-
----
-
 **Mantras of Mara (MOM)** is a NSFW Skyrim modlist with full SexLab integration. Built around themes of love, compassion, and divine unity, it offers a warm and indulgent experience where pleasure becomes an expression of devotion. Centered on Mara's radiant grace, this list combines sensuality with elegance, featuring an extensive collection of adult content, visual overhauls, and gameplay enhancements\u2014all crafted to embody the beauty and benevolence of the Mother Goddess herself.
 
 Built on the bones of NGVO, this is Skyrim reimagined — darker, deeper, and far more dangerous.
