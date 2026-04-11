@@ -9,7 +9,7 @@ export function ModlistDropdown() {
         {modlists.map((list) => (
           <Link
             key={list.slug}
-            href={`/modlists/${list.slug}/readme`}
+            href={`/modlists/${list.slug}/overview`}
             className="flex items-center gap-3 px-4 py-3 hover:bg-bordello-bg/50 transition-colors"
           >
             <span
