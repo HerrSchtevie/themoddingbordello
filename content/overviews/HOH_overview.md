@@ -1,11 +1,5 @@
 # 🦌 Hymns of Hircine
 
----
-
-**[Installation Guide](https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/Hymns-of-Hircine-ReadMe)** • **[Load Order Library](https://loadorderlibrary.com/lists/hymns-of-hircine)** • **[Guides](https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki)** • **[Discord](https://discord.gg/themoddingbordello)**
-
----
-
 ## Introduction
 
 **Hymns of Hircine (HOH)** is the immersive challenge modlist from the **Scrolls of Schtevie** team.  
