@@ -10,5 +10,5 @@ export function generateStaticParams() {
 export default function ModlistRedirectPage({ params }: { params: { list: string } }) {
   const slug = params.list as ModlistSlug;
   if (!modlistBySlug[slug]) notFound();
-  redirect(`/modlists/${slug}/readme`);
+  redirect(`/modlists/${slug}/overview`);
 }

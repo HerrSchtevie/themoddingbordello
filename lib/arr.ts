@@ -7,7 +7,7 @@ export const arrConfig = {
   splashArt: '/assets/logos/splasharr.png',
   tagline: 'Survival is written in frost and blood.',
   label: 'Affiliated Modlist',
-  description: 'Authoria is a Requiem + LOTD modlist with Seasons (and Seasons Unfrozen).',
+  description: 'Created by jbish, Aaronavich, and Heisen.',
   links: {
     readme: 'https://github.com/Drheisen1/Authoria-Requiem-Reforged/blob/main/README.md',
     changelog: 'https://github.com/Drheisen1/Authoria-Requiem-Reforged/blob/main/Changelog.md',

@@ -77,10 +77,11 @@ export const allModlistSlugs: ModlistSlug[] = modlists.map((m) => m.slug);
 
 export function getModlistContentPath(
   slug: ModlistSlug,
-  page: 'readme' | 'gameplay-guide' | 'changelog' | 'manual-downloads'
+  page: 'overview' | 'readme' | 'gameplay-guide' | 'changelog' | 'manual-downloads'
 ): string {
   const abbr = modlistBySlug[slug].abbreviation;
   const map: Record<string, string> = {
+    overview: `content/overviews/${abbr}_overview.md`,
     readme: `content/readmes/${abbr}_readme.md`,
     'gameplay-guide': `content/gameplay-guides/${abbr}_Gameplay_Guide.md`,
     changelog: `content/changelogs/${abbr}_changelog.md`,

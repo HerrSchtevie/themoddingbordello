@@ -8,7 +8,22 @@ const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
   title: 'The Modding Bordello',
-  description: 'Premium Skyrim modlist documentation hub — Journals of Jyggalag, Tomes of Talos, Hymns of Hircine, Mantras of Mara, Diaries of Dibella, and Visions of Vaermina.',
+  description: 'Welcome to the official sanctum of The Modding Bordello — the central archive of all Bordello modlists. Each modlist has its own tailored installation guide, overview, and support resources.',
+  icons: {
+    icon: [
+      { url: '/favicon.ico', sizes: 'any' },
+      { url: '/favicon-16x16.png', sizes: '16x16', type: 'image/png' },
+      { url: '/favicon-32x32.png', sizes: '32x32', type: 'image/png' },
+    ],
+    apple: '/apple-touch-icon.png',
+  },
+  manifest: '/site.webmanifest',
+  openGraph: {
+    title: 'The Modding Bordello',
+    description: 'Welcome to the official sanctum of The Modding Bordello — the central archive of all Bordello modlists. Each modlist has its own tailored installation guide, overview, and support resources.',
+    siteName: 'The Modding Bordello',
+    type: 'website',
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

@@ -52,7 +52,7 @@ export function QuizResult({ result, onReset }: QuizResultProps) {
             className="inline-flex items-center gap-2 px-6 py-3 font-semibold rounded-lg text-white transition-colors hover:brightness-125"
             style={{ backgroundColor: arrConfig.accentColor }}
           >
-            View ARR ReadMe
+            View ARR Overview
           </a>
 
           <div className="mt-6 flex flex-wrap justify-center gap-3">
@@ -119,11 +119,11 @@ export function QuizResult({ result, onReset }: QuizResultProps) {
         </ul>
 
         <Link
-          href={`/modlists/${list.slug}/readme`}
+          href={`/modlists/${list.slug}/overview`}
           className="inline-flex items-center gap-2 px-6 py-3 font-semibold rounded-lg text-white transition-colors hover:brightness-125"
           style={{ backgroundColor: list.accentColor }}
         >
-          View {list.abbreviation} ReadMe
+          View {list.abbreviation} Overview
         </Link>
       </div>
 

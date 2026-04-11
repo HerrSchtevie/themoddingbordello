@@ -12,6 +12,7 @@ interface TabDef {
 }
 
 const allTabs: TabDef[] = [
+  { page: 'overview', label: 'Overview' },
   { page: 'readme', label: 'ReadMe' },
   { page: 'gameplay-guide', label: 'Gameplay Guide' },
   { page: 'changelog', label: 'Changelog' },
