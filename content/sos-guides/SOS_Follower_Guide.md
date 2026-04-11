@@ -19,21 +19,22 @@ This guide was written by **Tidal**, a true **Crusader of Order**. A massive tha
 ## 📚 Table of Contents
 
 ### 🎭 Story & Custom Followers
+- [Kaidan](#kaidan)
 - [Remiel](#remiel)
 - [Auri – Song of the Green](#auri--song-of-the-green)
-- [Caesia – Borne of Magic](#caesia--borne-of-magic)
 - [Lucien – The Scholar Companion](#lucien--the-scholar-companion)
 - [Xelzaz – Telvanni Argonian Follower](#xelzaz--telvanni-argonian-follower)
 - [Katana, Megara & Shale](#katana-megara--shale)
 - [Taliesin – Thalmor in Shadow](#taliesin--thalmor-in-shadow)
 - [M'rissi's Tails of Troubles](#mrissi)
+- [Sa'chil](#sa'chil)
 - [Thogra gra-Mugur](#thogra-gra-mugur)
 - [Redcap the Riekling](#redcap-the-riekling)
 - [Khajiit Will Follow](#khajiit-will-follow)
 - [Merlin the Corgi](#merlin-the-corgi)
+- [Yoana](#yoana)
 
 ### 🔮 Magical Companions
-- [Lyssia – The Whispering Mage](#lyssia--the-whispering-mage)
 - [Hot Ildari – Ash Witch Follower](#hot-ildari--ash-witch-follower)
 - [Coralyn – The Bosmer Shaman *NFF Compatible*](#coralyn--the-bosmer-shaman-nff-compatible)
 - [Astara Cosma – Imperial Librarian *NFF Compatible*](#astara-cosma--imperial-librarian-nff-compatible)
@@ -60,6 +61,18 @@ This guide was written by **Tidal**, a true **Crusader of Order**. A massive tha
 
 ## 🎭 Story & Custom Followers
 
+### Kaidan
+[Kaidan - Immersive Features](https://kaidanmod.com/)  
+Kaidan is written to be an immersive companion or lover for your Dragonborn, reactive to quests and choices.
+
+The Modding Bordello is proudly partnered with the [Immersive Kaidan Discord server](https://discord.gg/Z5sf5sCt3m). Special thanks to [Han Shot First](https://www.nexusmods.com/profile/hanshotfirst01?gameId=1704) and her team for their continued work and support of the community.
+
+**Location:** Abandoned Prison, southwest of Windhelm.
+
+![image](https://github.com/user-attachments/assets/d918e696-e2ba-4ef6-98e0-c55e71fdbbbf)
+
+---
+
 ### Remiel
 [Remiel](https://www.nexusmods.com/skyrimspecialedition/mods/51874)  
 A Breton engineer from Wayrest with over **5,000 lines** of dialogue. Remiel isn’t a warrior but offers charm, curiosity, and Dwemer tech. She can even **reprogram a Dwemer spider** to assist you in battle.
@@ -77,16 +90,6 @@ A traditionalist Bosmer archer with over **1,000 voiced lines**, deeply rooted i
 **Location:** Falkreath Hold – Look for Auri’s Pod on the map
 
 ![image](https://github.com/user-attachments/assets/f483049e-981d-446b-b065-d199d4a7c23f)
-
----
-
-### Caesia – Borne of Magic
-[Caesia](https://www.nexusmods.com/skyrimspecialedition/mods/13389)  
-A confident and mysterious mage companion with **730+ lines**. Caesia offers biting sarcasm, evolving relationship dialogue, and is one of the most reactive magical followers in Skyrim.
-
-**Location:** Moonside Inn, Morthal
-
-![image](https://github.com/user-attachments/assets/8e790ad1-16c3-452e-a659-7d1b71f0df53)
 
 ---
 
@@ -149,6 +152,17 @@ M'Rissi is intentionally *not* Essential or Protected through most of her story.
 
 ---
 
+### Sa'chil
+[Sa'chil](https://www.nexusmods.com/skyrimspecialedition/mods/106892)  
+Sa'chil is a Dagi-Raht Khajiit spellsword from Hammerfell. She is nimble, clever, stubborn, optimistic, and a joker.
+ She prefers to fight like an aggressive spellsword with her fire-spells, but you can always change out her weaponry!
+
+**Location:** She is found on the cliff next to Reachwind Eyrie.
+
+![image](https://github.com/user-attachments/assets/f514d155-c31f-4087-b389-13d2862654ee)  
+
+---
+
 ### Thogra gra-Mugur
 [Thogra gra-Mugur](https://www.nexusmods.com/skyrimspecialedition/mods/120007)  
 Thogra gra-Mugur is a woman on a mission. Currently, she is also dying. If you save her life, you will get a loyal (if somewhat gruff) follower and friend. But whether her loyalty will be rewarded, well... that is entirely up to you.
@@ -193,17 +207,17 @@ Adds a magical corgi companion to join you on your adventures.
 
 ---
 
-## 🔮 Magical Companions
+### Yoana
+[Yoana custom voiced follower](https://www.nexusmods.com/skyrimspecialedition/mods/164506)  
+Yoana is a fully voiced follower with her own quirks, her own rhythm, and a dual-wield style that fits the strange little world inside her head.
 
-### Lyssia – The Whispering Mage
-[Lyssia](https://www.nexusmods.com/skyrimspecialedition/mods/92898)  
-A scholar from the elusive College of Whispers in Cyrodiil. Lyssia is powerful, sarcastic, and occasionally fond of mead. Her commentary reflects a sharp mind and a complex moral view, making her an immersive choice for mages and thinkers.
+**Location:** Riverside Shack, east of Gallows Rock.
 
-**Location:** Ruined house near the Western Watchtower, Whiterun
-
-![image](https://github.com/user-attachments/assets/3fd2b40f-d81f-437e-9eae-65c8128e67e9)
+![image](https://github.com/user-attachments/assets/bc9fc2a1-5377-43e3-9e2c-171a84be4004)  
 
 ---
+
+## 🔮 Magical Companions
 
 ### Hot Ildari – Ash Witch Follower
 [Hot Ildari](https://www.nexusmods.com/skyrimspecialedition/mods/19274)  
