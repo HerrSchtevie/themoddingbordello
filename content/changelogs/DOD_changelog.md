@@ -39,6 +39,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 [Tailor - An Outfit and Wig Manager](https://www.nexusmods.com/skyrimspecialedition/mods/173691) - Thanks, [Coldsun](https://www.nexusmods.com/profile/coldsun1187)!  
 [PPA - Procedural Penis Animations](https://www.nexusmods.com/skyrimspecialedition/mods/172002)  
+[Modex - A Mod Explorer Menu (AddItemMenu)](https://www.nexusmods.com/skyrimspecialedition/mods/137877)  
 
 
 ---
@@ -55,6 +56,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
    - `JOJ - Armour Crafting Manuals 0.esp`
    - `DOD - Armour WAAT Patch 4.esp`
    - `DOD - Armour WAAT Patch 5.esp`
+   - `SOS Missives Location Patch_FLM.ini`
 - Set `ForceVSync = false` by default in AMON ENB `enblocal.ini`  
 - Removed `SOS - TRX Futanari BNP Frostnip textures` in favor of [Rynfri's](https://www.nexusmods.com/profile/Rynfri) new Nexus version  
 - Changed [Better Third Person Selector](https://www.nexusmods.com/skyrimspecialedition/mods/64339) hotkey to `Right Alt` to avoid [PPA](https://www.nexusmods.com/skyrimspecialedition/mods/172002) keybind overlap  
