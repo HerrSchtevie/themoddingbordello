@@ -1,6 +1,6 @@
 # 📖 Visions of Vaermina (VOV) – Modlist Overview
 
-Visions of Vaermina (VOV) is a visuals-only Skyrim modlist serving as the graphical foundation for Herr Schtevie's modlists. Focused on visual fidelity, atmosphere, and environmental immersion, VOV delivers enhanced graphics, detailed landscapes, modern lighting, and refined character presentation without gameplay overhauls. OStim and core NSFW frameworks are included as an optional foundation, creating a stable, performance-focused visual baseline upon which other Bordello modlists are built.
+Visions of Vaermina (VOV) is a NSFW visuals-only Skyrim modlist, intended for users wanting a solid foundation on which to build their own modlists. Focused on visual fidelity, atmosphere, and environmental immersion, VOV delivers enhanced graphics, detailed landscapes, modern lighting, and refined character presentation, along with all the standard bug fixes, engine improvements, and modding tools, but without added content or gameplay overhauls. OStim and core NSFW frameworks are included, creating a stable, performance-focused visual baseline upon which other Bordello modlists are built.
 
 ---
 
