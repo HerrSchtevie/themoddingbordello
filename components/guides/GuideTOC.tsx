@@ -19,10 +19,34 @@ const EXCLUDED_PATTERNS = [
   /^only available in /i,
   /^requires /i,
   /^notes?$/i,
+  /^story & custom followers$/i,
+  /^magical companions$/i,
+  /^warriors & combat allies$/i,
+  /^vanilla expansion mods$/i,
+  /^follower banter (& commentary )?guide$/i,
+  /^conclusion$/i,
 ];
 
 function isExcludedHeading(text: string): boolean {
   return EXCLUDED_PATTERNS.some((re) => re.test(text));
+}
+
+/**
+ * Check if a heading lives inside an authored "Table of Contents" block.
+ * These blocks start with an h2 containing "Table of Contents" and end at
+ * the next <hr> element. Category headings inside (e.g. h3 groupings in
+ * the Player Home Guide) are not real content sections.
+ */
+function isInsideTOCBlock(el: Element): boolean {
+  let sibling: Element | null = el.previousElementSibling;
+  while (sibling) {
+    if (sibling.tagName === 'HR') return false; // hit an hr before any TOC heading — outside
+    if (/^H[12]$/.test(sibling.tagName) && /table of contents/i.test(sibling.textContent || '')) {
+      return true;
+    }
+    sibling = sibling.previousElementSibling;
+  }
+  return false;
 }
 
 function parseTOCItems(container: HTMLElement): TOCItem[] {
@@ -34,6 +58,7 @@ function parseTOCItems(container: HTMLElement): TOCItem[] {
     const text = el.textContent?.replace(/^[^\w]*/, '').trim() || '';
     if (!text) return;
     if (isExcludedHeading(text)) return;
+    if (isInsideTOCBlock(el)) return;
     const level = el.tagName === 'H2' ? 2 : 3;
     items.push({ id, text, level });
   });

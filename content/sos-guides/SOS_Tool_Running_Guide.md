@@ -51,6 +51,8 @@ Proceed with caution. You have been warned.
 ---
 <a id="summary"></a>
 
+## Tool Overviews
+
 ### 🧵 BodySlide
   - **When to run:** After adding or updating any **armor or clothing mod** (including replacers).  
   - **What it does:** Builds the 3D meshes for armors and clothing based on your chosen body type and preset.  
