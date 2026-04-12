@@ -67,7 +67,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 - Fixed [Last Seed](https://www.nexusmods.com/skyrimspecialedition/mods/56393) keybinds
 - Rebuilt `DOD - BodySlide Output` to fix some Devious Devices issues
 - Removed `skeleton.hkx` file from [BakaFactory Animated Beast Cocks](https://www.loverslab.com/files/file/7556-animated-beasts-cocksabc-for-users-le-se/) to resolve Vampire Lord camera issue
-- Removed `HOH - Animations Master Config` and relocated the [Carry Your Carcasses](https://www.nexusmods.com/skyrimspecialedition/mods/62628) custom config into `HOH - MCM and INI Settings`  
+- Removed `DOD - Animations Master Config` and relocated the [Carry Your Carcasses](https://www.nexusmods.com/skyrimspecialedition/mods/62628) custom config into `DOD - MCM and INI Settings`  
 
 ---
 
