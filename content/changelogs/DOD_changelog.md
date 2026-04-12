@@ -47,6 +47,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 ## Removals 
 
 [Devious Sounds V 1.2](https://www.loverslab.com/files/file/21101-devious-sounds-v-12/) - Removed due to conflict with [Khajiit Will Follow](https://www.nexusmods.com/skyrimspecialedition/mods/2227) and likely other added followers  
+[ADXP I MCO Spear Soldier Animations](https://www.nexusmods.com/skyrimspecialedition/mods/92445)  
+[ADXP I MCO Spear Soldier Animations Patch](https://www.nexusmods.com/skyrimspecialedition/mods/89785?tab=files&file_id=393407&nmm=1)  
 
 ---
 
@@ -64,7 +66,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 - Fixed issue with vanilla keybinds  
 - Fixed [Last Seed](https://www.nexusmods.com/skyrimspecialedition/mods/56393) keybinds
 - Rebuilt `DOD - BodySlide Output` to fix some Devious Devices issues
-- Removed `skeleton.hkx` file from [BakaFactory Animated Beast Cocks](https://www.loverslab.com/files/file/7556-animated-beasts-cocksabc-for-users-le-se/) to resolve Vampire Lord camera issue  
+- Removed `skeleton.hkx` file from [BakaFactory Animated Beast Cocks](https://www.loverslab.com/files/file/7556-animated-beasts-cocksabc-for-users-le-se/) to resolve Vampire Lord camera issue
+- Removed `HOH - Animations Master Config` and relocated the [Carry Your Carcasses](https://www.nexusmods.com/skyrimspecialedition/mods/62628) custom config into `HOH - MCM and INI Settings`  
 
 ---
 
