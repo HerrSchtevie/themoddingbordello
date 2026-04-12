@@ -137,7 +137,7 @@ These are **hard requirements**. The modlist will not function correctly without
 ## 🛠️ Installation via Wabbajack
 
 DOD installs via [Wabbajack](https://www.wabbajack.org), the fully automated modlist installer.  
-No modding experience required — just follow the [MOM Installation Guide](Diaries-of-Dibella-ReadMe).
+No modding experience required — just follow the [DOD Installation Guide](https://www.themoddingbordello.com/modlists/dod/readme).
 
 ---
 
