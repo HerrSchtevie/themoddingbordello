@@ -52,41 +52,41 @@ Proceed with caution. You have been warned.
 
 ## Tool Overviews
 
-### 🧵 BodySlide
+#### 🧵 BodySlide
   - **When to run:** After adding or updating any **armor or clothing mod** (including replacers).  
   - **What it does:** Builds the 3D meshes for armors and clothing based on your chosen body type and preset.  
     - In any SOS list, you must use the **Zeroed Sliders preset** so OBody can apply morphs correctly.  
     - Ensures male armors match the **HIMBO Body - SOS** and female armors match the **CBBE 3BBB Body Amazing**.  
   - Without running BodySlide, newly added armors will appear **invisible in-game**.
-### 🕺 Pandora
+#### 🕺 Pandora
   - **When to run:** After **adding or removing any animation mod** — including locomotion, idle, combat, OAR animations, or MCO/DAR-based behavior changes.  
   - **What it does:** Compiles behavior data and animation bindings into a functioning output using OAR (Open Animation Replacer). Ensures animations play correctly in-game by linking conditions, behaviors, and transitions into a single cache.
 
-### ⚙️ Synthesis
+#### ⚙️ Synthesis
   - **When to run:** After adding gameplay mods, appearance overhauls, perk overhauls, combat mods, or other systems that use Synthesis patchers (really after adding/removing anything at all).  
   - **What it does:** Automatically generates compatibility patches for things like perks, spells, leveled lists, appearance, high-poly head, terrain, and more, depending on the patchers active for your profile.
 
-### 🔧 VRAMr (Optional)
+#### 🔧 VRAMr (Optional)
   - **When to run:** Before running **ParallaxGen** or **xLODGen** if you are using the **Performance profile**.  
   - **What it does:** Generates optimized texture atlases to reduce VRAM usage, improve performance, and lower stutter without sacrificing major visual fidelity.
 
-### 🧱 ParallaxGen
+#### 🧱 ParallaxGen
   - **When to run:** After adding or removing **parallax-enabled textures** or **meshes** (terrain, architecture, armor, clutter, etc.).  
   - **What it does:** Generates height data files used by parallax shaders to create a 3D illusion of depth on **nearby surfaces** like stone walls, roads, cliffs, or ground textures.
 
-### 🌄 xLODGen
+#### 🌄 xLODGen
   - **When to run:** After adding or removing worldspace-affecting mods (like new landmasses or city overhauls) or landscape textures.  
   - **What it does:** Generates the terrain LOD meshes and textures for worldspaces (LOD4, 8, 16, 32), allowing you to see distant terrain.
 
-### 🌾 Grass Cache (Optional)
+#### 🌾 Grass Cache (Optional)
   - **When to run:** Only if you have added or removed major **landscape/worldspace mods** or changed grass INI settings.  
   - **What it does:** Pre-generates grass placement data for consistent visuals and improved performance. Ensures grass matches the terrain in both nearby and distant views.
 
-### 🧵 TexGen
+#### 🧵 TexGen
   - **When to run:** After adding or removing any mod that affects landscape textures, tree models, lighting, weather, or object appearances **that you want represented in LODs**.  
   - **What it does:** Generates texture and normal map data used **exclusively by DynDOLOD**. TexGen must be run before DynDOLOD so distant objects have the correct lighting, shading, and texture data in the final LOD output.
 
-### 🧠 DynDOLOD
+#### 🧠 DynDOLOD
   - **When to run:** After running TexGen, and after **any** change to worldspace (like buildings, trees, city overhauls, or anything that modifies what's visible in the distance).  
   - **What it does:** Creates the dynamic LODs for all objects in the game world — trees, cities, distant clutter — and ties it all together for smooth performance and visuals.
 
