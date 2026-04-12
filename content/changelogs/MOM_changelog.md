@@ -57,7 +57,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 - Set `ForceVSync = false` by default in AMON ENB `enblocal.ini`  
 - Removed `SOS - TRX Futanari BNP Frostnip textures` in favor of [Rynfri's](https://www.nexusmods.com/profile/Rynfri) new Nexus version  
 - Changed [Better Third Person Selector](https://www.nexusmods.com/skyrimspecialedition/mods/64339) hotkey to `Right Alt` to avoid [PPA](https://www.nexusmods.com/skyrimspecialedition/mods/172002) keybind overlap  
-- Changed `accurate-penetration.toml` to require console be open AND press modifier key (`Shift`) to adjust PPA Settings  
+- Changed `accurate-penetration.toml` to require console be open AND press modifier key (`Shift`) to adjust PPA Settings
+- Rebuilt `MOM - BodySlide Output` to fix some Devious Devices issues  
 
 ---
 
