@@ -45,7 +45,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 ## Removals 
 
-NONE
+[ADXP I MCO Spear Soldier Animations](https://www.nexusmods.com/skyrimspecialedition/mods/92445)  
+[ADXP I MCO Spear Soldier Animations Patch](https://www.nexusmods.com/skyrimspecialedition/mods/89785?tab=files&file_id=393407&nmm=1)  
 
 ---
 
@@ -59,7 +60,8 @@ NONE
 - Set `ForceVSync = false` by default in AMON ENB `enblocal.ini`  
 - Removed `SOS - TRX Futanari BNP Frostnip textures` in favor of [Rynfri's](https://www.nexusmods.com/profile/Rynfri) new Nexus version  
 - Changed [Better Third Person Selector](https://www.nexusmods.com/skyrimspecialedition/mods/64339) hotkey to `Right Alt` to avoid [PPA](https://www.nexusmods.com/skyrimspecialedition/mods/172002) keybind overlap  
-- Changed `accurate-penetration.toml` to require console be open AND press modifier key (`Shift`) to adjust PPA Settings  
+- Changed `accurate-penetration.toml` to require console be open AND press modifier key (`Shift`) to adjust PPA Settings
+- Removed `HOH - Animations Master Config` and relocated the [Carry Your Carcasses](https://www.nexusmods.com/skyrimspecialedition/mods/62628) custom config into `HOH - MCM and INI Settings`  
 
 ---
 
