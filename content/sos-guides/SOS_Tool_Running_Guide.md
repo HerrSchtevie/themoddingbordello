@@ -13,7 +13,7 @@ This guide walks you through **how to run all tools**, but not all of them need 
 ## 📚 Table of Contents
 
 - ⚠️ [Disclaimer – Read This First](#disclaimer)
-- 🗂️ [Summary of Tools](#summary)
+- 🗂️ [Tool Overviews](#summary)
 - 🧵 [Step 0: Run BodySlide](#bodyslide)
 - 🕺 [Step 0.5: Run Pandora](#pandora)
 - ⚙️ [Step 1: Run Synthesis](#synthesis)
@@ -24,12 +24,11 @@ This guide walks you through **how to run all tools**, but not all of them need 
 - 🧵 [Step 4: Run TexGen](#texgen)
 - 🧠 [Step 5: Run DynDOLOD](#dyndolod)
 - ✅ [Conclusion](#conclusion)
-- 📜 [Final Reminder](#final)
 
 ---
 <a id="disclaimer"></a>
 
-### ⚠️ DISCLAIMER – READ THIS FIRST
+## ⚠️ Disclaimer – Read This First
 
 > This guide was originally assembled using **Journals of Jyggalag** as the reference list.  
 > While the instructions apply across all **Scrolls of Schtevie** modlists, some screenshots, plugin orders, or plugin numbers may differ slightly between lists. The core process and steps remain the same.
@@ -37,7 +36,7 @@ This guide walks you through **how to run all tools**, but not all of them need 
 Adding any mods to **Scrolls of Schtevie Modlists** falls under **Rule 11**:  
 You are modifying the list **at your own risk**.
 
-While we’re happy to try and assist in the Discord, the team is **not obligated** to troubleshoot issues caused by your additions or changes.
+While we're happy to try and assist in the Discord, the team is **not obligated** to troubleshoot issues caused by your additions or changes.
 
 The Scrolls of Schtevie Modlists are **complete modlists**.  
 By making alterations, you accept that:
@@ -88,31 +87,31 @@ Proceed with caution. You have been warned.
   - **What it does:** Generates texture and normal map data used **exclusively by DynDOLOD**. TexGen must be run before DynDOLOD so distant objects have the correct lighting, shading, and texture data in the final LOD output.
 
 ### 🧠 DynDOLOD
-  - **When to run:** After running TexGen, and after **any** change to worldspace (like buildings, trees, city overhauls, or anything that modifies what’s visible in the distance).  
+  - **When to run:** After running TexGen, and after **any** change to worldspace (like buildings, trees, city overhauls, or anything that modifies what's visible in the distance).  
   - **What it does:** Creates the dynamic LODs for all objects in the game world — trees, cities, distant clutter — and ties it all together for smooth performance and visuals.
 
 
 ---
 
-You’ll find detailed, step-by-step instructions for each tool below — including how to set them up properly for each profile and how to avoid common errors.
+You'll find detailed, step-by-step instructions for each tool below — including how to set them up properly for each profile and how to avoid common errors.
 
 These tools **build off one another in a specific sequence**, and must be run in the **order listed above** for everything to function correctly.
   
-If you’re unsure, just follow the guide **step-by-step, top to bottom** — it’s written in the exact order you should run each tool.
+If you're unsure, just follow the guide **step-by-step, top to bottom** — it's written in the exact order you should run each tool.
 
 ---
 
 ## 🧵 Step 0: Run BodySlide (Only if Using Custom Armors)
 
-This step is required if you’ve **added your own armor or clothing mods** to JOJ.  
-If you don’t build them in BodySlide, they will appear **invisible in-game**.  
-If you haven’t added any custom armors, you can **skip this step** and move on.
+This step is required if you've **added your own armor or clothing mods** to JOJ.  
+If you don't build them in BodySlide, they will appear **invisible in-game**.  
+If you haven't added any custom armors, you can **skip this step** and move on.
 
 ---
 
 <a id="bodyslide"></a>
 
-### ⚙️ 1. Open BodySlide
+#### ⚙️ 1. Open BodySlide
 
 - Launch **BodySlide** from the **MO2 executable dropdown**.
 
@@ -120,7 +119,7 @@ If you haven’t added any custom armors, you can **skip this step** and move on
 
 ---
 
-### 🛠️ 2. Configure Output Path
+#### 🛠️ 2. Configure Output Path
 
 - In the bottom right, click **Settings → Advanced**.
 - Set the **Output Path** to match the correct mod folder:  
@@ -134,13 +133,13 @@ If you haven’t added any custom armors, you can **skip this step** and move on
 
 ---
 
-### 🔍 3. Clear Filters
+#### 🔍 3. Clear Filters
 
 - In the **top-right corner**, remove any filters so all outfits are visible.
 
 ---
 
-### 🧍 4. Select the Correct Body
+#### 🧍 4. Select the Correct Body
 
 - For **female armor**: choose `CBBE 3BBB Body Amazing` for the Outfit/Body, and `- Zeroed Sliders -` for the Preset  
 
@@ -153,11 +152,11 @@ If you haven’t added any custom armors, you can **skip this step** and move on
 - Why do we set the **Preset** to: `- Zeroed Sliders -` or `HIMBO Zero for OBody`  
 
 > 📝 This is **essential** for OBody to function correctly in any SOS list.  
-> Do not use any other preset unless you know exactly what you’re doing and are choosing not to use OBody.
+> Do not use any other preset unless you know exactly what you're doing and are choosing not to use OBody.
 
 ---
 
-### 📂 5. Select Groups
+#### 📂 5. Select Groups
 
 - Click the **Choose Groups** button (next to Outfit/Body selector). For this guide, I will be using the "Girl's Travel Outfit" as an example.  
 
@@ -167,13 +166,13 @@ If you haven’t added any custom armors, you can **skip this step** and move on
 
 ![image](https://github.com/user-attachments/assets/534e5b6f-45f8-4a1a-bab9-89f059c66453)  
 
-- If you can’t find them, use **Filter Outfits** and type part of the armor’s name.
+- If you can't find them, use **Filter Outfits** and type part of the armor's name.
 
 ![image](https://github.com/user-attachments/assets/55f73637-4184-4f89-b123-b5df01ca6b68)    
 
 ---
 
-### 🏗️ 6. Batch Build
+#### 🏗️ 6. Batch Build
 
 - Click **Batch Build** in the bottom left.
 - In the pop-up window:  
@@ -185,7 +184,7 @@ If you haven’t added any custom armors, you can **skip this step** and move on
 
 ---
 
-### ✅ BodySlide Completion
+#### ✅ Completion
 
 Once finished, BodySlide will output meshes to your configured folder:  
 
@@ -197,13 +196,9 @@ Custom - BodySlide Output
 
 Your custom armor mods should now appear **properly in-game** — no more invisible armors! 🎉
 
-> 🔄 **Don’t forget to refresh MO2** after running BodySlide so the new output is recognized properly.
+> 🔄 **Don't forget to refresh MO2** after running BodySlide so the new output is recognized properly.
 
----
-
-### 🎉 Done with BodySlide!
-
-That’s all there is to it — you’ve successfully built your custom armor and clothing into the game.  
+That's all there is to it — you've successfully built your custom armor and clothing into the game.  
 From here on, you only need to **re-run BodySlide** if you:
 
 - Add new armor/clothing mods 🛡️  
@@ -217,12 +212,12 @@ Your characters are now fully dressed and ready for adventure! 🗡️👗
 ## 🕺 Step 0.5: Run Pandora (Only if Using Animations)
 
 This step is only required if you're **adding or removing animation mods** in JOJ — including OAR, MCO, DAR-based movement, combat, or idle animations.  
-If you haven’t changed any animations, you can **skip this step** and proceed directly to **Step 1: Synthesis**.
+If you haven't changed any animations, you can **skip this step** and proceed directly to **Step 1: Synthesis**.
 
 ---
 <a id="pandora"></a>
 
-### 🧹 1. Clear Old Pandora Output
+#### 🧹 1. Clear Old Pandora Output
 
 - In **MO2**, scroll down to the `Outputs` separator.
 - Locate the mod:  
@@ -232,13 +227,13 @@ If you haven’t changed any animations, you can **skip this step** and proceed 
 
 ---
 
-### ⚙️ 2. Open Pandora Behavior Engine+
+#### ⚙️ 2. Open Pandora Behavior Engine+
 
 - Launch **Pandora Behavior Engine+** from the **MO2 executable dropdown**.
 
 ---
 
-### ☑️ 3. Select All Patchers
+#### ☑️ 3. Select All Patchers
 
 - In the **top-left corner**, check the box labeled **Select All**.
 
@@ -246,13 +241,13 @@ If you haven’t changed any animations, you can **skip this step** and proceed 
 
 ---
 
-### ▶️ 4. Click Run
+#### ▶️ 4. Click Run
 
 - Click the **Run** button at the **bottom of the window**.
 
 ---
 
-### 📁 Output Info
+#### 📁 Output
 
 By default, Pandora is configured to output to:
 
@@ -267,7 +262,7 @@ However, if you want to change the output location, you can do so by editing the
 
 ---
 
-### ✅ Pandora Completion
+#### ✅ Completion
 
 Once Pandora finishes generating the behavior data, you'll see a message at the bottom of the window that says:
 
@@ -286,13 +281,13 @@ You're good to **close Pandora** at this point.
 
 Each **Journals of Jyggalag** profile uses a prebuilt Synthesis configuration.
 
-#### Supported Profiles:
+**Supported Profiles:**
 - `Lord's Vision` – Full experience  
 - `Performance` – Lower fidelity, same content  
 
 ---
 
-### 🧭 Quick Setup Instructions
+#### 🧭 Steps
 
 1. Open **Synthesis** from the MO2 dropdown.
 
@@ -313,7 +308,7 @@ Each **Journals of Jyggalag** profile uses a prebuilt Synthesis configuration.
 <img width="1050" height="663" alt="image" src="https://github.com/user-attachments/assets/d25c391b-27cb-42ef-bbd2-40c7d0adaa64" />
 
 
-4. When complete, you’ll see **“Complete”** in purple text at the top-left corner.
+4. When complete, you'll see **"Complete"** in purple text at the top-left corner.
 
 ![image](https://github.com/user-attachments/assets/95153c12-8ecf-4ffc-bd30-377fad04ffbf)
 
@@ -321,13 +316,13 @@ Each **Journals of Jyggalag** profile uses a prebuilt Synthesis configuration.
 
 ---
 
-### ❗ Troubleshooting Blocking Errors
+#### ❗ Troubleshooting
 
 If you receive a **blocking error** when launching or running Synthesis:
 
 1. Wait. It's normal to see temporary blocking errors during app initialization. These should clear up in 2 minutes or less.
 2. Close Synthesis and try again.  
-3. If the issue persists, it’s typically caused by **Windows permissions** and is **not** related to Synthesis or JOJ.
+3. If the issue persists, it's typically caused by **Windows permissions** and is **not** related to Synthesis or JOJ.
 
 **Recommended Fixes:**
 - Run **MO2 as Administrator** and try again.
@@ -347,7 +342,7 @@ If your specs meet or exceed the recommended, you can skip this step, but it wil
 
 ---
 
-### ⚠️ Tool Order and Activation Notes
+#### ⚠️ Notes
 
 - If you are going to **run VRAMr**, do so *before* running **ParallaxGen** 
 - The **VRAMr Output** mod must be **disabled** while running:
@@ -364,7 +359,7 @@ If your specs meet or exceed the recommended, you can skip this step, but it wil
 
 ---
 
-### 📂 1. Select Profile in MO2, then launch VRAMr.
+#### 📂 1. Select Profile in MO2, then launch VRAMr.
 
 - In **MO2**, make sure you have the correct **JOJ profile** selected before running VRAMr.
 - From the **MO2 executable dropdown**, select **VRAMr**.  
@@ -375,7 +370,7 @@ If your specs meet or exceed the recommended, you can skip this step, but it wil
 
 ---
 
-### ▶️ 2. Select the Stock Game folder.
+#### ▶️ 2. Select the Stock Game folder.
 
 - Choose option 2 to find your Skyrim location
 - Then browse to the modlist folder and select the Stock Game folder within it. Click OK.
@@ -385,7 +380,7 @@ If your specs meet or exceed the recommended, you can skip this step, but it wil
 
 ---
 
-### 🅿️ 3. Choose Optimization Preset
+#### 🅿️ 3. Choose Optimization Preset
 
 - When prompted, type **`P` for Performance preset**.  
 - This is the recommended setting for JOJ Performance.  
@@ -394,19 +389,19 @@ If your specs meet or exceed the recommended, you can skip this step, but it wil
 
 ---
 
-### 💾 4. Select Temporary Working Drive
+#### 💾 4. Select Temporary Working Drive
 
 - Choose a **drive root** (e.g., `D:\` or `E:\`) with **at least 260 GB of free space**.  
   - ⚠️ Must be the **root of the drive**, not a subdirectory.  
   - Space is only required during processing; the final output will be **15–30 GB**.
 
-💡 **Tip:** If you’re low on space, consider temporarily deleting your **Wabbajack Downloads** folder.
+💡 **Tip:** If you're low on space, consider temporarily deleting your **Wabbajack Downloads** folder.
 
 ![image](https://github.com/user-attachments/assets/9ea9050c-9ff9-4143-a8c9-5789b91325b7)  
 
 ---
 
-### 📁 5. Select Profile Directory
+#### 📁 5. Select Profile Directory
 
 - Point VRAMr to the **profile directory** of the JOJ profile you are running.
 
@@ -414,7 +409,7 @@ If your specs meet or exceed the recommended, you can skip this step, but it wil
 
 ---
 
-### ⏳ 6. Let It Run
+#### ⏳ 6. Let It Run
 
 - **Do not use your PC while VRAMr is running.**  
 - Depending on your system, this may take several hours.  
@@ -423,7 +418,7 @@ If your specs meet or exceed the recommended, you can skip this step, but it wil
 
 ---
 
-### 🏁 7. Finish Process
+#### 🏁 7. Finish Process
 
 - Once VRAMr completes, it will prompt:  
   > *Press any key to close…*  
@@ -431,7 +426,7 @@ If your specs meet or exceed the recommended, you can skip this step, but it wil
 
 ---
 
-### 📦 8. Prepare Output
+#### 📦 8. Prepare Output
 
 - Navigate to the **VRAMr folder** on the drive you specified.  
 - Rename the `dragndrop` folder to:  
@@ -444,7 +439,7 @@ If your specs meet or exceed the recommended, you can skip this step, but it wil
 
 ---
 
-### 📥 9. Add to MO2
+#### 📥 9. Add to MO2
 
 - Drag `VRAMr Output` into **MO2**.  
 - Place it in the **Outputs section**, just above `JOJ - ParallaxGen Output`.  
@@ -454,7 +449,7 @@ If your specs meet or exceed the recommended, you can skip this step, but it wil
 
 ---
 
-### 🔄 10. Tool Stack Integration (Optional)
+#### 🔄 10. Tool Stack Integration (Optional)
 
 - **If you are running the LOD tool stack after this**, note that you should keep the VRAMr output *disabled* until you have finished with the rest of the tools. 
 
@@ -462,7 +457,7 @@ If your specs meet or exceed the recommended, you can skip this step, but it wil
 
 ---
 
-### ✅ VRAMr Completion
+#### ✅ Completion
 
 - Once all tools are done, return the MO2 **application dropdown** to: 
 
@@ -472,11 +467,19 @@ If your specs meet or exceed the recommended, you can skip this step, but it wil
 
 ![image](https://github.com/user-attachments/assets/98466317-007a-497f-ad0c-d6c5633e8603)  
 
-- You’re ready to keep modding or jump into the game! 🎉
+- You're ready to keep modding or jump into the game! 🎉
+
+From here, you only need to **re-run VRAMr** if you:  
+- Update the list after a major update is published
+- Add a large number of **new texture-heavy mods** 🖼️  
+- Need to lower VRAM usage on a system below minimum specs 🖥️  
+
+Otherwise, you can safely move on to the next tool in the stack.  
+Your game should now run **smoother, with fewer stutters and lower VRAM load**. 🚀 
 
 ---
 
-### 🛠️ Troubleshooting
+#### 🛠️ Troubleshooting
 
 - If you encounter unexpected errors running VRAMr:  
 1. Open **Windows Terminal Settings**.  
@@ -494,22 +497,8 @@ If your VRAMr output is hundreds of GB instead of a couple dozen, it's very like
 * Select App & browser control in the Windows Security window.,
 * Click on Smart App Control settings under the Smart App Control section.,
 * Choose Off to disable Smart App Control.,
-* Confirm the action by selecting Yes, I’m sure in the pop-up menu.
+* Confirm the action by selecting Yes, I'm sure in the pop-up menu.
 
----
-
-### 🎉 Done with VRAMr!
-
-That’s it — you’ve successfully optimized textures for better performance.  
-
-From here, you only need to **re-run VRAMr** if you:  
-- Update the list after a major update is published
-- Add a large number of **new texture-heavy mods** 🖼️  
-- Need to lower VRAM usage on a system below minimum specs 🖥️  
-
-Otherwise, you can safely move on to the next tool in the stack.  
-Your game should now run **smoother, with fewer stutters and lower VRAM load**. 🚀 
- 
 ---
 <a id="parallaxgen"></a>
 
@@ -519,7 +508,7 @@ Your game should now run **smoother, with fewer stutters and lower VRAM load**. 
 
 ---
 
-### 🔻 Disable Existing Outputs
+#### 🔻 1. Disable Existing Outputs
 
 In **Mod Organizer 2**, scroll to the bottom of the left panel and locate the `Outputs` separator.  
 **Disable** the following mods:
@@ -536,7 +525,7 @@ In **Mod Organizer 2**, scroll to the bottom of the left panel and locate the `O
 
 ---
 
-### 🧹 Clear Old Output Files
+#### 🧹 2. Clear Old Output Files
 
 1. **Delete the contents** of the existing output mod folder:
 - In MO2, right-click on `JOJ - ParallaxGen Output (Your Profile)` and choose **Open in Explorer**
@@ -544,7 +533,7 @@ In **Mod Organizer 2**, scroll to the bottom of the left panel and locate the `O
 
 ---
 
-### ▶️ Run ParallaxGen
+#### ▶️ 3. Run ParallaxGen
 
 1. Open **ParallaxGen**.
 2. In the **Profile** dropdown, make sure the profile you're currently using is selected.
@@ -554,9 +543,9 @@ In **Mod Organizer 2**, scroll to the bottom of the left panel and locate the `O
    - For `Performance` (no ENB):  
      ❌ **Leave this box unchecked**.
 4. In the **Output** field, choose a destination folder.  
-   > 📁 It’s recommended to create a folder like `Journals of Jyggalag - Outputs\ParallaxGen Output` on the same drive as your installation to keep things organized.
+   > 📁 It's recommended to create a folder like `Journals of Jyggalag - Outputs\ParallaxGen Output` on the same drive as your installation to keep things organized.
 5. ⚠️ **Do not check** the box for **"Zip Output"**.  
-   While it won’t break anything, it will make it more difficult to manually copy the generated files later.
+   While it won't break anything, it will make it more difficult to manually copy the generated files later.
 6. Click **Start Patching**.
 7. Let the process run until **complete**.
 
@@ -571,11 +560,11 @@ In **Mod Organizer 2**, scroll to the bottom of the left panel and locate the `O
 ![image](https://github.com/user-attachments/assets/17bac67b-0e2b-4564-8d72-f61f45a95252)  
 ![image](https://github.com/user-attachments/assets/ea46d1ed-0373-45e0-97df-3c749c5ff3b8)  
 
-> 💬 **Note:** You may see warnings — that’s perfectly fine. As long as ParallaxGen finishes without a critical error, you're good to go.
+> 💬 **Note:** You may see warnings — that's perfectly fine. As long as ParallaxGen finishes without a critical error, you're good to go.
 
 ---
 
-### 📦 Move the Output to MO2
+#### 📦 4. Move the Output to MO2
 
 Once ParallaxGen finishes, you must manually move the generated files into the correct mod folder.
 
@@ -584,7 +573,7 @@ Once ParallaxGen finishes, you must manually move the generated files into the c
 Your Drive:\Journals of Jyggalag - Outputs if you're following along exactly
 
 
-2. Inside, you’ll find these files
+2. Inside, you'll find these files
 
 ![image](https://github.com/user-attachments/assets/1d68a23d-766e-4bd4-b8af-9160fe550e98)
    
@@ -599,7 +588,7 @@ Your Drive:\Journals of Jyggalag - Outputs if you're following along exactly
 
 ---
 
-### 📜 Sort Plugins Correctly
+#### 📜 5. Sort Plugins Correctly
 
 In the **right-side Plugins tab** of MO2:
 
@@ -619,11 +608,11 @@ You're now ready to move on to the next tool!
 
 > ⚠️ This tool must be configured correctly for all four LOD levels (LOD4, LOD8, LOD16, LOD32).
 
-> 📸 I’ve included two screenshots for **each** LOD level below — one for Lord’s Vision and one for Performance. Please double-check the title above each image to ensure you're using the correct settings for the profile you're configuring.
+> 📸 I've included two screenshots for **each** LOD level below — one for Lord's Vision and one for Performance. Please double-check the title above each image to ensure you're using the correct settings for the profile you're configuring.
 
 ---
 
-### 📁 Output Location
+#### 📁 1. Output Location
 
 By default, xLODGen will save its output to:
 
@@ -637,7 +626,7 @@ This is already pre-configured in **MO2 > Modify Executables**, but you can chan
 
 ---
 
-### 🔛 Enable Required Resource
+#### 🔛 2. Enable Required Resource
 
 In **Mod Organizer 2**, scroll to the `Outputs` separator and **enable**:
 
@@ -649,12 +638,12 @@ This is required for proper terrain LOD generation.
 
 ---
 
-### 🧭 Configure Each LOD Level  
+#### 🧭 3. Configure Each LOD Level  
 Check all worldspaces in the left panel (right-click > **Select All**)
 
 ---
 
-### 🔹 LOD4 Settings
+#### 🔹 LOD4 Settings
 - **Lord's Vision**
 
 ![image](https://github.com/user-attachments/assets/f8342944-4aac-4e44-9070-a5de883a74f3)
@@ -665,7 +654,7 @@ Check all worldspaces in the left panel (right-click > **Select All**)
 
 ---
 
-### 🔹 LOD8 Settings
+#### 🔹 LOD8 Settings
 - **Lord's Vision**  
 
 ![image](https://github.com/user-attachments/assets/a96541f1-18bb-4d64-901f-3db691ae8fb7)
@@ -676,7 +665,7 @@ Check all worldspaces in the left panel (right-click > **Select All**)
 
 ---
 
-### 🔹 LOD16 Settings
+#### 🔹 LOD16 Settings
 - **Lord's Vision**  
 
 ![image](https://github.com/user-attachments/assets/00738425-81a7-47b2-9e81-1f23054499a8)
@@ -687,7 +676,7 @@ Check all worldspaces in the left panel (right-click > **Select All**)
 
 ---
 
-### 🔹 LOD32 Settings
+#### 🔹 LOD32 Settings
 - **Lord's Vision**  
 
 ![image](https://github.com/user-attachments/assets/0b617d8f-053a-46f1-84fa-5bc6b2d9067f)
@@ -698,7 +687,9 @@ Check all worldspaces in the left panel (right-click > **Select All**)
 
 - Once the desired settings are configured for **all four** LOD levels, click **Generate** and allow the tool to run.
 
-### 📁 Move the Output to MO2
+---
+
+#### 📁 4. Move the Output to MO2
 
 After the LOD levels have been generated, your files will be located in:
 
@@ -722,14 +713,16 @@ After the LOD levels have been generated, your files will be located in:
 5. Copy both folders into the `JOJ - xLODGen Output (Your Profile)` mod folder  
 6. Back in MO2, click the **Refresh** button so the changes take effect  
 
-### ⚠️ Step 7: Cleanup
+---
+
+#### ⚠️ 5. Cleanup
 
 > **You MUST disable** the `xLODGen Resource - SSE Terrain Tamriel` mod after generating your LODs.  
 > Leaving it enabled will cause broken or ugly terrain in-game.
 
 > At this point, you should **reenable** `JOJ - Grass Cache (Your Profile)`. You will need it enabled for either of the next tasks in this process.
 
-✅ That’s it! You’re now ready to move on to **TexGen** if you are not regenerating Grass Cache.
+✅ That's it! You're now ready to move on to **TexGen** if you are not regenerating Grass Cache.
 
 ---
 <a id="grass"></a>
@@ -740,12 +733,12 @@ This step is **optional** — JOJ includes pre-generated grass caches for both s
 You may simply use the included `JOJ - Grass Cache (Your Profile)` mod without any extra work.
 
 However, you **should regenerate your own grass cache** if:
-- You’ve added or removed **large worldspace/landscape mods** (e.g., major quest or new land mods)  
-- You’ve made **significant terrain edits** or changed **grass INI settings**
+- You've added or removed **large worldspace/landscape mods** (e.g., major quest or new land mods)  
+- You've made **significant terrain edits** or changed **grass INI settings**
 
 ---
 
-### 🧹 1. Clear Previous Grass Files
+#### 🧹 1. Clear Previous Grass Files
 - Navigate to:
 
     ```
@@ -754,14 +747,14 @@ However, you **should regenerate your own grass cache** if:
 
 - **Delete only** the `grass` folder.  
 - ❌ Do **not** delete the `SKSE` folder unless you want to regenerate a fresh INI file.  
-> The provided INI is pre-configured — stick with it unless you know exactly what you’re doing.
+> The provided INI is pre-configured — stick with it unless you know exactly what you're doing.
 - Leave the mod **enabled** in MO2.
 
 ![image](https://github.com/user-attachments/assets/a32a27e6-3a0e-4c75-9934-5c52f7db13b3)
 
 ---
 
-### 🚫 2. Disable Mods for Stability
+#### 🚫 2. Disable Mods for Stability
 To reduce crashing during the caching process (crashes are still expected):
 - Disable:
 - `TrueHUD - HUD Additions` (UI Foundations separator)  
@@ -776,7 +769,7 @@ To reduce crashing during the caching process (crashes are still expected):
 
 ---
 
-### 📖 3. Gather Worldspaces with Grass
+#### 📖 3. Gather Worldspaces with Grass
 1. Open **xEdit** from MO2.  
 2. On the **Module Selection** popup, just click **OK** to load everything.  
  - Loading may take several minutes (mine ~2–3 minutes, your mileage may vary depending on hardware).  
@@ -790,7 +783,7 @@ To reduce crashing during the caching process (crashes are still expected):
  - Click one plugin in the left panel  
  - Press **Ctrl+A** to select all plugins  
  - Right-click > **Apply Script...**
-4. Search for **“grass”** and select:  
+4. Search for **"grass"** and select:  
 
    ```
    List worldspaces with grass
@@ -813,7 +806,7 @@ Another popup with text will then appear.
 
 ---
 
-### 📝 4. Update GrassControl.ini
+#### 📝 4. Update GrassControl.ini
 1. Open:
 
    ```
@@ -835,7 +828,7 @@ Another popup with text will then appear.
 
 ---
 
-### ✅ 5. Enable Required Mod
+#### ✅ 5. Enable Required Mod
 - Enable the mod:
 
    ```
@@ -848,15 +841,15 @@ Another popup with text will then appear.
 
 ---
 
-### ▶️ 6. Run the Precache Process
+#### ▶️ 6. Run the Precache Process
 1. In **MO2**, go to:  
  **Tools > Tool Plugins > Precache Grass**  
 2. Click **Yes** on the popup.
 
 ---
 
-### ⏳ 7. Wait Patiently During Grass Generation
-- Once you’ve confirmed that the modlist boots and the Grass Cache process has started, the **best thing you can do is walk away from your PC**.  
+#### ⏳ 7. Wait Patiently During Grass Generation
+- Once you've confirmed that the modlist boots and the Grass Cache process has started, the **best thing you can do is walk away from your PC**.  
 - While the process runs, expect:
   - A flashing screen (this is normal)  
   - The game to crash repeatedly — **this is also normal**  
@@ -871,7 +864,7 @@ Another popup with text will then appear.
 
 ---
 
-### 🏁 8. Finalizing the Cache
+#### 🏁 8. Finalizing the Cache
 - When complete:
 - A popup will confirm **Grass generation finished successfully!** → click **OK**  
 
@@ -896,7 +889,7 @@ Another popup with text will then appear.
 
 ---
 
-### 🔄 9. Restore Normal Mod Order
+#### 🔄 9. Restore Normal Mod Order
 1. **Re-enable** the following mods in MO2:
  - `TrueHUD - HUD Additions`  
  - `Auto Parallax`  
@@ -915,13 +908,13 @@ Another popup with text will then appear.
 
 ---
 
-### 🎉 Completion
+#### ✅ Completion
 You have successfully generated a fresh Grass Cache!  
 This is often considered the **most tedious tool run**, but it ensures stable and consistent grass visuals across all worldspaces.
 
 ---
 
-✅ Once finished (or skipped), you’re ready to move on to **TexGen**.
+✅ Once finished (or skipped), you're ready to move on to **TexGen**.
 
 ---
 <a id="texgen"></a>
@@ -939,7 +932,7 @@ This is often considered the **most tedious tool run**, but it ensures stable an
 
 ---
 
-### 🧹 Clear Old TexGen Files
+#### 🧹 1. Clear Old TexGen Files
 
 1. In **MO2**, scroll down to the `Outputs` separator
 2. **Double-click** `JOJ - TexGen Output (Your Profile)` and choose **Open in Explorer**
@@ -947,7 +940,7 @@ This is often considered the **most tedious tool run**, but it ensures stable an
 
 ---
 
-### ▶️ Run TexGen
+#### ▶️ 2. Run TexGen
 
 1. Launch **TexGen** from the MO2 dropdown menu
 2. Allow it to load completely
@@ -959,7 +952,7 @@ This is often considered the **most tedious tool run**, but it ensures stable an
 
 ---
 
-### ✅ Finishing Up
+#### ✅ 3. Completion
 
 Once TexGen completes, it will display a message and a **button to exit**:
 
@@ -970,9 +963,9 @@ Once TexGen completes, it will display a message and a **button to exit**:
 
 ---
 
-### 📁 Move the Output to MO2
+#### 📁 4. Move the Output to MO2
 
-1. At the top of the TexGen window, you’ll see the output path  
+1. At the top of the TexGen window, you'll see the output path  
    *(`Journals of Jyggalag - Outputs\TexGen Output`)*
 
 2. Open that folder, and **copy the `textures` folder** from it
@@ -994,7 +987,7 @@ Once TexGen completes, it will display a message and a **button to exit**:
 
 ---
 
-### 🧹 Clear Old DynDOLOD Files
+#### 🧹 1. Clear Old DynDOLOD Files
 
 1. In **MO2**, scroll to the `Outputs` separator
 2. **Double-click** `JOJ - DynDOLOD Output` and choose **Open in Explorer**
@@ -1002,7 +995,7 @@ Once TexGen completes, it will display a message and a **button to exit**:
 
 ---
 
-### ▶️ Run DynDOLOD
+#### ▶️ 2. Run DynDOLOD
 
 1. Launch **DynDOLOD** from the MO2 dropdown menu  
 2. Allow it to fully load
@@ -1020,20 +1013,20 @@ Once TexGen completes, it will display a message and a **button to exit**:
 
 ---
 
-### DynDOLOD Setup Instructions
+#### ⚙️ 3. Configure DynDOLOD Settings
 
-3. Click `Advanced >>>`
+1. Click `Advanced >>>`
 
-4. In the Worldspaces list in the **top-left pane**, make sure **everything is checked**  
+2. In the Worldspaces list in the **top-left pane**, make sure **everything is checked**  
    *(Right-click > Select All)*
 
-5. Double-check that your **Output Path** is set to:  
+3. Double-check that your **Output Path** is set to:  
    `Journals of Jyggalag - Outputs\DynDOLOD Output\`
 
-6. In the **top-right corner**, select your quality preset based on your profile:
+4. In the **top-right corner**, select your quality preset based on your profile:
 
-   - **Lord’s Vision** → Click **High**  
-     If you're using **Lord’s Vision**, you must also set the following:
+   - **Lord's Vision** → Click **High**  
+     If you're using **Lord's Vision**, you must also set the following:
      - ✅ **Check the Grass LOD** box  
      - **Density**: `100%`  
      - **Mode**: `1`  
@@ -1042,14 +1035,14 @@ Once TexGen completes, it will display a message and a **button to exit**:
    - **Performance** → Click **Medium**  
      ![Performance Settings](https://github.com/user-attachments/assets/9ec0025d-bca2-4bf4-ab00-e1b47cb6a2d2)  
 
-7. Click OK to start the DynDOLOD tool run.  
+5. Click OK to start the DynDOLOD tool run.  
    ⏳ Be patient — this generally takes **at least an hour**, sometimes two depending on your PC specs.
 
-8. Once it completes, click `Save and Exit`
+6. Once it completes, click `Save and Exit`
     
 ---
 
-### 📁 Move the Output to MO2
+#### 📁 4. Move the Output to MO2
 
 Once DynDOLOD completes, the output files will be located at:
 
@@ -1065,9 +1058,9 @@ Once DynDOLOD completes, the output files will be located at:
 
 ---
 
-### 📜 Sort Plugins Correctly
+#### 📜 5. Sort Plugins Correctly
 
-Once you’ve copied the generated DynDOLOD files to the correct folder and enabled the `JOJ - DynDOLOD Output` mod in MO2, you’ll see **three new plugins** in the **right-side Plugins tab**:
+Once you've copied the generated DynDOLOD files to the correct folder and enabled the `JOJ - DynDOLOD Output` mod in MO2, you'll see **three new plugins** in the **right-side Plugins tab**:
 
 - `DynDOLOD.esm` (near the top under Master Plugins)
 
@@ -1080,7 +1073,7 @@ Once you’ve copied the generated DynDOLOD files to the correct folder and enab
 
 ---
 
-### 🔧 Organize the Plugins
+#### 🔧 6. Organize the Plugins
 
 Make sure **all three are enabled**, then drag them into the correct plugin groups:
 
@@ -1096,7 +1089,7 @@ Make sure **all three are enabled**, then drag them into the correct plugin grou
 
 ## ✅ Conclusion
 
-You’ve now finished running all 9 major tools for your **Scrolls of Schtevie Modlist**:
+You've now finished running all 9 major tools for your **Scrolls of Schtevie Modlist**:
 - BodySlide
 - Pandora
 - Synthesis
@@ -1107,21 +1100,20 @@ You’ve now finished running all 9 major tools for your **Scrolls of Schtevie M
 - TexGen
 - DynDOLOD
 
-If you’ve followed each step carefully, your modlist is now fully rebuilt with accurate terrain, texture, parallax, LOD, and worldspace data.
+If you've followed each step carefully, your modlist is now fully rebuilt with accurate terrain, texture, parallax, LOD, and worldspace data.
 
 ---
+
 <a id="final"></a>
 
-### ⚠️ Final Reminder
-
-> **DISCLAIMER – RULE 11**
-
-Adding any mods to Journals of Jyggalag falls under **Rule 11**:  
+> ⚠️ **Final Reminder — Rule 11**
+>
+> Adding any mods to Journals of Jyggalag falls under **Rule 11**:  
 > You are modifying the list at your own risk.
-
-While we’re happy to try and assist in the [Discord](https://discord.gg/themoddingbordello), the team is **not obligated** to troubleshoot problems caused by your personal additions or changes.
-
-You are responsible for **everything you add or modify** after the Wabbajack install is complete.
+>
+> While we're happy to try and assist in the [Discord](https://discord.gg/themoddingbordello), the team is **not obligated** to troubleshoot problems caused by your personal additions or changes.
+>
+> You are responsible for **everything you add or modify** after the Wabbajack install is complete.
 
 ---
 
