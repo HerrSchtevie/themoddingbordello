@@ -242,16 +242,16 @@ We have seen numerous reports from players experiencing installation failures or
 4. **Manually Download Required LoversLab & External Files (Required)**
    - **Mantras of Mara requires several files that cannot be downloaded automatically**, primarily from **LoversLab** and other external sources.
    - All required manual files are listed here:  
-     👉 **[MOM Manual Downloads](https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/MOM-Manual-Downloads)**
+     👉 **[MOM Manual Downloads](https://www.themoddingbordello.com/modlists/mom/manual-downloads)**
    - These files **must be downloaded manually** to ensure the installation proceeds smoothly.
    - Once downloaded, **move all required archives into your MOM Download Location** (`\downloaded mods` from Step 3).
    - If Wabbajack encounters a missing file, **it will explicitly tell you which file is missing**.
-     - Refer back to the **[MOM Manual Downloads](https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/MOM-Manual-Downloads)** if needed.
+     - Refer back to the **[MOM Manual Downloads](https://www.themoddingbordello.com/modlists/mom/manual-downloads)** if needed.
      - Copy the URL into your browser shown in Wabbajack.
      - Download the correct file.
      - Place it into the MOM downloads folder.
      - Resume the installation.
-   - **Double-check that all required manual files listed on the [MOM Manual Downloads](https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/MOM-Manual-Downloads) are present before asking for support.**
+   - **Double-check that all required manual files listed on the [MOM Manual Downloads](https://www.themoddingbordello.com/modlists/mom/manual-downloads) are present before asking for support.**
   
 ---
 
@@ -283,7 +283,7 @@ We have seen numerous reports from players experiencing installation failures or
    - Click **Start** to begin the automated installation.
    - Wabbajack will handle the process automatically.
    - If any files fail to download, Wabbajack will **clearly identify the missing file**.
-   - Refer to the **[MOM Manual Downloads Page](https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/MOM-Manual-Downloads)**, download the missing file, place it into the MOM downloads folder, and resume the installation.
+   - Refer to the **[MOM Manual Downloads Page](https://www.themoddingbordello.com/modlists/mom/manual-downloads)**, download the missing file, place it into the MOM downloads folder, and resume the installation.
 
    > 📺 *Optional:* [Watch Biggie’s Wabbajack Install Guide](https://www.youtube.com/watch?v=nApuOZWp12c&ab_channel=biggie_boss)
 
