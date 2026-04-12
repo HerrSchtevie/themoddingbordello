@@ -44,6 +44,13 @@ export const guides: GuideMeta[] = [
     filePath: 'content/sos-guides/SOS_NPC_Plugin_Chooser_2_Guide.md',
   },
   {
+    slug: 'sos-de-spicing-guide',
+    title: 'SOS De-Spicing Guide',
+    description: 'Reduce overt erotic content while preserving core NSFW systems like OStim.',
+    icon: 'fire',
+    filePath: 'content/sos-guides/SOS_De-Spicing_Guide.md',
+  },
+  {
     slug: 'sos-rule-11-guide',
     title: 'SOS Rule 11 Guide',
     description: 'Understanding list modifications and their risks.',

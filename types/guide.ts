@@ -5,6 +5,7 @@ export type GuideSlug =
   | 'sos-follower-guide'
   | 'sos-player-home-guide'
   | 'sos-npc-plugin-chooser-2-guide'
+  | 'sos-de-spicing-guide'
   | 'sos-rule-11-guide';
 
 export interface GuideMeta {
