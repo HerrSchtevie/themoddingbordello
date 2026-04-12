@@ -135,7 +135,7 @@ These are **hard requirements**. The modlist will not function correctly without
 ## 🛠️ Installation via Wabbajack
 
 MOM installs via [Wabbajack](https://www.wabbajack.org), the fully automated modlist installer.  
-No modding experience required — just follow the [MOM Installation Guide](Mantras-of-Mara-ReadMe).
+No modding experience required — just follow the [MOM Installation Guide](https://www.themoddingbordello.com/modlists/mom/readme).
 
 ---
 
