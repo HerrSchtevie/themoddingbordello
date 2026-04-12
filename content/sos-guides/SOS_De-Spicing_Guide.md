@@ -156,15 +156,79 @@ Then repeat the reset process above.
 
 ### De-Glam Guide
 
-Install:
+Bordello modlists intentionally deliver a high-glam NPC aesthetic. If you prefer a more grounded, lore-friendly population, follow the steps below to replace NPC appearances.
+
+---
+
+#### Install Dibella's Blessing
+
+Download and install:
 
 - [Dibella's Blessing](https://www.nexusmods.com/skyrimspecialedition/mods/82606)
 
-Follow the [SOS NPC Plugin Chooser 2 Guide](/guides/sos-npc-plugin-chooser-2-guide) to select Dibella's Blessing entries and generate the patch.
+During the FOMOD installer, select:
 
-Then run the Synthesis Character pipeline via the [SOS Tool Running Guide](/guides/sos-tool-running-guide).
+- CBBE
+- Your preferred option for Elisif
+- Your preferred option for Aela
+- Yes, and AE
+- USSEP + AI Overhaul
 
-### Additional NPC Options
+After installation:
+
+- Move the mod into the **NPC Overhauls** section in MO2
+- Leave the mod **unchecked**
+
+---
+
+#### Generate NPC Appearance Patch
+
+Use NPC Plugin Chooser 2 to apply Dibella's Blessing selectively:
+
+- Launch **NPC Plugin Chooser 2** from the applications dropdown in MO2
+- Locate any NPC with a **Dibella's Blessing** option
+- Right-click the Dibella's Blessing entry
+- Select **"Select All From This Mod"**
+- Confirm the selection
+- Click **Run**
+- Click **Run Patch Generation**
+- Wait for **"Patch generation process completed"**, then exit
+
+For a full walkthrough, see the
+[SOS NPC Plugin Chooser 2 Guide](/guides/sos-npc-plugin-chooser-2-guide)
+
+---
+
+#### Run Required Tools
+
+After generating the patch:
+
+- Launch **Synthesis**
+- Run the **Synthesis Character pipeline**
+
+For full instructions, see the
+[SOS Tool Running Guide](/guides/sos-tool-running-guide)
+
+---
+
+#### Optional: Custom NPC Selection
+
+You are not required to use Dibella's Blessing as a full replacer.
+
+NPC Plugin Chooser 2 allows you to:
+- Mix and match NPC appearances from multiple mods
+- Select individual faces instead of full overhauls
+- Build a fully customized NPC population
+
+Refer to the
+[SOS NPC Plugin Chooser 2 Guide](/guides/sos-npc-plugin-chooser-2-guide)
+for advanced usage such as mugshots and manual selection.
+
+---
+
+#### Alternative NPC Overhauls
+
+If Dibella's Blessing is not to your preference, consider:
 
 - [Lein's Perhaps Realistic NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/80058)
 - [Faithful Faces](https://www.nexusmods.com/skyrimspecialedition/mods/114342)
