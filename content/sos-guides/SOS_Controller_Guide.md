@@ -132,7 +132,7 @@ This modlist includes several tools to help you tailor your controller experienc
 
 ⌨️ Keyboard and Mouse Mapping
 
-For detailed keyboard and mouse mapping, press `F11` in-game to open the [Hotkey Reminder](https://www.nexusmods.com/skyrimspecialedition/mods/115853), or visit the [SOS Keyboard Guide](https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/SOS-Keyboard-Guide).  
+For detailed keyboard and mouse mapping, press `F11` in-game to open the [Hotkey Reminder](https://www.nexusmods.com/skyrimspecialedition/mods/115853), or visit the [SOS Keyboard Guide](/guides/sos-keyboard-guide).  
 
 > ⚠️ Note: the controller layout shown on this reminder is **not accurate** — which is why this guide exists.  
 For the correct controller layout, open the [Complete Controller Setup](https://www.nexusmods.com/skyrimspecialedition/mods/99978) MCM menu in-game.  

@@ -53,7 +53,7 @@ Whether you want to swap just a handful of characters or redesign every NPC, NPC
 
 ### 1) Add Your NPC Replacers  
 
-As per our [Rule 11 Guide](https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/SOS-Rule-11-Guide), you should always maintain your own separator in MO2 for personal mods. This includes NPC replacers and overhauls.
+As per our [Rule 11 Guide](/guides/sos-rule-11-guide), you should always maintain your own separator in MO2 for personal mods. This includes NPC replacers and overhauls.
 
 The only reason you’d be running NPC2 is because you downloaded some NPC replacers/overhauls that you’d like to use instead of my choices (how dare you — but I forgive you).
 
@@ -78,7 +78,7 @@ Since the Scrolls of Schtevie modlists already come with a preconfigured `JOJ - 
    - Delete the contents of the previous output located in the `JOJ - NPC Merge` mod under the **Outputs** separator  
    - Build your own merge, making sure the **output path points back to that same mod folder**  
 
-> ⚠️ **Note:** As per our [Rule 11 Guide](https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/SOS-Rule-11-Guide), this approach is **not recommended**. Creating your own separate output is the preferred method to avoid overwriting core list outputs and to keep your changes isolated.  
+> ⚠️ **Note:** As per our [Rule 11 Guide](/guides/sos-rule-11-guide), this approach is **not recommended**. Creating your own separate output is the preferred method to avoid overwriting core list outputs and to keep your changes isolated.  
   
 
 2. **(Recommended) Create your own NPC Merge mod**  
@@ -245,7 +245,7 @@ Additionally, the **Synthesis Character plugin** will most likely have shifted i
 ### 11) Rerun Synthesis
 After organizing the plugins, you must **rerun Synthesis** to ensure everything is patched correctly.  
 
-If you need help with this step, refer to the [SOS Tool Running Guide](https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/SOS-Tool-Running-Guide) for detailed instructions.  
+If you need help with this step, refer to the [SOS Tool Running Guide](/guides/sos-tool-running-guide) for detailed instructions.  
 
 ---
 

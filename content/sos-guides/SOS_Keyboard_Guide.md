@@ -88,4 +88,4 @@ The images below mirror the in-game keyboard reference for quick access from the
 The controller image shown when pressing **F11** in-game is **not accurate**.
 
 For the correct controller layout and detailed controller instructions, please see the  
-[SOS Controller Guide](https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/SOS-Controller-Guide).
+[SOS Controller Guide](/guides/sos-controller-guide).

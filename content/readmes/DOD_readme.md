@@ -298,7 +298,7 @@ We have seen numerous reports from players experiencing installation failures or
 > While it may have been forked from them, it shares only **visual similarities** with our Power Fantasy lists.  
 > This list is built around **hardcore survival and punishing gameplay mechanics** that demand preparation, patience, and awareness.  
 >  
-> It is **absolutely essential** that you read the full **[Gameplay Guide](https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/DOD-Gameplay-Guide)** before beginning your journey — especially if you are new to survival-focused modlists.  
+> It is **absolutely essential** that you read the full **[Gameplay Guide](/modlists/dod/gameplay-guide)** before beginning your journey — especially if you are new to survival-focused modlists.  
 >  
 > Proceeding without doing so will almost certainly result in frustration and confusion. You have been warned.
 
@@ -326,7 +326,7 @@ Once Wabbajack finishes, you're not quite ready to jump in yet — follow these 
 
 ---
 
-### 0. **Seriously, read the [DOD Gameplay Guide](https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/DOD-Gameplay-Guide) first**!
+### 0. **Seriously, read the [DOD Gameplay Guide](/modlists/dod/gameplay-guide) first**!
 
 ---
 
@@ -450,9 +450,9 @@ Once enabled and properly sorted, you’ll have full access to enhanced controll
 
 **After MCMs have finished loading, relog:**  
   Once character initialization is complete, **save your game, exit to desktop, and relaunch**.  
-  This relog is required by the SSSO3 start-up procedures specified in the [DOD Gameplay Guide](https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/DOD-Gameplay-Guide#-skyrim-save-system-overhaul-3).
+  This relog is required by the SSSO3 start-up procedures specified in the [DOD Gameplay Guide](/modlists/dod/gameplay-guide#-skyrim-save-system-overhaul-3).
 
-> ⚠️ More information about the gameplay and NSFW mods can be found in the [Gameplay Guide](https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/DOD-Gameplay-Guide).  
+> ⚠️ More information about the gameplay and NSFW mods can be found in the [Gameplay Guide](/modlists/dod/gameplay-guide).  
 
 - **Hotkey Reminder** (press **F11** in-game to view all keybinds).
 
@@ -464,7 +464,7 @@ Once enabled and properly sorted, you’ll have full access to enhanced controll
 
 - Skyrim’s default save and load system has long-standing issues that can introduce corruption into your saves over time. This corruption accumulates, eventually rendering saves unstable or unplayable. These are limitations of the Skyrim engine itself, not conflicts with this modlist.
 
-- To address this, we include Skyrim Save System Overhaul 3 (SSSO3). This mod ensures that saves are only written when the engine can safely create a clean file, greatly reducing the chance of progressive corruption. Refer to our [Gameplay Guide](https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/DOD-Gameplay-Guide#-skyrim-save-system-overhaul-3) for configuration instructions.
+- To address this, we include Skyrim Save System Overhaul 3 (SSSO3). This mod ensures that saves are only written when the engine can safely create a clean file, greatly reducing the chance of progressive corruption. Refer to our [Gameplay Guide](/modlists/dod/gameplay-guide#-skyrim-save-system-overhaul-3) for configuration instructions.
 
 - When SSSO3 displays a “Saving Delayed” message, it means the engine is too busy to make a clean save. To improve your chances of saving safely:
   - Exit dialogues and menus
@@ -532,7 +532,7 @@ That said, we understand modding is fun and personal. If you're stuck after maki
 
 Thank you for respecting the work that went into DOD, and for being part of the community!
 
-➡️ [Here is the in-depth guide to help you out if you really want to modify the list.](https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/SOS-Rule-11-Guide)
+➡️ [Here is the in-depth guide to help you out if you really want to modify the list.](/guides/sos-rule-11-guide)
 
 ---
 

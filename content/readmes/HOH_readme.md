@@ -283,7 +283,7 @@ We have seen numerous reports from players experiencing installation failures or
 > While it may have been forked from them, it shares only **visual similarities**.  
 > This list is built around **hardcore survival and punishing gameplay mechanics** that demand preparation, patience, and awareness.  
 >  
-> It is **absolutely essential** that you read the full **[Gameplay Guide](https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/HOH-Gameplay-Guide)** before beginning your journey — especially if you are new to survival-focused modlists.  
+> It is **absolutely essential** that you read the full **[Gameplay Guide](/modlists/hoh/gameplay-guide)** before beginning your journey — especially if you are new to survival-focused modlists.  
 >  
 > Proceeding without doing so will almost certainly result in frustration and confusion. You have been warned, Hunter.
 
@@ -312,7 +312,7 @@ Once Wabbajack finishes, you're not quite ready to jump in yet — follow these 
 
 ---
 
-### 0. **Seriously, read the [HOH Gameplay Guide](https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/HOH-Gameplay-Guide) first**!
+### 0. **Seriously, read the [HOH Gameplay Guide](/modlists/hoh/gameplay-guide) first**!
 
 ---
 
@@ -418,7 +418,7 @@ Once enabled and properly sorted, you’ll have full access to enhanced controll
 
 - Skyrim’s default save and load system has long-standing issues that can introduce corruption into your saves over time. This corruption accumulates, eventually rendering saves unstable or unplayable. These are limitations of the Skyrim engine itself, not conflicts with this modlist.
 
-- To address this, we include Skyrim Save System Overhaul 3 (SSSO3). This mod ensures that saves are only written when the engine can safely create a clean file, greatly reducing the chance of progressive corruption. Refer to our [HOH Gameplay Guide](https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/HOH-Gameplay-Guide#-skyrim-save-system-overhaul-3) for configuration instructions.
+- To address this, we include Skyrim Save System Overhaul 3 (SSSO3). This mod ensures that saves are only written when the engine can safely create a clean file, greatly reducing the chance of progressive corruption. Refer to our [HOH Gameplay Guide](/modlists/hoh/gameplay-guide#-skyrim-save-system-overhaul-3) for configuration instructions.
 
 - When SSSO3 displays a “Saving Delayed” message, it means the engine is too busy to make a clean save. To improve your chances of saving safely:
   -    Exit dialogues and menus
@@ -449,7 +449,7 @@ When starting a **brand-new character** in **Hymns of Hircine**, keep these thin
 
 - **After MCMs have finished loading, relog:**  
   Once character initialization is complete, **save your game, exit to desktop, and relaunch**.  
-  This relog is required by the SSSO3 start-up procedures specified in the [HOH Gameplay Guide](https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/HOH-Gameplay-Guide#-skyrim-save-system-overhaul-3).
+  This relog is required by the SSSO3 start-up procedures specified in the [HOH Gameplay Guide](/modlists/hoh/gameplay-guide#-skyrim-save-system-overhaul-3).
 
 - **Verify Last Seed and Frostfall MCMs:**  
   After relaunching, open the MCM menu.  
@@ -511,7 +511,7 @@ That said, we understand modding is fun and personal. If you're stuck after maki
 
 Thank you for respecting the work that went into JOJ, and for being part of the community!
 
-➡️ [Here is the in-depth guide to help you out if you really want to modify the list.](https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/JOJ-Rule-11-Guide)
+➡️ [Here is the in-depth guide to help you out if you really want to modify the list.](/guides/sos-rule-11-guide)
 
 ---
 

@@ -9,8 +9,8 @@ This is **normal behavior** for modlists that utilize LoversLab mods and is **no
 ---
 
 ### 📘 Please Also Read
-- **📖 [DOD ReadMe](https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/Diaries-of-Dibella-ReadMe)**
-- **🧭 [DOD Gameplay Guide](https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/DOD-Gameplay-Guide)**
+- **📖 [DOD ReadMe](/modlists/dod/readme)**
+- **🧭 [DOD Gameplay Guide](/modlists/dod/gameplay-guide)**
 
 Most common installation and gameplay questions are answered there.
 

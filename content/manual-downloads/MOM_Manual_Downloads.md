@@ -9,8 +9,8 @@ This is **normal behavior** for modlists that utilize LoversLab mods and is **no
 ---
 
 ### 📘 Please Also Read
-- **📖 [MOM ReadMe](https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/Mantras-of-Mara-ReadMe)**
-- **🧭 [MOM Gameplay Guide](https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/MOM-Gameplay-Guide)**
+- **📖 [MOM ReadMe](/modlists/mom/readme)**
+- **🧭 [MOM Gameplay Guide](/modlists/mom/gameplay-guide)**
 
 Most common installation and gameplay questions are answered there.
 

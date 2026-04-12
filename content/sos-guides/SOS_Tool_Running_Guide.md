@@ -125,7 +125,7 @@ If you haven't added any custom armors, you can **skip this step** and move on.
 - Set the **Output Path** to match the correct mod folder:  
 
   - `JOJ - BodySlide Output` *(default)*  
-  - If you are following the [SOS Rule 11 Guide](https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/SOS-Rule-11-Guide), you should have created your **own BodySlide Output** folder to overwrite mine. Use that instead.
+  - If you are following the [SOS Rule 11 Guide](/guides/sos-rule-11-guide), you should have created your **own BodySlide Output** folder to overwrite mine. Use that instead.
 
 ![image](https://github.com/user-attachments/assets/362d61df-6cfa-4ece-b31b-a35d9447118b)
 

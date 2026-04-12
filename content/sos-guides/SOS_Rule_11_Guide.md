@@ -233,7 +233,7 @@ In General the best thing you can do is- [learn to use xEdit](https://www.youtub
 > ⚠️ **Non-exhaustive! Use common sense!**
 
 **Official SOS GitHub Guide on re-running Tools:**
-[SOS Tool Running Guide](https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/SOS-Tool-Running-Guide)
+[SOS Tool Running Guide](/guides/sos-tool-running-guide)
 
 **Bodyslide**
 Armour / Clothing / equipment / hair / added followers / 'attachment' mods
@@ -246,7 +246,7 @@ Anytime you add/remove/replace or update a mod that contains a plugin
 
 **NPC Plugin Chooser 2**
 Anytime you add/remove/replace or make changes to NPC replacer mods
-[NPC2 Guide](https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/SOS-NPC-Plugin-Chooser-2-Guide) 
+[NPC2 Guide](/guides/sos-npc-plugin-chooser-2-guide) 
 
 **XLODGen / TexGen / DynDOLOD**
 Mods that add or remove stuff to the exterior world space (Check in Xedit)

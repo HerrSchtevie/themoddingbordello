@@ -263,7 +263,7 @@ NONE
 
 [Yoana custom voiced follower]() - Thanks, [bridgeburnerr](https://www.nexusmods.com/profile/bridgeburnerr)!  
 [More Nasty Critters](https://www.loverslab.com/files/file/5464-more-nasty-critters-specialanniversary-edition) - no need to manually download, will download automatically via Wabbajack CDN  
-[Creature Framework](https://www.loverslab.com/files/file/5464-more-nasty-critters-specialanniversary-edition/?do=download&r=2140033&confirm=1&t=1&csrfKey=350ecccebdfac4831d7579439f5e3c1f) - added to [MOM Manual Downloads](https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/MOM-Manual-Downloads) page  
+[Creature Framework](https://www.loverslab.com/files/file/5464-more-nasty-critters-specialanniversary-edition/?do=download&r=2140033&confirm=1&t=1&csrfKey=350ecccebdfac4831d7579439f5e3c1f) - added to [MOM Manual Downloads](/modlists/mom/manual-downloads) page  
 
 ---
 
