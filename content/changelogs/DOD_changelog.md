@@ -62,7 +62,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 - Changed [Better Third Person Selector](https://www.nexusmods.com/skyrimspecialedition/mods/64339) hotkey to `Right Alt` to avoid [PPA](https://www.nexusmods.com/skyrimspecialedition/mods/172002) keybind overlap  
 - Changed `accurate-penetration.toml` to require console be open AND press modifier key (`Shift`) to adjust PPA Settings  
 - Fixed issue with vanilla keybinds  
-- Fixed [Last Seed](https://www.nexusmods.com/skyrimspecialedition/mods/56393) keybinds  
+- Fixed [Last Seed](https://www.nexusmods.com/skyrimspecialedition/mods/56393) keybinds
+- Rebuilt `DOD - BodySlide Output` to fix some Devious Devices issues  
 
 ---
 
