@@ -5,7 +5,7 @@ import './globals.css';
 import { GlobalNav } from '@/components/nav/GlobalNav';
 import { Footer } from '@/components/nav/Footer';
 
-const GA_MEASUREMENT_ID = 'G-N5V53XTK6BN';
+const GA_MEASUREMENT_ID = 'G-N55V3KT6BN';
 
 const inter = Inter({ subsets: ['latin'] });
 
