@@ -12,6 +12,18 @@ interface GuideTOCProps {
   contentId: string;
 }
 
+/** Patterns for headings that are status labels / notes, not navigational sections */
+const EXCLUDED_PATTERNS = [
+  /^not available in /i,
+  /^table of contents$/i,
+  /^only available in /i,
+  /^requires /i,
+];
+
+function isExcludedHeading(text: string): boolean {
+  return EXCLUDED_PATTERNS.some((re) => re.test(text));
+}
+
 function parseTOCItems(container: HTMLElement): TOCItem[] {
   const headings = container.querySelectorAll('h2[id], h3[id]');
   const items: TOCItem[] = [];
@@ -20,6 +32,7 @@ function parseTOCItems(container: HTMLElement): TOCItem[] {
     if (!id) return;
     const text = el.textContent?.replace(/^[^\w]*/, '').trim() || '';
     if (!text) return;
+    if (isExcludedHeading(text)) return;
     const level = el.tagName === 'H2' ? 2 : 3;
     items.push({ id, text, level });
   });
