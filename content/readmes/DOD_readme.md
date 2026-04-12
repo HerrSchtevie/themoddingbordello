@@ -243,16 +243,16 @@ We have seen numerous reports from players experiencing installation failures or
 4. **Manually Download Required LoversLab & External Files (Required)**
    - **Diaries of Dibella requires several files that cannot be downloaded automatically**, primarily from **LoversLab** and other external sources.
    - All required manual files are listed here:  
-     👉 **[DOD Manual Downloads](https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/DOD-Manual-Downloads)**
+     👉 **[DOD Manual Downloads](https://www.themoddingbordello.com/modlists/dod/manual-downloads)**
    - These files **must be downloaded manually** to ensure the installation proceeds smoothly.
    - Once downloaded, **move all required archives into your DOD Download Location** (`\downloaded mods` from Step 3).
    - If Wabbajack encounters a missing file, **it will explicitly tell you which file is missing**.
-     - Refer back to the **[DOD Manual Downloads](https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/DOD-Manual-Downloads)** if needed.
+     - Refer back to the **[DOD Manual Downloads](https://www.themoddingbordello.com/modlists/dod/manual-downloads)** if needed.
      - Copy the URL into your browser shown in Wabbajack.
      - Download the correct file.
      - Place it into the DOD downloads folder.
      - Resume the installation.
-   - **Double-check that all required manual files listed on the [DOD Manual Downloads](https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/DOD-Manual-Downloads) are present before asking for support.**
+   - **Double-check that all required manual files listed on the [DOD Manual Downloads](https://www.themoddingbordello.com/modlists/dod/manual-downloads) are present before asking for support.**
   
 ---
 
@@ -284,7 +284,7 @@ We have seen numerous reports from players experiencing installation failures or
    - Click **Start** to begin the automated installation.
    - Wabbajack will handle the process automatically.
    - If any files fail to download, Wabbajack will **clearly identify the missing file**.
-   - Refer to the **[DOD Manual Downloads Page](https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/DOD-Manual-Downloads)**, download the missing file, place it into the DOD downloads folder, and resume the installation.
+   - Refer to the **[DOD Manual Downloads Page](https://www.themoddingbordello.com/modlists/dod/manual-downloads)**, download the missing file, place it into the DOD downloads folder, and resume the installation.
 
    > 📺 *Optional:* [Watch Biggie’s Wabbajack Install Guide](https://www.youtube.com/watch?v=nApuOZWp12c&ab_channel=biggie_boss)
 
