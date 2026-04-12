@@ -11,6 +11,10 @@ export const modlists: ModlistMeta[] = [
     tagline: 'Let Order guide your path.',
     bookImage: '/assets/books/JOJ_Book.png',
     pages: { readme: true, gameplayGuide: true, changelog: true, manualDownloads: false },
+    links: {
+      nexus: 'https://www.nexusmods.com/skyrimspecialedition/mods/146771',
+      loadOrder: 'https://loadorderlibrary.com/lists/journals-of-jyggalag-2',
+    },
   },
   {
     slug: 'tot',
@@ -22,6 +26,10 @@ export const modlists: ModlistMeta[] = [
     tagline: 'Strength in Voice, Strength in Faith.',
     bookImage: '/assets/books/TOT_Book.png',
     pages: { readme: true, gameplayGuide: true, changelog: true, manualDownloads: false },
+    links: {
+      nexus: 'https://www.nexusmods.com/skyrimspecialedition/mods/154277',
+      loadOrder: 'https://loadorderlibrary.com/lists/tomes-of-talos',
+    },
   },
   {
     slug: 'hoh',
@@ -33,6 +41,10 @@ export const modlists: ModlistMeta[] = [
     tagline: 'In the Name of the Hunter, Let None Escape.',
     bookImage: '/assets/books/HOH_Book.png',
     pages: { readme: true, gameplayGuide: true, changelog: true, manualDownloads: false },
+    links: {
+      nexus: 'https://www.nexusmods.com/skyrimspecialedition/mods/156686',
+      loadOrder: 'https://loadorderlibrary.com/lists/hymns-of-hircine',
+    },
   },
   {
     slug: 'mom',
@@ -44,6 +56,10 @@ export const modlists: ModlistMeta[] = [
     tagline: 'Whispered Words Become Eternal Bonds.',
     bookImage: '/assets/books/MOM_Book.png',
     pages: { readme: true, gameplayGuide: true, changelog: true, manualDownloads: true },
+    links: {
+      nexus: 'https://www.nexusmods.com/skyrimspecialedition/mods/158622',
+      loadOrder: 'https://loadorderlibrary.com/lists/mantras-of-mara',
+    },
   },
   {
     slug: 'dod',
@@ -55,6 +71,10 @@ export const modlists: ModlistMeta[] = [
     tagline: 'In Pleasure and Peril, We Persist.',
     bookImage: '/assets/books/DOD_Book.png',
     pages: { readme: true, gameplayGuide: true, changelog: true, manualDownloads: true },
+    links: {
+      nexus: 'https://www.nexusmods.com/skyrimspecialedition/mods/156694',
+      loadOrder: 'https://loadorderlibrary.com/lists/diaries-of-dibella',
+    },
   },
   {
     slug: 'vov',
@@ -66,6 +86,10 @@ export const modlists: ModlistMeta[] = [
     tagline: 'Where dreams reshape reality.',
     bookImage: '/assets/books/VOV_Book.png',
     pages: { readme: true, gameplayGuide: false, changelog: true, manualDownloads: false },
+    links: {
+      nexus: 'https://www.nexusmods.com/skyrimspecialedition/mods/173492',
+      loadOrder: 'https://loadorderlibrary.com/lists/visions-of-vaermina',
+    },
   },
 ];
 

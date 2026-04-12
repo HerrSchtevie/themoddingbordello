@@ -103,6 +103,7 @@ export function QuizResult({ result, onReset }: QuizResultProps) {
           {list.abbreviation}
         </span>
         <h3 className="text-3xl font-bold text-white mb-2">{list.name}</h3>
+        <p className="text-sm text-bordello-muted italic mb-4">{list.tagline}</p>
         {result.profile && (
           <p className="text-lg text-bordello-text mb-4">
             {result.profile === 'lords-vision' ? "Lord's Vision" : 'Performance'} Profile
@@ -125,6 +126,36 @@ export function QuizResult({ result, onReset }: QuizResultProps) {
         >
           View {list.abbreviation} Overview
         </Link>
+
+        <div className="mt-6 flex flex-wrap justify-center gap-3">
+          {[
+            ...(list.pages.gameplayGuide
+              ? [{ label: 'Gameplay Guide', url: `/modlists/${list.slug}/gameplay-guide`, external: false }]
+              : []),
+            { label: 'Nexus Page', url: list.links.nexus, external: true },
+            { label: 'Load Order Library', url: list.links.loadOrder, external: true },
+          ].map((link) =>
+            link.external ? (
+              <a
+                key={link.label}
+                href={link.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-sm text-bordello-muted hover:text-white transition-colors underline underline-offset-2"
+              >
+                {link.label}
+              </a>
+            ) : (
+              <Link
+                key={link.label}
+                href={link.url}
+                className="text-sm text-bordello-muted hover:text-white transition-colors underline underline-offset-2"
+              >
+                {link.label}
+              </Link>
+            )
+          )}
+        </div>
       </div>
 
       <button

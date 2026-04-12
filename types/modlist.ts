@@ -17,4 +17,8 @@ export interface ModlistMeta {
     changelog: true;
     manualDownloads: boolean;
   };
+  links: {
+    nexus: string;
+    loadOrder: string;
+  };
 }
