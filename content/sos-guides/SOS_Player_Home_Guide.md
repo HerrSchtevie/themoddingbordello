@@ -114,6 +114,8 @@ Welcome to the SOS Player Home Guide — a categorized list of recommended house
 **Acquisition:** Speak to the proprietress  
 **Vibe:** Classy NSFW bordello and player home... with secrets
 
+**Acknowledgement:** Special thanks to [Juntii](https://www.nexusmods.com/profile/Juntii), Hand of Order, for bringing Talos' Tease into the list.
+
 **Special Features:**
 - Lots of room for follower housing
 - Convenient location
