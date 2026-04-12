@@ -74,7 +74,7 @@ These are **hard requirements**. The modlist will not function correctly without
 ## 🛠️ Installation via Wabbajack
 
 VOV installs via [Wabbajack](https://www.wabbajack.org), the fully automated modlist installer.  
-No modding experience required — just follow the [ReadMe](https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/Visions-of-Vaermina-ReadMe).
+No modding experience required — just follow the [ReadMe](https://www.themoddingbordello.com/modlists/vov/readme).
 
 ---
 
