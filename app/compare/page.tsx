@@ -1,7 +1,7 @@
 import Link from 'next/link';
-import Image from 'next/image';
 import { loadMarkdown } from '@/lib/markdown';
 import { MarkdownRenderer } from '@/components/markdown/MarkdownRenderer';
+import { ImageLightbox } from '@/components/ui/ImageLightbox';
 
 export default async function ComparePage() {
   const overviewHtml = await loadMarkdown('content/sos-guides/modlist_overview.md');
@@ -27,7 +27,7 @@ export default async function ComparePage() {
       {/* Flowchart Image */}
       <div className="mb-16">
         <div className="relative w-full max-w-5xl mx-auto rounded-xl overflow-hidden border border-bordello-border">
-          <Image
+          <ImageLightbox
             src="/assets/wallpapers/list_overview.png"
             alt="Modlist comparison flowchart"
             width={1920}
