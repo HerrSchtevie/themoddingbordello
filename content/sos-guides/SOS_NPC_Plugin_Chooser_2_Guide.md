@@ -51,7 +51,7 @@ Whether you want to swap just a handful of characters or redesign every NPC, NPC
 
 ---
 
-1) Add Your NPC Replacers  
+### 1) Add Your NPC Replacers  
 
 As per our [Rule 11 Guide](https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/SOS-Rule-11-Guide), you should always maintain your own separator in MO2 for personal mods. This includes NPC replacers and overhauls.
 

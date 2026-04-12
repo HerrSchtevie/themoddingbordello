@@ -18,6 +18,7 @@ const EXCLUDED_PATTERNS = [
   /^table of contents$/i,
   /^only available in /i,
   /^requires /i,
+  /^notes?$/i,
 ];
 
 function isExcludedHeading(text: string): boolean {
