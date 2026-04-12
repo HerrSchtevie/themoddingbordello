@@ -137,7 +137,7 @@ These are **hard requirements**. The modlist will not function correctly without
 ## 🛠️ Installation via Wabbajack
 
 JOJ installs via [Wabbajack](https://www.wabbajack.org), the fully automated modlist installer.  
-No modding experience required — just follow the [JOJ Installation Guide](JOJ-Install-Guide).
+No modding experience required — just follow the [JOJ Installation Guide](https://www.themoddingbordello.com/modlists/joj/readme).
 
 ---
 
