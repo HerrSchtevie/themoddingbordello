@@ -63,7 +63,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 - Changed `accurate-penetration.toml` to require console be open AND press modifier key (`Shift`) to adjust PPA Settings  
 - Fixed issue with vanilla keybinds  
 - Fixed [Last Seed](https://www.nexusmods.com/skyrimspecialedition/mods/56393) keybinds
-- Rebuilt `DOD - BodySlide Output` to fix some Devious Devices issues  
+- Rebuilt `DOD - BodySlide Output` to fix some Devious Devices issues
+- Removed `skeleton.hkx` file from [BakaFactory Animated Beast Cocks](https://www.loverslab.com/files/file/7556-animated-beasts-cocksabc-for-users-le-se/) to resolve Vampire Lord camera issue  
 
 ---
 
