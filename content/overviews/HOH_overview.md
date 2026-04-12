@@ -137,7 +137,7 @@ These are **hard requirements**. The modlist will not function without them.
 
 HOH installs using **Wabbajack**, the automated modlist installer. No modding experience is required.  
 
-- [Installation Guide](https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/Hymns-of-Hircine-ReadMe)  
+- [Installation Guide](https://www.themoddingbordello.com/modlists/hoh/readme)  
 - [Load Order Library](https://loadorderlibrary.com/lists/hymns-of-hircine)  
 
 ---
