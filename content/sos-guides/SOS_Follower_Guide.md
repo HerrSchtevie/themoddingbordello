@@ -211,6 +211,8 @@ Adds a magical corgi companion to join you on your adventures.
 [Yoana custom voiced follower](https://www.nexusmods.com/skyrimspecialedition/mods/164506)  
 Yoana is a fully voiced follower with her own quirks, her own rhythm, and a dual-wield style that fits the strange little world inside her head.
 
+**Acknowledgement:** Special thanks to [bridgeburnerr](https://www.nexusmods.com/profile/bridgeburnerr?gameId=1704), Voice of Order, for bringing Yoana to life.  
+
 **Location:** Riverside Shack, east of Gallows Rock.
 
 ![image](https://github.com/user-attachments/assets/bc9fc2a1-5377-43e3-9e2c-171a84be4004)  
