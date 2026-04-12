@@ -208,7 +208,7 @@ Welcome to the SOS Player Home Guide — a categorized list of recommended house
 **Vibe:** Portable minimalist
 
 **Special Features:**
-- Al crafting stations within reach
+- All crafting stations within reach
 - Named storage for all categories
 
 **Pros:**
