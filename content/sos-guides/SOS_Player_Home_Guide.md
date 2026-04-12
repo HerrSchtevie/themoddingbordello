@@ -10,8 +10,8 @@ Welcome to the SOS Player Home Guide — a categorized list of recommended house
 - [Elysium Estate](#elysium-estate)
 - [Legacy of the Dragonborn Safehouse](#legacy-of-the-dragonborn-safehouse)
 - [Aemers Refuge](#aemers-refuge)
-- [Talos' Tease](#Talos-Tease)
-- [Thur Vonun Sanctum](#Thur-Vonun-Sanctum)
+- [Talos' Tease](#talos-tease)
+- [Thur Vonun Sanctum](#thur-vonun-sanctum)
 
 ### 🛖 Small to Mid-Size Homes
 - [Mirele Bismath](#mirele-bismath)
@@ -104,6 +104,8 @@ Welcome to the SOS Player Home Guide — a categorized list of recommended house
 
 ---
 
+<a id="talos-tease"></a>
+
 ## Talos' Tease
 
 ## Not available in TOT or VOV
@@ -130,6 +132,8 @@ Welcome to the SOS Player Home Guide — a categorized list of recommended house
 
 
 ---
+
+<a id="thur-vonun-sanctum"></a>
 
 ## Thur Vonun Sanctum
 

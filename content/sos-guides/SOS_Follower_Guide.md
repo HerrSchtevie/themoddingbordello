@@ -27,7 +27,7 @@ This guide was written by **Tidal**, a true **Crusader of Order**. A massive tha
 - [Katana, Megara & Shale](#katana-megara--shale)
 - [Taliesin – Thalmor in Shadow](#taliesin--thalmor-in-shadow)
 - [M'rissi's Tails of Troubles](#mrissi)
-- [Sa'chil](#sa'chil)
+- [Sa'chil](#sachil)
 - [Thogra gra-Mugur](#thogra-gra-mugur)
 - [Redcap the Riekling](#redcap-the-riekling)
 - [Khajiit Will Follow](#khajiit-will-follow)
@@ -140,6 +140,8 @@ Once a Thalmor soldier, Taliesin turned rogue after a crisis of conscience. Now 
 
 ---
 
+<a id="mrissi"></a>
+
 ### M'rissi
 [M'Rissi](https://www.nexusmods.com/skyrimspecialedition/mods/9666)  
 M’rissi is a custom-voiced Khajiit follower with a rich, emotional backstory and a multi-stage questline. She features over 2,000 lines of dialogue, unique romantic interactions, and a branching narrative with impactful choices. Ideal for roleplayers who want deep companion storytelling with a morally gray edge.
@@ -151,6 +153,8 @@ M'Rissi is intentionally *not* Essential or Protected through most of her story.
 ![image](https://github.com/user-attachments/assets/4b8e7aa7-8e84-439b-a21e-27c37d995dfa)
 
 ---
+
+<a id="sachil"></a>
 
 ### Sa'chil
 [Sa'chil](https://www.nexusmods.com/skyrimspecialedition/mods/106892)  
