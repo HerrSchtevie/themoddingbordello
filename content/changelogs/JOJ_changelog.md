@@ -1787,7 +1787,7 @@ NONE
 ---
 
 
-# JOJ 3.3.2 (Updated - 07/27/2025)
+# JOJ 3.3.2 (Updated - 07.27.2025)
 
 This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
 The actual MO2 modlist is always the authoritative reference for modlist content.
