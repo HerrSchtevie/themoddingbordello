@@ -13,12 +13,16 @@ const iconMap: Record<string, React.ReactNode> = {
   ),
   keyboard: (
     <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M6.75 7.5l3 2.25-3 2.25m4.5 0h3m-9 8.25h13.5A2.25 2.25 0 0021 18V6a2.25 2.25 0 00-2.25-2.25H5.25A2.25 2.25 0 003 6v12a2.25 2.25 0 002.25 2.25z" />
+      <rect x="2" y="4" width="20" height="16" rx="2" strokeWidth={1.5} strokeLinecap="round" strokeLinejoin="round" />
+      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M6 8h.01M10 8h.01M14 8h.01M18 8h.01M6 12h.01M10 12h.01M14 12h.01M18 12h.01M8 16h8" />
     </svg>
   ),
   controller: (
     <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M14.25 6.087c0-.355.186-.676.401-.959.221-.29.349-.634.349-1.003 0-1.036-1.007-1.875-2.25-1.875s-2.25.84-2.25 1.875c0 .369.128.713.349 1.003.215.283.401.604.401.959v0a.64.64 0 01-.657.643 48.39 48.39 0 01-4.163-.3c.186 1.613.45 3.192.786 4.731.084.386.198.768.342 1.14A3 3 0 009.882 15h4.236a3 3 0 002.924-2.324c.144-.372.258-.754.342-1.14.336-1.539.6-3.118.786-4.73a48.39 48.39 0 01-4.163.3.64.64 0 01-.657-.644v0z" />
+      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M6 11h4M8 9v4" />
+      <line x1="15" y1="12" x2="15.01" y2="12" strokeWidth={2} strokeLinecap="round" />
+      <line x1="18" y1="10" x2="18.01" y2="10" strokeWidth={2} strokeLinecap="round" />
+      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M17.32 5H6.68a4 4 0 00-3.978 3.59c-.006.052-.01.101-.017.152C2.604 9.416 2 14.456 2 16a3 3 0 003 3c1.3 0 1.88-.81 2.54-2.21l.7-1.49A2 2 0 0110.06 14h3.88a2 2 0 011.82 1.3l.7 1.49C17.12 18.19 17.7 19 19 19a3 3 0 003-3c0-1.545-.604-6.584-.685-7.258-.007-.05-.011-.1-.017-.151A4 4 0 0017.32 5z" />
     </svg>
   ),
   users: (
