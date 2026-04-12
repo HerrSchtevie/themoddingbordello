@@ -485,7 +485,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 ---
 
-# HOH 2.0.0 (WORK IN PROGRESS)
+# HOH 2.0.0 (Updated - 01.26.2026)
 
 This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
 The actual MO2 modlist is always the authoritative reference for modlist content.
