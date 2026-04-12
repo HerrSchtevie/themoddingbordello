@@ -9,7 +9,7 @@ interface ModlistCardProps {
 export function ModlistCard({ list }: ModlistCardProps) {
   return (
     <Link
-      href={`/modlists/${list.slug}/readme`}
+      href={`/modlists/${list.slug}/overview`}
       className="group relative block overflow-hidden rounded-xl border border-bordello-border bg-bordello-surface hover:border-opacity-50 transition-all duration-300 hover:-translate-y-1"
       style={{ '--card-accent': list.accentColor } as React.CSSProperties}
     >
