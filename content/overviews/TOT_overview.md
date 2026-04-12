@@ -130,7 +130,7 @@ TOT has strict requirements to ensure smooth performance and visual fidelity.
 ## 🛠️ Installation via Wabbajack
 
 TOT installs using [Wabbajack](https://www.wabbajack.org), the automated modlist installer.  
-No prior modding experience required — just follow the [TOT Installation Guide](TOT-Install-Guide).
+No prior modding experience required — just follow the [TOT Installation Guide](https://www.themoddingbordello.com/modlists/tot/readme).
 
 ---
 
