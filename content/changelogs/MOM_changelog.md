@@ -16,7 +16,7 @@ Save compatibility depends on **which number changes** between releases.
   Examples: `4.2.0 → 4.2.1`, `5.1.0 → 5.1.1`  
   Bug fixes, tuning, or minor adjustments. **Safe to update mid-save.**
 
-# MOM 2.2.2 (WORK IN PROGRESS)
+# MOM 2.3.0 (WORK IN PROGRESS)
 
 This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
 The actual MO2 modlist is always the authoritative reference for modlist content.
@@ -27,6 +27,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 [TRX Futanari SOS addon BnP Frostnip Skin Patch](https://www.nexusmods.com/skyrimspecialedition/mods/176687)  
 [WHEELER - Refined](https://www.nexusmods.com/skyrimspecialedition/mods/167380)  
+[Race Blood Test](https://www.nexusmods.com/skyrimspecialedition/mods/153880)  
 
 ---
 
@@ -41,6 +42,9 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 ## Removals 
 
 [Devious Sounds V 1.2](https://www.loverslab.com/files/file/21101-devious-sounds-v-12/) - Removed due to conflict with [Khajiit Will Follow](https://www.nexusmods.com/skyrimspecialedition/mods/2227) and likely other added followers  
+[Race Compatibility SKSE (RCS)](https://www.nexusmods.com/skyrimspecialedition/mods/122592)  
+[Race Compatibility SKSE - Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/122592?tab=files&file_id=674464&nmm=1)  
+[F.T.F.Y. - Race Compatibility SKSE - Configurations for Custom Races](https://www.nexusmods.com/skyrimspecialedition/mods/147472)  
 
 ---
 
@@ -50,6 +54,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
    - `JOJ - Armour Crafting Manuals 0.esp`
    - `MOM - Armour WAAT Patch 4.esp`
    - `MOM - Armour WAAT Patch 5.esp`
+   - `SOS - Race Blood Test Ohmes-Raht Patch`
+   - `MOM - Ohmes-Raht Fix.esp`  
 - Set `ForceVSync = false` by default in AMON ENB `enblocal.ini`  
 - Removed `SOS - TRX Futanari BNP Frostnip textures` in favor of [Rynfri's](https://www.nexusmods.com/profile/Rynfri) new Nexus version  
 - Changed [Better Third Person Selector](https://www.nexusmods.com/skyrimspecialedition/mods/64339) hotkey to `Right Alt` to avoid [PPA](https://www.nexusmods.com/skyrimspecialedition/mods/172002) keybind overlap  
