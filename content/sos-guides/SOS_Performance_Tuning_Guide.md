@@ -103,6 +103,8 @@ Improve CPU-side performance for physics-heavy scenes using Faster SMP.
 
 Check the specs on your CPU to determine what version of AVX is supported. If your system supports **AVX2** or **AVX512**, you may get better performance by reinstalling **Faster SMP** and selecting the appropriate feature in the FOMOD.
 
+![image](https://github.com/user-attachments/assets/0e047523-3d37-46af-ad5e-9c95b498df35)  
+
 ---
 
 ## Potato Mode
