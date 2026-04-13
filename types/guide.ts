@@ -1,5 +1,6 @@
 export type GuideSlug =
   | 'sos-tool-running-guide'
+  | 'sos-performance-tuning-guide'
   | 'sos-keyboard-guide'
   | 'sos-controller-guide'
   | 'sos-follower-guide'

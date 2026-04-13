@@ -4,7 +4,11 @@
 
 This guide covers how to reduce overt eroticism in the list while retaining NSFW functionality like OStim for users who prefer things "behind closed doors."
 
-Most steps are optional and independent — pick and choose what suits your preferences.
+> ⚠️ **How to Use This Guide**
+>  
+> This is not a sequential guide.  
+> Each section is independent — pick and choose the changes that suit your preferences.  
+> You do NOT need to complete every section.
 
 > **Important:** Armor changes will not reliably affect NPCs who already have generated inventories. For best results, apply these changes before starting a new save.
 
@@ -12,16 +16,10 @@ Most steps are optional and independent — pick and choose what suits your pref
 
 ## Table of Contents
 
-- [Required Steps](#required-steps)
-- [Armor Replacers](#armor-replacers)
-- [Gameplay Adjustments](#gameplay-adjustments)
+- [Armor Replacements](#armor-replacements)
 - [NPC Appearance](#npc-appearance)
-- [Optional Content Removal](#optional-content-removal)
-- [Underwear Mods](#underwear-mods)
+- [Gameplay Adjustments](#gameplay-adjustments)
 - [Daedric Statues](#daedric-statues)
-- [Removing Amorous Adventures](#removing-amorous-adventures)
-- [Removing OStim Entirely](#removing-ostim-entirely)
-- [Final Steps](#final-steps)
 
 ---
 
@@ -34,15 +32,24 @@ Most steps are optional and independent — pick and choose what suits your pref
 
 ---
 
-## Required Steps
+## Armor Replacements
+
+Replace default outfits and armor with less revealing alternatives.
+
+<details>
+<summary>Required Steps</summary>
+<div class="details-content">
 
 1. Filter the modlist for **JOJ**
 2. In the **Overrides and Patches** section, disable:
    - `JOJ - Outfit Distribution`
 
----
+</div>
+</details>
 
-## Armor Replacers
+<details>
+<summary>Armor Replacers</summary>
+<div class="details-content">
 
 Download, install, and activate:
 
@@ -55,65 +62,50 @@ Place the mods immediately below `JOJ - ParallaxGen Output` in the **Outputs** s
 
 On the right side, move the new plugins to just below the `PG_1` plugin in the Outputs section.
 
-### Advanced Alternative
+</div>
+</details>
+
+<details>
+<summary>Advanced Alternative</summary>
+<div class="details-content">
 
 Download the **NPM** versions instead, place the mods in a **My Mods** section just above the Outputs section, and run Bodyslide to build the appropriate outfit groups yourself. Select zaps if desired.
 
 If there's a different replacer you'd rather use and you're able to build it in Bodyslide, have at it.
 
-### Less Spicy Option
+</div>
+</details>
+
+<details>
+<summary>Less Spicy Option</summary>
+<div class="details-content">
 
 Install SIB Clothes followed by:
 
 - [Vanilla Outfits Redone](https://www.nexusmods.com/skyrimspecialedition/mods/109194)
 
----
+</div>
+</details>
 
-## Gameplay Adjustments
+<details>
+<summary>Underwear Mods</summary>
+<div class="details-content">
 
-### OStim NPC Behavior
+- [Underwear.dll](https://www.nexusmods.com/skyrimspecialedition/mods/99021)
+- [N.U.D.E. powered by Underwear.dll](https://www.nexusmods.com/skyrimspecialedition/mods/99717)
 
-In game, open the **OStim NPCs MCM**, check:
-
-- `Disable automatic scene starts`
-
-### Hip Sway Adjustment
-
-Our animation set has a very feminine walk and run moveset for female PCs and NPCs, which is consistent regardless of armor worn.
-
-#### Disable for Female NPCs
-
-1. Press `Shift + X` to open the OAR menu
-2. Select **User Mode** at the top right
-3. Find and expand **Feminine Walk and Run**
-4. Uncheck:
-   - `Female NPC`
-5. Click **Save Submod Config**
-
-#### Disable for Your Female PC
-
-Uncheck:
-
-- `Female Player Character`
-
-Then save the config.
-
-#### Replacement Animations
-
-- Runway Walk — clothing
-- Goetia — mages
-- Vanargand — light armor
-- Leviathan — heavy armor
-
-### Immersive Wenches
-
-Use the MCM to reduce or disable wench classes.
+</div>
+</details>
 
 ---
 
 ## NPC Appearance
 
-### OBody Adjustments
+Adjust NPC body presets and face overhauls to suit your visual preferences.
+
+<details>
+<summary>OBody Adjustments</summary>
+<div class="details-content">
 
 #### Curate Body Presets
 
@@ -148,17 +140,20 @@ Tip: right-click a preset mod, then select **Visit on Nexus** for previews.
    - `blacklistedPresetsFromRandomDistribution`
 5. Save
 
-Then repeat the reset process above.
+If using this step, repeat the reset process above.
 
-#### Optional
+#### Optional: Diverse NPC Heights
 
 - [Diverse NPC Heights](https://www.nexusmods.com/skyrimspecialedition/mods/141006)
 
-### De-Glam Guide
+</div>
+</details>
+
+<details>
+<summary>De-Glam</summary>
+<div class="details-content">
 
 Bordello modlists intentionally deliver a high-glam NPC aesthetic. If you prefer a more grounded, lore-friendly population, follow the steps below to replace NPC appearances.
-
----
 
 #### Install Dibella's Blessing
 
@@ -179,9 +174,7 @@ After installation:
 - Move the mod into the **NPC Overhauls** section in MO2
 - Leave the mod **unchecked**
 
----
-
-#### Generate NPC Appearance Patch
+#### Generate NPC Appearances
 
 Use NPC Plugin Chooser 2 to apply Dibella's Blessing selectively:
 
@@ -197,19 +190,15 @@ Use NPC Plugin Chooser 2 to apply Dibella's Blessing selectively:
 For a full walkthrough, see the
 [SOS NPC Plugin Chooser 2 Guide](/guides/sos-npc-plugin-chooser-2-guide)
 
----
-
 #### Run Required Tools
 
-After generating the patch:
+This step requires a generated NPC appearance patch:
 
 - Launch **Synthesis**
 - Run the **Synthesis Character pipeline**
 
 For full instructions, see the
 [SOS Tool Running Guide](/guides/sos-tool-running-guide)
-
----
 
 #### Optional: Custom NPC Selection
 
@@ -224,9 +213,7 @@ Refer to the
 [SOS NPC Plugin Chooser 2 Guide](/guides/sos-npc-plugin-chooser-2-guide)
 for advanced usage such as mugshots and manual selection.
 
----
-
-#### Alternative NPC Overhauls
+#### Alternative NPC Overhaul Suggestions
 
 If Dibella's Blessing is not to your preference, consider:
 
@@ -234,75 +221,83 @@ If Dibella's Blessing is not to your preference, consider:
 - [Faithful Faces](https://www.nexusmods.com/skyrimspecialedition/mods/114342)
 - [Nordic Faces](https://www.nexusmods.com/skyrimspecialedition/mods/40658)
 
+</div>
+</details>
+
 ---
 
-## Optional Content Removal
+## Gameplay Adjustments
+
+Modify NPC behavior, animations, and remove optional NSFW content.
+
+<details>
+<summary>OStim NPC Behavior</summary>
+<div class="details-content">
+
+In game, open the **OStim NPCs MCM**, check:
+
+- `Disable automatic scene starts`
+
+</div>
+</details>
+
+<details>
+<summary>Hip Sway Adjustments</summary>
+<div class="details-content">
+
+Our animation set has a very feminine walk and run moveset for female PCs and NPCs, which is consistent regardless of armor worn.
+
+#### Disable for Female NPCs
+
+1. Press `Shift + X` to open the OAR menu
+2. Select **User Mode** at the top right
+3. Find and expand **Feminine Walk and Run**
+4. Uncheck:
+   - `Female NPC`
+5. Click **Save Submod Config**
+
+#### Disable for Your Female Player Character
+
+Uncheck:
+
+- `Female Player Character`
+
+Save the config.
+
+#### Replacement Animation Suggestions
+
+- Runway Walk — clothing
+- Goetia — mages
+- Vanargand — light armor
+- Leviathan — heavy armor
+
+</div>
+</details>
+
+<details>
+<summary>Immersive Wenches</summary>
+<div class="details-content">
+
+Use the MCM to reduce or disable wench classes.
+
+</div>
+</details>
+
+<details>
+<summary>Optional Content Removal</summary>
+<div class="details-content">
 
 Disable:
 
 - `Arcs WispMother Redux NSFW`
 - `New Night Mother SE`
 
----
+</div>
+</details>
 
-## Underwear Mods
-
-- [Underwear.dll](https://www.nexusmods.com/skyrimspecialedition/mods/99021)
-- [N.U.D.E. powered by Underwear.dll](https://www.nexusmods.com/skyrimspecialedition/mods/99717)
-
----
-
-## Daedric Statues
-
-> **Warning:** This section requires a full tool suite run after completion. See the [SOS Tool Running Guide](/guides/sos-tool-running-guide).
-
-### Disable Section (xEdit)
-
-Remove masters from the following plugins using xEdit.
-
-For a visual guide, see:
-[Biggie's EASILY Remove Masters From Plugins | SSEEdit & xEdit Guide](https://www.youtube.com/watch?v=5cHJ0i7hE2U)
-
-**Remove these masters:**
-- PsBoss's Statuettes
-- NSFW AIO Statues
-
-**From these plugins:**
-- Archivum Ultima
-- Patch of Order
-
-Then disable the following mods in MO2:
-
-- `New Night Mother SE`
-- `New NSFW Statues AIO SE`
-- `PsBoss's Statuettes`
-- `Whispers of Daedric Voices`
-
-### Install Replacements
-
-- [Daedric Shrines - All in One](https://www.nexusmods.com/skyrimspecialedition/mods/78772)
-- [Daedric Shrines - Mehrunes Dagon Fixes by Xtudo - Majestic Northfires Photoreal Riton Medieval Vivid Skyland Dave Holy True Nordic Rustic Darkside Atlantean Gecko Real Polar Tamrielic Northfires ERM](https://www.nexusmods.com/skyrimspecialedition/mods/76942)
-
-### Optional Statue Replacements
-
-- [Statue of Kynareth](https://www.nexusmods.com/skyrimspecialedition/mods/91358)
-- [A Shrine of Azura at The Shrine of Azura](https://www.nexusmods.com/skyrimspecialedition/mods/130094)
-- [Night Mother](https://www.nexusmods.com/skyrimspecialedition/mods/83527)
-- [Statue of Mara](https://www.nexusmods.com/skyrimspecialedition/mods/93909)
-- [Dibella statue](https://www.nexusmods.com/skyrimspecialedition/mods/61553)
-- [Wooden Talos Statue](https://www.nexusmods.com/skyrimspecialedition/mods/81250)
-
-### After Install
-
-Run in this order (see [SOS Tool Running Guide](/guides/sos-tool-running-guide)):
-
-1. Synthesis
-2. Full tool suite
-3. Synthesis again
-
----
-
-## Removing Amorous Adventures
+<details>
+<summary>Removing Amorous Adventures</summary>
+<div class="details-content">
 
 Disable all AA-related mods and patches:
 
@@ -324,9 +319,12 @@ Plugins:
 - `JKs Bards College - AA patch.esp`
 - `JKs COW - OCW - AA patch.esp`
 
----
+</div>
+</details>
 
-## Removing OStim Entirely
+<details>
+<summary>Removing OStim Entirely</summary>
+<div class="details-content">
 
 Disable:
 
@@ -340,10 +338,81 @@ Plugin:
 
 - `Talos' Tease - Ostim Integration.esp`
 
+</div>
+</details>
+
 ---
 
-## Final Steps
+## Daedric Statues
 
-Run **Synthesis** (see [SOS Tool Running Guide](/guides/sos-tool-running-guide)).
+Replace NSFW daedric statues and shrines with lore-friendly alternatives.
 
-> **Performance users:** Select the **Performance** profile, not Lord's Vision.
+> **Warning:** This section requires a full tool suite run after completion. See the [SOS Tool Running Guide](/guides/sos-tool-running-guide).
+
+<details>
+<summary>Remove Statue Masters</summary>
+<div class="details-content">
+
+Remove masters from the following plugins using xEdit.
+
+For a visual guide, see:
+[Biggie's EASILY Remove Masters From Plugins | SSEEdit & xEdit Guide](https://www.youtube.com/watch?v=5cHJ0i7hE2U)
+
+**Remove these masters:**
+- PsBoss's Statuettes
+- NSFW AIO Statues
+
+**From these plugins:**
+- Archivum Ultima
+- Patch of Order
+
+Also disable the following mods in MO2:
+
+- `New Night Mother SE`
+- `New NSFW Statues AIO SE`
+- `PsBoss's Statuettes`
+- `Whispers of Daedric Voices`
+
+</div>
+</details>
+
+<details>
+<summary>Install Replacements</summary>
+<div class="details-content">
+
+- [Daedric Shrines - All in One](https://www.nexusmods.com/skyrimspecialedition/mods/78772)
+- [Daedric Shrines - Mehrunes Dagon Fixes by Xtudo - Majestic Northfires Photoreal Riton Medieval Vivid Skyland Dave Holy True Nordic Rustic Darkside Atlantean Gecko Real Polar Tamrielic Northfires ERM](https://www.nexusmods.com/skyrimspecialedition/mods/76942)
+
+</div>
+</details>
+
+<details>
+<summary>Statue Replacements Suggestions</summary>
+<div class="details-content">
+
+- [Statue of Kynareth](https://www.nexusmods.com/skyrimspecialedition/mods/91358)
+- [A Shrine of Azura at The Shrine of Azura](https://www.nexusmods.com/skyrimspecialedition/mods/130094)
+- [Night Mother](https://www.nexusmods.com/skyrimspecialedition/mods/83527)
+- [Statue of Mara](https://www.nexusmods.com/skyrimspecialedition/mods/93909)
+- [Dibella statue](https://www.nexusmods.com/skyrimspecialedition/mods/61553)
+- [Wooden Talos Statue](https://www.nexusmods.com/skyrimspecialedition/mods/81250)
+
+</div>
+</details>
+
+<details>
+<summary>Run Full Tool Suite</summary>
+<div class="details-content">
+
+Run in this order (see [SOS Tool Running Guide](/guides/sos-tool-running-guide)):
+
+1. Synthesis
+2. Full tool suite
+3. Synthesis again
+
+</div>
+</details>
+
+---
+
+> ⚠️ Regardless of which changes you make, it is recommended to run Synthesis after modifying your modlist.

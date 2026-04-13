@@ -9,6 +9,13 @@ export const guides: GuideMeta[] = [
     filePath: 'content/sos-guides/SOS_Tool_Running_Guide.md',
   },
   {
+    slug: 'sos-performance-tuning-guide',
+    title: 'SOS Performance Tuning Guide',
+    description: 'Optimize performance using Potato Mode, VRAMr, and BethINI without sacrificing stability.',
+    icon: 'rocket',
+    filePath: 'content/sos-guides/SOS_Performance_Tuning_Guide.md',
+  },
+  {
     slug: 'sos-keyboard-guide',
     title: 'SOS Keyboard Guide',
     description: 'All keyboard hotkey reminders across the lists.',
