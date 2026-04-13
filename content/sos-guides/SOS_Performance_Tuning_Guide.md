@@ -121,9 +121,12 @@ If you are running at a resolution higher than 1920x1080, lowering your game res
 
 1. In MO2, search the Data tab for `ssedisplaytweaks`
 2. Open the winning `.ini` file at `SKSE > Plugins > SSEDisplayTweaks.ini`
-3. Go to **line 66** and locate the resolution override line
-4. If the line starts with `#`, it is **disabled** — remove the `#` to enable it
-5. Set your desired resolution and save
+
+![image](https://github.com/user-attachments/assets/24532950-b435-4e12-8c73-4034a6d191ed)  
+
+4. Go to **line 66** and locate the resolution override line
+5. If the line starts with `#`, it is **disabled** — remove the `#` to enable it
+6. Set your desired resolution and save
 
 > **Default behavior:** If left commented out, the game uses the resolution set in `SkyrimPrefs.ini` (outside MO2).
 
@@ -135,6 +138,8 @@ Enable Performance Mode in SSE Display Tweaks to reduce rendering overhead.
 2. Open the winning `.ini` file at `SKSE > Plugins > SSEDisplayTweaks.ini`
 3. Find `performancemode` and set it to `performancemode=true`
 4. Save the file
+
+![image](https://github.com/user-attachments/assets/695a4398-0b67-48c5-9a74-b1934c05413e)  
 
 > ⚠️ **Important**
 >
