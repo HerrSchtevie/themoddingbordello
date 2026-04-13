@@ -27,6 +27,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 [TRX Futanari SOS addon BnP Frostnip Skin Patch](https://www.nexusmods.com/skyrimspecialedition/mods/176687)  
 [WHEELER - Refined](https://www.nexusmods.com/skyrimspecialedition/mods/167380)  
+[Race Blood Test](https://www.nexusmods.com/skyrimspecialedition/mods/153880)  
 
 ---
 
@@ -40,7 +41,9 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 ## Removals 
 
-NONE
+[Race Compatibility SKSE (RCS)](https://www.nexusmods.com/skyrimspecialedition/mods/122592)  
+[Race Compatibility SKSE - Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/122592?tab=files&file_id=674464&nmm=1)  
+[F.T.F.Y. - Race Compatibility SKSE - Configurations for Custom Races](https://www.nexusmods.com/skyrimspecialedition/mods/147472)  
 
 ---
 
@@ -49,7 +52,8 @@ NONE
 - Added/edited the following custom patches 
    - `JOJ - Armour Crafting Manuals 0.esp`
    - `JOJ - Armour WAAT Patch 4.esp`
-   - `JOJ - Armour WAAT Patch 5.esp` 
+   - `JOJ - Armour WAAT Patch 5.esp`
+   - `SOS - Race Blood Test Ohmes-Raht Patch`  
 - Set `ForceVSync = false` by default in AMON ENB `enblocal.ini`  
 - Removed `SOS - TRX Futanari BNP Frostnip textures` in favor of [Rynfri's](https://www.nexusmods.com/profile/Rynfri) new Nexus version  
 - Changed [Better Third Person Selector](https://www.nexusmods.com/skyrimspecialedition/mods/64339) hotkey to `Right Alt` to avoid [PPA](https://www.nexusmods.com/skyrimspecialedition/mods/172002) keybind overlap  
