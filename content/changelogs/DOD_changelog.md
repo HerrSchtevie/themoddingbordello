@@ -38,7 +38,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [PPA - Procedural Penis Animations](https://www.nexusmods.com/skyrimspecialedition/mods/172002)  
 [Modex - A Mod Explorer Menu (AddItemMenu)](https://www.nexusmods.com/skyrimspecialedition/mods/137877)  
 [The Gray Cowl of Nocturnal - 10th anniversary](https://www.nexusmods.com/skyrimspecialedition/mods/141327)  
-
+[FSMP - Faster HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339)  
 
 ---
 
