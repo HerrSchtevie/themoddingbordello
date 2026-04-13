@@ -70,11 +70,15 @@ Optimize Skyrim's engine-level INI settings for better performance across the bo
    - **Game path** — set to your Stock Game folder
    - **INI path** — set to your selected profile
 
+![image](https://github.com/user-attachments/assets/d727024b-95b9-4c3f-a06b-552f4d73d031)  
+
 ### Preset Selection
 
 3. Choose the **BethINI Medium** preset
 4. Check **Apply Recommended Tweaks**
 5. Uncheck **64-bit Render Targets**
+
+![image](https://github.com/user-attachments/assets/af82245a-290a-4b4c-b322-eeb95cbeaf7d)  
 
 ### Shadow Settings
 
@@ -86,6 +90,8 @@ Optimize Skyrim's engine-level INI settings for better performance across the bo
 
 7. Switch to the **View Distance** tab:
    - Adjust the **Distant Details** settings per the screenshot provided in MO2
+
+![image](https://github.com/user-attachments/assets/174fdfa5-d1ba-4730-bdea-dc2f87a1cbfb)  
 
 8. Go to **File > Save**, save all, and exit BethINI
 
