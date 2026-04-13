@@ -28,6 +28,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [TRX Futanari SOS addon BnP Frostnip Skin Patch](https://www.nexusmods.com/skyrimspecialedition/mods/176687)  
 [WHEELER - Refined](https://www.nexusmods.com/skyrimspecialedition/mods/167380)  
 [Race Blood Test](https://www.nexusmods.com/skyrimspecialedition/mods/153880)  
+[Critter Master - Script Call Reduction](https://www.nexusmods.com/skyrimspecialedition/mods/141745)  
 
 ---
 
