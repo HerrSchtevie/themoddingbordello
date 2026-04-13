@@ -101,15 +101,17 @@ If you're unsure, just follow the guide **step-by-step, top to bottom** — it's
 
 ---
 
-## 🧵 Step 0: Run BodySlide (Only if Using Custom Armors)
+<a id="bodyslide"></a>
+<h2 class="visually-hidden">🧵 Step 0: Run BodySlide (Only if Using Custom Armors)</h2>
+
+<details>
+<summary>🧵 Step 0: Run BodySlide (Only if Using Custom Armors)</summary>
 
 This step is required if you've **added your own armor or clothing mods** to JOJ.  
 If you don't build them in BodySlide, they will appear **invisible in-game**.  
 If you haven't added any custom armors, you can **skip this step** and move on.
 
 ---
-
-<a id="bodyslide"></a>
 
 #### ⚙️ 1. Open BodySlide
 
@@ -207,15 +209,20 @@ From here on, you only need to **re-run BodySlide** if you:
 Otherwise, you can safely move on to the next tool in the guide.  
 Your characters are now fully dressed and ready for adventure! 🗡️👗
 
+</details>
+
 ---
 
-## 🕺 Step 0.5: Run Pandora (Only if Using Animations)
+<a id="pandora"></a>
+<h2 class="visually-hidden">🕺 Step 0.5: Run Pandora (Only if Using Animations)</h2>
+
+<details>
+<summary>🕺 Step 0.5: Run Pandora (Only if Using Animations)</summary>
 
 This step is only required if you're **adding or removing animation mods** in JOJ — including OAR, MCO, DAR-based movement, combat, or idle animations.  
 If you haven't changed any animations, you can **skip this step** and proceed directly to **Step 1: Synthesis**.
 
 ---
-<a id="pandora"></a>
 
 #### 🧹 1. Clear Old Pandora Output
 
@@ -274,10 +281,14 @@ You're good to **close Pandora** at this point.
 
 > 🔄 **Don't forget to refresh MO2** after closing Pandora so the output is recognized properly.
 
+</details>
+
 ---
 <a id="synthesis"></a>
+<h2 class="visually-hidden">⚙️ Step 1: Run Synthesis</h2>
 
-## ⚙️ Step 1: Run Synthesis
+<details>
+<summary>⚙️ Step 1: Run Synthesis</summary>
 
 Each **Journals of Jyggalag** profile uses a prebuilt Synthesis configuration.
 
@@ -329,10 +340,14 @@ If you receive a **blocking error** when launching or running Synthesis:
 - Reboot your PC to clear temp/cache files and try again.
 - Ensure .Net 8 and .Net 9 are installed and updated, and .Net 10 is NOT installed. 
 
+</details>
+
 ---
 <a id="vramr"></a>
+<h2 class="visually-hidden">🔧 Step 1.5: VRAMr Output (Recommended for Performance Users)</h2>
 
-## 🔧 Step 1.5: VRAMr Output (Recommended for Performance Users)
+<details>
+<summary>🔧 Step 1.5: VRAMr Output (Recommended for Performance Users)</summary>
 
 This step is **optional** if you want to increase the overall performance of the list.  
 However, it is **absolutely mandatory** if your PC specs are **below the recommended minimum** listed in the Readme of whichever SOS list you are using.
@@ -499,10 +514,14 @@ If your VRAMr output is hundreds of GB instead of a couple dozen, it's very like
 * Choose Off to disable Smart App Control.,
 * Confirm the action by selecting Yes, I'm sure in the pop-up menu.
 
+</details>
+
 ---
 <a id="parallaxgen"></a>
+<h2 class="visually-hidden">🏔️ Step 2: Run ParallaxGen</h2>
 
-## 🏔️ Step 2: Run ParallaxGen
+<details>
+<summary>🏔️ Step 2: Run ParallaxGen</summary>
 
 > ⚠️ Before you run ParallaxGen, follow these steps carefully.
 
@@ -601,10 +620,14 @@ In the **right-side Plugins tab** of MO2:
 
 You're now ready to move on to the next tool!
 
+</details>
+
 ---
 <a id="xlodgen"></a>
+<h2 class="visually-hidden">🌄 Step 3: Run xLODGen</h2>
 
-## 🌄 Step 3: Run xLODGen
+<details>
+<summary>🌄 Step 3: Run xLODGen</summary>
 
 > ⚠️ This tool must be configured correctly for all four LOD levels (LOD4, LOD8, LOD16, LOD32).
 
@@ -724,10 +747,14 @@ After the LOD levels have been generated, your files will be located in:
 
 ✅ That's it! You're now ready to move on to **TexGen** if you are not regenerating Grass Cache.
 
+</details>
+
 ---
 <a id="grass"></a>
+<h2 class="visually-hidden">🌾 Step 3.5: Grass Cache (Optional / Advanced)</h2>
 
-## 🌾 Step 3.5: Grass Cache (Optional / Advanced)
+<details>
+<summary>🌾 Step 3.5: Grass Cache (Optional / Advanced)</summary>
 
 This step is **optional** — JOJ includes pre-generated grass caches for both supported profiles.  
 You may simply use the included `JOJ - Grass Cache (Your Profile)` mod without any extra work.
@@ -916,10 +943,14 @@ This is often considered the **most tedious tool run**, but it ensures stable an
 
 ✅ Once finished (or skipped), you're ready to move on to **TexGen**.
 
+</details>
+
 ---
 <a id="texgen"></a>
+<h2 class="visually-hidden">🎨 Step 4: Run TexGen</h2>
 
-## 🎨 Step 4: Run TexGen
+<details>
+<summary>🎨 Step 4: Run TexGen</summary>
 
 > ⚠️ **Important for Performance Users:**  
 > If you are using the **Performance** profile and have generated your own VRAMr Output, you must **disable it** before running TexGen.  
@@ -978,10 +1009,14 @@ Once TexGen completes, it will display a message and a **button to exit**:
 
 ✅ TexGen is now complete! You're ready for the final step: DynDOLOD.
 
+</details>
+
 ---
 <a id="dyndolod"></a>
+<h2 class="visually-hidden">🏰 Step 5: Run DynDOLOD</h2>
 
-## 🏰 Step 5: Run DynDOLOD
+<details>
+<summary>🏰 Step 5: Run DynDOLOD</summary>
 
 > Just like with ParallaxGen and TexGen, you must delete the old output before running DynDOLOD.
 
@@ -1084,10 +1119,14 @@ Make sure **all three are enabled**, then drag them into the correct plugin grou
 > ⚠️ **Important for Performance Users:**  
 > If you are using the **Performance** profiles and have a VRAMr Output, you must **re-enable** it.
 
+</details>
+
 ---
 <a id="conclusion"></a>
+<h2 class="visually-hidden">✅ Conclusion</h2>
 
-## ✅ Conclusion
+<details>
+<summary>✅ Conclusion</summary>
 
 You've now finished running all 9 major tools for your **Scrolls of Schtevie Modlist**:
 - BodySlide
@@ -1101,6 +1140,8 @@ You've now finished running all 9 major tools for your **Scrolls of Schtevie Mod
 - DynDOLOD
 
 If you've followed each step carefully, your modlist is now fully rebuilt with accurate terrain, texture, parallax, LOD, and worldspace data.
+
+</details>
 
 ---
 
