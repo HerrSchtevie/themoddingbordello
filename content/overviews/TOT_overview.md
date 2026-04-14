@@ -1,7 +1,5 @@
 # 📖 Tomes of Talos (TOT) – Modlist Overview
 
-### **Tomes of Talos (TOT)**
-
 **Tomes of Talos (TOT)** is the fully SFW counterpart to JOJ, offering the same scale, polish, and depth without any adult content.  
 
 This list transforms Skyrim into a grand and immersive adventure, emphasizing exploration, narrative, and balanced progression across a beautifully enhanced world. Built directly on the foundation of JOJ, TOT preserves its visual fidelity, combat refinement, and expansive content while delivering a clean, lore-friendly experience.  
