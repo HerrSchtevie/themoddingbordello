@@ -1,7 +1,5 @@
 # 📖 Mantras of Mara (MOM) – Modlist Overview
 
-### **Mantras of Mara (MOM)**
-
 **Mantras of Mara (MOM)** is the indulgent, fully NSFW evolution of JOJ, built around themes of love, devotion, and divine connection.  
 
 This list transforms Skyrim into a world where intimacy and emotion are central to the experience, blending expansive gameplay systems with a deeply integrated adult framework powered by SexLab. Under Mara’s influence, pleasure becomes part of the journey rather than separate from it.  
