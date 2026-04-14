@@ -1,9 +1,14 @@
 # 📖 Tomes of Talos (TOT) – Modlist Overview
 
-**Tomes of Talos (TOT)** is a fully automated Wabbajack modlist for Skyrim Special Edition that transforms the game into a stunning and lore-rich adventure across Tamriel.
+### **Tomes of Talos (TOT)**
 
-Featuring complete visual overhauls, quest expansions, refined combat, and curated follower enhancements, TOT delivers an immersive and replayable experience focused on intensity, exploration, and narrative — all without adult content.  
-Built on the foundations of **Journals of Jyggalag**, TOT is Skyrim reimagined for players who want something **epic, balanced, and clean**.
+**Tomes of Talos (TOT)** is the fully SFW counterpart to JOJ, offering the same scale, polish, and depth without any adult content.  
+
+This list transforms Skyrim into a grand and immersive adventure, emphasizing exploration, narrative, and balanced progression across a beautifully enhanced world. Built directly on the foundation of JOJ, TOT preserves its visual fidelity, combat refinement, and expansive content while delivering a clean, lore-friendly experience.  
+
+TOT is designed to feel epic yet grounded, encouraging players to lose themselves in a cohesive and immersive journey where every system supports storytelling and discovery. Combat, visuals, and progression are carefully tuned to maintain harmony without excess or disruption.  
+
+Featuring complete visual overhauls, quest expansions, refined combat, and curated follower enhancements, TOT offers a polished and replayable experience for those who want the full Bordello scale in a fully SFW package.  
 
 ---
 
