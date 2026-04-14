@@ -1,6 +1,4 @@
-# 🦌 Hymns of Hircine
-
-## Introduction
+# 📖 Hymns of Hircine (HOH) – Modlist Overview
 
 **Hymns of Hircine (HOH)** is the immersive challenge modlist from the **Scrolls of Schtevie** team.  
 
