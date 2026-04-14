@@ -1,6 +1,6 @@
 # 📖 Hymns of Hircine (HOH) – Modlist Overview
 
-**Hymns of Hircine (HOH)** is the immersive challenge modlist from the **Scrolls of Schtevie** team.  
+**Hymns of Hircine (HOH)** is the immersive challenge modlist from **The Modding Bordello** team.  
 
 This list transforms Skyrim into a merciless Hunting Ground where survival is never guaranteed. You will battle hunger, cold, exhaustion, and predators that stalk your every step, with Hircine’s blessing only granted through blood and perseverance.  
 
