@@ -20,7 +20,7 @@ Let the path of Order guide you.
 2. 💾 [Skyrim Save System Overhaul 3](#-skyrim-save-system-overhaul-3)
 3. 🧭 [Questing](#-questing)
 4. 🧑‍🎨 [Face & Appearance Issues](#-face--appearance-issues)
-5. 🗺️ [Map Marker Issues](#-map-marker-issues)
+5. 🗺️ [Map Marker Issues](#map-marker-issues)
 6. 🏃 [Change Dodge Key](#-change-dodge-key)
 7. 💀 [Shadow of Skyrim Death System](#-shadow-of-skyrim-death-system)
 8. 🗡️ [Attacking Innocents](#-attacking-innocents)
@@ -303,6 +303,7 @@ Using `showlimitedracemenu` ensures your character's appearance is refreshed wit
 
 ---
 
+<a id="map-marker-issues"></a>
 <h2 class="visually-hidden">🗺️ Map Marker Issues</h2>
 
 <details>

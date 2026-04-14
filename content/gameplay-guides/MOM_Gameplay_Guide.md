@@ -21,7 +21,7 @@ Let the Path of Love guide you.
 3. 🔞 [SexLab and NSFW](#-sexlab-and-nsfw)
 4. 🧭 [Questing](#-questing)
 5. 🧑‍🎨 [Face & Appearance Issues](#-face--appearance-issues)
-6. 🗺️ [Map Marker Issues](#-map-marker-issues)
+6. 🗺️ [Map Marker Issues](#map-marker-issues)
 7. 🏃 [Change Dodge Key](#-change-dodge-key)
 8. 💀 [Acheron Death Alternative](#-acheron-death-alternative)
 9. 🗡️ [Attacking Innocents](#-attacking-innocents)
@@ -391,6 +391,7 @@ Using `showlimitedracemenu` ensures your character's appearance is refreshed wit
 
 ---
 
+<a id="map-marker-issues"></a>
 <h2 class="visually-hidden">🗺️ Map Marker Issues</h2>
 
 <details>
