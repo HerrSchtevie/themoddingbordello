@@ -1,7 +1,5 @@
 # 📖 Diaries of Dibella (DOD) – Modlist Overview
 
-### **Diaries of Dibella (DOD)**
-
 **Diaries of Dibella (DOD)** is a fusion of harsh survival and unapologetic sensuality, combining the intensity of HOH with the depth of MOM into a single, uncompromising experience.  
 
 This list transforms Skyrim into a world of extremes, where beauty and danger exist side by side, and survival demands both strength and surrender. With punishing systems, MCO-driven combat, and deeply integrated adult content, DOD creates a relentless yet intoxicating journey shaped by Dibella’s influence.  
