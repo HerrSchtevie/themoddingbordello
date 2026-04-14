@@ -27,6 +27,8 @@ Let the path of Order guide you.
 9. ✅ [Conclusion](#-conclusion)
 
 
+---
+
 <h2 class="visually-hidden">🧙 Character Creation and Progression</h2>
 
 <details>

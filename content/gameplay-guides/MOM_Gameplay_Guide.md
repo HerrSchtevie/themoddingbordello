@@ -28,6 +28,8 @@ Let the Path of Love guide you.
 10. ✅ [Conclusion](#-conclusion)
 
 
+---
+
 <h2 class="visually-hidden">🧙 Character Creation and Progression</h2>
 
 <details>

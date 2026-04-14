@@ -3,6 +3,15 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8d4ed38a-d18a-4b42-92ec-0d19b1c2a9f9"  
 
+## IMPORTANT
+Heavily modded Skyrim is a complex and delicate machine. It's going to take some time and care to get everything set up. **Decide now** to embrace the process.
+
+Read *all* the instructions. *Follow* all the instructions. If you do, you'll be playing Skyrim before you know it.
+
+If you try to rush the procedure or cut corners, you'll be asking in Discord why things aren't working, when you could have been playing Skyrim instead.
+
+Take your time, work through every step in sequence, and then enjoy the game.
+
 ---
 
 ### 📎 Community

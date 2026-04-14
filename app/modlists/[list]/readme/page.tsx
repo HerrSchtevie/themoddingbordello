@@ -3,6 +3,7 @@ import { allModlistSlugs, modlistBySlug, getModlistContentPath } from '@/lib/mod
 import { loadMarkdown } from '@/lib/markdown';
 import { ModlistLayout } from '@/components/layout/ModlistLayout';
 import { MarkdownRenderer } from '@/components/markdown/MarkdownRenderer';
+import { GuideTOCSidebar, GuideTOCMobile } from '@/components/guides/GuideTOC';
 import { ModlistSlug } from '@/types/modlist';
 
 export function generateStaticParams() {
@@ -18,7 +19,13 @@ export default async function ReadmePage({ params }: { params: { list: string } 
 
   return (
     <ModlistLayout list={list} activePage="readme">
-      <MarkdownRenderer html={html} />
+      <GuideTOCMobile contentId="readme-content" />
+      <div className="flex gap-8">
+        <div className="min-w-0 flex-1" id="readme-content">
+          <MarkdownRenderer html={html} />
+        </div>
+        <GuideTOCSidebar contentId="readme-content" />
+      </div>
     </ModlistLayout>
   );
 }
