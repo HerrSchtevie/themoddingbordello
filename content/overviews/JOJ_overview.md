@@ -92,7 +92,7 @@ JOJ fully integrates adult content in a way that enhances immersion — not disr
 ### 🧭 Included Voiced Followers:
 Kaidan, Remiel, Auri, Xelzaz, Lucien, Inigo, Hoth, Jesper, Taliesin, Gore, Caesia, Lyssia, M'rissi, Katana, Redcap, Thogra, Merlin, Khajiit Will Follow — and more.
 
-> Want to know where to find them? See the [SOS Follower Guide](SOS-Follower-Guide)
+> Want to know where to find them? See the [SOS Follower Guide](/guides/sos-follower-guide)
 
 ---
 
