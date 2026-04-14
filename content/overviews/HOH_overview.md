@@ -6,7 +6,7 @@ This list transforms Skyrim into a merciless Hunting Ground where survival is ne
 
 HOH is designed to be difficult, immersive, and role-play focused, encouraging you to step fully into the role of a hunter in a dangerous, unforgiving world. Every system — survival mechanics, combat, economy, and immersion mods — works together to create a relentless challenge that rewards patience, strategy, and role-play above all else.  
 
-Featuring full integration of adult content, complete visual overhauls, quest expansions, and refined combat, HOH creates an immersive, replayable experience for players who want both intensity and intimacy. Built on the bones of **NGVO**, this is Skyrim reimagined — darker, deeper, and far more dangerous.  
+Featuring full integration of adult content, complete visual overhauls, quest expansions, and refined combat, HOH creates an immersive, replayable experience for players who want both intensity and intimacy. 
 
 ---
 
