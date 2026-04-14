@@ -1,6 +1,6 @@
 # 📖 Journals of Jyggalag (JOJ) – Modlist Overview
 
-**Journals of Jyggalag (JOJ)** is the flagship modlist of the **Scrolls of Schtevie** ecosystem and the foundation upon which all other lists are built.  
+**Journals of Jyggalag (JOJ)** is the flagship modlist of **The Modding Bordello** ecosystem and the foundation upon which all other lists are built.  
 
 This list delivers a refined high fantasy power experience, combining polished visuals, expansive quests, and deeply customizable combat into a cohesive and ever-evolving world. Built on EnaiRim and enhanced with BFCO combat, JOJ empowers players with freedom, scale, and control without sacrificing balance or stability.  
 
