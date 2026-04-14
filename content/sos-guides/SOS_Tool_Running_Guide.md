@@ -49,8 +49,10 @@ Proceed with caution. You have been warned.
 
 ---
 <a id="summary"></a>
+<h2 class="visually-hidden">Tool Overviews</h2>
 
-## Tool Overviews
+<details>
+<summary>📚 Tool Overviews</summary>
 
 #### 🧵 BodySlide
   - **When to run:** After adding or updating any **armor or clothing mod** (including replacers).  
@@ -98,6 +100,8 @@ You'll find detailed, step-by-step instructions for each tool below — includin
 These tools **build off one another in a specific sequence**, and must be run in the **order listed above** for everything to function correctly.
   
 If you're unsure, just follow the guide **step-by-step, top to bottom** — it's written in the exact order you should run each tool.
+
+</details>
 
 ---
 

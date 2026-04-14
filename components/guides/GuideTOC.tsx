@@ -18,6 +18,7 @@ interface GuideTOCProps {
  * (for visually-hidden headings that sit just before their card).
  */
 function revealElement(el: Element) {
+  // 1. Open any ancestor <details> (for headings nested inside cards)
   let parent: Element | null = el.parentElement;
   while (parent) {
     if (parent.tagName === 'DETAILS') {
@@ -25,8 +26,21 @@ function revealElement(el: Element) {
     }
     parent = parent.parentElement;
   }
-  let sibling = el.nextElementSibling;
-  while (sibling && sibling.tagName !== 'DETAILS' && !/^H[1-6]$/.test(sibling.tagName) && sibling.tagName !== 'HR') {
+  // 2. Walk forward looking for an adjacent <details> card to open.
+  //    If the element is wrapped (e.g. <a> inside <p>), walk up through
+  //    wrapper elements until we find one with forward siblings.
+  let start: Element | null = el;
+  while (start && !start.nextElementSibling && start.parentElement) {
+    start = start.parentElement;
+  }
+  if (!start) return;
+  let sibling: Element | null = start.nextElementSibling;
+  while (
+    sibling &&
+    sibling.tagName !== 'DETAILS' &&
+    sibling.tagName !== 'HR' &&
+    (!/^H[1-6]$/.test(sibling.tagName) || sibling.classList.contains('visually-hidden'))
+  ) {
     sibling = sibling.nextElementSibling;
   }
   if (sibling?.tagName === 'DETAILS') {
@@ -88,7 +102,7 @@ function parseTOCItems(container: HTMLElement): TOCItem[] {
 }
 
 export function GuideTOCSidebar({ contentId }: GuideTOCProps) {
-  const { items, activeId, scrollTo, scrollToTop } = useTOC(contentId);
+  const { items, activeId, scrollTo, scrollToTop, expandAll, collapseAll, hasDetails } = useTOC(contentId);
 
   if (items.length === 0) return null;
 
@@ -98,6 +112,23 @@ export function GuideTOCSidebar({ contentId }: GuideTOCProps) {
         <p className="text-xs font-semibold uppercase tracking-wider text-bordello-muted mb-3 px-2">
           On this page
         </p>
+        {hasDetails && (
+          <div className="flex gap-2 px-2 mb-3">
+            <button
+              onClick={expandAll}
+              className="text-xs text-bordello-muted hover:text-white transition-colors"
+            >
+              Expand All
+            </button>
+            <span className="text-bordello-border">|</span>
+            <button
+              onClick={collapseAll}
+              className="text-xs text-bordello-muted hover:text-white transition-colors"
+            >
+              Collapse All
+            </button>
+          </div>
+        )}
         <ul className="space-y-0.5">
           {items.map((item) => (
             <li key={item.id}>
@@ -133,7 +164,7 @@ export function GuideTOCSidebar({ contentId }: GuideTOCProps) {
 }
 
 export function GuideTOCMobile({ contentId }: GuideTOCProps) {
-  const { items, activeId, scrollTo } = useTOC(contentId);
+  const { items, activeId, scrollTo, expandAll, collapseAll, hasDetails } = useTOC(contentId);
   const [mobileOpen, setMobileOpen] = useState(false);
 
   const handleScrollTo = useCallback((id: string) => {
@@ -146,11 +177,12 @@ export function GuideTOCMobile({ contentId }: GuideTOCProps) {
   return (
     <>
       <div className="xl:hidden sticky top-16 z-40 py-2 bg-bordello-bg/95 backdrop-blur border-b border-bordello-border">
-        <button
-          onClick={() => setMobileOpen(!mobileOpen)}
-          className="flex items-center justify-between w-full px-3 py-2.5 rounded-lg border border-bordello-border bg-bordello-surface/50 text-sm"
-        >
-          <span className="text-bordello-muted">Jump to Section</span>
+        <div className="flex items-center gap-2">
+          <button
+            onClick={() => setMobileOpen(!mobileOpen)}
+            className="flex items-center justify-between flex-1 px-3 py-2.5 rounded-lg border border-bordello-border bg-bordello-surface/50 text-sm"
+          >
+            <span className="text-bordello-muted">Jump to Section</span>
           <svg
             className={`w-4 h-4 text-bordello-muted transition-transform duration-200 ${mobileOpen ? 'rotate-180' : ''}`}
             fill="none"
@@ -159,7 +191,32 @@ export function GuideTOCMobile({ contentId }: GuideTOCProps) {
           >
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
           </svg>
-        </button>
+          </button>
+          {hasDetails && (
+            <div className="flex gap-1 shrink-0">
+              <button
+                onClick={expandAll}
+                className="px-2 py-2.5 rounded-lg border border-bordello-border bg-bordello-surface/50 text-bordello-muted hover:text-white transition-colors"
+                aria-label="Expand all sections"
+                title="Expand All"
+              >
+                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 8V4m0 0h4M4 4l5 5m11-1V4m0 0h-4m4 0l-5 5M4 16v4m0 0h4m-4 0l5-5m11 5v-4m0 4h-4m4 0l-5-5" />
+                </svg>
+              </button>
+              <button
+                onClick={collapseAll}
+                className="px-2 py-2.5 rounded-lg border border-bordello-border bg-bordello-surface/50 text-bordello-muted hover:text-white transition-colors"
+                aria-label="Collapse all sections"
+                title="Collapse All"
+              >
+                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 4H4v5m0-5l5 5m6-5h5v5m0-5l-5 5M9 20H4v-5m0 5l5-5m6 5h5v-5m0 5l-5-5" />
+                </svg>
+              </button>
+            </div>
+          )}
+        </div>
 
         {mobileOpen && (
           <div className="mt-1 max-h-64 overflow-y-auto overscroll-contain rounded-lg border border-bordello-border bg-bordello-surface shadow-xl">
@@ -273,6 +330,31 @@ function useTOC(contentId: string) {
     window.scrollTo({ top: 0, behavior: 'smooth' });
   }, []);
 
+  // Expand / Collapse all <details> in the content container
+  const [hasDetails, setHasDetails] = useState(false);
+
+  useEffect(() => {
+    const container = document.getElementById(contentId);
+    if (!container) return;
+    setHasDetails(container.querySelectorAll('details').length > 0);
+  }, [contentId, items]);
+
+  const expandAll = useCallback(() => {
+    const container = document.getElementById(contentId);
+    if (!container) return;
+    container.querySelectorAll('details').forEach((d) => {
+      (d as HTMLDetailsElement).open = true;
+    });
+  }, [contentId]);
+
+  const collapseAll = useCallback(() => {
+    const container = document.getElementById(contentId);
+    if (!container) return;
+    container.querySelectorAll('details').forEach((d) => {
+      (d as HTMLDetailsElement).open = false;
+    });
+  }, [contentId]);
+
   // Handle hash on page load and hash changes (back/forward, authored TOC clicks)
   useEffect(() => {
     function handleHash() {
@@ -296,7 +378,7 @@ function useTOC(contentId: string) {
     };
   }, []);
 
-  return { items, activeId, scrollTo, scrollToTop };
+  return { items, activeId, scrollTo, scrollToTop, expandAll, collapseAll, hasDetails };
 }
 
 function BackToTopButton() {
