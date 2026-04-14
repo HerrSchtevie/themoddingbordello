@@ -1,6 +1,14 @@
 # 📖 Journals of Jyggalag (JOJ) – Modlist Overview
 
-**Journals of Jyggalag (JOJ)** is the flagship modlist and primary development baseline for the entire Scrolls of Schtevie ecosystem, first released in April of 2025. Built as an EnaiRim-based power fantasy experience, JOJ features a complete graphics overhaul, customized BFCO combat, extensive quest and follower expansions, and consensual NSFW elements built off of OStim. JOJ serves as the core technical and design foundation from which other lists are derived, with an emphasis on stability, scalability, and long-term maintainability alongside expansive content and player freedom.
+### **Journals of Jyggalag (JOJ)**
+
+**Journals of Jyggalag (JOJ)** is the flagship modlist of the **Scrolls of Schtevie** ecosystem and the foundation upon which all other lists are built.  
+
+This list delivers a refined high fantasy power experience, combining polished visuals, expansive quests, and deeply customizable combat into a cohesive and ever-evolving world. Built on EnaiRim and enhanced with BFCO combat, JOJ empowers players with freedom, scale, and control without sacrificing balance or stability.  
+
+JOJ is designed to be expansive, flexible, and endlessly replayable, allowing players to shape their journey through a world that rewards exploration, experimentation, and mastery. Every system — combat, progression, visuals, and content — is carefully integrated to maintain both performance and long-term scalability.  
+
+Featuring full visual overhauls, extensive quest and follower expansions, and consensual NSFW integration through OStim, JOJ stands as the definitive Bordello experience and the core from which all others evolve.  
 
 ---
 
