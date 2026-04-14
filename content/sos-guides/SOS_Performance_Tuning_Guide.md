@@ -153,13 +153,15 @@ After completing these steps, continue with [VRAMr](#vramr), [BethINI](#bethini)
 
 For best results on low-end systems:
 
-- [ ] Select the Performance profile
-- [ ] Run VRAMr
-- [ ] Apply BethINI tweaks
-- [ ] Enable `performancemode=true` in SSEDisplayTweaks
-- [ ] Set SSGI to AO Only in game
-- [ ] Lower resolution if above 1080p
-- [ ] Check AVX support for Faster SMP
+<div style="list-style:none;padding:0;margin:0;">
+<label style="display:block;padding:4px 0;cursor:pointer;"><input type="checkbox"> Select the Performance profile</label>
+<label style="display:block;padding:4px 0;cursor:pointer;"><input type="checkbox"> Run VRAMr</label>
+<label style="display:block;padding:4px 0;cursor:pointer;"><input type="checkbox"> Apply BethINI tweaks</label>
+<label style="display:block;padding:4px 0;cursor:pointer;"><input type="checkbox"> Enable <code>performancemode=true</code> in SSEDisplayTweaks</label>
+<label style="display:block;padding:4px 0;cursor:pointer;"><input type="checkbox"> Set SSGI to AO Only in game</label>
+<label style="display:block;padding:4px 0;cursor:pointer;"><input type="checkbox"> Lower resolution if above 1080p</label>
+<label style="display:block;padding:4px 0;cursor:pointer;"><input type="checkbox"> Check AVX support for Faster SMP</label>
+</div>
 
 ---
 
