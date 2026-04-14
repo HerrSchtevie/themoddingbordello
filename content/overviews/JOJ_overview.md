@@ -1,9 +1,7 @@
 # 📖 Journals of Jyggalag (JOJ) – Modlist Overview
 
-**Journals of Jyggalag (JOJ)** is a fully automated Wabbajack modlist for Skyrim Special Edition that transforms the game into a stunning, lore-rich, and erotic adventure across Tamriel.  
+**Journals of Jyggalag (JOJ)** is a fully automated Wabbajack modlist for Skyrim Special Edition that transforms the game into a stunning, lore-rich, and erotic adventure across Tamriel.
 Featuring full integration of adult content, complete visual overhauls, quest expansions, and refined combat, JOJ creates an immersive, replayable experience for players who want both **intensity** and **intimacy**.
-
-Built on the bones of NGVO, this is Skyrim reimagined — darker, deeper, and far more dangerous.
 
 ---
 
