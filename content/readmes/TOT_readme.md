@@ -424,25 +424,25 @@ Once enabled and properly sorted, you’ll have full access to enhanced controll
 
 For more information on controller support, NPC management, and running essential tools, check out the following:
 
-- [🧭 TOT Gameplay Guide](TOT-Gameplay-Guide)  
+- [🧭 TOT Gameplay Guide](/modlists/tot/gameplay-guide)  
   Explains key gameplay systems, progression, mechanics, and builds.  
 
-- [🛠️ SOS Tool Running Guide](SOS-Tool-Running-Guide)  
+- [🛠️ SOS Tool Running Guide](/guides/sos-tool-running-guide)  
   Covers when and how to safely run Pandora, Synthesis, ParallaxGen, xLODGen, TexGen, and DynDOLOD  
 
-- [🎮 SOS Controller Setup Guide](SOS-Controller-Guide)  
+- [🎮 SOS Controller Setup Guide](/guides/sos-controller-guide)  
   How to enable and configure controller support  
 
-- [🧑‍🤝‍🧑 SOS Follower Guide](SOS-Follower-Guide)  
+- [🧑‍🤝‍🧑 SOS Follower Guide](/guides/sos-follower-guide)  
   List of custom followers, where to find them, and compatibility notes.  
 
-- [🏠 SOS Player Home Guide](SOS-Player-Home-Guide)  
+- [🏠 SOS Player Home Guide](/guides/sos-player-home-guide)  
   List of custom followers, where to find them, and compatibility notes.  
 
-- [🎭 SOS NPC Plugin Chooser 2 Guide](SOS-NPC-Plugin-Chooser-2-Guide)  
+- [🎭 SOS NPC Plugin Chooser 2 Guide](/guides/sos-npc-plugin-chooser-2-guide)  
   Managing and customizing NPC appearances  
 
-- [🧩 SOS Rule 11 Guide](SOS-Rule-11-Guide)  
+- [🧩 SOS Rule 11 Guide](/guides/sos-rule-11-guide)  
   Understanding list modifications and their risks  
 
 ---

@@ -79,7 +79,7 @@ Each quest is patched and rebalanced to blend seamlessly into Skyrim’s world.
 
 **Remiel, Auri, Xelzaz, Lucien, Inigo, Hoth, Jesper, Taliesin, Gore, Caesia, Lyssia, M'rissi, Katana, Redcap, Thogra, Merlin, Khajiit Will Follow** — and many more.
 
-> 📘 For full details, see the [SOS Follower Guide](SOS-Follower-Guide)
+> 📘 For full details, see the [SOS Follower Guide](/guides/sos-follower-guide)
 
 ---
 
