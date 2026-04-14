@@ -12,6 +12,28 @@ interface GuideTOCProps {
   contentId: string;
 }
 
+/**
+ * Open all ancestor &lt;details&gt; elements (for headings nested inside cards)
+ * and, if the element is a sibling before a &lt;details&gt;, open that too
+ * (for visually-hidden headings that sit just before their card).
+ */
+function revealElement(el: Element) {
+  let parent: Element | null = el.parentElement;
+  while (parent) {
+    if (parent.tagName === 'DETAILS') {
+      (parent as HTMLDetailsElement).open = true;
+    }
+    parent = parent.parentElement;
+  }
+  let sibling = el.nextElementSibling;
+  while (sibling && sibling.tagName !== 'DETAILS' && !/^H[1-6]$/.test(sibling.tagName) && sibling.tagName !== 'HR') {
+    sibling = sibling.nextElementSibling;
+  }
+  if (sibling?.tagName === 'DETAILS') {
+    (sibling as HTMLDetailsElement).open = true;
+  }
+}
+
 /** Patterns for headings that are status labels / notes, not navigational sections */
 const EXCLUDED_PATTERNS = [
   /^not available in /i,
@@ -240,6 +262,7 @@ function useTOC(contentId: string) {
   const scrollTo = useCallback((id: string) => {
     const el = document.getElementById(id);
     if (!el) return;
+    revealElement(el);
     const offset = 80;
     const top = el.getBoundingClientRect().top + window.scrollY - offset;
     window.scrollTo({ top, behavior: 'smooth' });
@@ -248,6 +271,29 @@ function useTOC(contentId: string) {
 
   const scrollToTop = useCallback(() => {
     window.scrollTo({ top: 0, behavior: 'smooth' });
+  }, []);
+
+  // Handle hash on page load and hash changes (back/forward, authored TOC clicks)
+  useEffect(() => {
+    function handleHash() {
+      const hash = window.location.hash.slice(1);
+      if (!hash) return;
+      const el = document.getElementById(decodeURIComponent(hash));
+      if (!el) return;
+      revealElement(el);
+      requestAnimationFrame(() => {
+        const offset = 80;
+        const top = el.getBoundingClientRect().top + window.scrollY - offset;
+        window.scrollTo({ top, behavior: 'smooth' });
+      });
+    }
+
+    const timer = setTimeout(handleHash, 200);
+    window.addEventListener('hashchange', handleHash);
+    return () => {
+      clearTimeout(timer);
+      window.removeEventListener('hashchange', handleHash);
+    };
   }, []);
 
   return { items, activeId, scrollTo, scrollToTop };

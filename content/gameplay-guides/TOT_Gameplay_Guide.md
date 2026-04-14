@@ -27,7 +27,10 @@ Let the path of Order guide you.
 9. ✅ [Conclusion](#-conclusion)
 
 
-## 🧙 Character Creation and Progression
+<h2 class="visually-hidden">🧙 Character Creation and Progression</h2>
+
+<details>
+<summary>🧙 Character Creation and Progression</summary>
 
 ### Race Selection
 - Your choice of race determines:
@@ -63,7 +66,7 @@ Let the path of Order guide you.
   - It is OK to select your pronouns immediately.
   - Wait to press "Commence" until the initial stream of notifications has ended, i.e. after the Honed Metal message fades.
   - After pressing "Commence", walk away from your keyboard, let everything initialize, and wait for the final confirmation message.
-  - Once you see the popup that says **“Museum is done setting up,”** it’s safe to proceed.
+  - Once you see the popup that says **"Museum is done setting up,"** it's safe to proceed.
 
 ---
 
@@ -109,7 +112,7 @@ Let the path of Order guide you.
 
 - **Destiny Points**:  
   - Awarded at **character creation** and **milestone levels**  
-  - Activate the **“Destiny” power** in your powers menu to access a unique progression tree
+  - Activate the **"Destiny" power** in your powers menu to access a unique progression tree
 
 ---
 
@@ -125,10 +128,15 @@ Let the path of Order guide you.
   - One or more of The Sinister Seven will seek you out every few levels starting at 12. If you're able to kill one, you should read the notes they carry, and consider those notes carefully as you prepare for the next attack. 
   - Moonlight Werewolves are less predictable and might be encountered almost anywhere, mostly at night time. Running from them is an option... if you start early. 
   - If you are certain that you prefer not to be surprised with boss-tier encounters during your Skyrim play, you have the option to disable Werewolf encounters in the Moonlight Tales MCM, and to change the S7 trigger levels to an arbitrarily high value in that MCM. We encourage you not to do this, though; the most memorable gaming moments are often from surprises.
- 
+
+</details>
+
 ---
 
-## 💾 Skyrim Save System Overhaul 3
+<h2 class="visually-hidden">💾 Skyrim Save System Overhaul 3</h2>
+
+<details>
+<summary>💾 Skyrim Save System Overhaul 3</summary>
 
 ---
 
@@ -175,9 +183,14 @@ Note: the system assumes that any character with the default name "Prisoner" is 
   - Always use `F5` to save. **Do not** use the Pause Menu save option; that menu does not engage SSSO3's quality protection logic.
   - Do not use either the vanilla or SSSO3 quickload option. If you must reload your game, exit to desktop first and restart Skyrim.
 
+</details>
+
 ---
 
-## 🧭 Questing
+<h2 class="visually-hidden">🧭 Questing</h2>
+
+<details>
+<summary>🧭 Questing</summary>
 
 This list includes expansions of many vanilla quests as well as quite a few new ones. Most of these can be explored simply by encountering them through normal gameplay, or you can check the quest list in **Mod Organizer** to see if there's something you want to make a point of seeking out.
 
@@ -185,7 +198,7 @@ This list includes expansions of many vanilla quests as well as quite a few new 
 - Many new quests will activate **organically** during exploration.
 - For guidance or spoilers, you can:
   - Check the installed mod list in MO2
-  - Look through the “Quests” category to see what’s been added
+  - Look through the "Quests" category to see what's been added
 
 <details>
  <summary>List of Major Quests</summary>
@@ -239,9 +252,14 @@ The standard start for AHO is a bit abrupt and can be disorienting to players wh
 
 When you are ready to start Project AHO, and are level 15 or higher, head to the Braidwood Inn in Kynesgrove. Talk to Iddra the innkeeper; she will have a note for you to investigate a suspicious orc at Mixwater Mill. After reading the note, the mod's storyline will commence the next time you approach the mill.
 
+</details>
+
 ---
 
-## 🧑‍🎨 Face & Appearance Issues
+<h2 class="visually-hidden">🧑‍🎨 Face & Appearance Issues</h2>
+
+<details>
+<summary>🧑‍🎨 Face & Appearance Issues</summary>
 
 ### Problem: Black Face or Unexpected Tattoos
 
@@ -263,7 +281,7 @@ If you received the **Vanity Mirror** in the starting room:
 2. Click on the **Vanity Mirror**
 3. This will open **Limited RaceMenu**
 4. Press `R` to finalize and confirm your appearance
-5. Your character’s face should now display correctly
+5. Your character's face should now display correctly
 
 ---
 
@@ -277,13 +295,18 @@ If you **did not** get the Vanity Mirror:
 4. Press `R` to finalize your appearance  
 5. Hit **Enter** to confirm and exit
 
-Using `showlimitedracemenu` ensures your character’s appearance is refreshed without resetting your race or other critical values. This should correct black face bugs or visual glitches.
+Using `showlimitedracemenu` ensures your character's appearance is refreshed without resetting your race or other critical values. This should correct black face bugs or visual glitches.
+
+</details>
 
 ---
 
-## 🗺️ Map Marker Issues
+<h2 class="visually-hidden">🗺️ Map Marker Issues</h2>
 
-### Problem: “I’m at a map marker, but there’s nothing here!”
+<details>
+<summary>🗺️ Map Marker Issues</summary>
+
+### Problem: "I'm at a map marker, but there's nothing here!"
 
 This is a known issue caused by **Soul Cairn markers** from the Atlas MCM.
 
@@ -296,13 +319,18 @@ This is a known issue caused by **Soul Cairn markers** from the Atlas MCM.
 3. Go to the **Atlas Map Markers** section
 4. **Disable** the set of markers for the **Soul Cairn**
 
-This will remove the “?” markers from your world map and prevent confusion while exploring.
+This will remove the "?" markers from your world map and prevent confusion while exploring.
+
+</details>
 
 ---
 
-## 🏃 Change Dodge Key
+<h2 class="visually-hidden">🏃 Change Dodge Key</h2>
 
-By default, dodging is triggered by tapping your Sprint key. If you want to change this behavior, you’ll need to manually edit the TK Dodge configuration file.
+<details>
+<summary>🏃 Change Dodge Key</summary>
+
+By default, dodging is triggered by tapping your Sprint key. If you want to change this behavior, you'll need to manually edit the TK Dodge configuration file.
 
 To do this, open Mod Organizer 2, go to the right-hand pane, and navigate to the **Data** tab. Locate the active version of `TK Dodge RE.ini`. Right-click the file and select **Open**.
 
@@ -314,31 +342,47 @@ Inside the file, change the following lines:
 
 Make sure to replace `[your desired key's scancode]` with the actual scancode of the key you want to assign. Note that the scancode link provided in the `.ini` file is outdated. For an accurate list, refer to: https://ck.uesp.net/wiki/Input_Script
 
+</details>
+
 ---
 
-## 💀 Shadow of Skyrim Death System
+<h2 class="visually-hidden">💀 Shadow of Skyrim Death System</h2>
+
+<details>
+<summary>💀 Shadow of Skyrim Death System</summary>
 
 **Tomes of Talos** uses **[Shadow of Skyrim - Nemesis and Alternative Death System](https://www.nexusmods.com/skyrimspecialedition/mods/65136)** by default.
 
 Please review the modpage for more detail.
 
+</details>
+
 ---
 
-## 🗡️ Attacking Innocents
+<h2 class="visually-hidden">🗡️ Attacking Innocents</h2>
+
+<details>
+<summary>🗡️ Attacking Innocents</summary>
 
 We use Simple Offense Suppression to ensure that you don't accidentally hurt innocent NPCs during chaotic brawls with Miraak cultists or the Sinister Seven. We understand that this can be frustrating when you want to just murder your favorite drinking buddy or send Nazeem to the actual Cloud District; for such moments, just use the SOS MCM to toggle NPC protection off.
 
+</details>
+
 ---
 
-## ✅ Conclusion
+<h2 class="visually-hidden">✅ Conclusion</h2>
 
-Tomes of Talos is built to be a user-friendly and immersive experience right out of the box. You don’t need to read this entire guide to enjoy the list — it’s here to help answer common questions, smooth out any confusion, and give you a bit of extra insight into how everything works under the hood.
+<details>
+<summary>✅ Conclusion</summary>
+
+Tomes of Talos is built to be a user-friendly and immersive experience right out of the box. You don't need to read this entire guide to enjoy the list — it's here to help answer common questions, smooth out any confusion, and give you a bit of extra insight into how everything works under the hood.
 
 Whether you're a seasoned modlist veteran or totally new to modern Skyrim overhauls, JOJ is designed to feel intuitive, stable, and rewarding from the very first load screen.
 
-If you ever get stuck, want to learn more, or just feel like sharing your adventures, hop into our Discord — we’re always happy to help.
+If you ever get stuck, want to learn more, or just feel like sharing your adventures, hop into our Discord — we're always happy to help.
 
 Enjoy your journey, and may your path be clear and orderly.
 
----
+</details>
 
+---

@@ -30,7 +30,10 @@ Welcome to the SOS Player Home Guide — a categorized list of recommended house
 
 ---
 
-## Elysium Estate
+<h2 class="visually-hidden">Elysium Estate</h2>
+
+<details>
+<summary>Elysium Estate</summary>
 
 <img src="https://github.com/user-attachments/assets/82ff8ffa-ade1-44a2-88bd-238ab4f06f9d" alt="image" />
 
@@ -55,9 +58,14 @@ Welcome to the SOS Player Home Guide — a categorized list of recommended house
 
 **Modpage:** https://www.nexusmods.com/skyrimspecialedition/mods/4119
 
+</details>
+
 ---
 
-## Legacy of the Dragonborn Safehouse
+<h2 class="visually-hidden">Legacy of the Dragonborn Safehouse</h2>
+
+<details>
+<summary>Legacy of the Dragonborn Safehouse</summary>
 
 <img width="1000" height="563" alt="image" src="https://github.com/user-attachments/assets/6ab99e82-aef3-44ae-a25c-a61f2e3ca2ef" />
 
@@ -78,9 +86,14 @@ Welcome to the SOS Player Home Guide — a categorized list of recommended house
 
 **Modpage:** https://legacy-of-the-dragonborn.fandom.com/wiki/The_Safehouse_(SSE)
 
+</details>
+
 ---
 
-## Aemers Refuge
+<h2 class="visually-hidden">Aemers Refuge</h2>
+
+<details>
+<summary>Aemers Refuge</summary>
 
 <img src="https://github.com/user-attachments/assets/7d67b4a8-804c-4368-a344-1e6aadb8cf27" alt="image" />
 
@@ -102,11 +115,16 @@ Welcome to the SOS Player Home Guide — a categorized list of recommended house
 
 **Modpage:** https://www.nexusmods.com/skyrimspecialedition/mods/4751
 
+</details>
+
 ---
 
 <a id="talos-tease"></a>
 
-## Talos' Tease
+<h2 class="visually-hidden">Talos' Tease</h2>
+
+<details>
+<summary>Talos' Tease</summary>
 
 ## Not available in TOT or VOV
 
@@ -130,12 +148,16 @@ Welcome to the SOS Player Home Guide — a categorized list of recommended house
 
 **Modpage:** https://www.nexusmods.com/skyrimspecialedition/mods/160241
 
+</details>
 
 ---
 
 <a id="thur-vonun-sanctum"></a>
 
-## Thur Vonun Sanctum
+<h2 class="visually-hidden">Thur Vonun Sanctum</h2>
+
+<details>
+<summary>Thur Vonun Sanctum</summary>
 
 <img alt="Talos' Tease" src="https://github.com/user-attachments/assets/d996ea72-c506-4c94-b18c-06f1f044d14b" />
 
@@ -155,9 +177,14 @@ Welcome to the SOS Player Home Guide — a categorized list of recommended house
 
 **Modpage:** https://www.nexusmods.com/skyrimspecialedition/mods/71283
 
+</details>
+
 ---
 
-## Mirele Bismath
+<h2 class="visually-hidden">Mirele Bismath</h2>
+
+<details>
+<summary>Mirele Bismath</summary>
 
 <img src="https://github.com/user-attachments/assets/455dcafb-081e-4952-8723-29e12ca154d0" alt="image" />
 
@@ -176,9 +203,14 @@ Welcome to the SOS Player Home Guide — a categorized list of recommended house
 
 **Modpage:** https://www.nexusmods.com/skyrimspecialedition/mods/93817
 
+</details>
+
 ---
 
-## The Interdimensional Chambers
+<h2 class="visually-hidden">The Interdimensional Chambers</h2>
+
+<details>
+<summary>The Interdimensional Chambers</summary>
 
 <img src="https://github.com/user-attachments/assets/d90e27e8-dd6e-4c73-9e69-8bc45fc76209" alt="image" />
 
@@ -197,9 +229,14 @@ Welcome to the SOS Player Home Guide — a categorized list of recommended house
 
 **Modpage:** https://www.nexusmods.com/skyrimspecialedition/mods/47778
 
+</details>
+
 ---
 
-## Home in a Hat
+<h2 class="visually-hidden">Home in a Hat</h2>
+
+<details>
+<summary>Home in a Hat</summary>
 
 <img src="https://github.com/user-attachments/assets/a3eba05d-54d7-4f06-a1ba-1687a4e4ddf2" alt="image" />
 
@@ -217,9 +254,14 @@ Welcome to the SOS Player Home Guide — a categorized list of recommended house
 
 **Modpage:** https://www.nexusmods.com/skyrimspecialedition/mods/81722
 
+</details>
+
 ---
 
-## Eclipse Cottage
+<h2 class="visually-hidden">Eclipse Cottage</h2>
+
+<details>
+<summary>Eclipse Cottage</summary>
 
 <img src="https://github.com/user-attachments/assets/b8c7e99f-4b78-4941-a407-17e7bde98026" alt="image" />
 
@@ -235,9 +277,14 @@ Welcome to the SOS Player Home Guide — a categorized list of recommended house
 
 **Modpage:** https://www.nexusmods.com/skyrimspecialedition/mods/131467
 
+</details>
+
 ---
 
-## Breaking Dawn Cottage
+<h2 class="visually-hidden">Breaking Dawn Cottage</h2>
+
+<details>
+<summary>Breaking Dawn Cottage</summary>
 
 <img src="https://github.com/user-attachments/assets/f1f022a5-2bc1-4576-bf2a-394f7386f720" alt="image" />
 
@@ -253,14 +300,19 @@ Welcome to the SOS Player Home Guide — a categorized list of recommended house
 
 **Modpage:** https://www.nexusmods.com/skyrimspecialedition/mods/130643
 
+</details>
+
 ---
 
-## New Moon Cottage
+<h2 class="visually-hidden">New Moon Cottage</h2>
+
+<details>
+<summary>New Moon Cottage</summary>
 
 <img src="https://github.com/user-attachments/assets/c0d35000-663d-4f64-86ff-e7dd2b7fe7b2" alt="image" />
 
 **Location:** Morthal, near Falion's house  
-**Acquisition:** Satchel in Movarth’s Lair  
+**Acquisition:** Satchel in Movarth's Lair  
 **Vibe:** Rustic minimalist hut
 
 **Special Features:**
@@ -271,9 +323,14 @@ Welcome to the SOS Player Home Guide — a categorized list of recommended house
 
 **Modpage:** https://www.nexusmods.com/skyrimspecialedition/mods/129512
 
+</details>
+
 ---
 
-## Levelers Tower
+<h2 class="visually-hidden">Levelers Tower</h2>
+
+<details>
+<summary>Levelers Tower</summary>
 
 ## Not available in HOH or DOD
 
@@ -292,3 +349,5 @@ Welcome to the SOS Player Home Guide — a categorized list of recommended house
 - Most OP testing and cheat home
 
 **Modpage:** https://www.nexusmods.com/skyrimspecialedition/mods/2692
+
+</details>

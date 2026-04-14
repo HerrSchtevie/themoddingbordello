@@ -12,7 +12,7 @@ Welcome to the official follower guide for the **Scrolls of Schtevie Modlists**.
 
 This guide was written by **Tidal**, a true **Crusader of Order**. A massive thank you to him for compiling this information with care and clarity — give him your appreciation in the Discord!
 
-> ✨ **Note:** Followers labeled as *NFF Compatible* are designed to work with [Nether’s Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/55653). Those without this tag may use their own behavior or follower AI and should not be used with NFF.
+> ✨ **Note:** Followers labeled as *NFF Compatible* are designed to work with [Nether's Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/55653). Those without this tag may use their own behavior or follower AI and should not be used with NFF.
 
 ---
 
@@ -61,7 +61,11 @@ This guide was written by **Tidal**, a true **Crusader of Order**. A massive tha
 
 ## 🎭 Story & Custom Followers
 
-### Kaidan
+<h3 class="visually-hidden">Kaidan</h3>
+
+<details>
+<summary>Kaidan</summary>
+
 [Kaidan - Immersive Features](https://kaidanmod.com/)  
 Kaidan is written to be an immersive companion or lover for your Dragonborn, reactive to quests and choices.
 
@@ -71,39 +75,63 @@ The Modding Bordello is proudly partnered with the [Immersive Kaidan Discord ser
 
 ![image](https://github.com/user-attachments/assets/d918e696-e2ba-4ef6-98e0-c55e71fdbbbf)
 
+</details>
+
 ---
 
-### Remiel
+<h3 class="visually-hidden">Remiel</h3>
+
+<details>
+<summary>Remiel</summary>
+
 [Remiel](https://www.nexusmods.com/skyrimspecialedition/mods/51874)  
-A Breton engineer from Wayrest with over **5,000 lines** of dialogue. Remiel isn’t a warrior but offers charm, curiosity, and Dwemer tech. She can even **reprogram a Dwemer spider** to assist you in battle.
+A Breton engineer from Wayrest with over **5,000 lines** of dialogue. Remiel isn't a warrior but offers charm, curiosity, and Dwemer tech. She can even **reprogram a Dwemer spider** to assist you in battle.
 
 **Location:** Markarth, Silverblood Inn
 
 ![image](https://github.com/user-attachments/assets/1669ee81-2097-45b4-b5b3-66a584a86f6f)
 
+</details>
+
 ---
 
-### Auri – Song of the Green
+<h3 class="visually-hidden">Auri – Song of the Green</h3>
+
+<details>
+<summary>Auri – Song of the Green</summary>
+
 [Auri](https://www.nexusmods.com/skyrimspecialedition/mods/11278)  
 A traditionalist Bosmer archer with over **1,000 voiced lines**, deeply rooted in the Green Pact. Auri provides rich cultural commentary, snarky wit, and a unique take on the world of Skyrim.
 
-**Location:** Falkreath Hold – Look for Auri’s Pod on the map
+**Location:** Falkreath Hold – Look for Auri's Pod on the map
 
 ![image](https://github.com/user-attachments/assets/f483049e-981d-446b-b065-d199d4a7c23f)
 
+</details>
+
 ---
 
-### Lucien – The Scholar Companion
+<h3 class="visually-hidden">Lucien – The Scholar Companion</h3>
+
+<details>
+<summary>Lucien – The Scholar Companion</summary>
+
 [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035)  
 An Imperial academic with **5,000+ lines** of fully voiced dialogue. Lucien starts out timid and untrained but grows braver and more capable through your shared journey. Offers optional training and commentary.
 
-**Location:** Dead Man’s Drink, Falkreath
+**Location:** Dead Man's Drink, Falkreath
 
 ![image](https://github.com/user-attachments/assets/6022b9e9-4cb8-402a-867c-d1982275d740)
 
+</details>
+
 ---
 
-### Xelzaz – Telvanni Argonian Follower
+<h3 class="visually-hidden">Xelzaz – Telvanni Argonian Follower</h3>
+
+<details>
+<summary>Xelzaz – Telvanni Argonian Follower</summary>
+
 [Xelzaz](https://www.nexusmods.com/skyrimspecialedition/mods/62893)  
 A fully voiced **Argonian Telvanni enforcer** with over **8,300 lines**. Offers potions, Telvanni history, meals, and deep lore interactions. A great companion for mages and Dunmer roleplay.
 
@@ -111,9 +139,15 @@ A fully voiced **Argonian Telvanni enforcer** with over **8,300 lines**. Offers 
 
 ![image](https://github.com/user-attachments/assets/49b8e9fc-71fd-4521-b82f-e37a44066003)
 
+</details>
+
 ---
 
-### Katana, Megara & Shale
+<h3 class="visually-hidden">Katana, Megara & Shale</h3>
+
+<details>
+<summary>Katana, Megara & Shale</summary>
+
 [Katana – Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/69622)  
 This epic quest follower mod includes three companions:
 - **Katana** – A rogue with a troubled past  
@@ -128,9 +162,15 @@ Together they feature **8,000+ lines** and a fully integrated quest experience.
 
 ![image](https://github.com/user-attachments/assets/1a0227bb-3493-4812-ad85-8127b83499cc)
 
+</details>
+
 ---
 
-### Taliesin – Thalmor in Shadow
+<h3 class="visually-hidden">Taliesin – Thalmor in Shadow</h3>
+
+<details>
+<summary>Taliesin – Thalmor in Shadow</summary>
+
 [Taliesin](https://www.nexusmods.com/skyrimspecialedition/mods/93413)  
 Once a Thalmor soldier, Taliesin turned rogue after a crisis of conscience. Now haunted by regret, he travels Skyrim cloaked in riddles, philosophy, and melancholy. An ideal companion for morally complex playthroughs.
 
@@ -138,13 +178,19 @@ Once a Thalmor soldier, Taliesin turned rogue after a crisis of conscience. Now 
 
 ![image](https://github.com/user-attachments/assets/a68f4b7f-dc16-4d17-8091-2e76715b1c4a)
 
+</details>
+
 ---
 
 <a id="mrissi"></a>
 
-### M'rissi
+<h3 class="visually-hidden">M'rissi</h3>
+
+<details>
+<summary>M'rissi</summary>
+
 [M'Rissi](https://www.nexusmods.com/skyrimspecialedition/mods/9666)  
-M’rissi is a custom-voiced Khajiit follower with a rich, emotional backstory and a multi-stage questline. She features over 2,000 lines of dialogue, unique romantic interactions, and a branching narrative with impactful choices. Ideal for roleplayers who want deep companion storytelling with a morally gray edge.
+M'rissi is a custom-voiced Khajiit follower with a rich, emotional backstory and a multi-stage questline. She features over 2,000 lines of dialogue, unique romantic interactions, and a branching narrative with impactful choices. Ideal for roleplayers who want deep companion storytelling with a morally gray edge.
 
 M'Rissi is intentionally *not* Essential or Protected through most of her story. Keep her safe, or mourn her loss.
 
@@ -152,11 +198,17 @@ M'Rissi is intentionally *not* Essential or Protected through most of her story.
 
 ![image](https://github.com/user-attachments/assets/4b8e7aa7-8e84-439b-a21e-27c37d995dfa)
 
+</details>
+
 ---
 
 <a id="sachil"></a>
 
-### Sa'chil
+<h3 class="visually-hidden">Sa'chil</h3>
+
+<details>
+<summary>Sa'chil</summary>
+
 [Sa'chil](https://www.nexusmods.com/skyrimspecialedition/mods/106892)  
 Sa'chil is a Dagi-Raht Khajiit spellsword from Hammerfell. She is nimble, clever, stubborn, optimistic, and a joker.
  She prefers to fight like an aggressive spellsword with her fire-spells, but you can always change out her weaponry!
@@ -165,9 +217,15 @@ Sa'chil is a Dagi-Raht Khajiit spellsword from Hammerfell. She is nimble, clever
 
 ![image](https://github.com/user-attachments/assets/f514d155-c31f-4087-b389-13d2862654ee)  
 
+</details>
+
 ---
 
-### Thogra gra-Mugur
+<h3 class="visually-hidden">Thogra gra-Mugur</h3>
+
+<details>
+<summary>Thogra gra-Mugur</summary>
+
 [Thogra gra-Mugur](https://www.nexusmods.com/skyrimspecialedition/mods/120007)  
 Thogra gra-Mugur is a woman on a mission. Currently, she is also dying. If you save her life, you will get a loyal (if somewhat gruff) follower and friend. But whether her loyalty will be rewarded, well... that is entirely up to you.
 
@@ -175,9 +233,15 @@ Thogra gra-Mugur is a woman on a mission. Currently, she is also dying. If you s
 
 ![image](https://github.com/user-attachments/assets/1a6193ab-3116-4af6-8989-ace5f1f21822)
 
+</details>
+
 ---
 
-### Redcap the Riekling
+<h3 class="visually-hidden">Redcap the Riekling</h3>
+
+<details>
+<summary>Redcap the Riekling</summary>
+
 [Redcap the Riekling](https://www.nexusmods.com/skyrimspecialedition/mods/73441)  
 Redcap is a unique, voice-acted, immersive follower mod with over 2600 lines of dialogue, a ton of fun and useful features, several new quests, new locations, interactive commentary on many quests, and a pet boar named Bigpig who he can summon in battle! Redcap has a big personality and a lot to offer!
 
@@ -185,9 +249,15 @@ Redcap is a unique, voice-acted, immersive follower mod with over 2600 lines of 
 
 ![image](https://github.com/user-attachments/assets/085f4dbc-6869-42d3-9660-4bcfb8bb6d02)
 
+</details>
+
 ---
 
-### Khajiit Will Follow
+<h3 class="visually-hidden">Khajiit Will Follow</h3>
+
+<details>
+<summary>Khajiit Will Follow</summary>
+
 [Khajiit Will Follow](https://www.nexusmods.com/skyrimspecialedition/mods/2227)  
 Adds 4 custom-voiced, marriageable khajiit followers (3 male, 1 female) to the world, each with their own unique quests, backstories, personalities, and play styles. Includes 13,800 lines of dialogue and massive content patches for both The Forgotten City and Vigilant quest mods.
 
@@ -195,13 +265,19 @@ Adds 4 custom-voiced, marriageable khajiit followers (3 male, 1 female) to the w
 - Bikhai - Whiterun
 - Ma'kara - Darkwater Crossing
 - Nanak - Solitude
-- S’ariq - Riften Jail
+- S'ariq - Riften Jail
 
 ![image](https://github.com/user-attachments/assets/d3a6e160-6609-43f4-bb9c-850c11a16594)
 
+</details>
+
 ---
 
-### Merlin the Corgi
+<h3 class="visually-hidden">Merlin the Corgi</h3>
+
+<details>
+<summary>Merlin the Corgi</summary>
+
 [Merlin the Corgi](https://www.nexusmods.com/skyrimspecialedition/mods/56433)  
 Adds a magical corgi companion to join you on your adventures.
 
@@ -209,9 +285,15 @@ Adds a magical corgi companion to join you on your adventures.
 
 ![image](https://github.com/user-attachments/assets/6314ed69-bad6-4a82-b952-ff29c02c6514)
 
+</details>
+
 ---
 
-### Yoana
+<h3 class="visually-hidden">Yoana</h3>
+
+<details>
+<summary>Yoana</summary>
+
 [Yoana custom voiced follower](https://www.nexusmods.com/skyrimspecialedition/mods/164506)  
 Yoana is a fully voiced follower with her own quirks, her own rhythm, and a dual-wield style that fits the strange little world inside her head.
 
@@ -221,11 +303,17 @@ Yoana is a fully voiced follower with her own quirks, her own rhythm, and a dual
 
 ![image](https://github.com/user-attachments/assets/bc9fc2a1-5377-43e3-9e2c-171a84be4004)  
 
+</details>
+
 ---
 
 ## 🔮 Magical Companions
 
-### Hot Ildari – Ash Witch Follower
+<h3 class="visually-hidden">Hot Ildari – Ash Witch Follower</h3>
+
+<details>
+<summary>Hot Ildari – Ash Witch Follower</summary>
+
 [Hot Ildari](https://www.nexusmods.com/skyrimspecialedition/mods/19274)  
 A reworked version of Ildari Sarothril from the *Dragonborn* DLC. This mod allows you to recruit her after the questline, complete with **custom dialogue** and deeper personality. One of the darker and more powerful companions available.
 
@@ -233,31 +321,49 @@ A reworked version of Ildari Sarothril from the *Dragonborn* DLC. This mod allow
 
 ![image](https://github.com/user-attachments/assets/b4003e3e-dfc8-44a5-8b42-740a9f1b9f8b)
 
+</details>
+
 ---
 
-### Coralyn – The Bosmer Shaman *NFF Compatible*
-[Coldsun’s Coralyn](https://www.nexusmods.com/skyrimspecialedition/mods/112014)  
-Voiced by Pixie Willow with over **550 unique lines**, Coralyn is a forest shaman who left Valenwood’s rigid culture behind. Deeply attuned to nature, she's quick and elusive, with a mystical vibe and a strong will.
+<h3 class="visually-hidden">Coralyn – The Bosmer Shaman <em>NFF Compatible</em></h3>
+
+<details>
+<summary>Coralyn – The Bosmer Shaman <em>NFF Compatible</em></summary>
+
+[Coldsun's Coralyn](https://www.nexusmods.com/skyrimspecialedition/mods/112014)  
+Voiced by Pixie Willow with over **550 unique lines**, Coralyn is a forest shaman who left Valenwood's rigid culture behind. Deeply attuned to nature, she's quick and elusive, with a mystical vibe and a strong will.
 
 **Location:** Wandering the roads near Honningbrew Meadery, Whiterun Hold
 
 ![image](https://github.com/user-attachments/assets/9067ed1f-7f82-49fe-8b78-a5a6a53892c4)
 
+</details>
+
 ---
 
-### Astara Cosma – Imperial Librarian *NFF Compatible*
-[Coldsun’s Astara Cosma](https://www.nexusmods.com/skyrimspecialedition/mods/93354)  
+<h3 class="visually-hidden">Astara Cosma – Imperial Librarian <em>NFF Compatible</em></h3>
+
+<details>
+<summary>Astara Cosma – Imperial Librarian <em>NFF Compatible</em></summary>
+
+[Coldsun's Astara Cosma](https://www.nexusmods.com/skyrimspecialedition/mods/93354)  
 Astara is a top-level mage stationed at the Arcanaeum. She's formal, calculating, and incredibly potent in magic, voiced by KiaraRedVA. Her dialogue reflects her scholarly pride and no-nonsense demeanor.
 
 **Location:** Arcanaeum, College of Winterhold
 
 ![image](https://github.com/user-attachments/assets/53d4edb1-57cb-4db4-801d-e4a3e55ec8d7)
 
+</details>
+
 ---
 
 ## ⚔️ Warriors & Combat Allies
 
-### Hoth – Bounty Hunter of the North
+<h3 class="visually-hidden">Hoth – Bounty Hunter of the North</h3>
+
+<details>
+<summary>Hoth – Bounty Hunter of the North</summary>
+
 [Hoth](https://www.nexusmods.com/skyrimspecialedition/mods/16137)  
 A grizzled veteran covered in trophies from his kills. Hoth delivers brutal strength and dark humor. He's voiced and fully equipped with his own combat gear and bounty system.
 
@@ -265,9 +371,15 @@ A grizzled veteran covered in trophies from his kills. Hoth delivers brutal stre
 
 ![image](https://github.com/user-attachments/assets/5b03484f-31b5-4d0c-86ec-d115b31e15cf)
 
+</details>
+
 ---
 
-### Inigo – The Loyal Khajiit
+<h3 class="visually-hidden">Inigo – The Loyal Khajiit</h3>
+
+<details>
+<summary>Inigo – The Loyal Khajiit</summary>
+
 [Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461)  
 One of the most beloved companions ever made. Inigo is a fully voiced Khajiit with **7,000+ unique lines**, complete with stealth skills, dynamic reactions, unique gear, and player-synced interactions.
 
@@ -275,41 +387,65 @@ One of the most beloved companions ever made. Inigo is a fully voiced Khajiit wi
 
 ![image](https://github.com/user-attachments/assets/5f546db6-97b4-409f-ba86-79290bb3ce95)
 
+</details>
+
 ---
 
-### Gore – Soldier of Sorrow
+<h3 class="visually-hidden">Gore – Soldier of Sorrow</h3>
+
+<details>
+<summary>Gore – Soldier of Sorrow</summary>
+
 [Gore](https://www.nexusmods.com/skyrimspecialedition/mods/85298)  
 Raised a child soldier, Gore is now a bold and heavily armored warrior. Loud, opinionated, and deeply wounded, his journey adds depth and pain to any campaign. Ideal for emotionally resonant storytelling.
 
-**Location:** Peak’s Shade Tower, near Falkreath
+**Location:** Peak's Shade Tower, near Falkreath
 
 ![image](https://github.com/user-attachments/assets/53b9977e-7183-497c-b491-460781efc0ae)
 
+</details>
+
 ---
 
-### Jesper the Guard
+<h3 class="visually-hidden">Jesper the Guard</h3>
+
+<details>
+<summary>Jesper the Guard</summary>
+
 [Jesper](https://www.nexusmods.com/skyrimspecialedition/mods/132362)  
-From *Skyrim Guard Tales*, Jesper is a bard-like Whiterun guard with custom voice lines and the occasional song. He’s loyal, humorous, and a light-hearted addition to your travels.
+From *Skyrim Guard Tales*, Jesper is a bard-like Whiterun guard with custom voice lines and the occasional song. He's loyal, humorous, and a light-hearted addition to your travels.
 
 **Location:** The Bannered Mare, Whiterun
 
 ![image](https://github.com/user-attachments/assets/ac054bee-f5e0-4f8e-8d7e-1ce42b20b648)
 
+</details>
+
 ---
 
-### Vayne – The Dunmer Spy
-[Coldsun’s Vayne Remastered](https://www.nexusmods.com/skyrimspecialedition/mods/157005)  
+<h3 class="visually-hidden">Vayne – The Dunmer Spy</h3>
+
+<details>
+<summary>Vayne – The Dunmer Spy</summary>
+
+[Coldsun's Vayne Remastered](https://www.nexusmods.com/skyrimspecialedition/mods/157005)  
 A seductive and dangerous Dunmer voiced by Alexia Renaldis (Lily from *Subverse*). Vayne is mature, mysterious, and not afraid to get her hands dirty. Contains adult themes and hidden depth.
 
 **Location:** Mistveil Keep, Riften
 
 ![image](https://github.com/user-attachments/assets/876e7703-a1b2-49ab-b06f-f988b3ad02dd)
 
+</details>
+
 ---
 
 ## 🏰 Vanilla Expansion Mods
 
-### Serana Dialogue Add-On *NFF Compatible*  
+<h3 class="visually-hidden">Serana Dialogue Add-On <em>NFF Compatible</em></h3>
+
+<details>
+<summary>Serana Dialogue Add-On <em>NFF Compatible</em></summary>
+
 [Serana Dialogue Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/32161)  
 This mod transforms Serana into a deeply interactive companion with over **8,000 new voiced lines** by Kerstyn Unger. It adds new questlines, personality traits, relationship options, and intelligent reactive dialogue. A must-have for vampire or Dawnguard playthroughs.
 
@@ -317,21 +453,32 @@ This mod transforms Serana into a deeply interactive companion with over **8,000
 
 ![image](https://github.com/user-attachments/assets/cc72d3aa-c94b-4e44-b9a8-736c365567c4)
 
+</details>
+
 ---
 
-### Improved Follower Dialogue – Lydia *NFF Compatible*  
+<h3 class="visually-hidden">Improved Follower Dialogue – Lydia <em>NFF Compatible</em></h3>
+
+<details>
+<summary>Improved Follower Dialogue – Lydia <em>NFF Compatible</em></summary>
+
 [Improved Lydia](https://www.nexusmods.com/skyrimspecialedition/mods/38473)  
-Lydia finally gets the attention she deserves with **1,400+ fully voiced lines** by LMG Wilson. This mod expands her personality, giving her greater depth, more situational awareness, and actual conversations beyond “I am sworn to carry your burdens.”
+Lydia finally gets the attention she deserves with **1,400+ fully voiced lines** by LMG Wilson. This mod expands her personality, giving her greater depth, more situational awareness, and actual conversations beyond "I am sworn to carry your burdens."
 
 **Location:** Dragonsreach, Whiterun
 
 ![image](https://github.com/user-attachments/assets/611fa085-fbf9-41f3-a0ae-08b2c588faa5)
 
+</details>
+
 ---
 
-### Follower Dialogue Expansion
+<h3 class="visually-hidden">Follower Dialogue Expansion</h3>
 
-This modlist includes nearly the **entire suite of [Follower Dialogue Expansion (FDE)](https://next.nexusmods.com/profile/anbeegod/mods?gameId=1704)** content by prolific author *anbeegod*. These dialogue overhauls dramatically improve personality, immersion, and reactivity for many of Skyrim’s core companions.
+<details>
+<summary>Follower Dialogue Expansion</summary>
+
+This modlist includes nearly the **entire suite of [Follower Dialogue Expansion (FDE)](https://next.nexusmods.com/profile/anbeegod/mods?gameId=1704)** content by prolific author *anbeegod*. These dialogue overhauls dramatically improve personality, immersion, and reactivity for many of Skyrim's core companions.
 
 The following vanilla followers are fully supported by FDE:
 
@@ -352,11 +499,16 @@ The following vanilla followers are fully supported by FDE:
 - Rayya  
 - Sapphire  
 
-> These expansions give new life to Skyrim’s original companions, making them more expressive, responsive, and integrated into your adventures.
+> These expansions give new life to Skyrim's original companions, making them more expressive, responsive, and integrated into your adventures.
+
+</details>
 
 ---
 
-## Follower Banter Guide
+<h2 class="visually-hidden">Follower Banter Guide</h2>
+
+<details>
+<summary>Follower Banter Guide</summary>
 
 ### 💬 What Companions Have Good Banter Together?
 
@@ -479,9 +631,14 @@ The following vanilla followers are fully supported by FDE:
 #### **Moonpath to Elsweyr**
 - 🧠 Lucien
 
+</details>
+
 ---
 
-## Conclusion
+<h2 class="visually-hidden">Conclusion</h2>
+
+<details>
+<summary>Conclusion</summary>
 
 With this wide selection of custom followers, **Journals of Jyggalag** transforms Skyrim into a world alive with voices, stories, and personalities. Whether you're drawn to brooding warriors, whimsical mages, or snarky scholars, there's a companion perfectly suited to your journey.
 
@@ -492,3 +649,5 @@ Each follower adds something meaningful — from immersive questlines and deep l
 Happy adventuring, and may Order guide your path.
 
 — *Herr Schtevie*
+
+</details>
