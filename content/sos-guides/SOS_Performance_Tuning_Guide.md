@@ -34,6 +34,8 @@ Two simple changes that can improve performance without significant visual trade
 2. **Set SSGI to AO Only:**
    - In game, open the CS menu with the `End` key
    - Set SSGI to `AO Only`
+     <img width="2098" height="1192" alt="image" src="https://github.com/user-attachments/assets/832324f8-432b-4ed3-91a1-84ab6d562030" />
+
 
 ---
 
