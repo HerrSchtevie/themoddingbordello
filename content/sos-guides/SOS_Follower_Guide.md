@@ -467,7 +467,7 @@ Lydia finally gets the attention she deserves with **1,400+ fully voiced lines**
 
 **Location:** Dragonsreach, Whiterun
 
-![image](https://github.com/user-attachments/assets/611fa085-fbf9-41f3-a0ae-08b2c588faa5)
+![image](https://github.com/user-attachments/assets/1b015179-bdeb-47af-a9dc-1f8e375f23ed)  
 
 </details>
 
