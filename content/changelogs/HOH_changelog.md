@@ -67,7 +67,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
    - `HOH - Armour WAAT Patch 5.esp`  
    - `SOS Missives Location Patch_FLM.ini`  
    - `HOH - Gameplay Edits.esp`  
-   - `HOH - NPC and Race Edits.esp`  
+   - `HOH - NPC and Race Edits.esp`
+   - `kcf_KID.ini`  
 - Set `ForceVSync = false` by default in AMON ENB `enblocal.ini`  
 - Removed `SOS - TRX Futanari BNP Frostnip textures` in favor of [Rynfri's](https://www.nexusmods.com/profile/Rynfri) new Nexus version  
 - Changed [Better Third Person Selector](https://www.nexusmods.com/skyrimspecialedition/mods/64339) hotkey to `Right Alt` to avoid [PPA](https://www.nexusmods.com/skyrimspecialedition/mods/172002) keybind overlap  
