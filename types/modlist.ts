@@ -1,6 +1,6 @@
 export type ModlistSlug = 'joj' | 'tot' | 'hoh' | 'mom' | 'dod' | 'vov' | 'arr';
 
-export type ModlistPage = 'overview' | 'readme' | 'gameplay-guide' | 'changelog' | 'manual-downloads';
+export type ModlistPage = 'overview' | 'readme' | 'gameplay-guide' | 'changelog' | 'manual-downloads' | 'kodex';
 
 export interface ModlistMeta {
   slug: ModlistSlug;
@@ -16,6 +16,7 @@ export interface ModlistMeta {
     gameplayGuide: boolean;
     changelog: true;
     manualDownloads: boolean;
+    kodex: boolean;
   };
   links: {
     nexus: string;

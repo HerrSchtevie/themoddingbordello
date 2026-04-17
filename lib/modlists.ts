@@ -10,7 +10,7 @@ export const modlists: ModlistMeta[] = [
     wallpaper: '/assets/wallpapers/JOJWallpaper.png',
     tagline: 'Let Order guide your path.',
     bookImage: '/assets/books/JOJ_Book.png',
-    pages: { readme: true, gameplayGuide: true, changelog: true, manualDownloads: false },
+    pages: { readme: true, gameplayGuide: true, changelog: true, manualDownloads: false, kodex: true },
     links: {
       nexus: 'https://www.nexusmods.com/skyrimspecialedition/mods/146771',
       loadOrder: 'https://loadorderlibrary.com/lists/journals-of-jyggalag-2',
@@ -25,7 +25,7 @@ export const modlists: ModlistMeta[] = [
     wallpaper: '/assets/wallpapers/TOTWallpaper.png',
     tagline: 'Strength in Voice, Strength in Faith.',
     bookImage: '/assets/books/TOT_Book.png',
-    pages: { readme: true, gameplayGuide: true, changelog: true, manualDownloads: false },
+    pages: { readme: true, gameplayGuide: true, changelog: true, manualDownloads: false, kodex: true },
     links: {
       nexus: 'https://www.nexusmods.com/skyrimspecialedition/mods/154277',
       loadOrder: 'https://loadorderlibrary.com/lists/tomes-of-talos',
@@ -40,7 +40,7 @@ export const modlists: ModlistMeta[] = [
     wallpaper: '/assets/wallpapers/HOHWallpaper.png',
     tagline: 'In the Name of the Hunter, Let None Escape.',
     bookImage: '/assets/books/HOH_Book.png',
-    pages: { readme: true, gameplayGuide: true, changelog: true, manualDownloads: false },
+    pages: { readme: true, gameplayGuide: true, changelog: true, manualDownloads: false, kodex: true },
     links: {
       nexus: 'https://www.nexusmods.com/skyrimspecialedition/mods/156686',
       loadOrder: 'https://loadorderlibrary.com/lists/hymns-of-hircine',
@@ -55,7 +55,7 @@ export const modlists: ModlistMeta[] = [
     wallpaper: '/assets/wallpapers/MOMWallpaper.png',
     tagline: 'Whispered Words Become Eternal Bonds.',
     bookImage: '/assets/books/MOM_Book.png',
-    pages: { readme: true, gameplayGuide: true, changelog: true, manualDownloads: true },
+    pages: { readme: true, gameplayGuide: true, changelog: true, manualDownloads: true, kodex: true },
     links: {
       nexus: 'https://www.nexusmods.com/skyrimspecialedition/mods/158622',
       loadOrder: 'https://loadorderlibrary.com/lists/mantras-of-mara',
@@ -70,7 +70,7 @@ export const modlists: ModlistMeta[] = [
     wallpaper: '/assets/wallpapers/DODWallpaper.png',
     tagline: 'In Pleasure and Peril, We Persist.',
     bookImage: '/assets/books/DOD_Book.png',
-    pages: { readme: true, gameplayGuide: true, changelog: true, manualDownloads: true },
+    pages: { readme: true, gameplayGuide: true, changelog: true, manualDownloads: true, kodex: true },
     links: {
       nexus: 'https://www.nexusmods.com/skyrimspecialedition/mods/156694',
       loadOrder: 'https://loadorderlibrary.com/lists/diaries-of-dibella',
@@ -85,7 +85,7 @@ export const modlists: ModlistMeta[] = [
     wallpaper: '/assets/wallpapers/VOVWallpaper.png',
     tagline: 'Where dreams reshape reality.',
     bookImage: '/assets/books/VOV_Book.png',
-    pages: { readme: true, gameplayGuide: false, changelog: true, manualDownloads: false },
+    pages: { readme: true, gameplayGuide: false, changelog: true, manualDownloads: false, kodex: true },
     links: {
       nexus: 'https://www.nexusmods.com/skyrimspecialedition/mods/173492',
       loadOrder: 'https://loadorderlibrary.com/lists/visions-of-vaermina',
