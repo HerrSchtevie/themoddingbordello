@@ -2,6 +2,8 @@ import fs from 'fs';
 import path from 'path';
 import { ModlistSlug } from '@/types/modlist';
 import { modlistBySlug } from './modlists';
+import { loadManualDownloads, normalizeModName, ManualDownloadEntry } from './manualDownloads';
+import { manualDownloadAliases } from './kodexAliases';
 
 export type KodexModRow = {
   name: string;
@@ -143,10 +145,60 @@ export function getKodexFilePath(slug: ModlistSlug): string {
   return path.join('content', 'kodex-outputs', `${abbr}_kodex.html`);
 }
 
+function collectSexLabSections(nodes: KodexNode[]): KodexSection[] {
+  const isSexLab = (title: string) => title.trim().toLowerCase() === 'sexlab';
+  const out: KodexSection[] = [];
+  for (const n of nodes) {
+    if (n.kind === 'group') {
+      if (isSexLab(n.title)) {
+        out.push(...n.children);
+      } else {
+        for (const c of n.children) {
+          if (isSexLab(c.title)) out.push(c);
+        }
+      }
+    } else if (isSexLab(n.title)) {
+      out.push(n);
+    }
+  }
+  return out;
+}
+
+function applyManualDownloadOverrides(
+  slug: ModlistSlug,
+  nodes: KodexNode[],
+  downloads: ManualDownloadEntry[]
+) {
+  const byName = new Map<string, ManualDownloadEntry>();
+  for (const d of downloads) byName.set(normalizeModName(d.title), d);
+
+  const aliases = manualDownloadAliases[slug] || {};
+  const aliasByKodexName = new Map<string, string>();
+  for (const [kodexName, manualTitle] of Object.entries(aliases)) {
+    aliasByKodexName.set(normalizeModName(kodexName), normalizeModName(manualTitle));
+  }
+
+  for (const section of collectSexLabSections(nodes)) {
+    for (const mod of section.mods) {
+      const norm = normalizeModName(mod.name);
+      let entry = byName.get(norm);
+      if (!entry) {
+        const aliased = aliasByKodexName.get(norm);
+        if (aliased) entry = byName.get(aliased);
+      }
+      mod.nexusUrl = entry && entry.landingUrl ? entry.landingUrl : undefined;
+    }
+  }
+}
+
 export function loadKodex(slug: ModlistSlug): KodexNode[] {
   const rel = getKodexFilePath(slug);
   const full = path.join(process.cwd(), rel);
   if (!fs.existsSync(full)) return [];
   const html = fs.readFileSync(full, 'utf-8');
-  return buildKodexHierarchy(parseKodexHtml(html));
+  const nodes = buildKodexHierarchy(parseKodexHtml(html));
+  if (slug === 'mom' || slug === 'dod') {
+    applyManualDownloadOverrides(slug, nodes, loadManualDownloads(slug));
+  }
+  return nodes;
 }
