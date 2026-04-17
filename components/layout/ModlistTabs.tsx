@@ -17,7 +17,7 @@ const allTabs: TabDef[] = [
   { page: 'gameplay-guide', label: 'Gameplay Guide' },
   { page: 'changelog', label: 'Changelog' },
   { page: 'manual-downloads', label: 'Manual Downloads' },
-  { page: 'kodex', label: 'Kodex' },
+  { page: 'kodex', label: 'Load Order' },
 ];
 
 export function ModlistTabs({ list, activePage }: ModlistTabsProps) {
