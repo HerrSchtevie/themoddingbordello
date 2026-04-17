@@ -68,7 +68,6 @@ This page is kept up to date to ensure a **smooth, repeatable installation exper
 | No Overpenetration SE | https://www.loverslab.com/files/file/10339-no-overpenetration-se/?do=download |
 | PSBoss Standing Stones AiO - LotD display Fix 1.0.0 | https://www.loverslab.com/files/file/47795-psboss-standing-stones-aio-lotd-display-fix/?do=download |
 | SCoE Texture Set – SLACS Plus 4K | https://www.loverslab.com/applications/core/interface/file/attachment.php?id=2201727&key=befc541059be13bb61dc411181cb4c18 |
-| SexCraft – A Speechcraft Overhaul (0.14.5) | https://www.loverslab.com/files/file/31540-sexcraft-a-speechcraft-overhaul-beta/?do=download&r=2068182&confirm=1&t=1&csrfKey=355e792d6fa52c8df9631d9d5f2e37ed |
 | SexLab Confabulation – Solutions Patch v1.7.4 | https://www.loverslab.com/files/file/11867-sexlab-confabulation-september-16-2020/?do=download&r=859744&confirm=1&t=1&csrfKey=355e792d6fa52c8df9631d9d5f2e37ed |
 | SexLab Confabulation 1.7.4 – Voicepack | https://www.loverslab.com/files/file/36328-sl-confabulation-174-voicepack/?do=download&r=2016544&confirm=1&t=1&csrfKey=355e792d6fa52c8df9631d9d5f2e37ed |
 | SexLab Confabulation v1.7.4 | https://www.loverslab.com/files/file/11867-sexlab-confabulation-september-16-2020/?do=download&r=859747&confirm=1&t=1&csrfKey=355e792d6fa52c8df9631d9d5f2e37ed |
