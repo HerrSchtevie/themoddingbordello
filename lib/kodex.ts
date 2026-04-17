@@ -180,13 +180,14 @@ function applyManualDownloadOverrides(
 
   for (const section of collectSexLabSections(nodes)) {
     for (const mod of section.mods) {
+      if (mod.nexusUrl) continue;
       const norm = normalizeModName(mod.name);
       let entry = byName.get(norm);
       if (!entry) {
         const aliased = aliasByKodexName.get(norm);
         if (aliased) entry = byName.get(aliased);
       }
-      mod.nexusUrl = entry && entry.landingUrl ? entry.landingUrl : undefined;
+      if (entry && entry.landingUrl) mod.nexusUrl = entry.landingUrl;
     }
   }
 }
