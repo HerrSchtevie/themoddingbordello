@@ -29,6 +29,9 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [WHEELER - Refined](https://www.nexusmods.com/skyrimspecialedition/mods/167380)  
 [Race Blood Test](https://www.nexusmods.com/skyrimspecialedition/mods/153880)  
 [Critter Master - Script Call Reduction](https://www.nexusmods.com/skyrimspecialedition/mods/141745)  
+[Race Blood Test - Ohmes-Raht Patch](https://www.nexusmods.com/skyrimspecialedition/mods/177386) - Thanks, [Rynfri](https://www.nexusmods.com/profile/Rynfri)!  
+[Model Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/136461)  
+[HFs - Diverse Model Swapper - Inkwell_Quill - 2K](https://www.nexusmods.com/skyrimspecialedition/mods/132023?tab=files&file_id=610988&nmm=1)  
 
 ---
 
@@ -48,6 +51,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Race Compatibility SKSE (RCS)](https://www.nexusmods.com/skyrimspecialedition/mods/122592)  
 [Race Compatibility SKSE - Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/122592?tab=files&file_id=674464&nmm=1)  
 [F.T.F.Y. - Race Compatibility SKSE - Configurations for Custom Races](https://www.nexusmods.com/skyrimspecialedition/mods/147472)  
+[HFs - Diverse (BOS) Inkwell and Quill - 2K](https://www.nexusmods.com/skyrimspecialedition/mods/132023?tab=files&file_id=554374&nmm=1)  
 
 ---
 
@@ -57,7 +61,6 @@ The actual MO2 modlist is always the authoritative reference for modlist content
    - `JOJ - Armour Crafting Manuals 0.esp`
    - `MOM - Armour WAAT Patch 4.esp`
    - `MOM - Armour WAAT Patch 5.esp`
-   - `SOS - Race Blood Test Ohmes-Raht Patch`
    - `MOM - Ohmes-Raht Fix.esp`  
 - Set `ForceVSync = false` by default in AMON ENB `enblocal.ini`  
 - Removed `SOS - TRX Futanari BNP Frostnip textures` in favor of [Rynfri's](https://www.nexusmods.com/profile/Rynfri) new Nexus version  
