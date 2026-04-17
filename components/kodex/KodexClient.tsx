@@ -241,6 +241,28 @@ export function KodexClient({ nodes, accentColor }: KodexClientProps) {
               : `${count} matching ${count === 1 ? 'mod' : 'mods'}`}
           </p>
         )}
+        <p className="text-sm text-bordello-text mt-3 mb-2">
+          Powered by{' '}
+          <a
+            href="https://www.nexusmods.com/skyrimspecialedition/mods/157869"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:underline"
+            style={{ color: accentColor }}
+          >
+            Kodex
+          </a>{' '}
+          by{' '}
+          <a
+            href="https://www.nexusmods.com/profile/Kyler45"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:underline"
+            style={{ color: accentColor }}
+          >
+            Kyler
+          </a>
+        </p>
       </div>
 
       <div key={isSearching ? 'search' : 'default'} className="space-y-6">
