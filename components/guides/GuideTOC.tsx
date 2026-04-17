@@ -254,17 +254,42 @@ function useTOC(contentId: string) {
   const observerRef = useRef<IntersectionObserver | null>(null);
   const headingElements = useRef<Map<string, IntersectionObserverEntry>>(new Map());
 
-  // Parse headings on mount
+  // Parse headings on mount and re-parse when the content DOM changes
   useEffect(() => {
     const container = document.getElementById(contentId);
     if (!container) return;
 
-    const timer = setTimeout(() => {
+    let rafId = 0;
+    const reparse = () => {
       const parsed = parseTOCItems(container);
-      setItems(parsed);
-      if (parsed.length > 0) setActiveId(parsed[0].id);
+      setItems((prev) => {
+        if (
+          prev.length === parsed.length &&
+          prev.every((p, i) => p.id === parsed[i].id && p.text === parsed[i].text)
+        ) {
+          return prev;
+        }
+        return parsed;
+      });
+    };
+
+    const schedule = () => {
+      cancelAnimationFrame(rafId);
+      rafId = requestAnimationFrame(reparse);
+    };
+
+    const timer = setTimeout(() => {
+      reparse();
     }, 100);
-    return () => clearTimeout(timer);
+
+    const observer = new MutationObserver(() => schedule());
+    observer.observe(container, { childList: true, subtree: true });
+
+    return () => {
+      clearTimeout(timer);
+      cancelAnimationFrame(rafId);
+      observer.disconnect();
+    };
   }, [contentId]);
 
   // Scrollspy via IntersectionObserver
