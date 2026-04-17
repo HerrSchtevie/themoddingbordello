@@ -27,6 +27,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 [TRX Futanari SOS addon BnP Frostnip Skin Patch](https://www.nexusmods.com/skyrimspecialedition/mods/176687)  
 [WHEELER - Refined](https://www.nexusmods.com/skyrimspecialedition/mods/167380)  
+[Model Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/136461)  
+[HFs - Diverse Model Swapper - Inkwell_Quill - 2K](https://www.nexusmods.com/skyrimspecialedition/mods/132023?tab=files&file_id=610988&nmm=1)  
 
 ---
 
@@ -40,7 +42,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 ## Removals 
 
-NONE
+[HFs - Diverse (BOS) Inkwell and Quill - 2K](https://www.nexusmods.com/skyrimspecialedition/mods/132023?tab=files&file_id=554374&nmm=1)  
 
 ---
 
