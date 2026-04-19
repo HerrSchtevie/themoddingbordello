@@ -44,6 +44,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [The Gray Cowl of Nocturnal - 10th anniversary](https://www.nexusmods.com/skyrimspecialedition/mods/141327)  
 [FSMP - Faster HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339)  
 [Critter Master - Script Call Reduction](https://www.nexusmods.com/skyrimspecialedition/mods/141745)  
+[SALSa - Skill-Access Locking by Synergy](https://www.nexusmods.com/skyrimspecialedition/mods/174469?tab=files&file_id=742991&nmm=1) - Thanks, [Guurzak](https://www.nexusmods.com/profile/Guurzak)!  
+[SALSIFY Vokrii](https://www.nexusmods.com/skyrimspecialedition/mods/174469?tab=files&file_id=742996&nmm=1) - Thanks, [Guurzak](https://www.nexusmods.com/profile/Guurzak)!  
 
 ---
 
