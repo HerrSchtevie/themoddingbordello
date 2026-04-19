@@ -31,7 +31,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Critter Master - Script Call Reduction](https://www.nexusmods.com/skyrimspecialedition/mods/141745)  
 [Race Blood Test - Ohmes-Raht Patch](https://www.nexusmods.com/skyrimspecialedition/mods/177386) - Thanks, [Rynfri](https://www.nexusmods.com/profile/Rynfri)!  
 [Model Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/136461)  
-[HFs - Diverse Model Swapper - Inkwell_Quill - 2K](https://www.nexusmods.com/skyrimspecialedition/mods/132023?tab=files&file_id=610988&nmm=1)    
+[HFs - Diverse Model Swapper - Inkwell_Quill - 2K](https://www.nexusmods.com/skyrimspecialedition/mods/132023?tab=files&file_id=610988&nmm=1)  
+[Racemenu Rotation with Gamepad Support NG](https://www.nexusmods.com/skyrimspecialedition/mods/177359)  
 
 ---
 
@@ -51,6 +52,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Race Compatibility SKSE - Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/122592?tab=files&file_id=674464&nmm=1)  
 [F.T.F.Y. - Race Compatibility SKSE - Configurations for Custom Races](https://www.nexusmods.com/skyrimspecialedition/mods/147472)  
 [HFs - Diverse (BOS or Model Swapper) Inkwell and Quill](https://www.nexusmods.com/skyrimspecialedition/mods/132023)  
+[Racemenu Rotation with Gamepad Support](https://www.nexusmods.com/skyrimspecialedition/mods/145585)  
 
 ---
 
@@ -61,7 +63,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
    - `JOJ - Armour WAAT Patch 4.esp`
    - `JOJ - Armour WAAT Patch 5.esp`
    - `SOS - Gameplay Edits.esp`
-   - `kcf_KID.ini`  
+   - `kcf_KID.ini`
+   - `Adventurer Armor - 3BA Conversion Fix`  
 - Set `ForceVSync = false` by default in AMON ENB `enblocal.ini`  
 - Removed `SOS - TRX Futanari BNP Frostnip textures` in favor of [Rynfri's](https://www.nexusmods.com/profile/Rynfri) new Nexus version  
 - Changed [Better Third Person Selector](https://www.nexusmods.com/skyrimspecialedition/mods/64339) hotkey to `Right Alt` to avoid [PPA](https://www.nexusmods.com/skyrimspecialedition/mods/172002) keybind overlap  
