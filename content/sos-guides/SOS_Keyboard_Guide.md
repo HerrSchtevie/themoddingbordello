@@ -27,7 +27,7 @@ The images below mirror the in-game keyboard reference for quick access from the
 ## 🗡️ Tomes of Talos (TOT) - v4.2.0
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1d671c48-5b6f-4d7b-8c0d-9a527a5f65d0" width="900">
+  <img src="https://github.com/user-attachments/assets/1d671c48-5b6f-4d7b-8c0d-9a527a5f65d0"
 </p>
 
 ---
@@ -35,7 +35,7 @@ The images below mirror the in-game keyboard reference for quick access from the
 ## 🦌 Hymns of Hircine (HOH) - v3.1.0
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0b85eba8-b843-4068-b056-e2634f54e673" width="900">
+  <img src="https://github.com/user-attachments/assets/0b85eba8-b843-4068-b056-e2634f54e673"
 </p>
 
 ## ⚠️ Notes
@@ -47,7 +47,7 @@ The images below mirror the in-game keyboard reference for quick access from the
 ## 💫 Mantras of Mara (MOM) - v2.3.0
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6180c163-f0e9-4472-8a0e-b085baf26708" width="900">
+  <img src="https://github.com/user-attachments/assets/6180c163-f0e9-4472-8a0e-b085baf26708"
 </p>
 
 ## ⚠️ Notes
@@ -60,7 +60,7 @@ The images below mirror the in-game keyboard reference for quick access from the
 ## 🪻 Diaries of Dibella (DOD) - v1.1.0
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ff63d35a-1ff5-46a0-a0e9-f0a9d12c70e7" width="900">
+  <img src="https://github.com/user-attachments/assets/ff63d35a-1ff5-46a0-a0e9-f0a9d12c70e7"
 </p>
 
 ## ⚠️ Notes
@@ -73,7 +73,7 @@ The images below mirror the in-game keyboard reference for quick access from the
 ## 🌌 Visions of Vaermina (VOV) - v1.2.0
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f1895ede-2478-477b-8729-140d8bca3372" width="900">
+  <img src="https://github.com/user-attachments/assets/f1895ede-2478-477b-8729-140d8bca3372"
 </p>
 
 ---
