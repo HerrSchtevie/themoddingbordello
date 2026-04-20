@@ -12,68 +12,68 @@ The images below mirror the in-game keyboard reference for quick access from the
 
 ---
 
-## 🛡️ Journals of Jyggalag (JOJ)
+## 🛡️ Journals of Jyggalag (JOJ) - v6.2.0
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/33a13792-55f2-4a84-b31c-a333189a64f2" width="900">
+  <img src="https://github.com/user-attachments/assets/092b0b72-0598-44c8-b0c7-a90089116495" width="900">
 </p>
 
 ## ⚠️ Notes
 
-- To use the **PPA keys**, you must hold **`Shift`** in addition to the listed modifier key.
+- To use the **PPA keys**, you must open the console, and hold **`Shift`** in addition to the listed modifier key.
 
 ---
 
-## 🗡️ Tomes of Talos (TOT)
+## 🗡️ Tomes of Talos (TOT) - v4.2.0
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f6bc0173-27d0-4425-9018-2cc7b01ab588" width="900">
+  <img src="https://github.com/user-attachments/assets/1d671c48-5b6f-4d7b-8c0d-9a527a5f65d0" width="900">
 </p>
 
 ---
 
-## 🦌 Hymns of Hircine (HOH)
+## 🦌 Hymns of Hircine (HOH) - v3.1.0
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e6fcfab0-fbd5-4184-ae6d-0c6a4091e468" width="900">
-</p>
-
-## ⚠️ Notes
-
-- To use the **PPA keys**, you must hold **`Shift`** in addition to the listed modifier key.
-
----
-
-## 💫 Mantras of Mara (MOM)
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/5ba399f2-0984-46e6-8ff9-009e50e55732" width="900">
+  <img src="https://github.com/user-attachments/assets/0b85eba8-b843-4068-b056-e2634f54e673" width="900">
 </p>
 
 ## ⚠️ Notes
 
-- To use the **PPA keys**, you must hold **`Shift`** in addition to the listed modifier key.  
+- To use the **PPA keys**, you must open the console, and hold **`Shift`** in addition to the listed modifier key.
+
+---
+
+## 💫 Mantras of Mara (MOM) - v2.3.0
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6180c163-f0e9-4472-8a0e-b085baf26708" width="900">
+</p>
+
+## ⚠️ Notes
+
+- To use the **PPA keys**, you must open the console, and hold **`Shift`** in addition to the listed modifier key.
 - To use the **Hunters Pride** and **Surrender** keys, you must hold the **Acheron Modifier** key in addition to the listed modifier key.
 
 ---
 
-## 🪻 Diaries of Dibella (DOD)
+## 🪻 Diaries of Dibella (DOD) - v1.1.0
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4676b41b-1295-4d7d-8c88-531d6ddd9c43" width="900">
+  <img src="https://github.com/user-attachments/assets/ff63d35a-1ff5-46a0-a0e9-f0a9d12c70e7" width="900">
 </p>
 
 ## ⚠️ Notes
 
-- To use the **PPA keys**, you must hold **`Shift`** in addition to the listed modifier key.  
+- To use the **PPA keys**, you must open the console, and hold **`Shift`** in addition to the listed modifier key.
 - To use the **Hunters Pride** and **Surrender** keys, you must hold the **Acheron Modifier** key in addition to the listed modifier key.
 
 ---
 
-## 🌌 Visions of Vaermina (VOV)
+## 🌌 Visions of Vaermina (VOV) - v1.2.0
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9641c7be-7256-4c2d-9e31-212b4f8689bf" width="900">
+  <img src="https://github.com/user-attachments/assets/f1895ede-2478-477b-8729-140d8bca3372" width="900">
 </p>
 
 ---
