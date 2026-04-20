@@ -15,7 +15,7 @@ The images below mirror the in-game keyboard reference for quick access from the
 ## 🛡️ Journals of Jyggalag (JOJ) - v6.2.0
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/092b0b72-0598-44c8-b0c7-a90089116495" width="900">
+  <img src="https://github.com/user-attachments/assets/092b0b72-0598-44c8-b0c7-a90089116495"
 </p>
 
 ## ⚠️ Notes
