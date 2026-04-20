@@ -17,14 +17,14 @@ const allTabs: TabDef[] = [
   { page: 'gameplay-guide', label: 'Gameplay Guide' },
   { page: 'changelog', label: 'Changelog' },
   { page: 'manual-downloads', label: 'Manual Downloads' },
-  { page: 'kodex', label: 'Load Order' },
+  { page: 'load-order', label: 'Load Order' },
 ];
 
 export function ModlistTabs({ list, activePage }: ModlistTabsProps) {
   const tabs = allTabs.filter((tab) => {
     if (tab.page === 'gameplay-guide') return list.pages.gameplayGuide;
     if (tab.page === 'manual-downloads') return list.pages.manualDownloads;
-    if (tab.page === 'kodex') return list.pages.kodex;
+    if (tab.page === 'load-order') return list.pages.kodex;
     return true;
   });
 

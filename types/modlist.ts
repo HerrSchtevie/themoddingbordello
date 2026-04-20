@@ -1,6 +1,6 @@
 export type ModlistSlug = 'joj' | 'tot' | 'hoh' | 'mom' | 'dod' | 'vov' | 'arr';
 
-export type ModlistPage = 'overview' | 'readme' | 'gameplay-guide' | 'changelog' | 'manual-downloads' | 'kodex';
+export type ModlistPage = 'overview' | 'readme' | 'gameplay-guide' | 'changelog' | 'manual-downloads' | 'load-order';
 
 export interface ModlistMeta {
   slug: ModlistSlug;
