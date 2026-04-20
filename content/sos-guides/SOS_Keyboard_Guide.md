@@ -76,6 +76,10 @@ The images below mirror the in-game keyboard reference for quick access from the
   <img src="https://github.com/user-attachments/assets/f1895ede-2478-477b-8729-140d8bca3372"
 </p>
 
+## ⚠️ Notes
+
+- To use the **PPA keys**, you must open the console, and hold **`Shift`** in addition to the listed modifier key.
+
 ---
 
 ## Notes
