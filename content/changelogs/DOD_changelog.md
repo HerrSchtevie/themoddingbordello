@@ -47,6 +47,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Critter Master - Script Call Reduction](https://www.nexusmods.com/skyrimspecialedition/mods/141745)  
 [SALSa - Skill-Access Locking by Synergy](https://www.nexusmods.com/skyrimspecialedition/mods/174469?tab=files&file_id=742991&nmm=1) - Thanks, [Guurzak](https://www.nexusmods.com/profile/Guurzak)!  
 [SALSIFY Vokrii](https://www.nexusmods.com/skyrimspecialedition/mods/174469?tab=files&file_id=742996&nmm=1) - Thanks, [Guurzak](https://www.nexusmods.com/profile/Guurzak)!  
+[Creature Framework](https://www.loverslab.com/files/file/5464-more-nasty-critters-specialanniversary-edition/)  
+[More Nasty Critters](https://www.loverslab.com/files/file/5464-more-nasty-critters-specialanniversary-edition/)  
 
 ---
 
