@@ -42,7 +42,7 @@ This page is kept up to date to ensure a **smooth, repeatable installation exper
 | CBPC Anus Support 2.2 AE1170 Patch | https://www.loverslab.com/applications/core/interface/file/attachment.php?id=1947021&key=44779e35d50715b51862a93743d5bf8a |
 | CBPC Separate Anal Collision 2.2 (CBPC) | https://www.loverslab.com/files/file/22048-cbpc-separate-anal-collision-22-cbpc-156/?do=download&r=1424395&confirm=1&t=1&csrfKey=c2d4b953eaad1689524ea1adf272ca41 |
 | Collectible Waifu Cards 3.1.5 | https://www.loverslab.com/files/file/29295-collectible-waifu-cards/?do=download&r=2032138&confirm=1&t=1&csrfKey=181ff905010669d06fa0a4fe14e5529b |
-| CreatureFrameworkV3-2A | https://www.loverslab.com/files/file/5464-more-nasty-critters-specialanniversary-edition/?do=download&r=2140033&confirm=1&t=1&csrfKey=350ecccebdfac4831d7579439f5e3c1f |
+| CreatureFrameworkV4 | https://www.loverslab.com/files/file/5464-more-nasty-critters-specialanniversary-edition/?do=download&r=2145630&confirm=1&t=1&csrfKey=a44ed06e83efef0fc53dcba71decde25 |
 | Devious Devices – Follower Escape | https://www.loverslab.com/files/file/19874-devious-devices-follower-escape-lese/?do=download&r=1168231&confirm=1&t=1&csrfKey=265928ac2a1fd7302ab254ea55a36391 |
 | Devious Devices NG v0.4.2 | https://www.loverslab.com/files/file/29779-devious-devices-ng/?do=download |
 | Devious Devices SE / AE / VR 5.2 | https://mega.nz/file/3A90hQZS#wqqyGkKrYGPGFfPiluHfSmyTL5RqHJGT0-MtinqXTxU |
@@ -50,7 +50,6 @@ This page is kept up to date to ensure a **smooth, repeatable installation exper
 | Devious Lore 3.0.2 – AI Voiceover (ElevenLabs) | https://www.loverslab.com/files/file/44121-devious-lore-lese-302-ai-voiceover-elevenlabs/?do=download |
 | Devious Lore SE / AE 3.0.2 | https://www.loverslab.com/files/file/16231-devious-lore-se/?do=download&r=1688015&confirm=1&t=1&csrfKey=6f78bcbc1ac9af0ddb57eab0c1257515 |
 | Devious Lore SE / AE – KS Hairs Patch 3.0.2 | https://www.loverslab.com/files/file/16231-devious-lore-se/?do=download&r=1688014&confirm=1&t=1&csrfKey=6f78bcbc1ac9af0ddb57eab0c1257515 |
-| Devious Sounds v1.2 | https://www.loverslab.com/files/file/21101-devious-sounds-v-12/?do=download&r=2066066&confirm=1&t=1&csrfKey=265928ac2a1fd7302ab254ea55a36391 |
 | Deviously Enchanted Chests SE / LE 3.220 | https://www.loverslab.com/files/file/1405-deviously-enchanted-chests/?do=download |
 | DF Spank – SLAL Mini Pack (SE) | https://www.loverslab.com/files/file/11732-devious-followers-continued-se/?do=download&r=966504&confirm=1&t=1&csrfKey=355e792d6fa52c8df9631d9d5f2e37ed |
 | Dripping When Aroused NG v2.0.6 | https://www.loverslab.com/files/file/36788-dripping-when-aroused-ng/?do=download&r=2115908&confirm=1&t=1&csrfKey=265928ac2a1fd7302ab254ea55a36391 |
@@ -65,6 +64,7 @@ This page is kept up to date to ensure a **smooth, repeatable installation exper
 | Laura’s Bondage Shop – Lux Lighting Patch | https://www.loverslab.com/files/file/30850-lauras-bondage-shop-lux-lighting-patch/?do=download&r=2000473&confirm=1&t=1&csrfKey=265928ac2a1fd7302ab254ea55a36391 |
 | Laura’s Bondage Shop 3.55 – AI Voiceover | https://www.loverslab.com/files/file/45003-devious-devices-lauras-bondage-shop-355-lese-ai-voiceover-elevenlabs/?do=download&r=2119259&confirm=1&t=1&csrfKey=265928ac2a1fd7302ab254ea55a36391 |
 | Laura’s Bondage Shop v3.54 SE | https://www.loverslab.com/files/file/6949-devious-devices-lauras-bondage-shop-16-aug-2025-v355-le-se/?do=download&r=2098429&confirm=1&t=1&csrfKey=265928ac2a1fd7302ab254ea55a36391 |
+| MoreNastyCrittersSE&AE_v16 | https://www.loverslab.com/files/file/5464-more-nasty-critters-specialanniversary-edition/?do=download&r=2147145&confirm=1&t=1&csrfKey=a44ed06e83efef0fc53dcba71decde25 |
 | No Overpenetration SE | https://www.loverslab.com/files/file/10339-no-overpenetration-se/?do=download |
 | PSBoss Standing Stones AiO - LotD display Fix 1.0.0 | https://www.loverslab.com/files/file/47795-psboss-standing-stones-aio-lotd-display-fix/?do=download |
 | SCoE Texture Set – SLACS Plus 4K | https://www.loverslab.com/applications/core/interface/file/attachment.php?id=2201727&key=befc541059be13bb61dc411181cb4c18 |
