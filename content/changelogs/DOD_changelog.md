@@ -63,6 +63,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [HFs - Diverse (BOS) Inkwell and Quill - 2K](https://www.nexusmods.com/skyrimspecialedition/mods/132023?tab=files&file_id=554374&nmm=1)  
 [College of Winterhold - Quest Expansion - Waterbreathing](https://www.nexusmods.com/skyrimspecialedition/mods/152199)  
 [Racemenu Rotation with Gamepad Support](https://www.nexusmods.com/skyrimspecialedition/mods/145585)  
+[Elden Counter](https://www.nexusmods.com/skyrimspecialedition/mods/65579)  
+[Parrying RPG](https://www.nexusmods.com/skyrimspecialedition/mods/81356)  
 
 ---
 
