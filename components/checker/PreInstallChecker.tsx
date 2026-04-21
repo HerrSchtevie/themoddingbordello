@@ -660,7 +660,20 @@ function ResultView({
           {report.notes.map((note, i) => (
             <li key={i} className="flex items-start gap-2 text-sm text-bordello-text">
               <span className="text-bordello-muted mt-0.5">-</span>
-              <span>{note}</span>
+              <span>
+                {note === 'See the SOS Performance Tuning Guide for detailed steps.' ? (
+                  <>
+                    See the{' '}
+                    <Link
+                      href="/guides/sos-performance-tuning"
+                      className="underline hover:text-white transition-colors"
+                    >
+                      SOS Performance Tuning Guide
+                    </Link>
+                    {' '}for detailed steps.
+                  </>
+                ) : note}
+              </span>
             </li>
           ))}
         </ul>
@@ -668,11 +681,11 @@ function ResultView({
 
       <div className="mt-8 flex flex-wrap gap-3">
         <Link
-          href={`/modlists/${list}/readme`}
+          href={`/modlists/${list}/overview`}
           className="inline-flex items-center gap-2 px-5 py-2.5 text-sm font-semibold rounded-lg text-white transition-colors hover:brightness-125"
           style={{ backgroundColor: accent }}
         >
-          View Full Readme
+          Overview
         </Link>
         <Link
           href="/guides/sos-performance-tuning-guide"
