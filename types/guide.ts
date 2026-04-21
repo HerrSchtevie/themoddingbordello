@@ -1,4 +1,5 @@
 export type GuideSlug =
+  | 'sos-pre-install-checker'
   | 'sos-tool-running-guide'
   | 'sos-performance-tuning-guide'
   | 'sos-keyboard-guide'
@@ -14,5 +15,6 @@ export interface GuideMeta {
   title: string;
   description: string;
   icon: string;
-  filePath: string;
+  filePath?: string;
+  customHref?: string;
 }

@@ -8,7 +8,7 @@ export function GuideDropdown() {
         {guides.map((guide) => (
           <Link
             key={guide.slug}
-            href={`/guides/${guide.slug}`}
+            href={guide.customHref ?? `/guides/${guide.slug}`}
             className="block px-4 py-3 text-sm text-bordello-text hover:text-white hover:bg-bordello-bg/50 transition-colors"
           >
             {guide.title}

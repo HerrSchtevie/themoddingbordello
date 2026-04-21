@@ -119,13 +119,21 @@ export function QuizResult({ result, onReset }: QuizResultProps) {
           ))}
         </ul>
 
-        <Link
-          href={`/modlists/${list.slug}/overview`}
-          className="inline-flex items-center gap-2 px-6 py-3 font-semibold rounded-lg text-white transition-colors hover:brightness-125"
-          style={{ backgroundColor: list.accentColor }}
-        >
-          View {list.abbreviation} Overview
-        </Link>
+        <div className="flex flex-wrap justify-center gap-3">
+          <Link
+            href={`/modlists/${list.slug}/overview`}
+            className="inline-flex items-center gap-2 px-6 py-3 font-semibold rounded-lg text-white transition-colors hover:brightness-125"
+            style={{ backgroundColor: list.accentColor }}
+          >
+            View {list.abbreviation} Overview
+          </Link>
+          <Link
+            href={`/sos-pre-install-checker?list=${list.slug}${result.profile ? `&profile=${result.profile}` : ''}`}
+            className="inline-flex items-center gap-2 px-6 py-3 font-semibold rounded-lg text-bordello-text bg-bordello-surface border border-bordello-border hover:text-white hover:border-bordello-muted/50 transition-colors"
+          >
+            Step 2: Validate Your Setup
+          </Link>
+        </div>
 
         <div className="mt-6 flex flex-wrap justify-center gap-3">
           {[

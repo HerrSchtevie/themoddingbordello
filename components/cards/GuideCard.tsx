@@ -56,12 +56,17 @@ const iconMap: Record<string, React.ReactNode> = {
       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0L2.697 16.126zM12 15.75h.007v.008H12v-.008z" />
     </svg>
   ),
+  tools: (
+    <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M9 3.75v1.5m6-1.5v1.5M4.5 9.75h15m-15 0A1.5 1.5 0 003 11.25v7.5a1.5 1.5 0 001.5 1.5h15a1.5 1.5 0 001.5-1.5v-7.5a1.5 1.5 0 00-1.5-1.5m-15 0V8.25a1.5 1.5 0 011.5-1.5h12a1.5 1.5 0 011.5 1.5v1.5M8.25 14.25l2.25 2.25 4.5-4.5" />
+    </svg>
+  ),
 };
 
 export function GuideCard({ guide }: GuideCardProps) {
   return (
     <Link
-      href={`/guides/${guide.slug}`}
+      href={guide.customHref ?? `/guides/${guide.slug}`}
       className="group flex items-start gap-4 p-5 rounded-xl border border-bordello-border bg-bordello-surface/80 hover:bg-bordello-surface hover:border-bordello-muted/30 hover:-translate-y-0.5 hover:brightness-110 transition-all duration-200 shadow-sm hover:shadow-md"
     >
       <div className="text-bordello-muted mt-0.5 shrink-0">

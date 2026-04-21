@@ -10,6 +10,14 @@ Featuring full visual overhauls, extensive quest and follower expansions, and co
 
 ---
 
+## 🛠️ Check Your Setup
+
+Before installing, use the **SOS Pre-Install Checker** to validate your system and configuration.
+
+👉 [Run the Pre-Install Checker](/sos-pre-install-checker)
+
+---
+
 ## 🛡️ Choose Your Profile
 
 JOJ includes two profiles tailored to your system’s capabilities and gameplay preferences:

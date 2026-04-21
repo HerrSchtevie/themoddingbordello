@@ -98,6 +98,12 @@ Hymns of Hircine (HOH) is a Skyrim modlist designed for mature audiences. It inc
 
 Hymns of Hircine (HOH) is the immersive challenge modlist from the Scrolls of Schtevie team. This list transforms Skyrim into a merciless Hunting Ground where survival is never guaranteed. You will battle hunger, cold, exhaustion, and predators that stalk your every step, with Hircine’s blessing only granted through blood and perseverance. HOH is designed to be difficult, immersive, and role-play focused, encouraging you to step fully into the role of a hunter in a dangerous, unforgiving world. Every system — survival mechanics, combat, economy, and immersion mods — works together to create a relentless challenge that rewards patience, strategy, and role-play above all else.
 
+## ⚠️ Before You Install
+
+Before installing, use the **SOS Pre-Install Checker** to confirm your system and setup are ready.
+
+👉 [Run the Pre-Install Checker](/sos-pre-install-checker)
+
 ## 📋 Features
 
 - **Two Unique Profiles Included:**  
@@ -178,6 +184,12 @@ Optimized for Lower-End Hardware | Reduced Visual Load
 The downloads can be removed after successful installation. NOT RECOMMENDED. But if you're short on space, it won't cause issues.
 
 ---
+
+## 🔍 Pre-Install Validation
+
+Ensure your system and setup have been validated using the **SOS Pre-Install Checker** before proceeding.
+
+👉 [Run the Pre-Install Checker](/sos-pre-install-checker)
 
 ## 🔥 Installation Instructions
 

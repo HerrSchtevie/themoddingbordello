@@ -97,6 +97,12 @@ Journals of Jyggalag (JOJ) is a Skyrim modlist designed for mature audiences. It
 
 Journals of Jyggalag (JOJ) is a NSFW Skyrim modlist combining stunning visuals, expanded quests, and rich lore integration for a cohesive and immersive experience. Featuring enhanced graphics, detailed landscapes, refined character models, and countless new storylines, JOJ transforms Skyrim into a vibrant, living world. With balanced gameplay improvements and performance tweaks, it offers a polished and captivating journey for both exploration and storytelling.
 
+## ⚠️ Before You Install
+
+Before installing, use the **SOS Pre-Install Checker** to confirm your system and setup are ready.
+
+👉 [Run the Pre-Install Checker](/sos-pre-install-checker)
+
 ## 📋 Features
 
 - **Two Unique Profiles Included:**  
@@ -173,6 +179,12 @@ Optimized for Lower-End Hardware | Reduced Visual Load
 The downloads can be removed after successful installation. NOT RECOMMENDED. But if you're short on space, it won't cause issues.
 
 ---
+
+## 🔍 Pre-Install Validation
+
+Ensure your system and setup have been validated using the **SOS Pre-Install Checker** before proceeding.
+
+👉 [Run the Pre-Install Checker](/sos-pre-install-checker)
 
 ## 🔥 Installation Instructions
 

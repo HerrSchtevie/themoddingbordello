@@ -98,6 +98,12 @@ Mantras of Mara (MOM) is a Skyrim modlist designed for mature audiences. It incl
 
 Mantras of Mara (MOM) is a NSFW Skyrim modlist with full SexLab integration. Built around themes of love, compassion, and divine unity, it offers a warm and indulgent experience where pleasure becomes an expression of devotion. Centered on Mara\u2019s radiant grace, this list combines sensuality with elegance\u2014featuring an extensive collection of adult content, visual overhauls, and gameplay enhancements\u2014all crafted to embody the beauty and benevolence of the Mother Goddess herself.
 
+## ⚠️ Before You Install
+
+Before installing, use the **SOS Pre-Install Checker** to confirm your system and setup are ready.
+
+👉 [Run the Pre-Install Checker](/sos-pre-install-checker)
+
 ## 📋 Features
 
 - **Two Unique Profiles Included:**  
@@ -174,6 +180,12 @@ Optimized for Lower-End Hardware | Reduced Visual Load
 The downloads can be removed after successful installation. NOT RECOMMENDED. But if you're short on space, it won't cause issues.
 
 ---
+
+## 🔍 Pre-Install Validation
+
+Ensure your system and setup have been validated using the **SOS Pre-Install Checker** before proceeding.
+
+👉 [Run the Pre-Install Checker](/sos-pre-install-checker)
 
 ## 🔥 Installation Instructions
 

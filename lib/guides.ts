@@ -2,6 +2,13 @@ import { GuideMeta, GuideSlug } from '@/types/guide';
 
 export const guides: GuideMeta[] = [
   {
+    slug: 'sos-pre-install-checker',
+    title: 'SOS Pre-Install Checker',
+    description: 'Validate your hardware and storage setup before installing a Wabbajack modlist.',
+    icon: 'tools',
+    customHref: '/sos-pre-install-checker',
+  },
+  {
     slug: 'sos-tool-running-guide',
     title: 'SOS Tool Running Guide',
     description: 'When and how to safely run Pandora, Synthesis, ParallaxGen, xLODGen, TexGen, and DynDOLOD.',

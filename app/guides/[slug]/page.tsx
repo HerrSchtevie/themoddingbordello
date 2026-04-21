@@ -6,13 +6,15 @@ import { GuideTOCSidebar, GuideTOCMobile } from '@/components/guides/GuideTOC';
 import { GuideSlug } from '@/types/guide';
 
 export function generateStaticParams() {
-  return allGuideSlugs.map((slug) => ({ slug }));
+  return allGuideSlugs
+    .filter((slug) => !guideBySlug[slug].customHref)
+    .map((slug) => ({ slug }));
 }
 
 export default async function GuidePage({ params }: { params: { slug: string } }) {
   const slug = params.slug as GuideSlug;
   const guide = guideBySlug[slug];
-  if (!guide) notFound();
+  if (!guide || !guide.filePath) notFound();
 
   const html = await loadMarkdown(guide.filePath);
 

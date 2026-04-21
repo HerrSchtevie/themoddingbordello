@@ -10,6 +10,14 @@ Featuring full integration of adult content, complete visual overhauls, quest ex
 
 ---
 
+## 🛠️ Check Your Setup
+
+Before installing, use the **SOS Pre-Install Checker** to validate your system and configuration.
+
+👉 [Run the Pre-Install Checker](/sos-pre-install-checker)
+
+---
+
 ## 🛡️ Choose Your Profile
 
 HOH offers two profiles tailored to your system’s capabilities and preferred experience:  

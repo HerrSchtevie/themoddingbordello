@@ -98,6 +98,12 @@ Diaries of Dibella (DOD) is a Skyrim modlist designed for mature audiences. It i
 
 Diaries of Dibella (DOD) is a highly NSFW Skyrim modlist with full SexLab integration, combining brutal survival mechanics and MCO-driven combat with decadent, unapologetic sensuality. Set in a harsh and demanding world, DOD blends overhauled visuals, punishing progression, immersive survival systems, and an expansive suite of adult content to create an intense and intoxicating experience where beauty, temptation, and danger intertwine beneath the radiant influence of Dibella.
 
+## ⚠️ Before You Install
+
+Before installing, use the **SOS Pre-Install Checker** to confirm your system and setup are ready.
+
+👉 [Run the Pre-Install Checker](/sos-pre-install-checker)
+
 ## 📋 Features
 
 - **Two Unique Profiles Included:**  
@@ -175,6 +181,12 @@ Optimized for Lower-End Hardware | Reduced Visual Load
 The downloads can be removed after successful installation. NOT RECOMMENDED. But if you're short on space, it won't cause issues.
 
 ---
+
+## 🔍 Pre-Install Validation
+
+Ensure your system and setup have been validated using the **SOS Pre-Install Checker** before proceeding.
+
+👉 [Run the Pre-Install Checker](/sos-pre-install-checker)
 
 ## 🔥 Installation Instructions
 

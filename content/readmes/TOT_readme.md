@@ -94,6 +94,12 @@ Buy Me a Coffee
 
 Tomes of Talos is a lore-rich, SFW Skyrim modlist spun from the foundations of Journals of Jyggalag, designed to deliver a stable, immersive, and cohesive experience focused on storytelling, exploration, and visual fidelity. Every addition has been hand-picked to enhance Skyrim's atmosphere without breaking its lore or tone.
 
+## ⚠️ Before You Install
+
+Before installing, use the **SOS Pre-Install Checker** to confirm your system and setup are ready.
+
+👉 [Run the Pre-Install Checker](/sos-pre-install-checker)
+
 ## 📋 Features
 
 - **Two Unique Profiles Included:**  
@@ -167,6 +173,12 @@ Optimized for Lower-End Hardware | Reduced Visual Load
 The downloads can be removed after successful installation. NOT RECOMMENDED. But if you're short on space, it won't cause issues.
 
 ---
+
+## 🔍 Pre-Install Validation
+
+Ensure your system and setup have been validated using the **SOS Pre-Install Checker** before proceeding.
+
+👉 [Run the Pre-Install Checker](/sos-pre-install-checker)
 
 ## 🔥 Installation Instructions
 
