@@ -707,7 +707,7 @@ function ResultView({
 
 const readinessMeta: Record<Readiness, { label: string; color: string; border: string }> = {
   ready: { label: 'Ready', color: '#22c55e', border: '#22c55e' },
-  risky: { label: 'Risky', color: '#f97316', border: '#f97316' },
+  risky: { label: 'Tuning Recommended', color: '#f97316', border: '#f97316' },
   'not-recommended': { label: 'Not Recommended', color: '#ef4444', border: '#ef4444' },
 };
 
