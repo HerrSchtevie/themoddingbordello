@@ -64,7 +64,7 @@ This page is kept up to date to ensure a **smooth, repeatable installation exper
 | Laura’s Bondage Shop – Lux Lighting Patch | https://www.loverslab.com/files/file/30850-lauras-bondage-shop-lux-lighting-patch/?do=download&r=2000473&confirm=1&t=1&csrfKey=265928ac2a1fd7302ab254ea55a36391 |
 | Laura’s Bondage Shop 3.55 – AI Voiceover | https://www.loverslab.com/files/file/45003-devious-devices-lauras-bondage-shop-355-lese-ai-voiceover-elevenlabs/?do=download&r=2119259&confirm=1&t=1&csrfKey=265928ac2a1fd7302ab254ea55a36391 |
 | Laura’s Bondage Shop v3.54 SE | https://www.loverslab.com/files/file/6949-devious-devices-lauras-bondage-shop-16-aug-2025-v355-le-se/?do=download&r=2098429&confirm=1&t=1&csrfKey=265928ac2a1fd7302ab254ea55a36391 |
-| MoreNastyCrittersSE&AE_v16 | https://www.loverslab.com/files/file/5464-more-nasty-critters-specialanniversary-edition/?do=download&r=2147145&confirm=1&t=1&csrfKey=a44ed06e83efef0fc53dcba71decde25 |
+| MoreNastyCrittersSE&AE_v16_1F | https://www.loverslab.com/files/file/5464-more-nasty-critters-specialanniversary-edition/?do=download&r=2149405&confirm=1&t=1&csrfKey=451fa9efe8d58bcb1d2350b774b3d8cb |
 | No Overpenetration SE | https://www.loverslab.com/files/file/10339-no-overpenetration-se/?do=download |
 | PSBoss Standing Stones AiO - LotD display Fix 1.0.0 | https://www.loverslab.com/files/file/47795-psboss-standing-stones-aio-lotd-display-fix/?do=download |
 | SCoE Texture Set – SLACS Plus 4K | https://www.loverslab.com/applications/core/interface/file/attachment.php?id=2201727&key=befc541059be13bb61dc411181cb4c18 |
