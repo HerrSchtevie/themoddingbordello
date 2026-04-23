@@ -216,6 +216,18 @@ Before you begin, make sure you meet the following **hard requirements**:
 - **Installation must be on an Internal SSD.**  
   Installing to an HDD or any external storage device will result in long load times, freezing, and crashes.
 
+> ⚠️ **Creation Kit Installation Bug — March 2026 Steam Update**
+>
+> A recent Steam update is causing the Skyrim Special Edition Creation Kit to install into a new, separate folder (e.g., `Skyrim Special Edition 1946180`) instead of your existing Skyrim directory.
+>
+> **To fix it:**
+>
+> - Open the newly created folder (e.g., `Skyrim Special Edition 1946180`).
+> - Move **all of its contents** into your main Skyrim Special Edition installation folder.
+> - Manually launch `CreationKit.exe` from that correct location.
+> - Allow it to finish its initial setup and script unpacking.
+> - Close the Creation Kit once it's done, then continue with the installation normally.
+
 ---
 
 ### 🧰 Installation Steps

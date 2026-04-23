@@ -204,6 +204,18 @@ Before you begin, make sure you meet the following **hard requirements**:
 
 - **Consider disabling TurboBoost and any overclocking technology.** We've seen numerous cases where boosting hardware beyond its normal operating parameters leads to system instability under the demands of a highly modded Skyrim environment. 
 
+> ⚠️ **Creation Kit Installation Bug — March 2026 Steam Update**
+>
+> A recent Steam update is causing the Skyrim Special Edition Creation Kit to install into a new, separate folder (e.g., `Skyrim Special Edition 1946180`) instead of your existing Skyrim directory.
+>
+> **To fix it:**
+>
+> - Open the newly created folder (e.g., `Skyrim Special Edition 1946180`).
+> - Move **all of its contents** into your main Skyrim Special Edition installation folder.
+> - Manually launch `CreationKit.exe` from that correct location.
+> - Allow it to finish its initial setup and script unpacking.
+> - Close the Creation Kit once it's done, then continue with the installation normally.
+
 ---
 
 ### 🧰 Installation Steps
