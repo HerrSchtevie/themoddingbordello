@@ -665,7 +665,7 @@ function ResultView({
                   <>
                     See the{' '}
                     <Link
-                      href="https://www.themoddingbordello.com/guides/sos-performance-tuning-guide"
+                      href="/guides/sos-performance-tuning-guide"
                       className="underline hover:text-white transition-colors"
                     >
                       SOS Performance Tuning Guide
