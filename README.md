@@ -17,6 +17,7 @@ All paths converge here.
 
 ---
 
+
 Thus it is written. Thus it shall be.
 
 ![image](https://github.com/user-attachments/assets/8439abae-1001-4735-9afe-9a904e3cfdd2)
