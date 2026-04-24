@@ -33,6 +33,7 @@ NONE
 
 [CS Light](https://www.nexusmods.com/skyrimspecialedition/mods/138443)  
 [Lux CS](https://www.nexusmods.com/skyrimspecialedition/mods/153919)  
+[FSMP - Faster HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339)  
 
 ---
 
@@ -45,7 +46,8 @@ NONE
 ## Tweaks
 
 - Added/edited the following custom patches 
-   - `placeholder.esp`  
+   - `placeholder.esp`
+- Disabled RBT Race Masquerade keybind to prevent accidental toggles  
 
 ---
 
