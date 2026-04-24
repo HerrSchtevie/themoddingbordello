@@ -688,7 +688,7 @@ function ResultView({
           Overview
         </Link>
         <Link
-          href="/guides/sos-performance-tuning-guide"
+          href="https://www.themoddingbordello.com/guides/sos-performance-tuning-guide"
           className="inline-flex items-center gap-2 px-5 py-2.5 text-sm font-semibold rounded-lg text-bordello-text bg-bordello-surface border border-bordello-border hover:text-white hover:border-bordello-muted/50 transition-colors"
         >
           SOS Performance Tuning Guide
