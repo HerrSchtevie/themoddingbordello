@@ -45,8 +45,7 @@ NONE
 
 ## Tweaks
 
-- Added/edited the following custom patches 
-   - `placeholder.esp`  
+NONE
 
 ---
 
