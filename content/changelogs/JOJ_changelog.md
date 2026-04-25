@@ -34,6 +34,7 @@ NONE
 [CS Light](https://www.nexusmods.com/skyrimspecialedition/mods/138443)  
 [Lux CS](https://www.nexusmods.com/skyrimspecialedition/mods/153919)  
 [FSMP - Faster HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339)  
+[Immersive Kaidan 5.1.1](https://kaidanmod.com/all-in-one-installer) - Thanks, [Han Shot First](https://www.nexusmods.com/profile/hanshotfirst01?gameId=1704)!  
 
 ---
 
@@ -45,8 +46,6 @@ NONE
 
 ## Tweaks
 
-- Added/edited the following custom patches 
-   - `placeholder.esp`
 - Disabled RBT Race Masquerade keybind to prevent accidental toggles
 
 ---
