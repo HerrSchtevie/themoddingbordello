@@ -25,7 +25,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 ## Additions
 
-[Dynamic Things Alternative - Last Seed - Blood Potion Compatibility Patch](https://www.nexusmods.com/skyrimspecialedition/mods/178348) - Thanks, [Gurrzak](https://www.nexusmods.com/profile/Guurzak)!  
+[Dynamic Things Alternative - Last Seed - Blood Potion Compatibility Patch](https://www.nexusmods.com/skyrimspecialedition/mods/178348) - Thanks, [Guurzak](https://www.nexusmods.com/profile/Guurzak)!  
 
 ---
 
