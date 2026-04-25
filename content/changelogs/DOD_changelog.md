@@ -34,6 +34,9 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [CS Light](https://www.nexusmods.com/skyrimspecialedition/mods/138443)  
 [Lux CS](https://www.nexusmods.com/skyrimspecialedition/mods/153919)  
 [FSMP - Faster HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339)  
+[Immersive Kaidan 5.1.1](https://kaidanmod.com/all-in-one-installer) - Thanks, [Han Shot First](https://www.nexusmods.com/profile/hanshotfirst01?gameId=1704)!  
+[Race Blood Test](https://www.nexusmods.com/skyrimspecialedition/mods/153880)  
+[Race Blood Test - Ohmes-Raht Patch](https://www.nexusmods.com/skyrimspecialedition/mods/177386) - Thanks, [Rynfri](https://www.nexusmods.com/profile/Rynfri)!  
 
 ---
 
@@ -45,8 +48,6 @@ NONE
 
 ## Tweaks
 
-- Added/edited the following custom patches 
-   - `placeholder.esp`
 - Nerfed soap distribution with tweaked `Bathing in Skyrim.esp.ini` file and placing into `DOD - MCM and INI Settings`
 - Disabled RBT Race Masquerade keybind to prevent accidental toggles  
 
