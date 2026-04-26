@@ -55,7 +55,7 @@ See Version History
 </td>
 
 <td align="center">
-<a href="https://loadorderlibrary.com/lists/journals-of-jyggalag-2"><strong>Load Order Library</strong></a><br>
+<a href="/modlists/joj/load-order"><strong>Load Order Library</strong></a><br>
 View Full Load Order
 </td>
 

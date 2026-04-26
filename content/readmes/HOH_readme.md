@@ -56,7 +56,7 @@ See Version History
 </td>
 
 <td align="center">
-<a href="https://loadorderlibrary.com/lists/hymns-of-hircine"><strong>Load Order Library</strong></a><br>
+<a href="/modlists/hoh/load-order"><strong>Load Order Library</strong></a><br>
 View Full Load Order
 </td>
 

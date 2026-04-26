@@ -53,7 +53,7 @@ See Version History
 </td>
 
 <td align="center">
-<a href="https://loadorderlibrary.com/lists/visions-of-vaermina"><strong>Load Order Library</strong></a><br>
+<a href="/modlists/vov/load-order"><strong>Load Order Library</strong></a><br>
 View Full Load Order
 </td>
 
