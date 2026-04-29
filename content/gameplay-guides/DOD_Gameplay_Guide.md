@@ -637,8 +637,7 @@ We use **Simple Offense Suppression** to ensure that you don't accidentally hurt
 
 * Most unlocking spells have been removed. The surviving unlock spells include Unlock Container from The Gray Cowl of Nocturnal, which can open up to apprentice tier locks, and Detonate Lock, an Expert-tier alteration spell which can open up to Adept locks, or Expert locks once 100 Alteration skill is reached.
 * Apprentice scrolls of unlocking can be found as loot or occasionally for purchase from general vendors. An adept version may be available from a few less upstanding sources.
-* Handyman, the perk which allows for lock bashing with an equipped pickaxe, is available without needing the Aspiring Burglar prerequisite during initial character setup or after reaching 200 natural stamina.
-* If you do wish to do traditional lockpicking (the only way to open Master tier locks without a key), take the Aspiring Burglar perk normally and then save, exit, and restart the game. You will automatically be granted additional perks which enable lockpicking anywhere regardless of zone type.
+* If you do wish to do traditional lockpicking (the only way to open Master tier locks without a key), take the Lockpicking Mastery perk normally. As usual with SALSa, you will not be able to pick any locks at all without the initial perk.
 
 </details>
 
