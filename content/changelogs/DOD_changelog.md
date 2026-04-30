@@ -31,7 +31,8 @@ NONE
 
 ## Updates
 
-NONE
+[RaceMenu OverlayFix and Various Mod Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/138586)  
+[Lux CS](https://www.nexusmods.com/skyrimspecialedition/mods/153919)  
 
 ---
 
