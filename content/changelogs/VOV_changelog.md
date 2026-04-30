@@ -31,7 +31,7 @@ NONE
 
 ## Updates
 
-NONE
+[Lux CS](https://www.nexusmods.com/skyrimspecialedition/mods/153919)  
 
 ---
 
