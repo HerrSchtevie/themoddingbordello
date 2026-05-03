@@ -32,6 +32,7 @@ NONE
 ## Updates
 
 [Lux CS](https://www.nexusmods.com/skyrimspecialedition/mods/153919)  
+[Main Menu Video](https://www.nexusmods.com/skyrimspecialedition/mods/160238)  
 
 ---
 
