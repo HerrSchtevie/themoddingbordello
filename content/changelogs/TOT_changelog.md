@@ -26,6 +26,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 ## Additions
 
 [RaceMenu OverlayFix and Various Mod Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/138586)  
+[ISL Helper SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/179132)  
 
 ---
 
