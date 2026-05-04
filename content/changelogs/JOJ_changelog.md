@@ -39,7 +39,7 @@ NONE
 
 ## Removals 
 
-NONE
+[High Poly Head - RaceMenu Synthesis Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/71332)  
 
 ---
 
