@@ -56,6 +56,14 @@ The actual MO2 modlist is always the authoritative reference for modlist content
    - `HOH - Armour WAAT Patch 1.esp`  
    - `HOH - Armour WAAT Patch 5.esp`  
    - `PronounsPatcher.esp`  
+- Regenerated the following outputs:
+   - `HOH - BodySlide Output`  
+   - `HOH - ParallaxGen Output (Lord's Vision)`  
+   - `HOH - ParallaxGen Output (Performance)`
+   - `HOH - TexGen Output (Lord's Vision)`
+   - `HOH - TexGen Output (Performance)`
+   - `HOH - DynDOLOD Output (Lord's Vision)`
+   - `HOH - DynDOLOD Output (Performance)`
 
 ---
 
