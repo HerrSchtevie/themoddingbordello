@@ -52,7 +52,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 ## Tweaks
 
-- Added/edited the following custom patches 
+- Added/edited the following custom patches:
    - `MOM - Daedric Armor Fixes.esp`
    - `JOJ - Armour Crafting Manuals 0.esp`  
    - `MOM - Armour WAAT Patch 1.esp`  
