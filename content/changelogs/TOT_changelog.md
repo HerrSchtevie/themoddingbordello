@@ -52,7 +52,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 ## Tweaks
 
-- Added/edited the following custom patches 
+- Added/edited the following custom patches: 
    - `PronounsPatcher.esp`  
 - Regenerated the following outputs:
    - `TOT - BodySlide Output`  
