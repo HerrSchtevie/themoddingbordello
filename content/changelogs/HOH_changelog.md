@@ -54,7 +54,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 ## Tweaks
 
-- Added/edited the following custom patches 
+- Added/edited the following custom patches:
    - `JOJ - Armour Crafting Manuals 0.esp`
    - `HOH - Armour WAAT Patch 1.esp`  
    - `HOH - Armour WAAT Patch 5.esp`  
