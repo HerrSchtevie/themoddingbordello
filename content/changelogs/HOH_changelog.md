@@ -26,6 +26,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 ## Additions
 
 [ISL Helper SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/179132)  
+[Pronouns Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/43816?tab=files&file_id=743199&nmm=1)  
+[Silver Witch 3BA SMP](https://www.nexusmods.com/skyrimspecialedition/mods/172910)  
 
 ---
 
@@ -42,14 +44,18 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 [Lyssia - OStim Standalone Integration](https://www.nexusmods.com/skyrimspecialedition/mods/95479)  
 [High Poly Head - RaceMenu Synthesis Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/71332)  
+[Feris - Custom Voiced Rogue Follower](https://www.nexusmods.com/skyrimspecialedition/mods/142226)  - Removed to comply with author permissions  
+[Apostate Feris Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/127064)  
 
 ---
 
 ## Tweaks
 
 - Added/edited the following custom patches 
-   - `placeholder.esp`
- - Placeholder 
+   - `JOJ - Armour Crafting Manuals 0.esp`
+   - `HOH - Armour WAAT Patch 1.esp`  
+   - `HOH - Armour WAAT Patch 5.esp`  
+   - `PronounsPatcher.esp`  
 
 ---
 
