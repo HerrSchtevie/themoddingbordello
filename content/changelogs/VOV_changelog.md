@@ -26,6 +26,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 ## Additions
 
 [ISL Helper SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/179132)  
+[Pronouns Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/43816?tab=files&file_id=743199&nmm=1)  
 
 ---
 
@@ -46,8 +47,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 ## Tweaks
 
 - Added/edited the following custom patches 
-   - `placeholder.esp`
- - Placeholder 
+   - `PronounsPatcher.esp` 
 
 ---
 
