@@ -55,6 +55,14 @@ The actual MO2 modlist is always the authoritative reference for modlist content
    - `JOJ - Armour WAAT Patch 1.esp`
    - `JOJ - Armour WAAT Patch 5.esp`
    - `PronounsPatcher.esp`  
+- Regenerated the following outputs:
+   - `JOJ - BodySlide Output`  
+   - `JOJ - ParallaxGen Output (Lord's Vision)`  
+   - `JOJ - ParallaxGen Output (Performance)`
+   - `JOJ - TexGen Output (Lord's Vision)`
+   - `JOJ - TexGen Output (Performance)`
+   - `JOJ - DynDOLOD Output (Lord's Vision)`
+   - `JOJ - DynDOLOD Output (Performance)`
 
 ---
 
