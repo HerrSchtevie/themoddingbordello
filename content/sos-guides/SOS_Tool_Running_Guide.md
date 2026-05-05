@@ -1069,7 +1069,7 @@ Once TexGen completes, it will display a message and a **button to exit**:
      - ✅ **Check the Grass LOD** box  
      - **Density**: `100%`  
      - **Mode**: `1`  
-     ![Lord's Vision Settings](https://github.com/user-attachments/assets/abcd4db9-3f41-49ae-a9b7-d92756804767)  
+     ![Lord's Vision Settings](https://github.com/user-attachments/assets/16aa60ac-7299-4a7e-be3f-2d5f50c470ec)  
 
    - **Performance** → Click **Medium**  
      ![Performance Settings](https://github.com/user-attachments/assets/9ec0025d-bca2-4bf4-ab00-e1b47cb6a2d2)  
