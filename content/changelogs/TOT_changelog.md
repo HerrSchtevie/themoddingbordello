@@ -51,7 +51,6 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 - Added/edited the following custom patches 
    - `PronounsPatcher.esp`  
- - Placeholder 
 
 ---
 
