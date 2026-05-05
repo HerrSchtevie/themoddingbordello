@@ -27,6 +27,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 [RaceMenu OverlayFix and Various Mod Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/138586)  
 [ISL Helper SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/179132)  
+[Pronouns Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/43816?tab=files&file_id=743199&nmm=1)  
 
 ---
 
@@ -41,13 +42,15 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 ## Removals 
 
 [High Poly Head - RaceMenu Synthesis Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/71332)  
+[Feris - Custom Voiced Rogue Follower](https://www.nexusmods.com/skyrimspecialedition/mods/142226)  
+[Apostate Feris Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/127064)  
 
 ---
 
 ## Tweaks
 
 - Added/edited the following custom patches 
-   - `placeholder.esp`
+   - `PronounsPatcher.esp`  
  - Placeholder 
 
 ---
