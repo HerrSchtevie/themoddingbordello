@@ -48,7 +48,6 @@ NONE
 
 - Added/edited the following custom patches 
    - `MOM - Daedric Armor Fixes.esp`  
- - Placeholder 
 
 ---
 
