@@ -37,6 +37,9 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Lux CS](https://www.nexusmods.com/skyrimspecialedition/mods/153919)  
 [Main Menu Video](https://www.nexusmods.com/skyrimspecialedition/mods/160238)  
 [NPC Plugin Chooser 2](https://www.nexusmods.com/skyrimspecialedition/mods/157055) - Thanks, [Piranha91](https://www.nexusmods.com/profile/Piranha91)!  
+[DynDOLOD 3 Alpha](https://www.nexusmods.com/skyrimspecialedition/mods/68518)  
+[DynDOLOD Resources SE 3](https://www.nexusmods.com/skyrimspecialedition/mods/52897)  
+[DynDOLOD DLL NG](https://www.nexusmods.com/skyrimspecialedition/mods/97720)  
 
 ---
 
