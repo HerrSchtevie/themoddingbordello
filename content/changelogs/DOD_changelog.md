@@ -53,7 +53,15 @@ The actual MO2 modlist is always the authoritative reference for modlist content
    - `JOJ - Armour Crafting Manuals 0.esp`  
    - `MOM - Armour WAAT Patch 1.esp`  
    - `MOM - Armour WAAT Patch 5.esp`  
-   - `PronounsPatcher.esp`  
+   - `PronounsPatcher.esp`
+- Regenerated the following outputs:
+   - `DOD - BodySlide Output`  
+   - `DOD - ParallaxGen Output (Lord's Vision)`  
+   - `DOD - ParallaxGen Output (Performance)`
+   - `DOD - TexGen Output (Lord's Vision)`
+   - `DOD - TexGen Output (Performance)`
+   - `DOD - DynDOLOD Output (Lord's Vision)`
+   - `DOD - DynDOLOD Output (Performance)`    
 
 ---
 
