@@ -55,7 +55,6 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 - Added/edited the following custom patches: 
    - `PronounsPatcher.esp`  
 - Regenerated the following outputs:
-   - `TOT - BodySlide Output`  
    - `TOT - ParallaxGen Output (Lord's Vision)`  
    - `TOT - ParallaxGen Output (Performance)`
    - `TOT - TexGen Output (Lord's Vision)`
