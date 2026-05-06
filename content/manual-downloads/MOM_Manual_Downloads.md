@@ -59,7 +59,7 @@ This page is kept up to date to ensure a **smooth, repeatable installation exper
 | FlufyFox SLAL Pack – Creature | https://www.loverslab.com/files/file/19463-flufyfox-slal-pack-update-27052024/?do=download&r=2130222&confirm=1&t=1&csrfKey=986c9ae9f1cb5ae9a7b8861d92295f40 |
 | FlufyFox SLAL Pack – Human | https://www.loverslab.com/files/file/19463-flufyfox-slal-pack-update-27052024/?do=download&r=2130221&confirm=1&t=1&csrfKey=986c9ae9f1cb5ae9a7b8861d92295f40 |
 | FunnyBizness (v25) SLAL Pack by Shashankie v12.0 | https://www.loverslab.com/files/file/2702-funnybizness-v25-slal-pack-by-shashankie/?do=download&r=606546&confirm=1&t=1&csrfKey=affc63d29a4afbc12b171bbd4ce49aef |
-| I4 – Inventory Interface Information Injector (DD Patch) | https://www.loverslab.com/files/file/28593-inventory-interface-information-injector-i4-devious-devices-patch/?do=download |
+| I4 – Inventory Interface Information Injector (DD Patch v7) | https://www.loverslab.com/files/file/28593-inventory-interface-information-injector-i4-devious-devices-patch/?do=download |
 | KomAnim T2 AIO (SE 323616c) | https://www.loverslab.com/files/file/35377-komanim_t2_aio_313616c-and-se_323616c/?do=download&r=1995238&confirm=1&t=1&csrfKey=265928ac2a1fd7302ab254ea55a36391 |
 | Laura’s Bondage Shop – Lux Lighting Patch | https://www.loverslab.com/files/file/30850-lauras-bondage-shop-lux-lighting-patch/?do=download&r=2000473&confirm=1&t=1&csrfKey=265928ac2a1fd7302ab254ea55a36391 |
 | Laura’s Bondage Shop 3.55 – AI Voiceover | https://www.loverslab.com/files/file/45003-devious-devices-lauras-bondage-shop-355-lese-ai-voiceover-elevenlabs/?do=download&r=2119259&confirm=1&t=1&csrfKey=265928ac2a1fd7302ab254ea55a36391 |
