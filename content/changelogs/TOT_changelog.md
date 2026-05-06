@@ -39,6 +39,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [DynDOLOD 3 Alpha](https://www.nexusmods.com/skyrimspecialedition/mods/68518)  
 [DynDOLOD Resources SE 3](https://www.nexusmods.com/skyrimspecialedition/mods/52897)  
 [DynDOLOD DLL NG](https://www.nexusmods.com/skyrimspecialedition/mods/97720)  
+[WHEELER - Refined](https://www.nexusmods.com/skyrimspecialedition/mods/167380)  
 
 ---
 
