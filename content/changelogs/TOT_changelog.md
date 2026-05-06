@@ -47,6 +47,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [High Poly Head - RaceMenu Synthesis Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/71332)  
 [Feris - Custom Voiced Rogue Follower](https://www.nexusmods.com/skyrimspecialedition/mods/142226)  - Removed to comply with author permissions  
 [Apostate Feris Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/127064)  
+[Vayne - ZK Rogue Outfit - SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/157005)  
 
 ---
 
