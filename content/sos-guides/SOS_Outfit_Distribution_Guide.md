@@ -101,7 +101,7 @@ For your plugin to reference armor records from other mods, those mods must be a
 4. For each new INAM entry, drag-and-drop the desired armor record from the left pane, or paste its FormID
 5. Repeat steps 1–4 for any additional outfits, then save the plugin and exit xEdit
 
-Note each new outfit's FormID — you'll use it in the SkyPatcher assignment line.
+**Note each new outfit's FormID and the exact name of your plugin** — you'll need both when writing the SkyPatcher assignment line in the next section.
 
 > ⚠️ Any newly added armor must be **built in BodySlide** before it displays correctly in-game. See the [SOS Tool Running Guide](/guides/sos-tool-running-guide) for BodySlide instructions.
 
