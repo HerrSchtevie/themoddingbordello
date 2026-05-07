@@ -71,7 +71,7 @@ When you are finished inspecting outfits, **close xEdit without saving**.
 <summary>Creating a New Outfit Record</summary>
 <div class="details-content">
 
-If none of the existing outfits in your modlist suit your needs, you can define your own Outfit records in a small custom ESL-flagged plugin. Because xEdit has no clean one-step "create new empty plugin" command, the standard approach is to **copy an existing OTFT record into a new ESL-flagged plugin**, then modify the copy into your own outfit. This handles plugin creation, ESL flagging, and master assignment in a single operation.
+If none of the existing outfits in your modlist suit your needs, you can define your own Outfit records in a small custom ESL-flagged plugin. The simplest workflow is to **copy an existing OTFT record into a new ESL-flagged plugin**, then modify the copy into your own outfit — this handles plugin creation, ESL flagging, master assignment, and gives you a working OTFT structure to edit, all in a single operation.
 
 > **Note:** The Outfit record you copy is only used as a structural template — any plugin in your modlist containing OTFT records works. JOJ - Outfits is one option, not a dependency.
 
