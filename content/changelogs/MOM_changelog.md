@@ -57,7 +57,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
    - `MOM - Daedric Armor Fixes.esp`
    - `JOJ - Armour Crafting Manuals 0.esp`  
    - `MOM - Armour WAAT Patch 1.esp`  
-   - `MOM - Armour WAAT Patch 5.esp`  
+   - `MOM - Armour WAAT Patch 5.esp`
+   - `MOM - Gameplay Edits`  
    - `PronounsPatcher.esp`  
 - Regenerated the following outputs:
    - `MOM - BodySlide Output`  
