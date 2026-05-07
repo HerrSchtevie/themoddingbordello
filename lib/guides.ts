@@ -65,6 +65,13 @@ export const guides: GuideMeta[] = [
     filePath: 'content/sos-guides/SOS_De-Spicing_Guide.md',
   },
   {
+    slug: 'sos-outfit-distribution-guide',
+    title: 'SOS Outfit Distribution Guide',
+    description: 'How JOJ Outfit Distribution assigns custom outfits to NPCs using SkyPatcher.',
+    icon: 'shirt',
+    filePath: 'content/sos-guides/SOS_Outfit_Distribution_Guide.md',
+  },
+  {
     slug: 'sos-rule-11-guide',
     title: 'SOS Rule 11 Guide',
     description: 'Understanding list modifications and their risks.',

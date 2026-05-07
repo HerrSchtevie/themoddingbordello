@@ -8,6 +8,7 @@ export type GuideSlug =
   | 'sos-player-home-guide'
   | 'sos-npc-plugin-chooser-2-guide'
   | 'sos-de-spicing-guide'
+  | 'sos-outfit-distribution-guide'
   | 'sos-rule-11-guide';
 
 export interface GuideMeta {

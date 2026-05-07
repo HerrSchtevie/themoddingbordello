@@ -61,6 +61,11 @@ const iconMap: Record<string, React.ReactNode> = {
       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M9 3.75v1.5m6-1.5v1.5M4.5 9.75h15m-15 0A1.5 1.5 0 003 11.25v7.5a1.5 1.5 0 001.5 1.5h15a1.5 1.5 0 001.5-1.5v-7.5a1.5 1.5 0 00-1.5-1.5m-15 0V8.25a1.5 1.5 0 011.5-1.5h12a1.5 1.5 0 011.5 1.5v1.5M8.25 14.25l2.25 2.25 4.5-4.5" />
     </svg>
   ),
+  shirt: (
+    <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M8.25 4.5L4.5 6.75 3 10.5l3 1.5v8.25c0 .414.336.75.75.75h10.5a.75.75 0 00.75-.75V12l3-1.5-1.5-3.75L15.75 4.5M8.25 4.5L12 7.5l3.75-3M8.25 4.5C8.25 5.74 9.93 6.75 12 6.75S15.75 5.74 15.75 4.5" />
+    </svg>
+  ),
 };
 
 export function GuideCard({ guide }: GuideCardProps) {
