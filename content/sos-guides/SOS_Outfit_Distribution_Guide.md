@@ -71,35 +71,37 @@ When you are finished inspecting outfits, **close xEdit without saving**.
 <summary>Creating a New Outfit Record</summary>
 <div class="details-content">
 
-If none of the existing outfits in your modlist suit your needs, you can define your own Outfit records in a small custom ESL-flagged plugin. The simplest workflow is to **copy an existing OTFT record into a new ESL-flagged plugin**, then modify the copy into your own outfit — this handles plugin creation, ESL flagging, master assignment, and gives you a working OTFT structure to edit, all in a single operation.
+If none of the existing outfits in your modlist suit your needs, you can define your own Outfit records in a small custom ESL-flagged plugin. The workflow is: create an empty plugin, add the armor mods you want to draw from as masters, then add new OTFT records inside it.
 
-> **Note:** The Outfit record you copy is only used as a structural template — any plugin in your modlist containing OTFT records works. JOJ - Outfits is one option, not a dependency.
-
-#### Create the Plugin in xEdit
+#### Create an Empty ESL Plugin
 
 1. Launch **xEdit** from the MO2 applications dropdown
-2. Load the plugin containing the OTFT record you want to use as a template, plus any armor mods containing pieces you intend to reference, then click **OK**
-3. In the left pane, expand your template plugin → **Outfit** category, and select any Outfit record (its contents will be replaced)
-4. In the right panel, right-click the record header → **Copy as override into...**
-5. In the dialog, select the **`<new file>.esp`** row that shows **`ESL`** on the right (and no `ESM`)
-6. Name the file something descriptive, e.g. `MyCustomOutfits.esp`
+2. Load any armor mods containing pieces you intend to reference, then click **OK**
+3. In the left pane, **right-click an empty area** → **Create New File...**
+4. In the dialog that appears, select the **`<new file>.esp`** row that shows **`ESL`** on the right (and no `ESM`)
+5. Click **OK** and name the file something descriptive, e.g. `MyCustomOutfits.esp`
 
-The new plugin is created automatically and placed in the modlist's xEdit output mod (e.g. `JOJ - xEdit Output`). You can leave it there or move it into a different mod folder afterwards if you prefer — the plugin itself just needs to be **enabled**.
+The new plugin is created and placed in the modlist's xEdit output mod (e.g. `JOJ - xEdit Output`). You can leave it there or move it into a different mod folder afterwards — it just needs to be **enabled**.
 
 > **Why ESL?** Conserves plugin slots and keeps the last-three-digits FormID shorthand consistent with the rest of this guide. Non-ESL plugins still work — you just lose the shorthand and consume a regular slot.
 
-#### Add Additional Masters (If Needed)
+#### Add Masters
 
-If you want to reference armor pieces from mods that are **not** already masters of your new plugin, right-click the plugin → **Add Masters**, check the additional mods, and confirm.
+For your plugin to reference armor records from other mods, those mods must be added as **masters**:
 
-#### Modify the Copied Record
+1. Right-click your new plugin in the left pane → **Add Masters**
+2. Check every armor mod whose pieces you intend to use
+3. Confirm
 
-1. Select the copied Outfit record inside your new plugin
-2. Update the **EDID** to something meaningful, e.g. `MyOutfit_Ysolda01`
-3. Replace the existing **INAM – Items** entries with the armor pieces you want — drag-and-drop from the left pane or paste FormIDs directly
-4. Save the plugin and exit xEdit
+#### Add Outfit Records
 
-Note your new outfit's FormID — you'll use it in the SkyPatcher assignment line.
+1. Right-click your plugin → **Add** → select **Outfit (OTFT)**
+2. Set the new record's **EDID** (Editor ID) to something meaningful, e.g. `MyOutfit_Ysolda01`
+3. On the new record, right-click the **INAM – Items** field → **Add** once for each armor piece you want included
+4. For each new INAM entry, drag-and-drop the desired armor record from the left pane, or paste its FormID
+5. Repeat steps 1–4 for any additional outfits, then save the plugin and exit xEdit
+
+Note each new outfit's FormID — you'll use it in the SkyPatcher assignment line.
 
 > ⚠️ Any newly added armor must be **built in BodySlide** before it displays correctly in-game. See the [SOS Tool Running Guide](/guides/sos-tool-running-guide) for BodySlide instructions.
 
