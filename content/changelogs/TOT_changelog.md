@@ -57,8 +57,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 ## Tweaks
 
 - Added/edited the following custom patches: 
+   - `SOS - Late Loaders.esp`
    - `PronounsPatcher.esp`
-   - `SOS - Late Loaders.esp`  
 - Regenerated the following outputs:
    - `TOT - ParallaxGen Output (Lord's Vision)`  
    - `TOT - ParallaxGen Output (Performance)`
