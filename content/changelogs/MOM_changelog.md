@@ -28,6 +28,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [ISL Helper SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/179132)  
 [Pronouns Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/43816?tab=files&file_id=743199&nmm=1)  
 [Silver Witch 3BA SMP](https://www.nexusmods.com/skyrimspecialedition/mods/172910)  
+[Alpia Slavetats RaceMenu Plugins](https://www.loverslab.com/files/file/30951-alpia-scribbles-slavetats-pack/)   
 
 ---
 
