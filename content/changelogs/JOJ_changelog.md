@@ -61,8 +61,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
    - `JOJ - Armour Crafting Manuals 0.esp`  
    - `JOJ - Armour WAAT Patch 1.esp`
    - `JOJ - Armour WAAT Patch 5.esp`
+   - `SOS - Late Loaders.esp`
    - `PronounsPatcher.esp`
-   - `SOS - Late Loaders.esp`  
 - Regenerated the following outputs:
    - `JOJ - BodySlide Output`  
    - `JOJ - ParallaxGen Output (Lord's Vision)`  
