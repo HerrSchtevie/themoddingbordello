@@ -28,6 +28,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [ISL Helper SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/179132)  
 [Pronouns Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/43816?tab=files&file_id=743199&nmm=1)  
 [Silver Witch 3BA SMP](https://www.nexusmods.com/skyrimspecialedition/mods/172910)  
+[Alpia Slavetats RaceMenu Plugins](https://www.loverslab.com/files/file/30951-alpia-scribbles-slavetats-pack/)   
 
 ---
 
@@ -41,6 +42,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [DynDOLOD Resources SE 3](https://www.nexusmods.com/skyrimspecialedition/mods/52897)  
 [DynDOLOD DLL NG](https://www.nexusmods.com/skyrimspecialedition/mods/97720)  
 [WHEELER - Refined](https://www.nexusmods.com/skyrimspecialedition/mods/167380)  
+[Alpia Scribbles Slavetats Pack](https://www.loverslab.com/files/file/30951-alpia-scribbles-slavetats-pack/)  
 
 ---
 
@@ -50,6 +52,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Apostate Feris Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/127064)  
 [Moonlight Tales Mini - Highly Compatible Werewolf and Werebear Addon](https://www.nexusmods.com/skyrimspecialedition/mods/97942)  
 [Moonlight Tales Mini - MCM](https://www.nexusmods.com/skyrimspecialedition/mods/85234)  
+[Val Soprano - A Val Serano Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/119001) - Removed to comply with author permissions  
+[Val Soprano - TNG Patch](https://www.nexusmods.com/skyrimspecialedition/mods/119001)  
 
 ---
 
@@ -59,7 +63,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
    - `JOJ - Armour Crafting Manuals 0.esp`  
    - `MOM - Armour WAAT Patch 1.esp`  
    - `MOM - Armour WAAT Patch 5.esp`
-   - `DOD - Gameplay Edits.esp`  
+   - `DOD - Gameplay Edits.esp`
+   - `DOD - Late Loaders.esp`  
    - `PronounsPatcher.esp`
 - Regenerated the following outputs:
    - `DOD - BodySlide Output`  
