@@ -51,13 +51,15 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Vayne - ZK Rogue Outfit - SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/157005)  
 [Moonlight Tales Mini - Highly Compatible Werewolf and Werebear Addon](https://www.nexusmods.com/skyrimspecialedition/mods/97942)  
 [Moonlight Tales Mini - MCM](https://www.nexusmods.com/skyrimspecialedition/mods/85234)  
+[Val Soprano - A Val Serano Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/119001) - Removed to comply with author permissions  
 
 ---
 
 ## Tweaks
 
 - Added/edited the following custom patches: 
-   - `PronounsPatcher.esp`  
+   - `PronounsPatcher.esp`
+   - `SOS - Late Loaders.esp`  
 - Regenerated the following outputs:
    - `TOT - ParallaxGen Output (Lord's Vision)`  
    - `TOT - ParallaxGen Output (Performance)`
