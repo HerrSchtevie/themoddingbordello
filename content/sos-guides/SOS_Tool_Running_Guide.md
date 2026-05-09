@@ -615,12 +615,15 @@ Your Drive:\Journals of Jyggalag - Outputs if you're following along exactly
 
 In the **right-side Plugins tab** of MO2:
 
-- Scroll to the bottom under the `Outputs` section
-- Find and move these plugins **under** `Your Profile - Synthesis Patchers`:
-- `ParallaxGen.esp`
-- `PG_1.esp`
+- Scroll to the top under the `Master Plugins` section
+- Find and move the `PGPatcher.esp` to the bottom of this section, but just above `DynDOLOD.esm`
 
-![image](https://github.com/user-attachments/assets/119102c2-79c2-48c5-8bf8-f56d9550e426)
+![image](https://github.com/user-attachments/assets/70161735-ce1d-4779-b95e-221c2152a308)  
+
+- Scroll to the bottom under the `Outputs` section
+- Find and move the `PG_1.esp` plugins **under** `Your Profile - Synthesis Patchers` (or under `OWL Randomized Special Loot.esp` for JOJ, TOT, and MOM):
+
+![image](https://github.com/user-attachments/assets/44960a0b-bca6-4c00-9f16-a1cae57ea479)  
 
 You're now ready to move on to the next tool!
 
