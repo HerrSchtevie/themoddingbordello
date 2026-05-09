@@ -32,9 +32,10 @@ This page is kept up to date to ensure a **smooth, repeatable installation exper
 | Title | 🔗 Download |
 |---|---|
 | Acheron Extension Library | https://www.loverslab.com/files/file/27063-acheron-extension-library/?do=download&r=1719120&confirm=1&t=1&csrfKey=986c9ae9f1cb5ae9a7b8861d92295f40 |
-| Alpia Scribbles SlaveTats Pack (Base) | https://www.loverslab.com/files/file/30951-alpia-scribbles-slavetats-pack/?do=download&r=1887758&confirm=1&t=1&csrfKey=e2964982fa321c363244dc84f7881bd1 |
-| Alpia Scribbles SlaveTats Pack (Orc) | https://www.loverslab.com/files/file/30951-alpia-scribbles-slavetats-pack/?do=download&r=1832628&confirm=1&t=1&csrfKey=e2964982fa321c363244dc84f7881bd1 |
-| Alpia Scribbles SlaveTats Pack (Riek) | https://www.loverslab.com/files/file/30951-alpia-scribbles-slavetats-pack/?do=download&r=1832627&confirm=1&t=1&csrfKey=e2964982fa321c363244dc84f7881bd1 |
+| Alpia Slavetats RaceMenu Plugins | https://www.loverslab.com/files/file/30951-alpia-scribbles-slavetats-pack/?do=download&r=2152754&confirm=1&t=1&csrfKey=e98a06dfa0e8c54b7025d66a5b64f04b |
+| Alpia Scribbles SlaveTats Pack (Orc) | https://www.loverslab.com/files/file/30951-alpia-scribbles-slavetats-pack/?do=download&r=2152752&confirm=1&t=1&csrfKey=e98a06dfa0e8c54b7025d66a5b64f04b |
+| Alpia Scribbles SlaveTats Pack (Riek) | https://www.loverslab.com/files/file/30951-alpia-scribbles-slavetats-pack/?do=download&r=2152753&confirm=1&t=1&csrfKey=e98a06dfa0e8c54b7025d66a5b64f04b |
+| Alpia Scribbles SlaveTats Pack SE | https://www.loverslab.com/files/file/30951-alpia-scribbles-slavetats-pack/?do=download&r=2152750&confirm=1&t=1&csrfKey=e98a06dfa0e8c54b7025d66a5b64f04b |
 | Amorous Adventures Text and Player Dialogue Revision | https://www.loverslab.com/files/file/23233-amorous-adventures-text-and-player-dialogue-revision/?do=download&r=1368929&confirm=1&t=1&csrfKey=14a36592a162b81ba4279b6bd4382ad6 |
 | AmorousAdventures v3.4-SexLab | https://www.loverslab.com/files/file/984-amorous-adventures-v34-20180602/?do=download&r=665985&confirm=1&t=1&csrfKey=14a36592a162b81ba4279b6bd4382ad6 |
 | ASF – Autonomous Sex Framework | https://www.loverslab.com/files/file/42977-asf-autonomous-sex-framework/?do=download&r=2101835&confirm=1&t=1&csrfKey=355e792d6fa52c8df9631d9d5f2e37ed |
