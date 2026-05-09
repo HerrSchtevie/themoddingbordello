@@ -36,11 +36,12 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [RaceMenu OverlayFix and Various Mod Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/138586)  
 [Lux CS](https://www.nexusmods.com/skyrimspecialedition/mods/153919)  
 [Main Menu Video](https://www.nexusmods.com/skyrimspecialedition/mods/160238)  
-[NPC Plugin Chooser 2](https://www.nexusmods.com/skyrimspecialedition/mods/157055) - Thanks, [Piranha91](https://www.nexusmods.com/profile/Piranha91)!  
 [DynDOLOD 3 Alpha](https://www.nexusmods.com/skyrimspecialedition/mods/68518)  
 [DynDOLOD Resources SE 3](https://www.nexusmods.com/skyrimspecialedition/mods/52897)  
 [DynDOLOD DLL NG](https://www.nexusmods.com/skyrimspecialedition/mods/97720)  
 [WHEELER - Refined](https://www.nexusmods.com/skyrimspecialedition/mods/167380)  
+[Alpia Scribbles Slavetats Pack](https://www.loverslab.com/files/file/30951-alpia-scribbles-slavetats-pack/)  
+
 
 ---
 
@@ -50,6 +51,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Apostate Feris Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/127064)  
 [Moonlight Tales Mini - Highly Compatible Werewolf and Werebear Addon](https://www.nexusmods.com/skyrimspecialedition/mods/97942)  
 [Moonlight Tales Mini - MCM](https://www.nexusmods.com/skyrimspecialedition/mods/85234)  
+[Val Soprano - A Val Serano Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/119001) - Removed to comply with author permissions  
+[Val Soprano - TNG Patch](https://www.nexusmods.com/skyrimspecialedition/mods/119001)  
 
 ---
 
@@ -60,7 +63,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
    - `JOJ - Armour Crafting Manuals 0.esp`  
    - `MOM - Armour WAAT Patch 1.esp`  
    - `MOM - Armour WAAT Patch 5.esp`
-   - `MOM - Gameplay Edits`  
+   - `MOM - Gameplay Edits`
+   - `SOS - Late Loaders.esp`   
    - `PronounsPatcher.esp`  
 - Regenerated the following outputs:
    - `MOM - BodySlide Output`  
