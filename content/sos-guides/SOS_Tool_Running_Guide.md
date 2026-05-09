@@ -598,7 +598,7 @@ Your Drive:\Journals of Jyggalag - Outputs if you're following along exactly
 
 2. Inside, you'll find these files
 
-![image](https://github.com/user-attachments/assets/1d68a23d-766e-4bd4-b8af-9160fe550e98)
+![image](https://github.com/user-attachments/assets/92aead4b-5e8f-44ae-9183-5272c3dc78d4)  
    
 - Cut and paste the contents of the output folder into the folder below:
   ```
