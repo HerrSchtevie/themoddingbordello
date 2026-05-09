@@ -43,6 +43,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [DynDOLOD DLL NG](https://www.nexusmods.com/skyrimspecialedition/mods/97720)  
 [WHEELER - Refined](https://www.nexusmods.com/skyrimspecialedition/mods/167380)  
 [Alpia Scribbles Slavetats Pack](https://www.loverslab.com/files/file/30951-alpia-scribbles-slavetats-pack/)  
+[Alpia Slavetats Orc](https://www.loverslab.com/files/file/30951-alpia-scribbles-slavetats-pack/)  
+[Alpia Slavetats Riek](https://www.loverslab.com/files/file/30951-alpia-scribbles-slavetats-pack/)  
 
 ---
 
