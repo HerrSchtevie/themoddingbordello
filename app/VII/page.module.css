@@ -112,6 +112,33 @@
   }
 }
 
+.whisper {
+  position: absolute;
+  bottom: 2rem;
+  left: 50%;
+  transform: translateX(-50%);
+  font-family: 'Times New Roman', Georgia, serif;
+  font-size: 0.7rem;
+  letter-spacing: 0.15em;
+  color: rgba(216, 200, 180, 0.18);
+  text-align: center;
+  user-select: none;
+  pointer-events: none;
+  margin: 0;
+  padding: 0 1rem;
+  white-space: nowrap;
+  z-index: 2;
+}
+
+@media (max-width: 480px) {
+  .whisper {
+    font-size: 0.6rem;
+    letter-spacing: 0.1em;
+    white-space: normal;
+    bottom: 1.5rem;
+  }
+}
+
 @media (prefers-reduced-motion: reduce) {
   .cipher,
   .ember {

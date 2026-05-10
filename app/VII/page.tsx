@@ -15,7 +15,7 @@ export const metadata: Metadata = {
 export default function Page() {
   return (
     <>
-      <div dangerouslySetInnerHTML={{ __html: '<!-- Sealed in the year the dragon stirred. Speak not its name. -->' }} />
+      <div dangerouslySetInnerHTML={{ __html: '<!-- Sealed in the year the dragon stirred. Speak not its name — save unto the Watcher of Order, who keeps thy voice in private. -->' }} />
       <style dangerouslySetInnerHTML={{ __html:
         'nav,footer{display:none!important}main{padding:0!important;margin:0!important}html,body{background:#050306!important}'
       }} />
@@ -37,10 +37,13 @@ export default function Page() {
           <p className={styles.cipher}>QWxkdWluIGF3YWtlbnMu</p>
           <div className={styles.ornament} aria-hidden="true">⸻</div>
         </main>
+
+        <p className={styles.whisper}>speak the prophecy in private to the watcher of order</p>
       </div>
 
       <Script id="vii-mark" strategy="afterInteractive">
-        {`console.log("%cThe seventh seal is read, not broken.", "color:#7a0000;font-style:italic;letter-spacing:0.1em");`}
+        {`console.log("%cThe seventh seal is read, not broken.", "color:#7a0000;font-style:italic;letter-spacing:0.1em");
+console.log("%cSpeak the prophecy in private to the Watcher of Order.", "color:#7a0000;font-style:italic;letter-spacing:0.1em");`}
       </Script>
     </>
   );
