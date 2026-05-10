@@ -55,7 +55,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 ---
 
 ```text
-Aol Zlclyao Zjyvss
+Aol Zlclyao Zjyvss · VII 
 ```
 
 ---
