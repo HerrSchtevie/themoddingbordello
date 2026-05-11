@@ -25,7 +25,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 ## Additions
 
-[Skyrim Food Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/110935)  
+NONE
 
 ---
 
