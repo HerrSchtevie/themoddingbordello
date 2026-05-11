@@ -45,7 +45,7 @@ NONE
 
 - Added/edited the following custom patches: 
    - `SOS - Merged Patches`
-   - `SOS - Ohmes-Raht Fix.esp`  
+   - `MOM - Gampelay Edits.esp`  
 - Regenerated the following outputs:
    - NONE  
 
