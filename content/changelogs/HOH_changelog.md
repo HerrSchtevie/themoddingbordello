@@ -39,6 +39,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 ## Removals 
 
+NONE
 
 ---
 
