@@ -31,7 +31,9 @@ NONE
 
 ## Updates
 
-NONE
+[DynDOLOD DLL NG](https://www.nexusmods.com/skyrimspecialedition/mods/97720)  
+[Serana Dialogue Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/32161)  
+[Serana Dialogue Add-On Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/70782)  
 
 ---
 
@@ -47,7 +49,8 @@ NONE
    - `SOS - Merged Patches`
    - `SOS - Ohmes-Raht Fix.esp`  
 - Regenerated the following outputs:
-   - NONE  
+   - NONE
+- Rolled back [RaceMenu OverlayFix and Various Mod Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/138586?tab=files&file_id=680494&nmm=1) to version 1.45-prerelease to fix [OBlush](https://www.nexusmods.com/skyrimspecialedition/mods/145083) issue on Performance profile
 
 ---
 
