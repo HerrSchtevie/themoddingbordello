@@ -34,6 +34,7 @@ NONE
 [DynDOLOD DLL NG](https://www.nexusmods.com/skyrimspecialedition/mods/97720)  
 [Serana Dialogue Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/32161)  
 [Serana Dialogue Add-On Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/70782)  
+[Skyrim Food Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/110935)  
 
 ---
 
