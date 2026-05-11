@@ -47,7 +47,7 @@ NONE
    - `SOS - Merged Patches`
    - `SOS - Ohmes-Raht Fix.esp`  
 - Regenerated the following outputs:
-   - `NONE`  
+   - NONE  
 
 ---
 
