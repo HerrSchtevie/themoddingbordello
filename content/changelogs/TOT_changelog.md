@@ -25,7 +25,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 ## Additions
 
-NONE
+[Lux JK's Sleeping Giant Inn FarmIntInnEnd03.nif Incorrect Texture Fix](https://www.nexusmods.com/skyrimspecialedition/mods/170071) - Performance Profile only  
 
 ---
 
