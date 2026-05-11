@@ -16,6 +16,48 @@ Save compatibility depends on **which number changes** between releases.
   Examples: `4.2.0 → 4.2.1`, `5.1.0 → 5.1.1`  
   Bug fixes, tuning, or minor adjustments. **Safe to update mid-save.**
 
+# VOV 1.4.0 (WORK IN PROGRESS)
+
+This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
+The actual MO2 modlist is always the authoritative reference for modlist content.
+
+---
+
+## Additions
+
+NONE
+
+---
+
+## Updates
+
+[DynDOLOD DLL NG](https://www.nexusmods.com/skyrimspecialedition/mods/97720)  
+[Skyrim Food Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/110935)  
+
+---
+
+## Removals 
+
+[Skyrim Food Expansion - Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/110935?tab=files&file_id=700554&nmm=1) - not needed with Model Swapper version of Skyrim Food Expansion  
+
+---
+
+## Tweaks
+
+- Added/edited the following custom patches:
+   - NONE
+- Regenerated the following outputs:
+   - NONE  
+- Rolled back [RaceMenu OverlayFix and Various Mod Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/138586?tab=files&file_id=680494&nmm=1) to version 1.45-prerelease to fix [OBlush](https://www.nexusmods.com/skyrimspecialedition/mods/145083) issue on Performance profile  
+
+---
+
+```text
+Aol Zlclyao Zjyvss · VII 
+```
+
+---
+
 # VOV 1.3.0 (Updated - 05.09.2026)
 
 This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
