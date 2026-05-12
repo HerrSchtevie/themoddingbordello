@@ -49,7 +49,16 @@ NONE
 - Added/edited the following custom patches:
    - `HOH - Merged Patches`  
 - Regenerated the following outputs:
-   - NONE
+   - `DOD - ParallaxGen Output (Lord's Vision)`  
+   - `DOD - ParallaxGen Output (Performance)`
+   - `DOD - xLODGen Output (Lord's Vision)`
+   - `DOD - xLODGen Output (Performance)`
+   - `DOD - Grass Cache (Lord's Vision)`
+   - `DOD - Grass Cache (Performance)`
+   - `DOD - TexGen Output (Lord's Vision)`
+   - `DOD - TexGen Output (Performance)`
+   - `DOD - DynDOLOD Output (Lord's Vision)`
+   - `DOD - DynDOLOD Output (Performance)`
 - Rolled back [RaceMenu OverlayFix and Various Mod Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/138586?tab=files&file_id=680494&nmm=1) to version 1.45-prerelease to fix [OBlush](https://www.nexusmods.com/skyrimspecialedition/mods/145083) issue on Performance profile
   
 ---
