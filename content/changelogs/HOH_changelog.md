@@ -50,7 +50,16 @@ NONE
    - `SOS - Ohmes-Raht Fix.esp`
    - `HOH - Merged Patches`  
 - Regenerated the following outputs:
-   - NONE  
+   - `HOH - ParallaxGen Output (Lord's Vision)`  
+   - `HOH - ParallaxGen Output (Performance)`
+   - `HOH - xLODGen Output (Lord's Vision)`
+   - `HOH - xLODGen Output (Performance)`
+   - `HOH - Grass Cache (Lord's Vision)`
+   - `HOH - Grass Cache (Performance)`
+   - `HOH - TexGen Output (Lord's Vision)`
+   - `HOH - TexGen Output (Performance)`
+   - `HOH - DynDOLOD Output (Lord's Vision)`
+   - `HOH - DynDOLOD Output (Performance)`
 - Rolled back [RaceMenu OverlayFix and Various Mod Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/138586?tab=files&file_id=680494&nmm=1) to version 1.45-prerelease to fix [OBlush](https://www.nexusmods.com/skyrimspecialedition/mods/145083) issue on Performance profile
 
 ---
