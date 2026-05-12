@@ -47,7 +47,16 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 - Added/edited the following custom patches:
    - NONE
 - Regenerated the following outputs:
-   - NONE  
+   - `VOV - ParallaxGen Output (Lord's Vision)`  
+   - `VOV - ParallaxGen Output (Performance)`
+   - `VOV - xLODGen Output (Lord's Vision)`
+   - `VOV - xLODGen Output (Performance)`
+   - `VOV - Grass Cache (Lord's Vision)`
+   - `VOV - Grass Cache (Performance)`
+   - `VOV - TexGen Output (Lord's Vision)`
+   - `VOV - TexGen Output (Performance)`
+   - `VOV - DynDOLOD Output (Lord's Vision)`
+   - `VOV - DynDOLOD Output (Performance)` 
 
 ---
 
