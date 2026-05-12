@@ -51,7 +51,16 @@ The actual MO2 modlist is always the authoritative reference for modlist content
    - `SOS - Merged Patches`
    - `SOS - Ohmes-Raht Fix.esp`  
 - Regenerated the following outputs:
-   - NONE
+   - `JOJ - ParallaxGen Output (Lord's Vision)`  
+   - `JOJ - ParallaxGen Output (Performance)`
+   - `JOJ - xLODGen Output (Lord's Vision)`
+   - `JOJ - xLODGen Output (Performance)`
+   - `JOJ - Grass Cache (Lord's Vision)`
+   - `JOJ - Grass Cache (Performance)`
+   - `JOJ - TexGen Output (Lord's Vision)`
+   - `JOJ - TexGen Output (Performance)`
+   - `JOJ - DynDOLOD Output (Lord's Vision)`
+   - `JOJ - DynDOLOD Output (Performance)`
 - Rolled back [RaceMenu OverlayFix and Various Mod Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/138586?tab=files&file_id=680494&nmm=1) to version 1.45-prerelease to fix [OBlush](https://www.nexusmods.com/skyrimspecialedition/mods/145083) issue on Performance profile
 
 ---
