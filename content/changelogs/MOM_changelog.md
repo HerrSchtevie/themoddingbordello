@@ -50,7 +50,16 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 - Added/edited the following custom patches: 
    - `SOS - Merged Patches`  
 - Regenerated the following outputs:
-   - NONE  
+   - `MOM - ParallaxGen Output (Lord's Vision)`  
+   - `MOM - ParallaxGen Output (Performance)`
+   - `MOM - xLODGen Output (Lord's Vision)`
+   - `MOM - xLODGen Output (Performance)`
+   - `MOM - Grass Cache (Lord's Vision)`
+   - `MOM - Grass Cache (Performance)`
+   - `MOM - TexGen Output (Lord's Vision)`
+   - `MOM - TexGen Output (Performance)`
+   - `MOM - DynDOLOD Output (Lord's Vision)`
+   - `MOM - DynDOLOD Output (Performance)` 
 - Rolled back [RaceMenu OverlayFix and Various Mod Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/138586?tab=files&file_id=680494&nmm=1) to version 1.45-prerelease to fix [OBlush](https://www.nexusmods.com/skyrimspecialedition/mods/145083) issue on Performance profile
   
 ---
