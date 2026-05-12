@@ -51,7 +51,7 @@ with support from [Mannaz](https://www.nexusmods.com/skyrimspecialedition/mods/8
 
 This list makes survival a constant struggle, tying hunting, needs, and the elements directly into the gameplay loop.  
 
-• Survival overhauls — [Last Seed](https://www.nexusmods.com/skyrimspecialedition/mods/56393)﻿, [Frostfall](https://www.nexusmods.com/skyrimspecialedition/mods/671)﻿, [Campfire](https://www.nexusmods.com/skyrimspecialedition/mods/667)﻿, [Stress and Fear](https://www.nexusmods.com/skyrimspecialedition/mods/116522)﻿, and [Bathing in Skryim](https://www.nexusmods.com/skyrimspecialedition/mods/135288)﻿ — add hunger, thirst, exhaustion, fear, etc.  
+• Survival overhauls — [Last Seed](https://www.nexusmods.com/skyrimspecialedition/mods/56393)﻿, [Frostfall](https://www.nexusmods.com/skyrimspecialedition/mods/671)﻿, [Campfire](https://www.nexusmods.com/skyrimspecialedition/mods/667)﻿, and [Bathing in Skryim](https://www.nexusmods.com/skyrimspecialedition/mods/135288)﻿ — add hunger, thirst, exhaustion, fear, etc.  
 • Hunting overhauls — [Simple Hunting Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/95943)﻿, [Hunters Loot](https://www.nexusmods.com/skyrimspecialedition/mods/119348)﻿﻿, [Carry Your Carcasses](https://www.nexusmods.com/skyrimspecialedition/mods/62628)﻿ — turn every hunt into skinning, butchering, and hauling your spoils  
 • Immersive progression systems make survival choices matter: when to camp, what to eat, and what to carry  
 • Additional immersion mods ground every step of your journey in realism  
