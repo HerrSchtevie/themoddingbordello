@@ -47,7 +47,8 @@ NONE
 ## Tweaks
 
 - Added/edited the following custom patches: 
-   - `SOS - Ohmes-Raht Fix.esp`  
+   - `SOS - Ohmes-Raht Fix.esp`
+   - `HOH - Merged Patches`  
 - Regenerated the following outputs:
    - NONE  
 - Rolled back [RaceMenu OverlayFix and Various Mod Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/138586?tab=files&file_id=680494&nmm=1) to version 1.45-prerelease to fix [OBlush](https://www.nexusmods.com/skyrimspecialedition/mods/145083) issue on Performance profile
