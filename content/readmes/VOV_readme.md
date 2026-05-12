@@ -242,6 +242,7 @@ Before you begin, make sure you meet the following **hard requirements**:
 
 3. **Create folders and Defender exceptions**
    - In Windows, create a `\modlists` directory and a `\downloaded mods` directory if you do not already have them. They do not need to be on the same drive, but each needs to be on a drive with adequate available storage capacity. You do not have to use those exact names.
+   - ⚠️Important: Do not bury your `\modlists` folder deep in your directory system. If the absolute path to your list install is much longer than `D:\modlists\VOV\` you may encounter cryptogenic errors resulting from overlong file paths.
    - Assuming you are using Windows Defender as your antivirus, open `Windows Security` -> `Virus and Threat Detection` -> `Manage settings`.
    - Scroll all the way down to the Exclusions section. Click `Add or remove exclusions`.
    - Select and add the two directories mentioned above.
