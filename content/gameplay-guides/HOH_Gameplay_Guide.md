@@ -19,7 +19,7 @@ Let Hircine's call shape your steps.
 1. 🧙 [Character Creation and Progression](#character-creation-and-progression)
 2. 💾 [Skyrim Save System Overhaul 3](#skyrim-save-system-overhaul-3)
 3. ⚖️ [Encounter Levels and Game Difficulty](#encounter-levels-and-game-difficulty)
-4. ⛺ [Survival Suite](#survival-suite)
+4. ⛺ [Survival Suite and Immersion](#survival-suite)
 5. ⚔️ [Combat](#combat)
 6. 🧭 [Questing](#questing)
 7. 🧑‍🎨 [Face & Appearance Issues](#face--appearance-issues)
@@ -264,10 +264,10 @@ If you wish to fine-tune your experience — whether to make the game more punis
 
 <a id="survival-suite"></a>
 
-<h2 class="visually-hidden">⛺ Survival Suite</h2>
+<h2 class="visually-hidden">⛺ Survival Suite and Immersion</h2>
 
 <details>
-<summary>⛺ Survival Suite</summary>
+<summary>⛺ Survival Suite and Immersion</summary>
 
 ---
 
@@ -279,6 +279,8 @@ HOH utilizes the following survival and needs mods — please see their modpages
 - [Skills of the Wild - New Campfire Survival Skill Trees](https://www.nexusmods.com/skyrimspecialedition/mods/37693)
 - [Simple Hunting Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/95943)
 - [Bathing in Skyrim - Renewed](https://www.nexusmods.com/skyrimspecialedition/mods/135288)
+
+In addition to those, we have dozens of mods making smaller changes to many facets of gameplay: Modifications to health and magicka regeneration, fast travel, fishing, bribery, sleeping, dragon claws, food and drink, and much more. We encourage you to browse the Gameplay Expansions & Additions portion of the modlist in MO2 and familiarize yourself with any mods you don't recognize.
 
 </details>
 
