@@ -26,6 +26,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 ## Additions
 
 [Lux JK's Sleeping Giant Inn FarmIntInnEnd03.nif Incorrect Texture Fix](https://www.nexusmods.com/skyrimspecialedition/mods/170071) - Performance Profile only  
+[La Femme Lycana Female Werewolf Body Official Port](https://www.nexusmods.com/skyrimspecialedition/mods/31049)  
 
 ---
 
@@ -46,7 +47,7 @@ NONE
 ## Tweaks
 
 - Added/edited the following custom patches:
-   - NONE
+   - `HOH - Merged Patches`  
 - Regenerated the following outputs:
    - NONE
 - Rolled back [RaceMenu OverlayFix and Various Mod Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/138586?tab=files&file_id=680494&nmm=1) to version 1.45-prerelease to fix [OBlush](https://www.nexusmods.com/skyrimspecialedition/mods/145083) issue on Performance profile
