@@ -32,6 +32,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 ## Updates
 
+[DynDOLOD 3 Alpha](https://www.nexusmods.com/skyrimspecialedition/mods/68518)  
 [DynDOLOD DLL NG](https://www.nexusmods.com/skyrimspecialedition/mods/97720)  
 [Serana Dialogue Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/32161)  
 [Serana Dialogue Add-On Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/70782)  
