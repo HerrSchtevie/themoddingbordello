@@ -31,14 +31,16 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 ## Updates
 
+[DynDOLOD 3 Alpha](https://www.nexusmods.com/skyrimspecialedition/mods/68518)  
 [DynDOLOD DLL NG](https://www.nexusmods.com/skyrimspecialedition/mods/97720)  
 [Skyrim Food Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/110935)  
+[Skyrim Food Expansion - Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/110935?tab=files&file_id=700554&nmm=1)  
 
 ---
 
 ## Removals 
 
-[Skyrim Food Expansion - Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/110935?tab=files&file_id=700554&nmm=1) - not needed with Model Swapper version of Skyrim Food Expansion  
+NONE
 
 ---
 
