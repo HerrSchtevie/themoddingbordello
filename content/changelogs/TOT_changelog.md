@@ -36,12 +36,13 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Serana Dialogue Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/32161)  
 [Serana Dialogue Add-On Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/70782)  
 [Skyrim Food Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/110935)  
+[Skyrim Food Expansion - Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/110935?tab=files&file_id=700554&nmm=1)  
 
 ---
 
 ## Removals 
 
-[Skyrim Food Expansion - Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/110935?tab=files&file_id=700554&nmm=1) - not needed with Model Swapper version of Skyrim Food Expansion  
+NONE  
 
 ---
 
