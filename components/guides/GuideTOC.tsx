@@ -181,7 +181,7 @@ export function GuideTOCMobile({ contentId, hideDetailsControls }: GuideTOCProps
 
   return (
     <>
-      <div className="xl:hidden sticky top-16 z-40 py-2 bg-bordello-bg/95 backdrop-blur border-b border-bordello-border">
+      <div className="xl:hidden sticky top-[110px] z-30 py-2 bg-bordello-bg/95 backdrop-blur border-b border-bordello-border">
         <div className="flex items-center gap-2">
           <button
             onClick={() => setMobileOpen(!mobileOpen)}

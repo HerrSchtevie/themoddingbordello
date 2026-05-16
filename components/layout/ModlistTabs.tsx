@@ -29,7 +29,7 @@ export function ModlistTabs({ list, activePage }: ModlistTabsProps) {
   });
 
   return (
-    <div className="flex gap-1 border-b border-bordello-border mb-8 overflow-x-auto overflow-y-hidden">
+    <div className="sticky top-16 z-40 -mx-4 sm:-mx-6 lg:-mx-8 px-4 sm:px-6 lg:px-8 mb-8 bg-bordello-bg/95 backdrop-blur flex gap-1 border-b border-bordello-border overflow-x-auto overflow-y-hidden">
       {tabs.map((tab) => {
         const isActive = tab.page === activePage;
         return (

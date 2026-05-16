@@ -24,7 +24,7 @@ export default async function GameplayGuidePage({ params }: { params: { list: st
       <GuideTOCMobile contentId="gameplay-guide-content" hideDetailsControls />
       <div className="flex gap-8">
         <div className="min-w-0 flex-1" id="gameplay-guide-content">
-          <MarkdownSearchView html={html} accentColor={list.accentColor} placeholder="Search gameplay guide…" stickyTopClassName="top-32 xl:top-16" />
+          <MarkdownSearchView html={html} accentColor={list.accentColor} placeholder="Search gameplay guide…" stickyTopClassName="top-[170px] xl:top-[110px]" />
         </div>
         <GuideTOCSidebar contentId="gameplay-guide-content" hideDetailsControls />
       </div>

@@ -189,7 +189,7 @@ export function SearchBar({
   placeholder = 'Search…',
   resultSummary,
   trailingControls,
-  stickyTopClassName = 'top-16',
+  stickyTopClassName = 'top-[110px]',
 }: SearchBarProps) {
   const isSearching = query.length > 0;
   const hasMatches = matches.length > 0;

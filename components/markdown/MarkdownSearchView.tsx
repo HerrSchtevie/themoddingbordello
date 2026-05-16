@@ -31,8 +31,21 @@ export function MarkdownSearchView({
 
   useEffect(() => {
     if (!articleRef.current) return;
-    clearHighlights(articleRef.current);
-    if (query) walkAndHighlight(articleRef.current, query);
+    const el = articleRef.current;
+    clearHighlights(el);
+    if (!query) return;
+    walkAndHighlight(el, query);
+    // Open every <details> that contains a match so the marks are visible
+    // and scroll-into-view targets land on something that's actually rendered.
+    el.querySelectorAll('mark[data-search-highlight]').forEach((mark) => {
+      let parent: HTMLElement | null = mark.parentElement;
+      while (parent && parent !== el) {
+        if (parent.tagName === 'DETAILS') {
+          (parent as HTMLDetailsElement).open = true;
+        }
+        parent = parent.parentElement;
+      }
+    });
   }, [query, html]);
 
   const { matches, currentIndex, next, prev, onInputKeyDown } = useSearchHighlights(

@@ -22,7 +22,7 @@ export default async function ReadmePage({ params }: { params: { list: string } 
       <GuideTOCMobile contentId="readme-content" hideDetailsControls />
       <div className="flex gap-8">
         <div className="min-w-0 flex-1" id="readme-content">
-          <MarkdownSearchView html={html} accentColor={list.accentColor} placeholder="Search ReadMe…" stickyTopClassName="top-32 xl:top-16" />
+          <MarkdownSearchView html={html} accentColor={list.accentColor} placeholder="Search ReadMe…" stickyTopClassName="top-[170px] xl:top-[110px]" />
         </div>
         <GuideTOCSidebar contentId="readme-content" hideDetailsControls />
       </div>

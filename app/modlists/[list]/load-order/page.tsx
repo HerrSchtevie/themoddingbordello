@@ -24,7 +24,7 @@ export default function LoadOrderPage({ params }: { params: { list: string } }) 
       <GuideTOCMobile contentId="kodex-content" hideDetailsControls />
       <div className="flex gap-8">
         <div className="min-w-0 flex-1" id="kodex-content">
-          <KodexClient nodes={nodes} accentColor={list.accentColor} stickyTopClassName="top-32 xl:top-16" />
+          <KodexClient nodes={nodes} accentColor={list.accentColor} stickyTopClassName="top-[170px] xl:top-[110px]" />
         </div>
         <GuideTOCSidebar contentId="kodex-content" hideDetailsControls />
       </div>
