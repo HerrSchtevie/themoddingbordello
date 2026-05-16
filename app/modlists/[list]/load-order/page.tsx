@@ -21,12 +21,12 @@ export default function LoadOrderPage({ params }: { params: { list: string } }) 
 
   return (
     <ModlistLayout list={list} activePage="load-order">
-      <GuideTOCMobile contentId="kodex-content" />
+      <GuideTOCMobile contentId="kodex-content" hideDetailsControls />
       <div className="flex gap-8">
         <div className="min-w-0 flex-1" id="kodex-content">
-          <KodexClient nodes={nodes} accentColor={list.accentColor} />
+          <KodexClient nodes={nodes} accentColor={list.accentColor} stickyTopClassName="top-32 xl:top-16" />
         </div>
-        <GuideTOCSidebar contentId="kodex-content" />
+        <GuideTOCSidebar contentId="kodex-content" hideDetailsControls />
       </div>
     </ModlistLayout>
   );

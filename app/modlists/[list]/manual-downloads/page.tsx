@@ -2,7 +2,7 @@ import { notFound } from 'next/navigation';
 import { modlists, modlistBySlug, getModlistContentPath } from '@/lib/modlists';
 import { loadMarkdown } from '@/lib/markdown';
 import { ModlistLayout } from '@/components/layout/ModlistLayout';
-import { MarkdownRenderer } from '@/components/markdown/MarkdownRenderer';
+import { MarkdownSearchView } from '@/components/markdown/MarkdownSearchView';
 import { ModlistSlug } from '@/types/modlist';
 
 export function generateStaticParams() {
@@ -20,7 +20,7 @@ export default async function ManualDownloadsPage({ params }: { params: { list: 
 
   return (
     <ModlistLayout list={list} activePage="manual-downloads">
-      <MarkdownRenderer html={html} />
+      <MarkdownSearchView html={html} accentColor={list.accentColor} placeholder="Search manual downloads…" />
     </ModlistLayout>
   );
 }

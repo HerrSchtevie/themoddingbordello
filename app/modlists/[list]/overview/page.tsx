@@ -2,7 +2,7 @@ import { notFound } from 'next/navigation';
 import { allModlistSlugs, modlistBySlug, getModlistContentPath } from '@/lib/modlists';
 import { loadMarkdown } from '@/lib/markdown';
 import { ModlistLayout } from '@/components/layout/ModlistLayout';
-import { MarkdownRenderer } from '@/components/markdown/MarkdownRenderer';
+import { MarkdownSearchView } from '@/components/markdown/MarkdownSearchView';
 import { ModlistSlug } from '@/types/modlist';
 
 export function generateStaticParams() {
@@ -18,7 +18,7 @@ export default async function OverviewPage({ params }: { params: { list: string 
 
   return (
     <ModlistLayout list={list} activePage="overview">
-      <MarkdownRenderer html={html} />
+      <MarkdownSearchView html={html} accentColor={list.accentColor} placeholder="Search overview…" />
     </ModlistLayout>
   );
 }

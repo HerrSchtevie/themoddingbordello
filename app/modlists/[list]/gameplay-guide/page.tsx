@@ -2,7 +2,7 @@ import { notFound } from 'next/navigation';
 import { modlists, modlistBySlug, getModlistContentPath } from '@/lib/modlists';
 import { loadMarkdown } from '@/lib/markdown';
 import { ModlistLayout } from '@/components/layout/ModlistLayout';
-import { MarkdownRenderer } from '@/components/markdown/MarkdownRenderer';
+import { MarkdownSearchView } from '@/components/markdown/MarkdownSearchView';
 import { GuideTOCSidebar, GuideTOCMobile } from '@/components/guides/GuideTOC';
 import { ModlistSlug } from '@/types/modlist';
 
@@ -21,12 +21,12 @@ export default async function GameplayGuidePage({ params }: { params: { list: st
 
   return (
     <ModlistLayout list={list} activePage="gameplay-guide">
-      <GuideTOCMobile contentId="gameplay-guide-content" />
+      <GuideTOCMobile contentId="gameplay-guide-content" hideDetailsControls />
       <div className="flex gap-8">
         <div className="min-w-0 flex-1" id="gameplay-guide-content">
-          <MarkdownRenderer html={html} />
+          <MarkdownSearchView html={html} accentColor={list.accentColor} placeholder="Search gameplay guide…" stickyTopClassName="top-32 xl:top-16" />
         </div>
-        <GuideTOCSidebar contentId="gameplay-guide-content" />
+        <GuideTOCSidebar contentId="gameplay-guide-content" hideDetailsControls />
       </div>
     </ModlistLayout>
   );

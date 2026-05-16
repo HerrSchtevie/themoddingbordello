@@ -1,6 +1,7 @@
 'use client';
 
 import { useEffect, useRef } from 'react';
+import { walkAndHighlight } from './searchUtils';
 
 interface VersionBlockProps {
   version: string;
@@ -10,49 +11,6 @@ interface VersionBlockProps {
   onToggle?: () => void;
   query?: string;
   labelNode?: React.ReactNode;
-}
-
-function applyHighlights(el: HTMLElement, query: string) {
-  const lower = query.toLowerCase();
-  if (!lower) return;
-  const walker = document.createTreeWalker(el, NodeFilter.SHOW_TEXT, {
-    acceptNode(node) {
-      const parent = node.parentElement;
-      if (!parent) return NodeFilter.FILTER_REJECT;
-      const tag = parent.tagName;
-      if (tag === 'SCRIPT' || tag === 'STYLE') return NodeFilter.FILTER_REJECT;
-      if ((node.textContent || '').toLowerCase().includes(lower)) {
-        return NodeFilter.FILTER_ACCEPT;
-      }
-      return NodeFilter.FILTER_REJECT;
-    },
-  });
-
-  const targets: Text[] = [];
-  let n: Node | null;
-  while ((n = walker.nextNode())) targets.push(n as Text);
-
-  for (const textNode of targets) {
-    const text = textNode.textContent || '';
-    const lowerText = text.toLowerCase();
-    const frag = document.createDocumentFragment();
-    let i = 0;
-    while (i < text.length) {
-      const idx = lowerText.indexOf(lower, i);
-      if (idx === -1) {
-        frag.appendChild(document.createTextNode(text.slice(i)));
-        break;
-      }
-      if (idx > i) frag.appendChild(document.createTextNode(text.slice(i, idx)));
-      const mark = document.createElement('mark');
-      mark.setAttribute('data-search-highlight', '');
-      mark.className = 'bg-yellow-400/25 text-inherit rounded-[2px] px-0.5';
-      mark.textContent = text.slice(idx, idx + query.length);
-      frag.appendChild(mark);
-      i = idx + query.length;
-    }
-    textNode.parentNode?.replaceChild(frag, textNode);
-  }
 }
 
 export function VersionBlock({
@@ -70,7 +28,8 @@ export function VersionBlock({
     if (!isExpanded || !articleRef.current) return;
     const el = articleRef.current;
     el.innerHTML = html;
-    if (query && query.trim()) applyHighlights(el, query.trim());
+    const q = query?.trim();
+    if (q) walkAndHighlight(el, q);
   }, [query, isExpanded, html]);
 
   return (

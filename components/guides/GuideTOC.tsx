@@ -10,6 +10,11 @@ interface TOCItem {
 
 interface GuideTOCProps {
   contentId: string;
+  /**
+   * When true, suppress the Expand All / Collapse All controls inside the TOC.
+   * Used on pages whose search bar provides equivalent controls.
+   */
+  hideDetailsControls?: boolean;
 }
 
 /**
@@ -101,7 +106,7 @@ function parseTOCItems(container: HTMLElement): TOCItem[] {
   return items;
 }
 
-export function GuideTOCSidebar({ contentId }: GuideTOCProps) {
+export function GuideTOCSidebar({ contentId, hideDetailsControls }: GuideTOCProps) {
   const { items, activeId, scrollTo, scrollToTop, expandAll, collapseAll, hasDetails } = useTOC(contentId);
 
   if (items.length === 0) return null;
@@ -112,7 +117,7 @@ export function GuideTOCSidebar({ contentId }: GuideTOCProps) {
         <p className="text-xs font-semibold uppercase tracking-wider text-bordello-muted mb-3 px-2">
           On this page
         </p>
-        {hasDetails && (
+        {hasDetails && !hideDetailsControls && (
           <div className="flex gap-2 px-2 mb-3">
             <button
               onClick={expandAll}
@@ -163,7 +168,7 @@ export function GuideTOCSidebar({ contentId }: GuideTOCProps) {
   );
 }
 
-export function GuideTOCMobile({ contentId }: GuideTOCProps) {
+export function GuideTOCMobile({ contentId, hideDetailsControls }: GuideTOCProps) {
   const { items, activeId, scrollTo, expandAll, collapseAll, hasDetails } = useTOC(contentId);
   const [mobileOpen, setMobileOpen] = useState(false);
 
@@ -192,7 +197,7 @@ export function GuideTOCMobile({ contentId }: GuideTOCProps) {
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
           </svg>
           </button>
-          {hasDetails && (
+          {hasDetails && !hideDetailsControls && (
             <div className="flex gap-1 shrink-0">
               <button
                 onClick={expandAll}
