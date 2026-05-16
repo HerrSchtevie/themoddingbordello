@@ -18,7 +18,7 @@ export default async function ChangelogPage({ params }: { params: { list: string
 
   return (
     <ModlistLayout list={list} activePage="changelog">
-      <ChangelogRenderer preambleHtml={preambleHtml} versions={versions} />
+      <ChangelogRenderer preambleHtml={preambleHtml} versions={versions} accentColor={list.accentColor} />
     </ModlistLayout>
   );
 }
