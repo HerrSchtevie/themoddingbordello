@@ -3,6 +3,7 @@ import { modlists, modlistBySlug } from '@/lib/modlists';
 import { loadKodex } from '@/lib/kodex';
 import { ModlistLayout } from '@/components/layout/ModlistLayout';
 import { KodexClient } from '@/components/kodex/KodexClient';
+import { PluginCountsTable } from '@/components/kodex/PluginCountsTable';
 import { GuideTOCSidebar, GuideTOCMobile } from '@/components/guides/GuideTOC';
 import { ModlistSlug } from '@/types/modlist';
 
@@ -24,6 +25,9 @@ export default function LoadOrderPage({ params }: { params: { list: string } }) 
       <GuideTOCMobile contentId="kodex-content" hideDetailsControls />
       <div className="flex gap-8">
         <div className="min-w-0 flex-1" id="kodex-content">
+          {list.pluginCounts && (
+            <PluginCountsTable counts={list.pluginCounts} accentColor={list.accentColor} />
+          )}
           <KodexClient nodes={nodes} accentColor={list.accentColor} stickyTopClassName="top-[170px] xl:top-[110px]" />
         </div>
         <GuideTOCSidebar contentId="kodex-content" hideDetailsControls />
