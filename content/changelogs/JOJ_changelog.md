@@ -40,7 +40,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 ## Removals 
 
-NONE
+[Wheeler CTD-Fix](https://www.nexusmods.com/skyrimspecialedition/mods/132074) - Redundant with [WHEELER - Refined](https://www.nexusmods.com/skyrimspecialedition/mods/167380)  
 
 ---
 
