@@ -16,6 +16,42 @@ Save compatibility depends on **which number changes** between releases.
   Examples: `4.2.0 → 4.2.1`, `5.1.0 → 5.1.1`  
   Bug fixes, tuning, or minor adjustments. **Safe to update mid-save.**
 
+# TOT 4.4.1 (WORK IN PROGRESS)
+
+This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
+The actual MO2 modlist is always the authoritative reference for modlist content.
+
+---
+
+## Additions
+
+[Northern Roads Grass Remover Synthesis Patcher](https://github.com/poperigby/northern-roads-grass-remover)  
+
+---
+
+## Updates
+
+[Northern Roads Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/77386)  
+[Northern Roads - Patches Compendium](https://www.nexusmods.com/skyrimspecialedition/mods/77893)  
+[No Grass In Objects](https://www.nexusmods.com/skyrimspecialedition/mods/42161)  
+
+---
+
+## Removals 
+
+NONE
+
+---
+
+## Tweaks
+
+- Added/edited the following custom patches: 
+   - NONE
+- Regenerated the following outputs:
+   - `TOT - Grass Cache (Lord's Vision)`
+
+---
+
 # TOT 4.4.0 (Updated - 05.15.2026)
 
 This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
