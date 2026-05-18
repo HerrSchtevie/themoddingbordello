@@ -26,6 +26,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 ## Additions
 
 [Northern Roads Grass Remover Synthesis Patcher](https://github.com/poperigby/northern-roads-grass-remover)  
+[dMenu NG](https://www.nexusmods.com/skyrimspecialedition/mods/166751)  
 
 ---
 
