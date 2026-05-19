@@ -16,7 +16,7 @@ Save compatibility depends on **which number changes** between releases.
   Examples: `4.2.0 → 4.2.1`, `5.1.0 → 5.1.1`  
   Bug fixes, tuning, or minor adjustments. **Safe to update mid-save.**
 
-# DOD 1.3.1 (WORK IN PROGRESS)
+# DOD 1.4.0 (WORK IN PROGRESS)
 
 This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
 The actual MO2 modlist is always the authoritative reference for modlist content.
@@ -42,6 +42,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 [Wheeler CTD-Fix](https://www.nexusmods.com/skyrimspecialedition/mods/132074) - Redundant with [WHEELER - Refined](https://www.nexusmods.com/skyrimspecialedition/mods/167380)  
 [Terrain Shadows - Improved Follower Dialogue Lydia](https://www.nexusmods.com/skyrimspecialedition/mods/136049?tab=files&file_id=571231&nmm=1)  
+[Settling of Squad - Set Follower Home](https://www.nexusmods.com/skyrimspecialedition/mods/125471)  
 
 ---
 
