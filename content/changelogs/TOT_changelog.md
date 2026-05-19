@@ -16,7 +16,7 @@ Save compatibility depends on **which number changes** between releases.
   Examples: `4.2.0 → 4.2.1`, `5.1.0 → 5.1.1`  
   Bug fixes, tuning, or minor adjustments. **Safe to update mid-save.**
 
-# TOT 4.4.1 (WORK IN PROGRESS)
+# TOT 4.5.0 (WORK IN PROGRESS)
 
 This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
 The actual MO2 modlist is always the authoritative reference for modlist content.
@@ -39,7 +39,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 ## Removals 
 
-NONE
+[Settling of Squad - Set Follower Home](https://www.nexusmods.com/skyrimspecialedition/mods/125471)  
 
 ---
 
