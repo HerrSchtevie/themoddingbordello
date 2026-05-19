@@ -41,6 +41,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 ## Removals 
 
 [Wheeler CTD-Fix](https://www.nexusmods.com/skyrimspecialedition/mods/132074) - Redundant with [WHEELER - Refined](https://www.nexusmods.com/skyrimspecialedition/mods/167380)  
+[Terrain Shadows - Improved Follower Dialogue Lydia](https://www.nexusmods.com/skyrimspecialedition/mods/136049?tab=files&file_id=571231&nmm=1)  
 
 ---
 
