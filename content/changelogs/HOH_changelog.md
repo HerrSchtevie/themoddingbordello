@@ -16,7 +16,7 @@ Save compatibility depends on **which number changes** between releases.
   Examples: `4.2.0 → 4.2.1`, `5.1.0 → 5.1.1`  
   Bug fixes, tuning, or minor adjustments. **Safe to update mid-save.**
 
-# HOH 3.3.1 (WORK IN PROGRESS)
+# HOH 3.4.0 (WORK IN PROGRESS)
 
 This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
 The actual MO2 modlist is always the authoritative reference for modlist content.
@@ -41,6 +41,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 ## Removals 
 
 [Wheeler CTD-Fix](https://www.nexusmods.com/skyrimspecialedition/mods/132074) - Redundant with [WHEELER - Refined](https://www.nexusmods.com/skyrimspecialedition/mods/167380)  
+[Settling of Squad - Set Follower Home](https://www.nexusmods.com/skyrimspecialedition/mods/125471)  
 
 ---
 
