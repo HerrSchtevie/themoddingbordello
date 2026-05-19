@@ -47,7 +47,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 ## Tweaks
 
 - Added/edited the following custom patches: 
-   - NONE
+   - `HOH - NSFW Patches.esp`  
 - Regenerated the following outputs:
    - `JOJ - Grass Cache (Lord's Vision)`
 
