@@ -88,7 +88,7 @@ Each quest is patched and rebalanced to blend seamlessly into Skyrim’s world.
 - Balanced outfits, consistent visual tone, and no NSFW content  
 - Includes fully-voiced followers such as:
 
-**Remiel, Auri, Xelzaz, Lucien, Inigo, Hoth, Jesper, Taliesin, Gore, Caesia, Lyssia, M'rissi, Katana, Redcap, Thogra, Merlin, Khajiit Will Follow** — and many more.
+**Remiel, Auri, Xelzaz, Lucien, Inigo, Hoth, Jesper, Taliesin, Gore, M'rissi, Katana, Redcap, Thogra, Merlin, Khajiit Will Follow** — and many more.
 
 > 📘 For full details, see the [SOS Follower Guide](/guides/sos-follower-guide)
 
