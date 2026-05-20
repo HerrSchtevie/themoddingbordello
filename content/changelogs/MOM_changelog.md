@@ -35,6 +35,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Northern Roads Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/77386)  
 [Northern Roads - Patches Compendium](https://www.nexusmods.com/skyrimspecialedition/mods/77893)  
 [No Grass In Objects](https://www.nexusmods.com/skyrimspecialedition/mods/42161)  
+[Fertility Mode Reloaded](https://www.nexusmods.com/skyrimspecialedition/mods/165569)  
 
 ---
 
