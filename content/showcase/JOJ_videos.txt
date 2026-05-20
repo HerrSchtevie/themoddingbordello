@@ -1,0 +1,11 @@
+# Showcase videos for this modlist.
+#
+# Add one YouTube link or 11-char video ID per line. Order on the page
+# matches order in this file. Lines starting with "#" and blank lines
+# are ignored. Duplicates are removed automatically.
+#
+# Examples:
+#   https://www.youtube.com/watch?v=dQw4w9WgXcQ
+#   https://youtu.be/dQw4w9WgXcQ
+#   dQw4w9WgXcQ
+
