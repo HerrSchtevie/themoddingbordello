@@ -6,6 +6,7 @@ import { useState } from 'react';
 import { ModlistDropdown } from './ModlistDropdown';
 import { GuideDropdown } from './GuideDropdown';
 import { ChangelogDropdown } from './ChangelogDropdown';
+import { ShowcaseDropdown } from './ShowcaseDropdown';
 
 const navItems = [
   { label: 'Home', href: '/' },
@@ -13,6 +14,7 @@ const navItems = [
   { label: 'Modlists', href: '/modlists', dropdown: 'modlists' as const },
   { label: 'Guides', href: '/guides', dropdown: 'guides' as const },
   { label: 'Changelogs', href: '/changelogs', dropdown: 'changelogs' as const },
+  { label: 'Showcase', href: '/showcase', dropdown: 'showcase' as const },
   { label: 'Community', href: '/community' },
 ];
 
@@ -61,6 +63,9 @@ export function GlobalNav() {
                   )}
                   {item.dropdown === 'changelogs' && openDropdown === 'changelogs' && (
                     <ChangelogDropdown />
+                  )}
+                  {item.dropdown === 'showcase' && openDropdown === 'showcase' && (
+                    <ShowcaseDropdown />
                   )}
                 </div>
               );
