@@ -43,7 +43,6 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 ## Removals 
 
 [Tempered Skins for Females - CBBE](https://www.nexusmods.com/skyrimspecialedition/mods/8505)  
-[Settling of Squad - Set Follower Home](https://www.nexusmods.com/skyrimspecialedition/mods/125471)  
 
 ---
 
