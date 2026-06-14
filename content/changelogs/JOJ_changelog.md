@@ -50,7 +50,9 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 ## Tweaks
 
 - Added/edited the following custom patches: 
-   - `SOS - .esp`  
+   - `SOS - Gameplay Edits.esp`  
+   - `SOS - NSFW Patches.esp`
+   - `JOJ - Ohmes-Raht Fix.esp`  
 - Regenerated the following outputs:
    - NONE
 
