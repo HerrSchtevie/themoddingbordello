@@ -25,16 +25,25 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 ## Additions
 
+[Brawl Bypass](https://www.nexusmods.com/skyrimspecialedition/mods/125453)  
+[Northborn Scars](https://www.nexusmods.com/skyrimspecialedition/mods/720)  
 
 ---
 
 ## Updates
 
+[BodySlide and Outfit Studio](https://www.nexusmods.com/skyrimspecialedition/mods/201)  
+[Modex - A Mod Explorer Menu (AddItemMenu)](https://www.nexusmods.com/skyrimspecialedition/mods/137877)  
+[DynDOLOD 3 Alpha](https://www.nexusmods.com/skyrimspecialedition/mods/68518)  
+[Gore - A Companion Mod](https://www.nexusmods.com/skyrimspecialedition/mods/85298)  
+[Critter Master - Script Call Reduction](https://www.nexusmods.com/skyrimspecialedition/mods/141745)  
+[Better Third Person Selection - BTPS](https://www.nexusmods.com/skyrimspecialedition/mods/64339)  
 
 ---
 
 ## Removals 
 
+[Tempered Skins for Females - CBBE](https://www.nexusmods.com/skyrimspecialedition/mods/8505)  
 
 ---
 
