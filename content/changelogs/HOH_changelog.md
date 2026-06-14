@@ -16,6 +16,48 @@ Save compatibility depends on **which number changes** between releases.
   Examples: `4.2.0 → 4.2.1`, `5.1.0 → 5.1.1`  
   Bug fixes, tuning, or minor adjustments. **Safe to update mid-save.**
 
+# HOH 3.5.0 (WORK IN PROGRESS)
+
+This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
+The actual MO2 modlist is always the authoritative reference for modlist content.
+
+---
+
+## Additions
+
+[Brawl Bypass](https://www.nexusmods.com/skyrimspecialedition/mods/125453)  
+[Northborn Scars](https://www.nexusmods.com/skyrimspecialedition/mods/720)  
+
+---
+
+## Updates
+
+[BodySlide and Outfit Studio](https://www.nexusmods.com/skyrimspecialedition/mods/201)  
+[Modex - A Mod Explorer Menu (AddItemMenu)](https://www.nexusmods.com/skyrimspecialedition/mods/137877)  
+[DynDOLOD 3 Alpha](https://www.nexusmods.com/skyrimspecialedition/mods/68518)  
+[Critter Master - Script Call Reduction](https://www.nexusmods.com/skyrimspecialedition/mods/141745)  
+[Better Third Person Selection - BTPS](https://www.nexusmods.com/skyrimspecialedition/mods/64339)  
+
+---
+
+## Removals 
+
+[Tempered Skins for Females - CBBE](https://www.nexusmods.com/skyrimspecialedition/mods/8505)  
+[Settling of Squad - Set Follower Home](https://www.nexusmods.com/skyrimspecialedition/mods/125471)  
+
+---
+
+## Tweaks
+
+- Added/edited the following custom patches: 
+   - `HOH - Gameplay Edits.esp`  
+   - `HOH - NSFW Patches.esp`
+   - `HOH - Ohmes-Raht Fix.esp`  
+- Regenerated the following outputs:
+   - NONE
+
+---
+
 # HOH 3.4.0 (Updated - 05.19.2026)
 
 This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
