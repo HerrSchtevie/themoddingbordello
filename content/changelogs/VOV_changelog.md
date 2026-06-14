@@ -32,6 +32,7 @@ NONE
 ## Updates
 
 [BodySlide and Outfit Studio](https://www.nexusmods.com/skyrimspecialedition/mods/201)  
+[DynDOLOD 3 Alpha](https://www.nexusmods.com/skyrimspecialedition/mods/68518)  
 [Modex - A Mod Explorer Menu (AddItemMenu)](https://www.nexusmods.com/skyrimspecialedition/mods/137877)  
 [Better Third Person Selection - BTPS](https://www.nexusmods.com/skyrimspecialedition/mods/64339)  
 
