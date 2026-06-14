@@ -50,7 +50,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 ## Tweaks
 
 - Added/edited the following custom patches: 
-   - `TOT - Gameplay Edits.esp`  
+   - `TOT - Gameplay Edits.esp`
+   - `TOT - Core UI`  
 - Regenerated the following outputs:
    - NONE
 
