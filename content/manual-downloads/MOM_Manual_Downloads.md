@@ -65,7 +65,7 @@ This page is kept up to date to ensure a **smooth, repeatable installation exper
 | Laura’s Bondage Shop – Lux Lighting Patch | https://www.loverslab.com/files/file/30850-lauras-bondage-shop-lux-lighting-patch/?do=download&r=2000473&confirm=1&t=1&csrfKey=265928ac2a1fd7302ab254ea55a36391 |
 | Laura’s Bondage Shop 3.55 – AI Voiceover | https://www.loverslab.com/files/file/45003-devious-devices-lauras-bondage-shop-355-lese-ai-voiceover-elevenlabs/?do=download&r=2119259&confirm=1&t=1&csrfKey=265928ac2a1fd7302ab254ea55a36391 |
 | Laura’s Bondage Shop v3.54 SE | https://www.loverslab.com/files/file/6949-devious-devices-lauras-bondage-shop-16-aug-2025-v355-le-se/?do=download&r=2098429&confirm=1&t=1&csrfKey=265928ac2a1fd7302ab254ea55a36391 |
-| MoreNastyCrittersSE&AE_v16_1F | https://www.loverslab.com/files/file/5464-more-nasty-critters-specialanniversary-edition/?do=download&r=2149405&confirm=1&t=1&csrfKey=451fa9efe8d58bcb1d2350b774b3d8cb |
+| MoreNastyCrittersSE&AE_v16_1G | https://www.loverslab.com/files/file/5464-more-nasty-critters-specialanniversary-edition/?do=download&r=2160061&confirm=1&t=1&csrfKey=7d5f5005e0ca59e0e86fbd5bd537ab9a |
 | No Overpenetration SE | https://www.loverslab.com/files/file/10339-no-overpenetration-se/?do=download |
 | PSBoss Standing Stones AiO - LotD display Fix 1.0.0 | https://www.loverslab.com/files/file/47795-psboss-standing-stones-aio-lotd-display-fix/?do=download |
 | SCoE Texture Set – SLACS Plus 4K | https://www.loverslab.com/applications/core/interface/file/attachment.php?id=2201727&key=befc541059be13bb61dc411181cb4c18 |
@@ -81,7 +81,7 @@ This page is kept up to date to ensure a **smooth, repeatable installation exper
 | SexLab Framework Sound Replacer (AIO) | https://www.loverslab.com/files/file/14230-sexlab-framework-sound-replacer/?do=download&r=861380&confirm=1&t=1&csrfKey=c2d4b953eaad1689524ea1adf272ca41 |
 | SexLab Human Animation Remover | https://www.loverslab.com/files/file/18855-sl-default-animation-remover/?do=download&r=1320428&confirm=1&t=1&csrfKey=355e792d6fa52c8df9631d9d5f2e37ed |
 | SexLab Inflation Framework SE | https://www.loverslab.com/files/file/6938-sexlab-inflation-framework-se/?do=download&r=678229&confirm=1&t=1&csrfKey=b183f619f6ee5d2ea6ba1a36076d2b7c |
-| SexLab Nights | https://www.loverslab.com/files/file/25414-sexlab-nightlife/?do=download&r=2127984&confirm=1&t=1&csrfKey=986c9ae9f1cb5ae9a7b8861d92295f40 |
+| SexLab Nights | https://www.loverslab.com/files/file/25414-sexlab-nightlife/?do=download&r=2143255&confirm=1&t=1&csrfKey=7d5f5005e0ca59e0e86fbd5bd537ab9a |
 | SexLab Sex Sound 0.13.0 | https://www.loverslab.com/files/file/44147-sexlab-sex-sound/?do=download&r=2116303&confirm=1&t=1&csrfKey=355e792d6fa52c8df9631d9d5f2e37ed |
 | SexLab Solutions – USSEP Patch | https://www.loverslab.com/files/file/28863-mod-tweaks/?do=download&r=1979818&confirm=1&t=1&csrfKey=69fd77326ed00b0d83bd1196cd2c3ef5 |
 | SexLab Solutions v3 – Revisited SE 1.1.6 | https://www.loverslab.com/files/file/10742-sexlab-solutions-revisited-se/?do=download&r=1895689&confirm=1&t=1&csrfKey=69fd77326ed00b0d83bd1196cd2c3ef5 |
