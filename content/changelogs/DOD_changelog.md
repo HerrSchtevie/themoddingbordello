@@ -25,23 +25,37 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 ## Additions
 
+[Brawl Bypass](https://www.nexusmods.com/skyrimspecialedition/mods/125453)  
+[Northborn Scars](https://www.nexusmods.com/skyrimspecialedition/mods/720)  
 
 ---
 
 ## Updates
 
+[MoreNastyCrittersSE&AE_v16_1G](https://www.loverslab.com/files/file/5464-more-nasty-critters-specialanniversary-edition/)  
+[SexLab PPLUS - HeelsFix Integration](https://www.nexusmods.com/skyrimspecialedition/mods/155551)  
+[SexLab Nightlife](https://www.loverslab.com/files/file/25414-sexlab-nightlife/)  
+[BodySlide and Outfit Studio](https://www.nexusmods.com/skyrimspecialedition/mods/201)  
+[Modex - A Mod Explorer Menu (AddItemMenu)](https://www.nexusmods.com/skyrimspecialedition/mods/137877)  
+[DynDOLOD 3 Alpha](https://www.nexusmods.com/skyrimspecialedition/mods/68518)  
+[Critter Master - Script Call Reduction](https://www.nexusmods.com/skyrimspecialedition/mods/141745)  
+[Better Third Person Selection - BTPS](https://www.nexusmods.com/skyrimspecialedition/mods/64339)  
 
 ---
 
 ## Removals 
 
+[Tempered Skins for Females - CBBE](https://www.nexusmods.com/skyrimspecialedition/mods/8505)  
+[Settling of Squad - Set Follower Home](https://www.nexusmods.com/skyrimspecialedition/mods/125471)  
 
 ---
 
 ## Tweaks
 
 - Added/edited the following custom patches: 
-   - `SOS - .esp`  
+   - `DOD - Children of Lilith Ohmes RBT Fix`  
+   - `DOD - Gameplay Edits.esp`  
+   - `SOS - NSFW Patches.esp`  
 - Regenerated the following outputs:
    - NONE
 
