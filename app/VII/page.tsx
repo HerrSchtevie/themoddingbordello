@@ -36,6 +36,8 @@ export default function Page() {
           <div className={styles.ornament} aria-hidden="true">⸻</div>
           <p className={styles.cipher}>QWxkdWluIGF3YWtlbnMu</p>
           <div className={styles.ornament} aria-hidden="true">⸻</div>
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img src="/assets/emblem.jpg" alt="" aria-hidden="true" className={styles.emblem} />
         </main>
 
         <p className={styles.whisper}>speak the prophecy in private to the watcher of order</p>
