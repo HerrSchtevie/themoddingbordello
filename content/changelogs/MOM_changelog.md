@@ -55,7 +55,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
    - `DOD - Children of Lilith Ohmes RBT Fix`  
    - `MOM - Gameplay Edits.esp`  
    - `SOS - NSFW Patches.esp`
-   - `MOM - Ohmes-Raht Fix.esp`  
+   - `MOM - Ohmes-Raht Fix.esp`
+   - `Chloe's Karliah Gloves Mesh Patch`  
 - Regenerated the following outputs:
    - NONE
 
