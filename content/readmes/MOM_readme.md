@@ -96,7 +96,7 @@ Mantras of Mara (MOM) is a Skyrim modlist designed for mature audiences. It incl
 
 ## 📌 Introduction
 
-Mantras of Mara (MOM) is a NSFW Skyrim modlist with full SexLab integration. Built around themes of love, compassion, and divine unity, it offers a warm and indulgent experience where pleasure becomes an expression of devotion. Centered on Mara\u2019s radiant grace, this list combines sensuality with elegance\u2014featuring an extensive collection of adult content, visual overhauls, and gameplay enhancements\u2014all crafted to embody the beauty and benevolence of the Mother Goddess herself.
+Mantras of Mara (MOM) is a NSFW Skyrim modlist with full SexLab integration. Built around themes of love, compassion, and divine unity, it offers a warm and indulgent experience where pleasure becomes an expression of devotion. Centered on Mara's radiant grace, this list combines sensuality with elegance—featuring an extensive collection of adult content, visual overhauls, and gameplay enhancements—all crafted to embody the beauty and benevolence of the Mother Goddess herself.
 
 ## ⚠️ Before You Install
 
