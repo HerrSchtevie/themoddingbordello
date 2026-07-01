@@ -59,7 +59,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
    - `JOJ - Ohmes-Raht Fix.esp`
    - `SOS - Merged Patches`  
 - Regenerated the following outputs:
-   - NONE
+   - `JOJ - Pandora Output`  
 
 ---
 
