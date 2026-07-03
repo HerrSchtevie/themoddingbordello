@@ -53,7 +53,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
    - `SOS - Merged Patches FOMOD`
    - `SOS - Water Shader Crash Fix 0.1.0`  
 - Removed the following custom patches:
-   - `JOJ - Ohmes-Raht Fix.esp`
+   - `TOT - Ohmes-Raht Fix.esp`
    - `SOS - Merged Patches`  
 - Regenerated the following outputs:
    - `TOT - Pandora Output`  
