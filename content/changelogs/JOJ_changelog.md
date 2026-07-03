@@ -54,7 +54,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 ## Tweaks
 
 - Added/edited the following custom patches: 
-   - `SOS - Merged Patches FOMOD`  
+   - `SOS - Merged Patches FOMOD`
+   - `SOS - Water Shader Crash Fix 0.1.0`  
 - Removed the following custom patches:
    - `JOJ - Ohmes-Raht Fix.esp`
    - `SOS - Merged Patches`  
