@@ -46,7 +46,7 @@ NONE
 - Added/edited the following custom patches: 
    - `SOS - Water Shader Crash Fix 0.1.0`  
 - Removed the following custom patches:
-   ` NONE
+   - NONE  
 - Regenerated the following outputs:
    - NONE
 
