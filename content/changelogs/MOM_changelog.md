@@ -28,7 +28,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Vaelyra the Veiled](https://www.nexusmods.com/skyrimspecialedition/mods/182838?tab=description) - Thanks, [bridgeburnerr](https://www.nexusmods.com/profile/bridgeburnerr)!  
 [Sa'chil - Bug Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/183459) - Thanks, [Rynfri](https://www.nexusmods.com/profile/Rynfri)!  
 [Ohmes-Raht Compatibility Pack](https://www.nexusmods.com/skyrimspecialedition/mods/183946) - Thanks, [Rynfri](https://www.nexusmods.com/profile/Rynfri)!  
-[SLSB_Billyy_Animations v10.3 Patch for P+ users (Overwrite patch Still need SLAL version)](https://www.loverslab.com/files/file/3999-billyys-slal-animations-2026-6-4/)  
+[SLSB_Billyy_Animations v10.3 Patch for P+ users](https://www.loverslab.com/files/file/3999-billyys-slal-animations-2026-6-4/)  
 
 ---
 
