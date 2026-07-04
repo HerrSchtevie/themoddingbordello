@@ -32,10 +32,10 @@ This page is kept up to date to ensure a **smooth, repeatable installation exper
 | Title | 🔗 Download |
 |---|---|
 | Acheron Extension Library | https://www.loverslab.com/files/file/27063-acheron-extension-library/?do=download&r=1719120&confirm=1&t=1&csrfKey=986c9ae9f1cb5ae9a7b8861d92295f40 |
-| Alpia Slavetats RaceMenu Plugins | https://www.loverslab.com/files/file/30951-alpia-scribbles-slavetats-pack/?do=download&r=2152754&confirm=1&t=1&csrfKey=e98a06dfa0e8c54b7025d66a5b64f04b |
+| Alpia Slavetats RaceMenu Plugins (06.2026) | https://www.loverslab.com/files/file/30951-alpia-scribbles-slavetats-pack/?do=download&r=2160153&confirm=1&t=1&csrfKey=e65c7e037f6a1e976feedcc5c8477029 |
 | Alpia Scribbles SlaveTats Pack (Orc) | https://www.loverslab.com/files/file/30951-alpia-scribbles-slavetats-pack/?do=download&r=2152752&confirm=1&t=1&csrfKey=e98a06dfa0e8c54b7025d66a5b64f04b |
 | Alpia Scribbles SlaveTats Pack (Riek) | https://www.loverslab.com/files/file/30951-alpia-scribbles-slavetats-pack/?do=download&r=2152753&confirm=1&t=1&csrfKey=e98a06dfa0e8c54b7025d66a5b64f04b |
-| Alpia Scribbles SlaveTats Pack SE | https://www.loverslab.com/files/file/30951-alpia-scribbles-slavetats-pack/?do=download&r=2152750&confirm=1&t=1&csrfKey=e98a06dfa0e8c54b7025d66a5b64f04b |
+| Alpia Scribbles SlaveTats Pack SE (06.2026) | https://www.loverslab.com/files/file/30951-alpia-scribbles-slavetats-pack/?do=download&r=2160151&confirm=1&t=1&csrfKey=e65c7e037f6a1e976feedcc5c8477029 |
 | Amorous Adventures Text and Player Dialogue Revision | https://www.loverslab.com/files/file/23233-amorous-adventures-text-and-player-dialogue-revision/?do=download&r=1368929&confirm=1&t=1&csrfKey=14a36592a162b81ba4279b6bd4382ad6 |
 | AmorousAdventures v3.4-SexLab | https://www.loverslab.com/files/file/984-amorous-adventures-v34-20180602/?do=download&r=665985&confirm=1&t=1&csrfKey=14a36592a162b81ba4279b6bd4382ad6 |
 | ASF – Autonomous Sex Framework | https://www.loverslab.com/files/file/42977-asf-autonomous-sex-framework/?do=download&r=2101835&confirm=1&t=1&csrfKey=355e792d6fa52c8df9631d9d5f2e37ed |
@@ -89,11 +89,12 @@ This page is kept up to date to ensure a **smooth, repeatable installation exper
 | Sir Nibbles Anim Pack SE 5.82 (page 3, scroll down) | https://www.loverslab.com/topic/97964-sir-nibbles-anim-pack-se/page/3/ |
 | SL Solutions v3 Revisited 1.1.6 Voicepack bsa.7z | https://www.loverslab.com/files/file/36329-sl-solutions-revisited-voicepack/?do=download&r=2016548&confirm=1&t=1&csrfKey=355e792d6fa52c8df9631d9d5f2e37edd |
 | SLAL - Animations By Leito - 9/12/16 1.6 | https://www.loverslab.com/files/file/2615-slal-animations-by-leito-91216/?do=download |
-| SLAL Billyy Animations v10.0 SE | https://www.loverslab.com/files/file/3999-billyys-slal-animations-2026-3-5/?do=download&r=2141447&confirm=1&t=1&csrfKey=159caad51f69b7f9575c1ac7057dc472 |
+| SLAL Billyy Animations v10.3 SE | https://www.loverslab.com/files/file/3999-billyys-slal-animations-2026-6-4/?do=download&r=2158272&confirm=1&t=1&csrfKey=e65c7e037f6a1e976feedcc5c8477029 |
 | SLAL SE Creature Animations by Sailing Rebel (SRB) v03.0 | https://www.loverslab.com/files/file/6024-slal-se-animations-by-sailing-rebel-srb-2023-11-04/?do=download&r=1772768&confirm=1&t=1&csrfKey=8e541197e53ac3217308356e8674eebf |
 | SlaveTatsNG-0.7.6.7z | https://www.loverslab.com/files/file/35989-slavetatsng/?do=download&r=2101783&confirm=1&t=1&csrfKey=265928ac2a1fd7302ab254ea55a36391 |
 | SlaveTatsSE-1.3.9.7z | https://www.loverslab.com/files/file/619-slavetats/?do=download&r=1362382&confirm=1&t=1&csrfKey=265928ac2a1fd7302ab254ea55a36391 |
 | SLEN Rev2 Voicepack bsa | https://www.loverslab.com/files/file/36330-slen-voicepack-100/?do=download&r=2016553&confirm=1&t=1&csrfKey=355e792d6fa52c8df9631d9d5f2e37ed |
+| SLSB_Billyy_Animations v10.3 Patch for P+ users | https://www.loverslab.com/files/file/3999-billyys-slal-animations-2026-6-4/?do=download&r=2158273&confirm=1&t=1&csrfKey=e65c7e037f6a1e976feedcc5c8477029 |
 | SubmissiveLolaResubmission 2.1.13.7z | https://www.loverslab.com/files/file/15346-submissive-lola-the-resubmission-lese/?do=download&r=2083332&confirm=1&t=1&csrfKey=355e792d6fa52c8df9631d9d5f2e37ed |
 | The Book Of Sex SE v1.1.7z | https://www.loverslab.com/files/file/10091-the-book-of-sex-se/?do=download&r=797069&confirm=1&t=1&csrfKey=69fd77326ed00b0d83bd1196cd2c3ef5 |
 | Yamete Kudasai 2.2.3 | https://www.loverslab.com/files/file/23123-yamete-kudasai/?do=download&r=2091641&confirm=1&t=1&csrfKey=265928ac2a1fd7302ab254ea55a36391 |
