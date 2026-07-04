@@ -16,6 +16,58 @@ Save compatibility depends on **which number changes** between releases.
   Examples: `4.2.0 → 4.2.1`, `5.1.0 → 5.1.1`  
   Bug fixes, tuning, or minor adjustments. **Safe to update mid-save.**
 
+# MOM 2.8.0 (WORK IN PROGRESS)
+
+This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
+The actual MO2 modlist is always the authoritative reference for modlist content.
+
+---
+
+## Additions
+
+[Vaelyra the Veiled](https://www.nexusmods.com/skyrimspecialedition/mods/182838?tab=description) - Thanks, [bridgeburnerr](https://www.nexusmods.com/profile/bridgeburnerr)!  
+[Sa'chil - Bug Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/183459) - Thanks, [Rynfri](https://www.nexusmods.com/profile/Rynfri)!  
+[Ohmes-Raht Compatibility Pack](https://www.nexusmods.com/skyrimspecialedition/mods/183946) - Thanks, [Rynfri](https://www.nexusmods.com/profile/Rynfri)!  
+[SLSB_Billyy_Animations v10.3 Patch for P+ users (Overwrite patch Still need SLAL version)](https://www.loverslab.com/files/file/3999-billyys-slal-animations-2026-6-4/)  
+
+---
+
+## Updates
+
+[Yoana the Wanderer](https://www.nexusmods.com/skyrimspecialedition/mods/164506) - Thanks, [bridgeburnerr](https://www.nexusmods.com/profile/bridgeburnerr)!  
+[Splashes Of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/47710)  
+[Kaidan NSFW - OStim - Sexlab - Flower Girls](https://www.nexusmods.com/skyrimspecialedition/mods/119477)  
+[M.E.I. - Maven Elenwen Ingun - Followers and Spouses - Quest Expansion Plus](https://www.nexusmods.com/skyrimspecialedition/mods/61034)  
+[ORomance Plus - Multiple Marriage and Relationship System](https://www.nexusmods.com/skyrimspecialedition/mods/81635)  
+[Immersive Kaidan AIO - V5.1.2](https://drive.google.com/file/d/1-bsgfflzu525nVejjdvVHPgxxnFYsPwy/view) - Thanks, [hanshotfirst01](https://www.nexusmods.com/profile/hanshotfirst01?gameId=1704)!  
+[Alpia Slavetats SE (06.2026)](https://www.loverslab.com/files/file/30951-alpia-scribbles-slavetats-pack/)  
+[Alpia Racemenu Plugins (06.2026)](https://www.loverslab.com/files/file/30951-alpia-scribbles-slavetats-pack/)  
+[SLAL_Billyy_Animations v10.3 SE](https://www.loverslab.com/files/file/3999-billyys-slal-animations-2026-6-4/)  
+
+---
+
+## Removals 
+
+[Queen Bikini - 3BA BHUNP UBE ESL](https://www.nexusmods.com/skyrimspecialedition/mods/170501)  
+[Queen Bikini - 3BA BodySlides](https://www.nexusmods.com/skyrimspecialedition/mods/170501)  
+[Race Blood Test](https://www.nexusmods.com/skyrimspecialedition/mods/153880)  
+[Race Blood Test - Ohmes-Raht Patch](https://www.nexusmods.com/skyrimspecialedition/mods/177386)  
+
+---
+
+## Tweaks
+
+- Added/edited the following custom patches: 
+   - `SOS - Merged Patches FOMOD`
+   - `SOS - Water Shader Crash Fix 0.1.0`  
+- Removed the following custom patches:
+   - `MOM - Ohmes-Raht Fix.esp`
+   - `SOS - Merged Patches`  
+- Regenerated the following outputs:
+   - `MOM - Pandora Output`  
+
+---
+
 # MOM 2.7.0 (Updated - 06.14.2026)
 
 This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
