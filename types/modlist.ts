@@ -2,6 +2,8 @@ export type ModlistSlug = 'joj' | 'tot' | 'hoh' | 'mom' | 'dod' | 'vov' | 'arr';
 
 export type ModlistPage = 'overview' | 'readme' | 'gameplay-guide' | 'changelog' | 'manual-downloads' | 'load-order' | 'showcase';
 
+export type KodexProfileKey = 'lv' | 'perf';
+
 export interface PluginCountCell {
   active: number;
   total: number;
@@ -35,5 +37,5 @@ export interface ModlistMeta {
     nexus: string;
     loadOrder: string;
   };
-  pluginCounts?: PluginCounts;
+  pluginCounts?: Partial<Record<KodexProfileKey, PluginCounts>>;
 }

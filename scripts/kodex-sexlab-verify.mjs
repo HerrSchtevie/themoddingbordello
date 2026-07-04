@@ -125,7 +125,7 @@ const aliases = loadAliases();
 
 for (const slug of ['mom', 'dod']) {
   const abbr = slug.toUpperCase();
-  const kodexPath = path.join(siteRoot, 'content', 'kodex-outputs', `${abbr}_kodex.html`);
+  const kodexPath = path.join(siteRoot, 'content', 'kodex-outputs', `${abbr}_kodex_lv.html`);
   const mdPath = path.join(siteRoot, 'content', 'manual-downloads', `${abbr}_Manual_Downloads.md`);
   const flat = parseKodex(fs.readFileSync(kodexPath, 'utf-8'));
   const nodes = groupHierarchy(flat);

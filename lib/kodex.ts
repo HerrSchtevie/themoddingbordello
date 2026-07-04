@@ -1,9 +1,22 @@
 import fs from 'fs';
 import path from 'path';
-import { ModlistSlug } from '@/types/modlist';
+import { ModlistSlug, KodexProfileKey } from '@/types/modlist';
 import { modlistBySlug } from './modlists';
 import { loadManualDownloads, normalizeModName, ManualDownloadEntry } from './manualDownloads';
 import { manualDownloadAliases } from './kodexAliases';
+
+export const KODEX_PROFILE_KEYS: KodexProfileKey[] = ['lv', 'perf'];
+
+const KODEX_PROFILE_FALLBACK_LABEL: Record<KodexProfileKey, string> = {
+  lv: "Lord's Vision",
+  perf: 'Performance',
+};
+
+export type KodexProfile = {
+  key: KodexProfileKey;
+  label: string;
+  nodes: KodexNode[];
+};
 
 export type KodexModRow = {
   name: string;
@@ -140,9 +153,17 @@ export function parseKodexHtml(html: string): KodexSection[] {
   return sections;
 }
 
-export function getKodexFilePath(slug: ModlistSlug): string {
+export function getKodexFilePath(slug: ModlistSlug, profile: KodexProfileKey): string {
   const abbr = modlistBySlug[slug].abbreviation;
-  return path.join('content', 'kodex-outputs', `${abbr}_kodex.html`);
+  return path.join('content', 'kodex-outputs', `${abbr}_kodex_${profile}.html`);
+}
+
+function extractProfileLabel(html: string, modlistName: string, profile: KodexProfileKey): string {
+  const match = html.match(/Generated for profile:\s*([^<]+)/);
+  if (!match) return KODEX_PROFILE_FALLBACK_LABEL[profile];
+  const raw = decodeEntities(match[1]).trim();
+  const prefix = `${modlistName} - `;
+  return raw.startsWith(prefix) ? raw.slice(prefix.length) : raw;
 }
 
 function collectSexLabSections(nodes: KodexNode[]): KodexSection[] {
@@ -192,14 +213,20 @@ function applyManualDownloadOverrides(
   }
 }
 
-export function loadKodex(slug: ModlistSlug): KodexNode[] {
-  const rel = getKodexFilePath(slug);
-  const full = path.join(process.cwd(), rel);
-  if (!fs.existsSync(full)) return [];
-  const html = fs.readFileSync(full, 'utf-8');
-  const nodes = buildKodexHierarchy(parseKodexHtml(html));
-  if (slug === 'mom' || slug === 'dod') {
-    applyManualDownloadOverrides(slug, nodes, loadManualDownloads(slug));
+export function loadKodexProfiles(slug: ModlistSlug): KodexProfile[] {
+  const list = modlistBySlug[slug];
+  const profiles: KodexProfile[] = [];
+  const downloads = (slug === 'mom' || slug === 'dod') ? loadManualDownloads(slug) : null;
+
+  for (const key of KODEX_PROFILE_KEYS) {
+    const rel = getKodexFilePath(slug, key);
+    const full = path.join(process.cwd(), rel);
+    if (!fs.existsSync(full)) continue;
+    const html = fs.readFileSync(full, 'utf-8');
+    const nodes = buildKodexHierarchy(parseKodexHtml(html));
+    if (downloads) applyManualDownloadOverrides(slug, nodes, downloads);
+    profiles.push({ key, label: extractProfileLabel(html, list.name, key), nodes });
   }
-  return nodes;
+
+  return profiles;
 }
