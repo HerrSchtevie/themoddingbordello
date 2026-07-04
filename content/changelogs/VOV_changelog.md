@@ -16,6 +16,42 @@ Save compatibility depends on **which number changes** between releases.
   Examples: `4.2.0 → 4.2.1`, `5.1.0 → 5.1.1`  
   Bug fixes, tuning, or minor adjustments. **Safe to update mid-save.**
 
+# VOV 1.7.0 (WORK IN PROGRESS)
+
+This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
+The actual MO2 modlist is always the authoritative reference for modlist content.
+
+---
+
+## Additions
+
+NONE
+
+---
+
+## Updates
+
+[Splashes Of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/47710)  
+
+---
+
+## Removals 
+
+NONE
+
+---
+
+## Tweaks
+
+- Added/edited the following custom patches: 
+   - `SOS - Water Shader Crash Fix 0.1.0`  
+- Removed the following custom patches:
+   ` NONE
+- Regenerated the following outputs:
+   - NONE
+
+---
+
 # VOV 1.6.0 (Updated - 06.14.2026)
 
 This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
