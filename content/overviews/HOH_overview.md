@@ -39,7 +39,7 @@ Major quests include [Legacy of the Dragonborn](https://www.nexusmods.com/skyrim
 
 Combat is brutal, punishing, and designed to test both your skill and your determination with modern animation and progression systems. 
 
-• [MCO](https://www.distaranimation.com/mods/attack)﻿ combat featuring [For Honor in Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/151478)﻿.  
+• MCO﻿ combat featuring [For Honor in Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/151478)﻿.  
 • [The Last Breath - Combat Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/162646)﻿, made exclusively for HOH by [Heisen](https://next.nexusmods.com/profile/drheisen?gameId=1704)﻿.﻿  
 • [True directional movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614)﻿, stamina-based dodge rolling.  
 • Perk overhaul from [Synergy - Skills and Perks Reimagined](https://www.nexusmods.com/skyrimspecialedition/mods/72352)﻿
