@@ -25,19 +25,20 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 ## Additions
 
-
+[ConsoleUtilSSE NG](https://www.nexusmods.com/skyrimspecialedition/mods/76649)  
 
 ---
 
 ## Updates
 
 [Fill Her Up Baka Edition](https://www.loverslab.com/files/file/14920-fill-her-up-baka-edition)  
+[Acheron - Death Alternative](https://www.nexusmods.com/skyrimspecialedition/mods/108159)  
 
 ---
 
 ## Removals 
 
-NONE
+[ConsoleUtilSSE NG](https://www.nexusmods.com/skyrimspecialedition/mods/133569)  
 
 ---
 
