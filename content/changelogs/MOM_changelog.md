@@ -16,6 +16,42 @@ Save compatibility depends on **which number changes** between releases.
   Examples: `4.2.0 → 4.2.1`, `5.1.0 → 5.1.1`  
   Bug fixes, tuning, or minor adjustments. **Safe to update mid-save.**
 
+# MOM 2.9.0 (WORK IN PROGRESS)
+
+This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
+The actual MO2 modlist is always the authoritative reference for modlist content.
+
+---
+
+## Additions
+
+
+
+---
+
+## Updates
+
+[Fill Her Up Baka Edition](https://www.loverslab.com/files/file/14920-fill-her-up-baka-edition)  
+
+---
+
+## Removals 
+
+NONE
+
+---
+
+## Tweaks
+
+- Added/edited the following custom patches: 
+   - NONE 
+- Removed the following custom patches:
+   - NONE 
+- Regenerated the following outputs:
+   - NONE 
+
+---
+
 # MOM 2.8.0 (Updated - 07.03.2026)
 
 This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
