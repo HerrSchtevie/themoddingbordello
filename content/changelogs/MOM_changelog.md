@@ -25,7 +25,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 ## Additions
 
-[ConsoleUtilSSE NG](https://www.nexusmods.com/skyrimspecialedition/mods/76649)  
+[ConsoleUtil Extended](https://www.nexusmods.com/skyrimspecialedition/mods/133569)  
 
 ---
 
@@ -42,7 +42,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 ## Removals 
 
-[ConsoleUtilSSE NG](https://www.nexusmods.com/skyrimspecialedition/mods/133569)  
+[ConsoleUtilSSE NG](https://www.nexusmods.com/skyrimspecialedition/mods/76649)  
 
 ---
 
