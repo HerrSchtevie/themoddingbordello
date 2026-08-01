@@ -26,6 +26,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 ## Additions
 
 [ConsoleUtil Extended](https://www.nexusmods.com/skyrimspecialedition/mods/133569)  
+[Sanguine's Trade - An Economy Mod](https://www.nexusmods.com/skyrimspecialedition/mods/185788) - Thanks, [Juntii](https://www.nexusmods.com/profile/Juntii)!  
 
 ---
 
