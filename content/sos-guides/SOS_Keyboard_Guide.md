@@ -44,10 +44,11 @@ The images below mirror the in-game keyboard reference for quick access from the
 
 ---
 
-## 💫 Mantras of Mara (MOM) - v2.3.0
+## 💫 Mantras of Mara (MOM) - v2.9.0
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6180c163-f0e9-4472-8a0e-b085baf26708"
+  <img src="https://github.com/user-attachments/assets/e5c7c1b0-90d9-4867-86e6-92a5c86994f3"
+"
 </p>
 
 ## ⚠️ Notes
@@ -57,10 +58,11 @@ The images below mirror the in-game keyboard reference for quick access from the
 
 ---
 
-## 🪻 Diaries of Dibella (DOD) - v1.1.0
+## 🪻 Diaries of Dibella (DOD) - v1.7.0
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ff63d35a-1ff5-46a0-a0e9-f0a9d12c70e7"
+  <img src="https://github.com/user-attachments/assets/a0e19010-870f-4383-b855-3d0365676e53"
+"
 </p>
 
 ## ⚠️ Notes
