@@ -33,6 +33,9 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 [Fill Her Up Baka Edition](https://www.loverslab.com/files/file/14920-fill-her-up-baka-edition)  
 [Acheron - Death Alternative](https://www.nexusmods.com/skyrimspecialedition/mods/108159)  
+[Open Animation Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/92109)  
+[Open Animation Replacer - Math Plugin](https://www.nexusmods.com/skyrimspecialedition/mods/92607)  
+[JContainers SE](https://www.nexusmods.com/skyrimspecialedition/mods/16495)  
 
 ---
 
