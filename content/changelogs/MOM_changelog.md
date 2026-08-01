@@ -48,7 +48,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 ## Tweaks
 
 - Added/edited the following custom patches: 
-   - NONE 
+   - `SOS - Merged Patches FOMOD`  
 - Removed the following custom patches:
    - NONE 
 - Regenerated the following outputs:
