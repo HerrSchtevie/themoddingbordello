@@ -38,6 +38,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Open Animation Replacer - Math Plugin](https://www.nexusmods.com/skyrimspecialedition/mods/92607)  
 [JContainers SE](https://www.nexusmods.com/skyrimspecialedition/mods/16495)  
 [Critter Master - Script Call Reduction](https://www.nexusmods.com/skyrimspecialedition/mods/141745)  
+[Kodex - An Automated Mod List Support Reporter](https://www.nexusmods.com/skyrimspecialedition/mods/157869)  
 
 ---
 
