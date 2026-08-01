@@ -16,6 +16,47 @@ Save compatibility depends on **which number changes** between releases.
   Examples: `4.2.0 → 4.2.1`, `5.1.0 → 5.1.1`  
   Bug fixes, tuning, or minor adjustments. **Safe to update mid-save.**
 
+# DOD 1.7.0 (WORK IN PROGRESS)
+
+This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
+The actual MO2 modlist is always the authoritative reference for modlist content.
+
+---
+
+## Additions
+
+[ConsoleUtil Extended](https://www.nexusmods.com/skyrimspecialedition/mods/133569)  
+
+---
+
+## Updates
+
+[Fill Her Up Baka Edition](https://www.loverslab.com/files/file/14920-fill-her-up-baka-edition)  
+[Acheron - Death Alternative](https://www.nexusmods.com/skyrimspecialedition/mods/108159)  
+[Open Animation Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/92109)  
+[Open Animation Replacer - Math Plugin](https://www.nexusmods.com/skyrimspecialedition/mods/92607)  
+[JContainers SE](https://www.nexusmods.com/skyrimspecialedition/mods/16495)  
+[Critter Master - Script Call Reduction](https://www.nexusmods.com/skyrimspecialedition/mods/141745)  
+
+---
+
+## Removals 
+
+[ConsoleUtilSSE NG](https://www.nexusmods.com/skyrimspecialedition/mods/76649)  
+
+---
+
+## Tweaks
+
+- Added/edited the following custom patches: 
+   - `SOS - Merged Patches FOMOD`  
+- Removed the following custom patches:
+   - NONE 
+- Regenerated the following outputs:
+   - NONE 
+
+---
+
 # DOD 1.6.0 (Updated - 07.03.2026)
 
 This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
