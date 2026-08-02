@@ -45,6 +45,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 ## Removals 
 
 [ConsoleUtilSSE NG](https://www.nexusmods.com/skyrimspecialedition/mods/76649)  
+[Devious Lore Dwarven Gilded Oil Suit](https://www.loverslab.com/files/file/16231-devious-lore-se/)  
 
 ---
 
