@@ -27,7 +27,7 @@ import {
   evaluateChecker,
 } from '@/lib/preInstallCheckerRules';
 
-type SupportedSlug = Exclude<ModlistSlug, 'arr'>;
+type SupportedSlug = ModlistSlug;
 
 interface PreInstallCheckerProps {
   initialList?: string;

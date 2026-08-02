@@ -50,7 +50,7 @@ function buildRequirements(installGB: number, downloadGB: number): ModlistRequir
   };
 }
 
-export const modlistRequirements: Record<Exclude<ModlistSlug, 'arr'>, ModlistRequirements> = {
+export const modlistRequirements: Record<ModlistSlug, ModlistRequirements> = {
   joj: buildRequirements(594, 283),
   tot: buildRequirements(464, 254),
   hoh: buildRequirements(588, 280),
@@ -59,7 +59,7 @@ export const modlistRequirements: Record<Exclude<ModlistSlug, 'arr'>, ModlistReq
   vov: buildRequirements(268, 162),
 };
 
-export const supportedCheckerSlugs: Exclude<ModlistSlug, 'arr'>[] = [
+export const supportedCheckerSlugs: ModlistSlug[] = [
   'joj',
   'tot',
   'hoh',
@@ -68,7 +68,7 @@ export const supportedCheckerSlugs: Exclude<ModlistSlug, 'arr'>[] = [
   'vov',
 ];
 
-export function isSupportedCheckerSlug(slug: string): slug is Exclude<ModlistSlug, 'arr'> {
+export function isSupportedCheckerSlug(slug: string): slug is ModlistSlug {
   return (supportedCheckerSlugs as string[]).includes(slug);
 }
 

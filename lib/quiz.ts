@@ -42,6 +42,21 @@ export const quizQuestions: QuizQuestion[] = [
 ];
 
 /**
+ * Filters a question's options based on prior answers.
+ * Challenging survival has no fully-SFW option — both survival lists (HOH, DOD)
+ * carry adult content, so that combination is not offered.
+ */
+export function getVisibleOptions(
+  question: QuizQuestion,
+  answers: Record<string, string>
+): QuizQuestion['options'] {
+  if (question.id === 'adult' && answers.experience === 'survival') {
+    return question.options.filter((option) => option.value !== 'none');
+  }
+  return question.options;
+}
+
+/**
  * Determines the next question index based on current answers.
  * Returns -1 when the quiz should go directly to results.
  */
@@ -58,13 +73,8 @@ export function getNextQuestionIndex(currentIndex: number, answers: Record<strin
     return 1;
   }
 
-  // After Q2 (adult)
+  // After Q2 (adult) → always continue to Q3 (hardware)
   if (currentId === 'adult') {
-    if (answers.adult === 'none' && answers.experience === 'survival') {
-      // SFW + Survival → ARR, skip Q3, go to result
-      return -1;
-    }
-    // All other combos continue to Q3 (hardware)
     return 2;
   }
 
@@ -77,7 +87,6 @@ export function getNextQuestionIndex(currentIndex: number, answers: Record<strin
  */
 export function getTotalSteps(answers: Record<string, string>): number {
   if (answers.experience === 'visual') return 2; // Q1 + Q3
-  if (answers.adult === 'none' && answers.experience === 'survival') return 2; // Q1 + Q2
   return 3; // default all 3
 }
 
@@ -97,14 +106,6 @@ export function evaluateQuiz(answers: Record<string, string>): QuizResult {
     answers.hardware === 'high' ? 'lords-vision' :
     answers.hardware === 'performance' ? 'performance' :
     null;
-
-  // SFW + Survival → ARR (no profile)
-  if (answers.adult === 'none' && answers.experience === 'survival') {
-    reasons.push('Authoria \u2013 Requiem Reforged delivers a challenging, fully SFW survival experience');
-    reasons.push('ARR is the only SFW option built around Requiem-style difficulty');
-    reasons.push('ARR best matches your preferences');
-    return { list: 'arr', profile: null, reasons };
-  }
 
   // Visual overhaul → VOV
   if (answers.experience === 'visual') {

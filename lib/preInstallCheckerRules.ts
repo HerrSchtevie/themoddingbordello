@@ -19,7 +19,7 @@ export interface CheckItem {
 }
 
 export interface CheckerInput {
-  list: Exclude<ModlistSlug, 'arr'>;
+  list: ModlistSlug;
   profile: ProfileKey;
   gpuName: string;
   vramGB: number;

@@ -1,6 +1,5 @@
 import { modlists } from '@/lib/modlists';
 import { ModlistCard } from '@/components/cards/ModlistCard';
-import { ArrCard } from '@/components/cards/ArrCard';
 
 export default function ModlistsIndexPage() {
   return (
@@ -10,11 +9,6 @@ export default function ModlistsIndexPage() {
         {modlists.map((list) => (
           <ModlistCard key={list.slug} list={list} />
         ))}
-      </div>
-
-      <h2 className="text-2xl font-bold text-white mt-16 mb-8">Affiliated Modlists</h2>
-      <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-        <ArrCard />
       </div>
     </div>
   );

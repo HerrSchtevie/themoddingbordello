@@ -2,7 +2,6 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { modlists } from '@/lib/modlists';
 import { ModlistCard } from '@/components/cards/ModlistCard';
-import { ArrCard } from '@/components/cards/ArrCard';
 
 export default function HomePage() {
   return (
@@ -43,14 +42,6 @@ export default function HomePage() {
           {modlists.map((list) => (
             <ModlistCard key={list.slug} list={list} />
           ))}
-        </div>
-      </section>
-
-      {/* Affiliated Modlists */}
-      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-16">
-        <h2 className="text-2xl font-bold text-white mb-8">Affiliated Modlists</h2>
-        <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-          <ArrCard />
         </div>
       </section>
 

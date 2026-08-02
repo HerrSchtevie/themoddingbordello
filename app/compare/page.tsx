@@ -30,8 +30,8 @@ export default async function ComparePage() {
           <ImageLightbox
             src="/assets/wallpapers/list_overview.png"
             alt="Modlist comparison flowchart"
-            width={1920}
-            height={1080}
+            width={1380}
+            height={934}
             className="w-full h-auto"
             priority
           />

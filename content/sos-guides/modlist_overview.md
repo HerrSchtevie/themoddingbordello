@@ -11,5 +11,3 @@
 *Diaries of Dibella (DOD)* is a survival-driven, SexLab-based NSFW modlist forked from the Hymns of Hircine foundation. Retaining HOH’s punishing combat and environmental pressure, DOD integrates full adult gameplay systems directly into its survival framework, merging endurance and desire into a cohesive experience while maintaining the same standards of visual cohesion and mechanical stability found across the Bordello collections.
 
 *Visions of Vaermina (VOV)* is the visual baseline for Herr Schtevie’s modlists, focused on graphics, lighting, atmosphere, and environmental presentation while leaving gameplay systems largely untouched. OStim is included out of the box, providing a ready-to-use adult framework while serving as the graphical foundation from which other lists are built.
-
-*Authoria - Requiem Reforged (ARR)* is a Requiem-based NSFW modlist **authored by Heisen and jbish**, and hosted in The Modding Bordello server. Focused on survival, immersion, and a world shaped by full Seasons integration, ARR emphasizes nature, freedom, and environmental challenge, delivering a visually rich but unforgiving Skyrim experience where preparation is essential.

@@ -6,6 +6,7 @@ import {
   evaluateQuiz,
   getNextQuestionIndex,
   getTotalSteps,
+  getVisibleOptions,
   getVisualStep,
   QuizResult as QuizResultType,
 } from '@/lib/quiz';
@@ -44,10 +45,12 @@ export function QuizEngine() {
 
   const totalSteps = getTotalSteps(answers);
   const visualStep = getVisualStep(currentIndex, answers);
+  const baseQuestion = quizQuestions[currentIndex];
+  const question = { ...baseQuestion, options: getVisibleOptions(baseQuestion, answers) };
 
   return (
     <QuizStep
-      question={quizQuestions[currentIndex]}
+      question={question}
       currentStep={visualStep}
       totalSteps={totalSteps}
       onAnswer={handleAnswer}

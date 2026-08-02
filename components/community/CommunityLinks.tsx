@@ -1,7 +1,9 @@
 'use client';
 
 import { useState } from 'react';
-import { communityLinks, loadOrderEntries } from '@/lib/community';
+import Link from 'next/link';
+import { communityLinks } from '@/lib/community';
+import { modlists } from '@/lib/modlists';
 
 export function CommunityLinks() {
   const [discordExpanded, setDiscordExpanded] = useState(false);
@@ -105,7 +107,7 @@ export function CommunityLinks() {
         >
           <div className="flex items-center justify-between w-full">
             <span className="text-lg font-medium text-white group-hover:brightness-125 transition-all">
-              Load Order Library
+              Load Order
             </span>
             <svg
               className={`w-5 h-5 text-bordello-muted transition-transform duration-200 ${lolExpanded ? 'rotate-180' : ''}`}
@@ -122,54 +124,25 @@ export function CommunityLinks() {
         {lolExpanded && (
           <div className="px-5 pb-5">
             <div className="grid gap-2 sm:grid-cols-2 lg:grid-cols-3">
-              {loadOrderEntries.map((entry) => (
-                <a
-                  key={entry.abbreviation}
-                  href={entry.url}
-                  target="_blank"
-                  rel="noopener noreferrer"
+              {modlists.map((list) => (
+                <Link
+                  key={list.slug}
+                  href={`/modlists/${list.slug}/load-order`}
                   className="flex items-center gap-3 px-4 py-3 rounded-lg border border-bordello-border bg-bordello-bg/50 hover:bg-bordello-bg hover:border-bordello-muted/30 transition-all group"
                 >
                   <span
                     className="w-2.5 h-2.5 rounded-full shrink-0"
-                    style={{ backgroundColor: entry.accentColor }}
+                    style={{ backgroundColor: list.accentColor }}
                   />
                   <span className="text-sm font-medium text-white group-hover:brightness-125 transition-all">
-                    {entry.name}
+                    {list.name}
                   </span>
-                  <span className="text-xs text-bordello-muted">({entry.abbreviation})</span>
+                  <span className="text-xs text-bordello-muted">({list.abbreviation})</span>
                   <svg className="w-3.5 h-3.5 text-bordello-muted ml-auto shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
                   </svg>
-                </a>
+                </Link>
               ))}
-            </div>
-
-            {/* Affiliated Modlists */}
-            <div className="mt-4 pt-4 border-t border-bordello-border">
-              <span className="block text-[10px] font-semibold uppercase tracking-wider text-bordello-muted mb-2">
-                Affiliated Modlists
-              </span>
-              <div className="grid gap-2 sm:grid-cols-2 lg:grid-cols-3">
-                <a
-                  href="https://loadorderlibrary.com/lists/authoria-requiem-reforged-3"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="flex items-center gap-3 px-4 py-3 rounded-lg border border-bordello-border bg-bordello-bg/50 hover:bg-bordello-bg hover:border-bordello-muted/30 transition-all group"
-                >
-                  <span
-                    className="w-2.5 h-2.5 rounded-full shrink-0"
-                    style={{ backgroundColor: '#A67C00' }}
-                  />
-                  <span className="text-sm font-medium text-white group-hover:brightness-125 transition-all">
-                    Authoria – Requiem Reforged
-                  </span>
-                  <span className="text-xs text-bordello-muted">(ARR)</span>
-                  <svg className="w-3.5 h-3.5 text-bordello-muted ml-auto shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
-                  </svg>
-                </a>
-              </div>
             </div>
           </div>
         )}
