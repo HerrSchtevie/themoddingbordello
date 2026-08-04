@@ -31,7 +31,7 @@ NONE
 
 ## Updates
 
-[More Nasty Critters]([https://www.loverslab.com/files/file/14920-fill-her-up-baka-edition](https://www.loverslab.com/files/file/5464-more-nasty-critters-specialanniversary-edition/))  
+[More Nasty Critters](https://www.loverslab.com/files/file/5464-more-nasty-critters-specialanniversary-edition/)  
 
 ---
 
