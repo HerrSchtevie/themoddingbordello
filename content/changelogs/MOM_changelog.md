@@ -16,7 +16,7 @@ Save compatibility depends on **which number changes** between releases.
   Examples: `4.2.0 → 4.2.1`, `5.1.0 → 5.1.1`  
   Bug fixes, tuning, or minor adjustments. **Safe to update mid-save.**
 
-# MOM 2.9.1 (Updated - 08.01.2026)
+# MOM 2.9.1 (Updated - 08.04.2026)
 
 This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
 The actual MO2 modlist is always the authoritative reference for modlist content.
@@ -31,7 +31,7 @@ NONE
 
 ## Updates
 
-[More Nasty Critters]([https://www.loverslab.com/files/file/14920-fill-her-up-baka-edition](https://www.loverslab.com/files/file/5464-more-nasty-critters-specialanniversary-edition/))  
+[More Nasty Critters](https://www.loverslab.com/files/file/5464-more-nasty-critters-specialanniversary-edition/)   
 
 ---
 
