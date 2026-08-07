@@ -2,8 +2,14 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { modlists } from '@/lib/modlists';
 import { ModlistCard } from '@/components/cards/ModlistCard';
+import { getAllTeamMods } from '@/lib/teamMods';
 
 export default function HomePage() {
+  // Homepage band shows SFW covers only; the full page carries everything.
+  const teamModCovers = getAllTeamMods()
+    .filter((mod) => !mod.nsfw && mod.thumbnailUrl)
+    .slice(0, 4);
+
   return (
     <div>
       {/* Hero */}
@@ -100,6 +106,43 @@ export default function HomePage() {
             </div>
           </Link>
         </div>
+
+        {/* Bordello Team Mods — feature band */}
+        <Link
+          href="/team-mods"
+          className="group relative mt-6 flex flex-wrap items-center gap-6 p-6 rounded-xl border border-bordello-border overflow-hidden transition-all duration-300 hover:-translate-y-1 hover:shadow-lg"
+        >
+          <div className="absolute inset-0 bg-gradient-to-br from-[#1f1114] via-bordello-surface to-bordello-bg/80" />
+          <div className="absolute inset-0 opacity-0 group-hover:opacity-100 transition-opacity duration-300 bg-gradient-to-br from-[#7a0000]/10 to-transparent" />
+          <div className="relative flex-1 min-w-[200px]">
+            <h3 className="text-lg font-semibold text-white mb-2">Bordello Team Mods</h3>
+            <p className="text-sm text-bordello-muted">
+              Mods and patches from the Bordello team, on Nexus
+            </p>
+          </div>
+          <div className="relative hidden sm:flex items-center gap-3">
+            {teamModCovers.map((mod) => (
+              // Hotlinked Nexus CDN thumbnails, same convention as the armor catalog.
+              // eslint-disable-next-line @next/next/no-img-element
+              <img
+                key={mod.index}
+                src={mod.thumbnailUrl}
+                alt={`${mod.name} cover`}
+                loading="lazy"
+                className="w-24 h-14 rounded-md object-cover border border-bordello-border/60"
+              />
+            ))}
+          </div>
+          <svg
+            className="relative w-5 h-5 text-bordello-muted group-hover:text-white transition-colors"
+            fill="none"
+            stroke="currentColor"
+            viewBox="0 0 24 24"
+            aria-hidden="true"
+          >
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+          </svg>
+        </Link>
       </section>
     </div>
   );

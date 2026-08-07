@@ -12,6 +12,7 @@ const navItems = [
   { label: 'Home', href: '/' },
   { label: 'Choose Your Path', href: '/choose-your-path' },
   { label: 'Modlists', href: '/modlists', dropdown: 'modlists' as const },
+  { label: 'Bordello Team Mods', href: '/team-mods' },
   { label: 'Guides', href: '/guides', dropdown: 'guides' as const },
   { label: 'Changelogs', href: '/changelogs', dropdown: 'changelogs' as const },
   { label: 'Showcase', href: '/showcase', dropdown: 'showcase' as const },
