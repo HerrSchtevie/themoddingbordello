@@ -1,3 +1,10 @@
+export interface TeamModNavItem {
+  name: string;
+  modUrl: string;
+  accent: string;
+  nsfw: boolean;
+}
+
 export interface TeamMod {
   index: number;
   sort: number;

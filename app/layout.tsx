@@ -4,6 +4,7 @@ import Script from 'next/script';
 import './globals.css';
 import { GlobalNav } from '@/components/nav/GlobalNav';
 import { Footer } from '@/components/nav/Footer';
+import { getAllTeamMods } from '@/lib/teamMods';
 
 const GA_MEASUREMENT_ID = 'G-N55V3KT6BN';
 
@@ -56,7 +57,14 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         </Script>
       </head>
       <body className={`${inter.className} min-h-screen flex flex-col`}>
-        <GlobalNav />
+        <GlobalNav
+          teamMods={getAllTeamMods().map(({ name, modUrl, accent, nsfw }) => ({
+            name,
+            modUrl,
+            accent,
+            nsfw,
+          }))}
+        />
         <main className="flex-1">{children}</main>
         <Footer />
       </body>

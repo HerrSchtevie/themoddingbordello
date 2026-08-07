@@ -7,19 +7,21 @@ import { ModlistDropdown } from './ModlistDropdown';
 import { GuideDropdown } from './GuideDropdown';
 import { ChangelogDropdown } from './ChangelogDropdown';
 import { ShowcaseDropdown } from './ShowcaseDropdown';
+import { TeamModsDropdown } from './TeamModsDropdown';
+import { TeamModNavItem } from '@/types/teamMods';
 
 const navItems = [
   { label: 'Home', href: '/' },
   { label: 'Choose Your Path', href: '/choose-your-path' },
   { label: 'Modlists', href: '/modlists', dropdown: 'modlists' as const },
-  { label: 'Bordello Team Mods', href: '/team-mods' },
+  { label: 'Bordello Team Mods', href: '/team-mods', dropdown: 'team-mods' as const },
   { label: 'Guides', href: '/guides', dropdown: 'guides' as const },
   { label: 'Changelogs', href: '/changelogs', dropdown: 'changelogs' as const },
   { label: 'Showcase', href: '/showcase', dropdown: 'showcase' as const },
   { label: 'Community', href: '/community' },
 ];
 
-export function GlobalNav() {
+export function GlobalNav({ teamMods = [] }: { teamMods?: TeamModNavItem[] }) {
   const pathname = usePathname();
   const [openDropdown, setOpenDropdown] = useState<string | null>(null);
 
@@ -58,6 +60,9 @@ export function GlobalNav() {
 
                   {item.dropdown === 'modlists' && openDropdown === 'modlists' && (
                     <ModlistDropdown />
+                  )}
+                  {item.dropdown === 'team-mods' && openDropdown === 'team-mods' && (
+                    <TeamModsDropdown items={teamMods} />
                   )}
                   {item.dropdown === 'guides' && openDropdown === 'guides' && (
                     <GuideDropdown />
