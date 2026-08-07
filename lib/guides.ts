@@ -78,6 +78,20 @@ export const guides: GuideMeta[] = [
     icon: 'info',
     filePath: 'content/sos-guides/SOS_Rule_11_Guide.md',
   },
+  {
+    slug: 'armor-catalog-shared',
+    title: 'Shared Armor Catalog (NSFW)',
+    description: 'The shared armor archive for JOJ, MOM, HOH, and DOD. Mature imagery — 18+ only.',
+    icon: 'shirt',
+    customHref: '/armor-catalog/shared',
+  },
+  {
+    slug: 'armor-catalog-tot',
+    title: 'TOT Armor Catalog (SFW)',
+    description: 'Search and filter the Tomes of Talos armor wardrobe, with outfit tool guides.',
+    icon: 'shirt',
+    customHref: '/armor-catalog/tot',
+  },
 ];
 
 export const guideBySlug: Record<GuideSlug, GuideMeta> = Object.fromEntries(

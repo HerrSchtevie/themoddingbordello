@@ -9,7 +9,9 @@ export type GuideSlug =
   | 'sos-npc-plugin-chooser-2-guide'
   | 'sos-de-spicing-guide'
   | 'sos-outfit-distribution-guide'
-  | 'sos-rule-11-guide';
+  | 'sos-rule-11-guide'
+  | 'armor-catalog-tot'
+  | 'armor-catalog-shared';
 
 export interface GuideMeta {
   slug: GuideSlug;
