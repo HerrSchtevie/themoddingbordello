@@ -393,6 +393,12 @@ export function ArmorCatalogClient({ items, variant }: { items: ArmorSet[]; vari
 
   return (
     <div id="catalog" ref={gridTopRef} className="scroll-mt-44">
+      <a
+        href="#guides"
+        className="inline-flex items-center gap-2 mb-4 px-3.5 py-2 rounded-lg border border-[#6c2631] bg-[#a21827]/10 text-sm text-[#ce6d76] hover:bg-[#a21827]/25 hover:text-white transition-colors"
+      >
+        Armor calling to you? Follow the path below to summon it in-game ↓
+      </a>
       <div
         ref={barRef}
         className="sticky top-16 z-40 -mx-4 sm:-mx-6 lg:-mx-8 px-4 sm:px-6 lg:px-8 bg-bordello-bg/95 backdrop-blur border-b border-bordello-border"
@@ -525,16 +531,17 @@ export function ArmorCatalogClient({ items, variant }: { items: ArmorSet[]; vari
             </select>
           </label>
 
-          {activeFilterCount > 0 && (
+          {(activeFilterCount > 0 || query.trim()) && (
             <button
               type="button"
               onClick={() => {
                 setSelected(emptySelected());
+                setQuery('');
                 setPage(1);
               }}
-              className="text-[10px] uppercase tracking-wider text-[#ce6d76] hover:text-white transition-colors"
+              className="inline-flex items-center gap-1.5 px-3 py-2 rounded-lg text-sm border border-[#6c2631] bg-[#a21827]/10 text-[#ce6d76] hover:bg-[#a21827]/25 hover:text-white transition-colors"
             >
-              Clear all
+              ✕ Clear all filters
             </button>
           )}
         </div>

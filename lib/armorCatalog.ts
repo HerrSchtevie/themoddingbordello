@@ -39,10 +39,22 @@ function parseCsv(text: string): string[][] {
   return rows;
 }
 
+// Known typo/near-duplicate tag values in the sheet, folded into their
+// canonical form so filters never fragment. The sheet export may reintroduce
+// them at any time, so this lives here rather than in the CSV.
+const TAG_ALIASES: Record<string, string> = {
+  Lingere: 'Lingerie',
+  Assasssin: 'Assassin',
+  Khajiti: 'Khajiit',
+  Pirates: 'Pirate',
+  'Volkihar Vampier Clan': 'Volkihar Vampire Clan',
+};
+
 const splitList = (value: string): string[] =>
   value
-    .split(/[;/]/)
+    .split(/[;,/]/)
     .map((v) => v.trim())
+    .map((v) => TAG_ALIASES[v] ?? v)
     .filter(Boolean);
 
 const isTrue = (value: string): boolean => value.trim().toUpperCase() === 'TRUE';
