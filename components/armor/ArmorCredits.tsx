@@ -13,8 +13,9 @@ export function ArmorCredits() {
           <span className="text-bordello-text font-medium">Juntii</span>, with further contributions from{' '}
           <span className="text-bordello-text font-medium">Aaronavich</span>,{' '}
           <span className="text-bordello-text font-medium">Whispa</span>,{' '}
-          <span className="text-bordello-text font-medium">Rynfri</span>, and{' '}
-          <span className="text-bordello-text font-medium">Bcoop</span> across the Bordello lists.
+          <span className="text-bordello-text font-medium">Rynfri</span>,{' '}
+          <span className="text-bordello-text font-medium">Bcoop</span>, and{' '}
+          <span className="text-bordello-text font-medium">bridgeburnerr</span> across the Bordello lists.
         </p>
       </div>
     </section>
