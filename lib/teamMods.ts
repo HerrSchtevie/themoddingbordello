@@ -44,7 +44,18 @@ let cache: TeamMod[] | null = null;
 
 export function getAllTeamMods(): TeamMod[] {
   if (cache) return cache;
-  const text = fs.readFileSync(CSV_PATH, 'utf8').replace(/^﻿/, '');
+  // On dynamic routes this runs per-request inside the deployed function,
+  // whose bundle only holds files Next's output tracing captured. If the
+  // CSV is ever missing there (the 2026-08-07 pre-install-checker outage),
+  // degrade to an empty roster instead of 500ing the whole route.
+  let text: string;
+  try {
+    text = fs.readFileSync(CSV_PATH, 'utf8').replace(/^﻿/, '');
+  } catch (err) {
+    console.error('team-mods CSV unreadable, rendering empty roster:', err);
+    cache = [];
+    return cache;
+  }
   const rows = parseCsv(text);
   const header = rows.shift() ?? [];
   const index = Object.fromEntries(header.map((name, i) => [name.trim(), i]));
