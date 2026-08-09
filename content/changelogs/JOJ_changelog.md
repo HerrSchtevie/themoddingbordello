@@ -33,6 +33,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Sanguine's Trade - An Economy Mod](https://www.nexusmods.com/skyrimspecialedition/mods/185788) - Thanks, [Juntii](https://www.nexusmods.com/profile/Juntii)!  
 [Smooth Terrain](https://www.nexusmods.com/skyrimspecialedition/mods/186875)  
 [LOD Refresh Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/187070)  
+[Texture Downscaler](https://www.nexusmods.com/skyrimspecialedition/mods/187049)  
 
 ---
 
@@ -53,7 +54,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 ## Removals 
 
-
+[LOD Unloading Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/61251)  
 
 ---
 
