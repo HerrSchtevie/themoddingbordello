@@ -34,6 +34,9 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Smooth Terrain](https://www.nexusmods.com/skyrimspecialedition/mods/186875)  
 [LOD Refresh Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/187070)  
 [Texture Downscaler](https://www.nexusmods.com/skyrimspecialedition/mods/187049)  
+[Hair Specular - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/149011)  
+[ENB Extender and Helper Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/99406)  
+[Effects 11 - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/179824)  
 
 ---
 
@@ -50,12 +53,27 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [A Secret to Hide](https://www.nexusmods.com/skyrimspecialedition/mods/121215)  
 [Kodex - An Automated Mod List Support Reporter](https://www.nexusmods.com/skyrimspecialedition/mods/157869)  
 [Tailor - An Outfit and Wig Manager](https://www.nexusmods.com/skyrimspecialedition/mods/173691)  
+[Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492)  
+[Cloud Shadows - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/139185)  
+[Screen Space Global Illumination (SSGI) - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/130375)  
+[Skylighting - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/139352)  
+[Terrain Blending - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/157076)  
+[Terrain Variation - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/148123)  
+[Upscaling - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/156952)  
+[Wetness Effects - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/112739)  
+[Silent Horizons 2 - Shader Core](https://www.nexusmods.com/skyrimspecialedition/mods/101696)  
 
 ---
 
 ## Removals 
 
 [LOD Unloading Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/61251)  
+[Screen Space Shadows - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/93209)  
+[Grass Collision - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/87816)  
+[Grass Lighting - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86502)  
+[Subsurface Scattering - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/114114)  
+[Sky Sync - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/153543)  
+[CS Particle Patch](https://www.nexusmods.com/skyrimspecialedition/mods/147270)  
 
 ---
 
