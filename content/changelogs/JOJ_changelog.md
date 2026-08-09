@@ -25,13 +25,29 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 ## Additions
 
-
+[Kanjs - Sigil of the Black Covenant](https://www.nexusmods.com/skyrimspecialedition/mods/169066)  
+[Kanjs - Sigil Stone Animated](https://www.nexusmods.com/skyrimspecialedition/mods/165298)  
+[Kanjs - The Watcher 2k](https://www.nexusmods.com/skyrimspecialedition/mods/49079)  
+[Halls of Order](https://www.nexusmods.com/skyrimspecialedition/mods/187403)  
+[Standing Stones AIO with New Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/174543)  
+[Sanguine's Trade - An Economy Mod](https://www.nexusmods.com/skyrimspecialedition/mods/185788) - Thanks, [Juntii](https://www.nexusmods.com/profile/Juntii)!  
+[Smooth Terrain](https://www.nexusmods.com/skyrimspecialedition/mods/186875)  
+[LOD Refresh Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/187070)  
 
 ---
 
 ## Updates
 
-
+[Critter Master - Script Call Reduction](https://www.nexusmods.com/skyrimspecialedition/mods/141745)  
+[JContainers SE](https://www.nexusmods.com/skyrimspecialedition/mods/16495)  
+[Open Animation Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/92109)  
+[Open Animation Replacer - Math Plugin](https://www.nexusmods.com/skyrimspecialedition/mods/92607)  
+[Manguz Inn Resources](https://www.nexusmods.com/skyrimspecialedition/mods/96001)  
+[The Nasty Pine](https://www.nexusmods.com/skyrimspecialedition/mods/138504)  
+[The Naked Dragon](https://www.nexusmods.com/skyrimspecialedition/mods/94940)  
+[The Rift's Rest](https://www.nexusmods.com/skyrimspecialedition/mods/75649)  
+[A Secret to Hide](https://www.nexusmods.com/skyrimspecialedition/mods/121215)  
+[Kodex - An Automated Mod List Support Reporter](https://www.nexusmods.com/skyrimspecialedition/mods/157869)  
 
 ---
 
@@ -44,9 +60,11 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 ## Tweaks
 
 - Added/edited the following custom patches: 
-   - `placeholder` 
+   - `SOS - Merged Patches FOMOD`
+   - `JOJ - Outfit Distribution`
+   - `SOS - Thur Vonun CS LightPlacer Blacklist`  
 - Removed the following custom patches:
-   - `placeholder` 
+   - `SOS - Bordello Boudoir`  
 - Regenerated the following outputs:
    - `placeholder`  
 
