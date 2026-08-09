@@ -49,6 +49,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [The Rift's Rest](https://www.nexusmods.com/skyrimspecialedition/mods/75649)  
 [A Secret to Hide](https://www.nexusmods.com/skyrimspecialedition/mods/121215)  
 [Kodex - An Automated Mod List Support Reporter](https://www.nexusmods.com/skyrimspecialedition/mods/157869)  
+[Tailor - An Outfit and Wig Manager](https://www.nexusmods.com/skyrimspecialedition/mods/173691)  
 
 ---
 
