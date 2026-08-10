@@ -83,7 +83,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 - Added/edited the following custom patches: 
    - `SOS - Merged Patches FOMOD`
    - `JOJ - Outfit Distribution`
-   - `SOS - Thur Vonun CS LightPlacer Blacklist`  
+   - `SOS - Thur Vonun CS LightPlacer Blacklist`
+   - Adjusted Wheeler - Refined settings in all UI presets to properly position wheels. Modifier key for gamepaad users now set to Right Bumper for Ammo Wheel to stop conflict with Inventory Menu  
 - Removed the following custom patches:
    - `SOS - Bordello Boudoir`  
 - Regenerated the following outputs:
