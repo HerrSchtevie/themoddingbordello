@@ -40,6 +40,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 ## Updates
 
+[DynDOLOD 3 Alpha](https://www.nexusmods.com/skyrimspecialedition/mods/68518)  
 [Critter Master - Script Call Reduction](https://www.nexusmods.com/skyrimspecialedition/mods/141745)  
 [JContainers SE](https://www.nexusmods.com/skyrimspecialedition/mods/16495)  
 [Open Animation Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/92109)  
