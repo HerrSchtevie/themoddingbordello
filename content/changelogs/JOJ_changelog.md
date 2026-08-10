@@ -37,6 +37,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Hair Specular - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/149011)  
 [ENB Extender and Helper Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/99406)  
 [Effects 11 - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/179824)  
+[Interior DALC Fix](https://www.nexusmods.com/skyrimspecialedition/mods/187914)  
 
 ---
 
