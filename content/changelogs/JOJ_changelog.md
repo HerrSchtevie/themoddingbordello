@@ -84,7 +84,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
    - `SOS - Merged Patches FOMOD`
    - `JOJ - Outfit Distribution`
    - `SOS - Thur Vonun CS LightPlacer Blacklist`
-   - Adjusted [WHEELER - Refined](https://www.nexusmods.com/skyrimspecialedition/mods/167380) settings in all UI presets to properly position ammo wheel. Modifier key for gamepad users now set to Right Bumper for Ammo Wheel to stop conflict with Inventory Menu  
+   - Adjusted [WHEELER - Refined](https://www.nexusmods.com/skyrimspecialedition/mods/167380) settings in all custom UI presets to properly position ammo wheel. Modifier key for gamepad users now set to Right Bumper for Ammo Wheel to stop conflict with Inventory Menu  
 - Removed the following custom patches:
    - `SOS - Bordello Boudoir`  
 - Regenerated the following outputs:
