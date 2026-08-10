@@ -29,7 +29,6 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Kanjs - Sigil Stone Animated](https://www.nexusmods.com/skyrimspecialedition/mods/165298)  
 [Kanjs - The Watcher 2k](https://www.nexusmods.com/skyrimspecialedition/mods/49079)  
 [Halls of Order](https://www.nexusmods.com/skyrimspecialedition/mods/187403)  
-[Standing Stones AIO with New Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/174543)  
 [Smooth Terrain](https://www.nexusmods.com/skyrimspecialedition/mods/186875)  
 [LOD Refresh Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/187070)  
 [Texture Downscaler](https://www.nexusmods.com/skyrimspecialedition/mods/187049)  
