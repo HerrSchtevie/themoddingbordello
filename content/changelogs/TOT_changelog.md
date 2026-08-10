@@ -16,6 +16,73 @@ Save compatibility depends on **which number changes** between releases.
   Examples: `4.2.0 → 4.2.1`, `5.1.0 → 5.1.1`  
   Bug fixes, tuning, or minor adjustments. **Safe to update mid-save.**
 
+# TOT 5.0.0 (WORK IN PROGRESS)
+
+This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
+The actual MO2 modlist is always the authoritative reference for modlist content.
+
+---
+
+## Additions
+
+[Kanjs - Sigil of the Black Covenant](https://www.nexusmods.com/skyrimspecialedition/mods/169066)  
+[Kanjs - Sigil Stone Animated](https://www.nexusmods.com/skyrimspecialedition/mods/165298)  
+[Kanjs - The Watcher 2k](https://www.nexusmods.com/skyrimspecialedition/mods/49079)  
+[Halls of Order](https://www.nexusmods.com/skyrimspecialedition/mods/187403)  
+[Standing Stones AIO with New Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/174543)  
+[Smooth Terrain](https://www.nexusmods.com/skyrimspecialedition/mods/186875)  
+[LOD Refresh Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/187070)  
+[Texture Downscaler](https://www.nexusmods.com/skyrimspecialedition/mods/187049)  
+[Hair Specular - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/149011)  
+[ENB Extender and Helper Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/99406)  
+[Effects 11 - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/179824)  
+
+---
+
+## Updates
+
+[Critter Master - Script Call Reduction](https://www.nexusmods.com/skyrimspecialedition/mods/141745)  
+[JContainers SE](https://www.nexusmods.com/skyrimspecialedition/mods/16495)  
+[Open Animation Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/92109)  
+[Open Animation Replacer - Math Plugin](https://www.nexusmods.com/skyrimspecialedition/mods/92607)  
+[Kodex - An Automated Mod List Support Reporter](https://www.nexusmods.com/skyrimspecialedition/mods/157869)  
+[Tailor - An Outfit and Wig Manager](https://www.nexusmods.com/skyrimspecialedition/mods/173691)  
+[Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492)  
+[Cloud Shadows - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/139185)  
+[Screen Space Global Illumination (SSGI) - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/130375)  
+[Skylighting - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/139352)  
+[Terrain Blending - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/157076)  
+[Terrain Variation - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/148123)  
+[Upscaling - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/156952)  
+[Wetness Effects - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/112739)  
+[Silent Horizons 2 - Shader Core](https://www.nexusmods.com/skyrimspecialedition/mods/101696)  
+
+---
+
+## Removals 
+
+[LOD Unloading Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/61251)  
+[Screen Space Shadows - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/93209)  
+[Grass Collision - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/87816)  
+[Grass Lighting - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86502)  
+[Subsurface Scattering - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/114114)  
+[Sky Sync - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/153543)  
+[CS Particle Patch](https://www.nexusmods.com/skyrimspecialedition/mods/147270)  
+
+---
+
+## Tweaks
+
+- Added/edited the following custom patches: 
+   - `SOS - Merged Patches FOMOD`
+   - `SOS - Thur Vonun CS LightPlacer Blacklist`  
+- Removed the following custom patches:
+   - `placeholder`  
+- Regenerated the following outputs:
+   - `placeholder`  
+
+---
+
 # TOT 4.7.0 (Updated - 07.03.2026)
 
 This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
