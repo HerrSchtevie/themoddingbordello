@@ -6,7 +6,7 @@ The official archive of the Bordello modlist ecosystem.
 https://themoddingbordello.com
 
 ## 📖 Purpose
-This site serves as the central hub for:
+This site serves as the central hub for::
 
 - Modlist overviews  
 - Guides and documentation  
