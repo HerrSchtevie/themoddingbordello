@@ -77,7 +77,6 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Subsurface Scattering - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/114114)  
 [Sky Sync - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/153543)  
 [CS Particle Patch](https://www.nexusmods.com/skyrimspecialedition/mods/147270)  
-[Cloud Shadows - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/139185)  
 
 ---
 
