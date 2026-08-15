@@ -58,7 +58,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Wetness Effects - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/112739)  
 [Silent Horizons 2 - Shader Core](https://www.nexusmods.com/skyrimspecialedition/mods/101696)  
 [Lux CS](https://www.nexusmods.com/skyrimspecialedition/mods/153919)  
-[SexLab P+](https://www.loverslab.com/files/file/25318-sexlab-p/)  
+[SexLab P+](https://www.loverslab.com/files/file/25318-sexlab-p/) - Requires new manual download from [MOM Manual Downloads](https://www.themoddingbordello.com/modlists/mom/manual-downloads)  
+[Fill Her Up - Voice Files](https://www.loverslab.com/files/file/42778-fill-her-up-voice-files) - Requires new manual download from [MOM Manual Downloads](https://www.themoddingbordello.com/modlists/mom/manual-downloads)  
 
 ---
 
