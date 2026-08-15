@@ -50,7 +50,6 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Sanguine's Trade - An Economy Mod](https://www.nexusmods.com/skyrimspecialedition/mods/185788) - Thanks, [Juntii](https://www.nexusmods.com/profile/Juntii)!  
 [Tailor - An Outfit and Wig Manager](https://www.nexusmods.com/skyrimspecialedition/mods/173691)  
 [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492)  
-[Cloud Shadows - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/139185)  
 [Screen Space Global Illumination (SSGI) - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/130375)  
 [Skylighting - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/139352)  
 [Terrain Blending - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/157076)  
@@ -59,6 +58,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Wetness Effects - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/112739)  
 [Silent Horizons 2 - Shader Core](https://www.nexusmods.com/skyrimspecialedition/mods/101696)  
 [Lux CS](https://www.nexusmods.com/skyrimspecialedition/mods/153919)  
+[SexLab P+](https://www.loverslab.com/files/file/25318-sexlab-p/)  
 
 ---
 
@@ -68,6 +68,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Screen Space Shadows - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/93209)  
 [Grass Collision - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/87816)  
 [Grass Lighting - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86502)  
+[Cloud Shadows - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/139185)  
 [Subsurface Scattering - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/114114)  
 [Sky Sync - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/153543)  
 [CS Particle Patch](https://www.nexusmods.com/skyrimspecialedition/mods/147270)  
@@ -78,9 +79,9 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 ## Tweaks
 
 - Added/edited the following custom patches: 
-   - `SOS - Merged Patches FOMOD`
    - `JOJ - Outfit Distribution`
    - `SOS - Thur Vonun CS LightPlacer Blacklist`
+   - `SL P+ Beds Furniture Offset WIP Fixes` - Thanks, Magicka57!  
    - Adjusted [WHEELER - Refined](https://www.nexusmods.com/skyrimspecialedition/mods/167380) settings in all custom UI presets to properly position ammo wheel. Modifier key for gamepad users now set to Right Bumper for Ammo Wheel to stop conflict with Inventory Menu  
 - Removed the following custom patches:
    - `SOS - Bordello Boudoir`  
