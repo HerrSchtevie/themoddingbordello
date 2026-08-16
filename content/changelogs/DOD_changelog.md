@@ -62,6 +62,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [SexLab P+](https://www.loverslab.com/files/file/25318-sexlab-p/) - Requires new manual download from [DOD Manual Downloads](https://www.themoddingbordello.com/modlists/dod/manual-downloads)  
 [Fill Her Up - Voice Files](https://www.loverslab.com/files/file/42778-fill-her-up-voice-files) - Requires new manual download from [DOD Manual Downloads](https://www.themoddingbordello.com/modlists/dod/manual-downloads)  
 [For Honor Reforged](https://www.nexusmods.com/skyrimspecialedition/mods/172176)  
+[For Honor Stamina System](https://www.nexusmods.com/skyrimspecialedition/mods/174120)  
 
 ---
 
