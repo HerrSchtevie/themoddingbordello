@@ -91,7 +91,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 - Removed the following custom patches:
    - `SOS - Bordello Boudoir`  
 - Regenerated the following outputs:
-   - `placeholder`  
+   - `DOD - BodySlide Output`  
 
 ---
 
