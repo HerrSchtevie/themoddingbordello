@@ -84,7 +84,9 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 - Added/edited the following custom patches: 
    - `JOJ - Outfit Distribution`
    - `SOS - Thur Vonun CS LightPlacer Blacklist`
-   - `SL P+ Beds Furniture Offset WIP Fixes` - Thanks, Magicka57!  
+   - `SL P+ Beds Furniture Offset WIP Fixes` - Thanks, Magicka57!
+   - `SOS - Thur Vonun OMNI Shadow Fix.esp` - Thanks, Net!
+   - `SOS - Lux Consistency`   
    - Adjusted [WHEELER - Refined](https://www.nexusmods.com/skyrimspecialedition/mods/167380) settings in all custom UI presets to properly position ammo wheel. Modifier key for gamepad users now set to Right Bumper for Ammo Wheel to stop conflict with Inventory Menu  
 - Removed the following custom patches:
    - `SOS - Bordello Boudoir`  
