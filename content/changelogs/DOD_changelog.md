@@ -37,6 +37,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Effects 11 - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/179824)  
 [Interior DALC Fix](https://www.nexusmods.com/skyrimspecialedition/mods/187914)  
 [CrosshairRefEvents script hang fix](https://www.loverslab.com/files/file/25378-crosshairrefevents-script-hang-fix/)  - Requires new manual download from [DOD Manual Downloads](https://www.themoddingbordello.com/modlists/dod/manual-downloads)  
+[Skyrim's Paraglider - ONE](https://www.nexusmods.com/skyrimspecialedition/mods/134795)  
+[Skyrim's Paraglider Anniversary Edition Update](https://www.nexusmods.com/skyrimspecialedition/mods/71123)  
 
 ---
 
