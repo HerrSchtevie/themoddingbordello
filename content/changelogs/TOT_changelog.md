@@ -36,6 +36,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [ENB Extender and Helper Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/99406)  
 [Effects 11 - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/179824)  
 [Interior DALC Fix](https://www.nexusmods.com/skyrimspecialedition/mods/187914)  
+[Skyrim's Paraglider - ONE](https://www.nexusmods.com/skyrimspecialedition/mods/134795)  
+[Skyrim's Paraglider Anniversary Edition Update](https://www.nexusmods.com/skyrimspecialedition/mods/71123)  
 
 ---
 
