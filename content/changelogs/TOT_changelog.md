@@ -38,6 +38,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Interior DALC Fix](https://www.nexusmods.com/skyrimspecialedition/mods/187914)  
 [Skyrim's Paraglider - ONE](https://www.nexusmods.com/skyrimspecialedition/mods/134795)  
 [Skyrim's Paraglider Anniversary Edition Update](https://www.nexusmods.com/skyrimspecialedition/mods/71123)  
+[DONG - Dungeon Objects Now Glow](https://www.nexusmods.com/skyrimspecialedition/mods/188762) - Thanks, [Kyler](https://www.nexusmods.com/profile/Kyler45)!  
 
 ---
 
