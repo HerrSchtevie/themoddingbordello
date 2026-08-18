@@ -76,7 +76,9 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 - Removed the following custom patches:
    - NONE  
 - Regenerated the following outputs:
-   - `placeholder`  
+   - `VOV - Pandora Output`
+   - `VOV - Synthesis Output (Lord's Vision)`
+   - `VOV - Synthesis Output (Performance)`  
 
 ---
 
