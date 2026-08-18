@@ -39,6 +39,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [CrosshairRefEvents script hang fix](https://www.loverslab.com/files/file/25378-crosshairrefevents-script-hang-fix/)  - Requires new manual download from [MOM Manual Downloads](https://www.themoddingbordello.com/modlists/mom/manual-downloads)  
 [Skyrim's Paraglider - ONE](https://www.nexusmods.com/skyrimspecialedition/mods/134795)  
 [Skyrim's Paraglider Anniversary Edition Update](https://www.nexusmods.com/skyrimspecialedition/mods/71123)  
+[DONG - Dungeon Objects Now Glow](https://www.nexusmods.com/skyrimspecialedition/mods/188762) - Thanks, [Kyler](https://www.nexusmods.com/profile/Kyler45)!  
 
 ---
 
