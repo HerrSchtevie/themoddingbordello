@@ -71,6 +71,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Lux CS](https://www.nexusmods.com/skyrimspecialedition/mods/153919)  
 [For Honor Reforged](https://www.nexusmods.com/skyrimspecialedition/mods/172176)  
 [For Honor Stamina System](https://www.nexusmods.com/skyrimspecialedition/mods/174120)  
+[SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/106659)  
 
 ---
 
