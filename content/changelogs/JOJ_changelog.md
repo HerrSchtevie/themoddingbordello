@@ -44,6 +44,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Skyrim's Paraglider Anniversary Edition Update](https://www.nexusmods.com/skyrimspecialedition/mods/71123)  
 [DONG - Dungeon Objects Now Glow](https://www.nexusmods.com/skyrimspecialedition/mods/188762) - Thanks, [Kyler](https://www.nexusmods.com/profile/Kyler45)!  
 [Traveler's Armor Pack - ESL flagged plugin](https://www.nexusmods.com/skyrimspecialedition/mods/93138)  
+[MTM's Tavern Clothes - ESP-FE Patch](https://www.nexusmods.com/skyrimspecialedition/mods/182113)  
 
 ---
 
