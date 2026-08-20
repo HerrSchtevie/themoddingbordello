@@ -60,6 +60,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Wetness Effects - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/112739)  
 [Silent Horizons 2 - Shader Core](https://www.nexusmods.com/skyrimspecialedition/mods/101696)  
 [Lux CS](https://www.nexusmods.com/skyrimspecialedition/mods/153919)  
+[SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/106659)  
 
 ---
 
