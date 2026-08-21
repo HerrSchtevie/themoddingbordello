@@ -79,7 +79,6 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/106659)  
 [HOUSE OF WARRIORS - Immersive Dialogue Expansion - Jorrvaskr (Companions)](https://www.nexusmods.com/skyrimspecialedition/mods/173134)  
 [Immersive Dialogue Expansion - Thalmor](https://www.nexusmods.com/skyrimspecialedition/mods/168432)  
-[(SHAPE YOUR QUEEN) Follower Dialogue Expansion - Elisif the Fair](https://www.nexusmods.com/skyrimspecialedition/mods/167954)  
 [(BEST EVIL FOLLOWER) Follower Dialogue Expansion - Fura Bloodmouth](https://www.nexusmods.com/skyrimspecialedition/mods/165839)  
 [Follower Dialogue Expansion - Roggi Knot-Beard](https://www.nexusmods.com/skyrimspecialedition/mods/134694)  
 [Follower Dialogue Expansion - Borgakh the Steel Heart](https://www.nexusmods.com/skyrimspecialedition/mods/133571)  
