@@ -1,4 +1,4 @@
-## 📦 Manual Downloads – Mantras of Mara (MOM)
+## Manual Downloads
 
 This page exists to document **all files that must be downloaded manually** for **Mantras of Mara (MOM)** in order for the Wabbajack installation to complete successfully.
 
@@ -8,9 +8,10 @@ This is **normal behavior** for modlists that utilize LoversLab mods and is **no
 
 ---
 
-### 📘 Please Also Read
-- **📖 [MOM ReadMe](/modlists/mom/readme)**
-- **🧭 [MOM Gameplay Guide](/modlists/mom/gameplay-guide)**
+### Please Also Read
+
+- **[MOM ReadMe](/modlists/mom/readme)**
+- **[MOM Gameplay Guide](/modlists/mom/gameplay-guide)**
 
 Most common installation and gameplay questions are answered there.
 
@@ -29,7 +30,7 @@ Most common installation and gameplay questions are answered there.
 
 This page is kept up to date to ensure a **smooth, repeatable installation experience** for all MOM users.
 
-| Title | 🔗 Download |
+| Title | Download |
 |---|---|
 | Acheron Extension Library | https://www.loverslab.com/files/file/27063-acheron-extension-library/?do=download&r=1719120&confirm=1&t=1&csrfKey=986c9ae9f1cb5ae9a7b8861d92295f40 |
 | Alpia Slavetats RaceMenu Plugins (06.2026) | https://www.loverslab.com/files/file/30951-alpia-scribbles-slavetats-pack/?do=download&r=2160153&confirm=1&t=1&csrfKey=e65c7e037f6a1e976feedcc5c8477029 |
