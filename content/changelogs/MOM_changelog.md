@@ -42,6 +42,12 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [DONG - Dungeon Objects Now Glow](https://www.nexusmods.com/skyrimspecialedition/mods/188762) - Thanks, [Kyler](https://www.nexusmods.com/profile/Kyler45)!  
 [Traveler's Armor Pack - ESL flagged plugin](https://www.nexusmods.com/skyrimspecialedition/mods/93138)  
 [MTM's Tavern Clothes - ESP-FE Patch](https://www.nexusmods.com/skyrimspecialedition/mods/182113)  
+[Dynamic Inventory Icon Injector](https://www.nexusmods.com/skyrimspecialedition/mods/174136)  
+[LoTD Inventory Icons for DIII](https://www.nexusmods.com/skyrimspecialedition/mods/174601)  
+[Immersive Dialogue Expansion - Dawnguard and Vigilants](https://www.nexusmods.com/skyrimspecialedition/mods/188486)  
+[Follower Dialogue Expansion - Ralof](https://www.nexusmods.com/skyrimspecialedition/mods/180198)  
+[Follower Dialogue Expansion - Senna](https://www.nexusmods.com/skyrimspecialedition/mods/183143)  
+
 
 ---
 
@@ -68,6 +74,12 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Fill Her Up - Voice Files](https://www.loverslab.com/files/file/42778-fill-her-up-voice-files) - Requires new manual download from [MOM Manual Downloads](https://www.themoddingbordello.com/modlists/mom/manual-downloads)  
 [Devious Devices NG](https://www.loverslab.com/files/file/29779-devious-devices-ng/) - Requires new manual download from [DOD Manual Downloads](https://www.themoddingbordello.com/modlists/dod/manual-downloads)  
 [SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/106659)  
+[HOUSE OF WARRIORS - Immersive Dialogue Expansion - Jorrvaskr (Companions)](https://www.nexusmods.com/skyrimspecialedition/mods/173134)  
+[Immersive Dialogue Expansion - Thalmor](https://www.nexusmods.com/skyrimspecialedition/mods/168432)  
+[(BEST EVIL FOLLOWER) Follower Dialogue Expansion - Fura Bloodmouth](https://www.nexusmods.com/skyrimspecialedition/mods/165839)  
+[Follower Dialogue Expansion - Roggi Knot-Beard](https://www.nexusmods.com/skyrimspecialedition/mods/134694)  
+[Follower Dialogue Expansion - Borgakh the Steel Heart](https://www.nexusmods.com/skyrimspecialedition/mods/133571)  
+[PPA - Procedural Penis Animations](https://www.nexusmods.com/skyrimspecialedition/mods/172002)  
 
 ---
 
@@ -96,7 +108,10 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 - Removed the following custom patches:
    - `SOS - Bordello Boudoir`  
 - Regenerated the following outputs:
-   - `MOM - BodySlide Output`  
+   - `MOM - BodySlide Output`
+   - `MOM - Pandora Output`
+   - `MOM - Synthesis Output (Lord's Vision)`
+   - `MOM - Synthesis Output (Performance)`  
 
 ---
 
