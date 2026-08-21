@@ -53,6 +53,10 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Silent Horizons 2 - Shader Core](https://www.nexusmods.com/skyrimspecialedition/mods/101696)  
 [Lux CS](https://www.nexusmods.com/skyrimspecialedition/mods/153919)  
 [SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/106659)  
+[Anub's animations for Ostim Standalone](https://www.nexusmods.com/skyrimspecialedition/mods/101918)  
+[Billyy's animations for Ostim Standalone](https://www.nexusmods.com/skyrimspecialedition/mods/102778)  
+[NCK30's Animations for Ostim Standalone](https://www.nexusmods.com/skyrimspecialedition/mods/104005)  
+[PPA - Procedural Penis Animations](https://www.nexusmods.com/skyrimspecialedition/mods/172002)  
 
 ---
 
