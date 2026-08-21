@@ -45,6 +45,11 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [DONG - Dungeon Objects Now Glow](https://www.nexusmods.com/skyrimspecialedition/mods/188762) - Thanks, [Kyler](https://www.nexusmods.com/profile/Kyler45)!  
 [Traveler's Armor Pack - ESL flagged plugin](https://www.nexusmods.com/skyrimspecialedition/mods/93138)  
 [MTM's Tavern Clothes - ESP-FE Patch](https://www.nexusmods.com/skyrimspecialedition/mods/182113)  
+[Dynamic Inventory Icon Injector](https://www.nexusmods.com/skyrimspecialedition/mods/174136)  
+[LoTD Inventory Icons for DIII](https://www.nexusmods.com/skyrimspecialedition/mods/174601)  
+[Immersive Dialogue Expansion - Dawnguard and Vigilants](https://www.nexusmods.com/skyrimspecialedition/mods/188486)  
+[Follower Dialogue Expansion - Ralof](https://www.nexusmods.com/skyrimspecialedition/mods/180198)  
+[Follower Dialogue Expansion - Senna](https://www.nexusmods.com/skyrimspecialedition/mods/183143)  
 
 ---
 
@@ -74,6 +79,15 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [For Honor Reforged](https://www.nexusmods.com/skyrimspecialedition/mods/172176)  
 [For Honor Stamina System](https://www.nexusmods.com/skyrimspecialedition/mods/174120)  
 [SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/106659)  
+[HOUSE OF WARRIORS - Immersive Dialogue Expansion - Jorrvaskr (Companions)](https://www.nexusmods.com/skyrimspecialedition/mods/173134)  
+[Immersive Dialogue Expansion - Thalmor](https://www.nexusmods.com/skyrimspecialedition/mods/168432)  
+[(BEST EVIL FOLLOWER) Follower Dialogue Expansion - Fura Bloodmouth](https://www.nexusmods.com/skyrimspecialedition/mods/165839)  
+[Follower Dialogue Expansion - Roggi Knot-Beard](https://www.nexusmods.com/skyrimspecialedition/mods/134694)  
+[Follower Dialogue Expansion - Borgakh the Steel Heart](https://www.nexusmods.com/skyrimspecialedition/mods/133571)  
+[Anub's animations for Ostim Standalone](https://www.nexusmods.com/skyrimspecialedition/mods/101918)  
+[Billyy's animations for Ostim Standalone](https://www.nexusmods.com/skyrimspecialedition/mods/102778)  
+[NCK30's Animations for Ostim Standalone](https://www.nexusmods.com/skyrimspecialedition/mods/104005)  
+[PPA - Procedural Penis Animations](https://www.nexusmods.com/skyrimspecialedition/mods/172002)  
 
 ---
 
@@ -97,12 +111,15 @@ The actual MO2 modlist is always the authoritative reference for modlist content
    - `JOJ - Outfit Distribution`  
    - `SOS - Thur Vonun CS LightPlacer Blacklist`  
    - `SOS - Thur Vonun OMNI Shadow Fix.esp` - Thanks, Net!  
-   - `SOS - Lux Consistency`  
+   - `SOS - Lux Consistency`
+   - `SOS - SDU Patches`  
    - Adjusted [WHEELER - Refined](https://www.nexusmods.com/skyrimspecialedition/mods/167380) settings in all custom UI presets to properly position ammo wheel. Modifier key for gamepad users now set to Right Bumper for Ammo Wheel to stop conflict with Inventory Menu  
 - Removed the following custom patches:
    - `SOS - Bordello Boudoir`  
 - Regenerated the following outputs:
-   - `placeholder`  
+   - `HOH - Pandora Output`
+   - `HOH - Synthesis Output (Lord's Vision)`
+   - `HOH - Synthesis Output (Performance)`  
 
 ---
 
