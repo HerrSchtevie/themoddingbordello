@@ -13,7 +13,7 @@ The images below mirror the in-game keyboard reference for quick access from the
 <h2 style="color:#C22222;border-bottom-color:rgba(194,34,34,0.28)">Journals of Jyggalag (JOJ) - v7.0.0</h2>
 
 <p align="center">
-  <img src="src="https://github.com/user-attachments/assets/d4f39a0f-8f4e-4614-bd77-8f6fc645112f" alt="JOJ keyboard layout">
+  <img src="https://github.com/user-attachments/assets/d4f39a0f-8f4e-4614-bd77-8f6fc645112f" alt="JOJ keyboard layout">
 </p>
 
 **Notes:**
