@@ -13,7 +13,7 @@ The images below mirror the in-game keyboard reference for quick access from the
 <h2 style="color:#C22222;border-bottom-color:rgba(194,34,34,0.28)">Journals of Jyggalag (JOJ) - v7.0.0</h2>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/092b0b72-0598-44c8-b0c7-a90089116495" alt="JOJ keyboard layout">
+  <img src="src="https://github.com/user-attachments/assets/d4f39a0f-8f4e-4614-bd77-8f6fc645112f" alt="JOJ keyboard layout">
 </p>
 
 **Notes:**
@@ -33,7 +33,7 @@ The images below mirror the in-game keyboard reference for quick access from the
 <h2 style="color:#7DA87B;border-bottom-color:rgba(125,168,123,0.28)">Hymns of Hircine (HOH) - v4.0.0</h2>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0b85eba8-b843-4068-b056-e2634f54e673" alt="HOH keyboard layout">
+  <img src="https://github.com/user-attachments/assets/0977358c-b49a-4652-8963-cb20c882aa36" alt="HOH keyboard layout">
 </p>
 
 **Notes:**
