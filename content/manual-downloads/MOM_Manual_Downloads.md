@@ -44,8 +44,9 @@ This page is kept up to date to ensure a **smooth, repeatable installation exper
 | CBPC Separate Anal Collision 2.2 (CBPC) | https://www.loverslab.com/files/file/22048-cbpc-separate-anal-collision-22-cbpc-156/?do=download&r=1424395&confirm=1&t=1&csrfKey=c2d4b953eaad1689524ea1adf272ca41 |
 | Collectible Waifu Cards 3.1.5 | https://www.loverslab.com/files/file/29295-collectible-waifu-cards/?do=download&r=2032138&confirm=1&t=1&csrfKey=181ff905010669d06fa0a4fe14e5529b |
 | CreatureFrameworkV4 | https://www.loverslab.com/files/file/5464-more-nasty-critters-specialanniversary-edition/?do=download&r=2145630&confirm=1&t=1&csrfKey=a44ed06e83efef0fc53dcba71decde25 |
+| CrosshairRefEvents script hang fix | https://www.loverslab.com/files/file/25378-crosshairrefevents-script-hang-fix/?do=download |
 | Devious Devices – Follower Escape | https://www.loverslab.com/files/file/19874-devious-devices-follower-escape-lese/?do=download&r=1168231&confirm=1&t=1&csrfKey=265928ac2a1fd7302ab254ea55a36391 |
-| Devious Devices NG v0.4.2 | https://www.loverslab.com/files/file/29779-devious-devices-ng/?do=download |
+| Devious Devices NG v0.4.3 | https://www.loverslab.com/files/file/29779-devious-devices-ng/?do=download&r=2173954&confirm=1&t=1&csrfKey=31a2010b4f10bdff4f664a4f4bf1f8a5 |
 | Devious Devices SE / AE / VR 5.2 | https://mega.nz/file/3A90hQZS#wqqyGkKrYGPGFfPiluHfSmyTL5RqHJGT0-MtinqXTxU |
 | Devious Lore – Dwarven Gilded Oil Suit (3BA) | https://www.loverslab.com/files/file/16231-devious-lore-se/?do=download&r=1542028&confirm=1&t=1&csrfKey=6f78bcbc1ac9af0ddb57eab0c1257515 |
 | Devious Lore 3.0.2 – AI Voiceover (ElevenLabs) | https://www.loverslab.com/files/file/44121-devious-lore-lese-302-ai-voiceover-elevenlabs/?do=download |
@@ -56,7 +57,7 @@ This page is kept up to date to ensure a **smooth, repeatable installation exper
 | Dripping When Aroused NG v2.0.6 | https://www.loverslab.com/files/file/36788-dripping-when-aroused-ng/?do=download&r=2115908&confirm=1&t=1&csrfKey=265928ac2a1fd7302ab254ea55a36391 |
 | Fade Tattoos Continued 2.1.0 | https://www.loverslab.com/files/file/27994-fade-tattoos-continued/?do=download |
 | Fill Her Up – Baka Edition | https://www.loverslab.com/files/file/14920-fill-her-up-baka-edition/?do=download&r=2169093&confirm=1&t=1&csrfKey=89b8a85d839376f1c9585389bbcc001b |
-| Fill Her Up – Voice Files | https://www.loverslab.com/files/file/42778-fill-her-up-voice-files/?do=download |
+| Fill Her Up – Voice Files | https://www.loverslab.com/files/file/42778-fill-her-up-voice-files/?do=download&r=2169997&confirm=1&t=1&csrfKey=31a2010b4f10bdff4f664a4f4bf1f8a5 |
 | FlufyFox SLAL Pack – Creature | https://www.loverslab.com/files/file/19463-flufyfox-slal-pack-update-27052024/?do=download&r=2130222&confirm=1&t=1&csrfKey=986c9ae9f1cb5ae9a7b8861d92295f40 |
 | FlufyFox SLAL Pack – Human | https://www.loverslab.com/files/file/19463-flufyfox-slal-pack-update-27052024/?do=download&r=2130221&confirm=1&t=1&csrfKey=986c9ae9f1cb5ae9a7b8861d92295f40 |
 | FunnyBizness (v25) SLAL Pack by Shashankie v12.0 | https://www.loverslab.com/files/file/2702-funnybizness-v25-slal-pack-by-shashankie/?do=download&r=606546&confirm=1&t=1&csrfKey=affc63d29a4afbc12b171bbd4ce49aef |
@@ -76,7 +77,7 @@ This page is kept up to date to ensure a **smooth, repeatable installation exper
 | SexLab Creature Animation Remover | https://www.loverslab.com/files/file/18855-sl-default-animation-remover/?do=download&r=1321038&confirm=1&t=1&csrfKey=b183f619f6ee5d2ea6ba1a36076d2b7c |
 | SexLab CumTextures Remake v1.2 | https://www.loverslab.com/files/file/2968-sexlab-cum-textures-remake-slavetats/?do=download&r=486039&confirm=1&t=1&csrfKey=181ff905010669d06fa0a4fe14e5529b |
 | SexLab Eager NPCs SE | https://www.loverslab.com/files/file/7309-sexlab-eager-npcs-se-slen/?do=download&r=705476&confirm=1&t=1&csrfKey=265928ac2a1fd7302ab254ea55a36391 |
-| SexLab Framework PPLUS v2.15.6 (AE 1.6.1170) | https://www.loverslab.com/files/file/25318-sexlab-p/?do=download |
+| SexLab Framework PPLUS  V2.17.1 - NG | https://www.loverslab.com/files/file/25318-sexlab-p/?do=download&r=2146178&confirm=1&t=1&csrfKey=31a2010b4f10bdff4f664a4f4bf1f8a5 |
 | SexLab Framework SE / AE v166b | https://www.loverslab.com/files/file/20058-sexlab-se-sex-animation-framework-v166b-01182024/?do=download |
 | SexLab Framework Sound Replacer (AIO) | https://www.loverslab.com/files/file/14230-sexlab-framework-sound-replacer/?do=download&r=861380&confirm=1&t=1&csrfKey=c2d4b953eaad1689524ea1adf272ca41 |
 | SexLab Human Animation Remover | https://www.loverslab.com/files/file/18855-sl-default-animation-remover/?do=download&r=1320428&confirm=1&t=1&csrfKey=355e792d6fa52c8df9631d9d5f2e37ed |
