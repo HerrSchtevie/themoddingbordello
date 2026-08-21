@@ -40,6 +40,11 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Skyrim's Paraglider Anniversary Edition Update](https://www.nexusmods.com/skyrimspecialedition/mods/71123)  
 [DONG - Dungeon Objects Now Glow](https://www.nexusmods.com/skyrimspecialedition/mods/188762) - Thanks, [Kyler](https://www.nexusmods.com/profile/Kyler45)!  
 [Traveler's Armor Pack - ESL flagged plugin](https://www.nexusmods.com/skyrimspecialedition/mods/93138)  
+[Dynamic Inventory Icon Injector](https://www.nexusmods.com/skyrimspecialedition/mods/174136)  
+[LoTD Inventory Icons for DIII](https://www.nexusmods.com/skyrimspecialedition/mods/174601)  
+[Immersive Dialogue Expansion - Dawnguard and Vigilants](https://www.nexusmods.com/skyrimspecialedition/mods/188486)  
+[Follower Dialogue Expansion - Ralof](https://www.nexusmods.com/skyrimspecialedition/mods/180198)  
+[Follower Dialogue Expansion - Senna](https://www.nexusmods.com/skyrimspecialedition/mods/183143)  
 
 ---
 
@@ -62,6 +67,11 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Silent Horizons 2 - Shader Core](https://www.nexusmods.com/skyrimspecialedition/mods/101696)  
 [Lux CS](https://www.nexusmods.com/skyrimspecialedition/mods/153919)  
 [SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/106659)  
+[HOUSE OF WARRIORS - Immersive Dialogue Expansion - Jorrvaskr (Companions)](https://www.nexusmods.com/skyrimspecialedition/mods/173134)  
+[Immersive Dialogue Expansion - Thalmor](https://www.nexusmods.com/skyrimspecialedition/mods/168432)  
+[(BEST EVIL FOLLOWER) Follower Dialogue Expansion - Fura Bloodmouth](https://www.nexusmods.com/skyrimspecialedition/mods/165839)  
+[Follower Dialogue Expansion - Roggi Knot-Beard](https://www.nexusmods.com/skyrimspecialedition/mods/134694)  
+[Follower Dialogue Expansion - Borgakh the Steel Heart](https://www.nexusmods.com/skyrimspecialedition/mods/133571)  
 
 ---
 
@@ -89,7 +99,9 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 - Removed the following custom patches:
    - `placeholder`  
 - Regenerated the following outputs:
-   - `placeholder`  
+   - `TOT - Pandora Output`
+   - `TOT - Synthesis Output (Lord's Vision)`
+   - `TOT - Synthesis Output (Performance)`  
 
 ---
 
