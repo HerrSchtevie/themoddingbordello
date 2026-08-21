@@ -22,6 +22,8 @@ export interface ModlistMeta {
   name: string;
   abbreviation: string;
   accentColor: string;
+  /** Brighter list color used for header/link text on dark backgrounds (mirrors the Nexus page header color). */
+  headerColor: string;
   splashArt: string;
   wallpaper: string;
   tagline: string;

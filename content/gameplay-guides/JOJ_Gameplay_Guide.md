@@ -1,6 +1,4 @@
-# Journals of Jyggalag Gameplay Guide
-
-## 📖 Introduction
+## Introduction
 
 Welcome, Seeker of Order.
 
@@ -8,31 +6,16 @@ This guide is your comprehensive companion to the **Journals of Jyggalag** modli
 
 Whether you are a first-time player or a returning champion of Tamriel, this guide covers everything from character creation and combat mechanics to questing and troubleshooting. It is strongly recommended that you read through at least the **Character Creation and Progression** section before starting your journey.
 
-All information here is accurate to the latest release of the modlist and assumes no additional modifications. For additional support, updates, and discussion, please join the official **Journals of Jyggalag Discord server**.
+All information here is accurate to the latest release of the modlist and assumes no additional modifications. For additional support, updates, and discussion, please join **[The Modding Bordello Discord](https://discord.gg/themoddingbordello)**.
 
 Let the path of Order guide you.
 
 ---
 
-## 📚 Table of Contents
-
-1. 🧙 [Character Creation and Progression](#-character-creation-and-progression)
-2. 💾 [Skyrim Save System Overhaul 3](#-skyrim-save-system-overhaul-3)
-3. 🧭 [Questing](#-questing)
-4. 🧑‍🎨 [Face & Appearance Issues](#-face--appearance-issues)
-5. 🗺️ [Map Marker Issues](#map-marker-issues)
-6. 🏃 [Change Dodge Key](#-change-dodge-key)
-7. 💀 [Shadow of Skyrim Death System](#-shadow-of-skyrim-death-system)
-8. 🗡️ [Attacking Innocents](#-attacking-innocents)
-9. ✅ [Conclusion](#-conclusion)
-
-
----
-
-<h2 class="visually-hidden">🧙 Character Creation and Progression</h2>
+<h2 class="visually-hidden">Character Creation and Progression</h2>
 
 <details>
-<summary>🧙 Character Creation and Progression</summary>
+<summary>Character Creation and Progression</summary>
 
 ### Race Selection
 - Your choice of race determines:
@@ -135,10 +118,10 @@ Let the path of Order guide you.
 
 ---
 
-<h2 class="visually-hidden">💾 Skyrim Save System Overhaul 3</h2>
+<h2 class="visually-hidden">Skyrim Save System Overhaul 3</h2>
 
 <details>
-<summary>💾 Skyrim Save System Overhaul 3</summary>
+<summary>Skyrim Save System Overhaul 3</summary>
 
 ---
 
@@ -146,10 +129,7 @@ Let the path of Order guide you.
 
 ---
 
-
----
-
-### 🎮 Save Your Game & Restart
+### Save Your Game & Restart
 
 - Once you've finished the intro and entered the main game world (e.g., just outside the Helgen cave or your chosen start):
   - Create a **manual save**.
@@ -166,19 +146,19 @@ Note: the system assumes that any character with the default name "Prisoner" is 
 
 ---
 
-⚙️ Recommended settings:
-- 🕔 Enable Timed Save: **enabled**
-- 🕔 Autosave every: **5 minutes**
-- ⏳ Force autosave every: **15 minutes**
-- ♻️ Rotate autosaves after: **5 copies**
-- 📦 Rotate manual saves after: **5 copies**  
-- 🛡️ In the **Save Shield** section, check the boxes for:
+**Recommended settings:**
+- Enable Timed Save: **enabled**
+- Autosave every: **5 minutes**
+- Force autosave every: **15 minutes**
+- Rotate autosaves after: **5 copies**
+- Rotate manual saves after: **5 copies**  
+- In the **Save Shield** section, check the boxes for:
   
-  - ✅ Combat State
-  - ✅ Riding
-  - ✅ High Speed
+  - Combat State
+  - Riding
+  - High Speed
 
-- 🎮 Controls:
+- Controls:
   
   - In the main Skyrim Controls interface, remap **vanilla quicksave** to any unused key
   - In the SSSO3 MCM, set **Save Shortcut** to `F5`
@@ -189,10 +169,10 @@ Note: the system assumes that any character with the default name "Prisoner" is 
 
 ---
 
-<h2 class="visually-hidden">🧭 Questing</h2>
+<h2 class="visually-hidden">Questing</h2>
 
 <details>
-<summary>🧭 Questing</summary>
+<summary>Questing</summary>
 
 This list includes expansions of many vanilla quests as well as quite a few new ones. Most of these can be explored simply by encountering them through normal gameplay, or you can check the quest list in **Mod Organizer** to see if there's something you want to make a point of seeking out.
 
@@ -258,10 +238,10 @@ When you are ready to start Project AHO, and are level 15 or higher, head to the
 
 ---
 
-<h2 class="visually-hidden">🧑‍🎨 Face & Appearance Issues</h2>
+<h2 class="visually-hidden">Face & Appearance Issues</h2>
 
 <details>
-<summary>🧑‍🎨 Face & Appearance Issues</summary>
+<summary>Face & Appearance Issues</summary>
 
 ### Problem: Black Face or Unexpected Tattoos
 
@@ -303,11 +283,10 @@ Using `showlimitedracemenu` ensures your character's appearance is refreshed wit
 
 ---
 
-<a id="map-marker-issues"></a>
-<h2 class="visually-hidden">🗺️ Map Marker Issues</h2>
+<h2 class="visually-hidden">Map Marker Issues</h2>
 
 <details>
-<summary>🗺️ Map Marker Issues</summary>
+<summary>Map Marker Issues</summary>
 
 ### Problem: "I'm at a map marker, but there's nothing here!"
 
@@ -328,10 +307,10 @@ This will remove the "?" markers from your world map and prevent confusion while
 
 ---
 
-<h2 class="visually-hidden">🏃 Change Dodge Key</h2>
+<h2 class="visually-hidden">Change Dodge Key</h2>
 
 <details>
-<summary>🏃 Change Dodge Key</summary>
+<summary>Change Dodge Key</summary>
 
 By default, dodging is triggered by tapping your Sprint key. If you want to change this behavior, you'll need to manually edit the TK Dodge configuration file.
 
@@ -349,10 +328,10 @@ Make sure to replace `[your desired key's scancode]` with the actual scancode of
 
 ---
 
-<h2 class="visually-hidden">💀 Shadow of Skyrim Death System</h2>
+<h2 class="visually-hidden">Shadow of Skyrim Death System</h2>
 
 <details>
-<summary>💀 Shadow of Skyrim Death System</summary>
+<summary>Shadow of Skyrim Death System</summary>
 
 **Journals of Jyggalag** uses **[Shadow of Skyrim - Nemesis and Alternative Death System](https://www.nexusmods.com/skyrimspecialedition/mods/65136)** by default.
 
@@ -362,10 +341,10 @@ Please review the modpage for more detail.
 
 ---
 
-<h2 class="visually-hidden">🗡️ Attacking Innocents</h2>
+<h2 class="visually-hidden">Attacking Innocents</h2>
 
 <details>
-<summary>🗡️ Attacking Innocents</summary>
+<summary>Attacking Innocents</summary>
 
 We use Simple Offense Suppression to ensure that you don't accidentally hurt innocent NPCs during chaotic brawls with Miraak cultists or the Sinister Seven. We understand that this can be frustrating when you want to just murder your favorite drinking buddy or send Nazeem to the actual Cloud District; for such moments, just use the SOS MCM to toggle NPC protection off.
 
@@ -373,10 +352,10 @@ We use Simple Offense Suppression to ensure that you don't accidentally hurt inn
 
 ---
 
-<h2 class="visually-hidden">✅ Conclusion</h2>
+<h2 class="visually-hidden">Conclusion</h2>
 
 <details>
-<summary>✅ Conclusion</summary>
+<summary>Conclusion</summary>
 
 Journals of Jyggalag is built to be a user-friendly and immersive experience right out of the box. You don't need to read this entire guide to enjoy the list — it's here to help answer common questions, smooth out any confusion, and give you a bit of extra insight into how everything works under the hood.
 

@@ -4,6 +4,9 @@
 
 :root {
   --accent-color: #7a0000;
+  /* Brighter variant used for header/link text on the dark background.
+     Overridden per modlist by ModlistLayout (mirrors each Nexus page's header color). */
+  --accent-text: #C22222;
 }
 
 body {
@@ -17,18 +20,34 @@ body {
 
 .prose h1 {
   @apply text-3xl font-bold mt-10 mb-4 text-white;
+  font-family: Georgia, 'Times New Roman', serif;
+  letter-spacing: 0.04em;
 }
 
+/* Nexus-page style section headers: serif, letterspaced caps in the list color */
 .prose h2 {
-  @apply text-2xl font-semibold mt-8 mb-3 text-white;
+  @apply text-[1.35rem] font-normal mt-12 mb-5;
+  font-family: Georgia, 'Times New Roman', serif;
+  color: var(--accent-text);
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  padding-bottom: 0.6rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  border-bottom: 1px solid color-mix(in srgb, var(--accent-text) 28%, transparent);
 }
 
 .prose h3 {
-  @apply text-xl font-semibold mt-6 mb-2 text-white;
+  @apply text-lg font-semibold mt-8 mb-3 text-white;
+  font-family: Georgia, 'Times New Roman', serif;
+  letter-spacing: 0.05em;
 }
 
 .prose h4 {
-  @apply text-lg font-medium mt-4 mb-2 text-white;
+  @apply text-sm font-semibold mt-6 mb-2;
+  font-family: Georgia, 'Times New Roman', serif;
+  color: var(--accent-text);
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
 }
 
 .prose p {
@@ -36,8 +55,9 @@ body {
 }
 
 .prose a {
-  color: var(--accent-color);
+  color: var(--accent-text);
   @apply underline underline-offset-2 hover:brightness-125 transition-all;
+  text-decoration-color: color-mix(in srgb, var(--accent-text) 45%, transparent);
 }
 
 .prose ul {
@@ -64,33 +84,111 @@ body {
   @apply bg-transparent p-0;
 }
 
+/* Callout card */
 .prose blockquote {
-  @apply border-l-4 pl-4 italic text-bordello-muted mb-4;
-  border-color: var(--accent-color);
+  @apply rounded-r-lg px-5 py-4 mb-5 not-italic text-bordello-text;
+  border-left: 3px solid var(--accent-text);
+  background: rgba(255, 255, 255, 0.03);
+}
+
+.prose blockquote > p {
+  @apply mb-2;
+}
+
+.prose blockquote > p:last-child,
+.prose blockquote > ul:last-child,
+.prose blockquote > ol:last-child {
+  @apply mb-0;
 }
 
 .prose table {
-  @apply w-full border-collapse mb-4;
+  @apply w-full border-collapse mb-6 text-sm;
 }
 
 .prose th {
-  @apply text-left p-2 border-b border-bordello-border font-semibold text-white;
+  @apply text-left px-3 py-2.5 font-semibold;
+  color: var(--accent-text);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 0.72rem;
+  border-bottom: 2px solid rgba(255, 255, 255, 0.2);
+  border-bottom: 2px solid color-mix(in srgb, var(--accent-text) 50%, transparent);
 }
 
 .prose td {
-  @apply p-2 border-b border-bordello-border;
+  @apply px-3 py-2.5 align-top;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
 }
 
+.prose tbody tr:nth-child(even) td {
+  background: rgba(255, 255, 255, 0.02);
+}
+
+/* Hairline divider that fades out at the edges, tinted to the list color */
 .prose hr {
-  @apply border-bordello-border my-6;
+  border: 0;
+  height: 1px;
+  margin: 2.5rem auto;
+  background: linear-gradient(to right, transparent, rgba(255, 255, 255, 0.15), transparent);
+  background: linear-gradient(
+    to right,
+    transparent,
+    color-mix(in srgb, var(--accent-text) 45%, transparent),
+    transparent
+  );
 }
 
 .prose img {
-  @apply max-w-full rounded-lg my-4;
+  @apply max-w-full rounded-lg my-4 mx-auto;
 }
 
 .prose strong {
   @apply text-white font-semibold;
+}
+
+/* Nexus-style stat line under the header art:
+   "2 PROFILES · 298 GB DOWNLOAD · 604 GB INSTALLED · FULLY AUTOMATED VIA WABBAJACK" */
+.prose .stat-line {
+  @apply text-center mb-2;
+  margin-top: 1.25rem;
+  color: #9a9a9a;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.28em;
+}
+
+.prose .stat-line strong {
+  color: var(--accent-text);
+  font-weight: 600;
+}
+
+/* Community link grid (the centered HTML table at the top of readmes/overviews):
+   render as a quiet link grid instead of a data table */
+.prose div[align='center'] table {
+  @apply mb-2;
+}
+
+.prose div[align='center'] table td {
+  border: 0;
+  background: transparent;
+  text-align: center;
+  padding: 0.8rem 0.5rem;
+  color: #9a9a9a;
+  font-size: 0.78rem;
+}
+
+.prose div[align='center'] table tbody tr:nth-child(even) td {
+  background: transparent;
+}
+
+.prose div[align='center'] table a {
+  @apply no-underline text-white text-sm font-semibold transition-colors;
+  font-family: Georgia, 'Times New Roman', serif;
+  letter-spacing: 0.06em;
+}
+
+.prose div[align='center'] table a:hover {
+  color: var(--accent-text);
 }
 
 /* Accordion/collapsible blocks (details/summary) — matches changelog VersionBlock style */

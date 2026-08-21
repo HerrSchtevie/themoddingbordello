@@ -1,12 +1,8 @@
-# SOS Performance Tuning Guide
-
----
-
-This guide covers multiple methods to improve performance on the Scrolls of Schtevie modlists. These methods can be used individually or combined for maximum effect.
+This guide covers multiple methods to improve performance on the Modding Bordello modlists. These methods can be used individually or combined for maximum effect.
 
 > **Disclaimer – Read This First**
 > This guide was originally assembled using **Journals of Jyggalag** as the reference list.
-> While the instructions apply across all **Scrolls of Schtevie** modlists, some settings or results may vary slightly.
+> While the instructions apply across all **Modding Bordello** modlists, some settings or results may vary slightly.
 > The core process and steps remain the same.
 
 > Special thanks to [Guurzak](https://www.nexusmods.com/profile/Guurzak?gameId=1704) for originally creating and compiling these performance methods.
@@ -39,7 +35,7 @@ Two simple changes that can improve performance without significant visual trade
 
 ---
 
-> 💡 **MO2 Tip**
+> **MO2 Tip**
 >
 > - Always make changes in your active MO2 profile
 > - Use the **Data tab (right panel)** to search for files (bottom search bar)
@@ -54,7 +50,7 @@ Reduce VRAM usage and improve performance by generating optimized texture atlase
 
 Run **VRAMr** from MO2's application list. For full step-by-step instructions, see the [SOS Tool Running Guide](/guides/sos-tool-running-guide).
 
-> ⚠️ **Note on VRAMr**
+> **Note on VRAMr**
 >
 > VRAMr replaces textures and does not typically require a full tool rerun.
 > If you notice visual inconsistencies (especially distant objects), you may optionally rerun TexGen and DynDOLOD.
@@ -143,7 +139,7 @@ Enable Performance Mode in SSE Display Tweaks to reduce rendering overhead.
 
 ![image](https://github.com/user-attachments/assets/695a4398-0b67-48c5-9a74-b1934c05413e)  
 
-> ⚠️ **Important**
+> **Important**
 >
 > Make sure you are editing the correct (winning) file in MO2, or your changes will have no effect.
 

@@ -1,24 +1,20 @@
-# 🧙‍♂️ Follower Guide - Scrolls of Schtevie Modlists
-
----
-
 > **Disclaimer:**  
 > This guide was originally assembled using **Journals of Jyggalag** as the reference list.  
-> While the instructions apply across all **Scrolls of Schtevie** modlists, some screenshots, plugin orders, or plugin numbers may differ slightly between lists. The core process and steps remain the same.
+> While the instructions apply across all **Modding Bordello** modlists, some screenshots, plugin orders, or plugin numbers may differ slightly between lists. The core process and steps remain the same.
 
 ---
 
-Welcome to the official follower guide for the **Scrolls of Schtevie Modlists**. This list introduces a variety of fully voiced companions, quest-related allies, and modded improvements to existing vanilla characters. Whether you're looking for immersive roleplay, romance, humor, or just a great follower with custom dialogue, you'll find them here.
+Welcome to the official follower guide for the **Modding Bordello modlists**. This list introduces a variety of fully voiced companions, quest-related allies, and modded improvements to existing vanilla characters. Whether you're looking for immersive roleplay, romance, humor, or just a great follower with custom dialogue, you'll find them here.
 
 This guide was written by **Tidal**, a true **Crusader of Order**. A massive thank you to him for compiling this information with care and clarity — give him your appreciation in the Discord!
 
-> ✨ **Note:** Followers labeled as *NFF Compatible* are designed to work with [Nether's Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/55653). Those without this tag may use their own behavior or follower AI and should not be used with NFF.
+> **Note:** Followers labeled as *NFF Compatible* are designed to work with [Nether's Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/55653). Those without this tag may use their own behavior or follower AI and should not be used with NFF.
 
 ---
 
-## 📚 Table of Contents
+## Table of Contents
 
-### 🎭 Story & Custom Followers
+### Story & Custom Followers
 - [Kaidan](#kaidan)
 - [Remiel](#remiel)
 - [Auri – Song of the Green](#auri--song-of-the-green)
@@ -34,24 +30,24 @@ This guide was written by **Tidal**, a true **Crusader of Order**. A massive tha
 - [Merlin the Corgi](#merlin-the-corgi)
 - [Yoana](#yoana)
 
-### 🔮 Magical Companions
+### Magical Companions
 - [Hot Ildari – Ash Witch Follower](#hot-ildari--ash-witch-follower)
 - [Coralyn – The Bosmer Shaman *NFF Compatible*](#coralyn--the-bosmer-shaman-nff-compatible)
 - [Astara Cosma – Imperial Librarian *NFF Compatible*](#astara-cosma--imperial-librarian-nff-compatible)
 
-### ⚔️ Warriors & Combat Allies
+### Warriors & Combat Allies
 - [Hoth – Bounty Hunter of the North](#hoth--bounty-hunter-of-the-north)
 - [Inigo – The Loyal Khajiit](#inigo--the-loyal-khajiit)
 - [Gore – Soldier of Sorrow](#gore--soldier-of-sorrow)
 - [Jesper the Guard](#jesper-the-guard)
 - [Vayne – The Dunmer Spy](#vayne--the-dunmer-spy)
 
-### 🏰 Vanilla Expansion Mods
+### Vanilla Expansion Mods
 - [Serana Dialogue Add-On *NFF Compatible*](#serana-dialogue-add-on-nff-compatible)
 - [Improved Follower Dialogue – Lydia *NFF Compatible*](#improved-follower-dialogue--lydia-nff-compatible)
 - [Follower Dialogue Expansion](#follower-dialogue-expansion)
 
-### 🗣️ Follower Banter & Commentary Guide
+### Follower Banter & Commentary Guide
 - [Follower Banter Guide](#follower-banter-guide)
 
 ### Conclusion
@@ -59,7 +55,7 @@ This guide was written by **Tidal**, a true **Crusader of Order**. A massive tha
 
 ---
 
-## 🎭 Story & Custom Followers
+## Story & Custom Followers
 
 <h3 class="visually-hidden">Kaidan</h3>
 
@@ -182,8 +178,6 @@ Once a Thalmor soldier, Taliesin turned rogue after a crisis of conscience. Now 
 
 ---
 
-<a id="mrissi"></a>
-
 <h3 class="visually-hidden">M'rissi</h3>
 
 <details>
@@ -201,8 +195,6 @@ M'Rissi is intentionally *not* Essential or Protected through most of her story.
 </details>
 
 ---
-
-<a id="sachil"></a>
 
 <h3 class="visually-hidden">Sa'chil</h3>
 
@@ -307,7 +299,7 @@ Yoana is a fully voiced follower with her own quirks, her own rhythm, and a dual
 
 ---
 
-## 🔮 Magical Companions
+## Magical Companions
 
 <h3 class="visually-hidden">Hot Ildari – Ash Witch Follower</h3>
 
@@ -357,7 +349,7 @@ Astara is a top-level mage stationed at the Arcanaeum. She's formal, calculating
 
 ---
 
-## ⚔️ Warriors & Combat Allies
+## Warriors & Combat Allies
 
 <h3 class="visually-hidden">Hoth – Bounty Hunter of the North</h3>
 
@@ -439,7 +431,7 @@ A seductive and dangerous Dunmer voiced by Alexia Renaldis (Lily from *Subverse*
 
 ---
 
-## 🏰 Vanilla Expansion Mods
+## Vanilla Expansion Mods
 
 <h3 class="visually-hidden">Serana Dialogue Add-On <em>NFF Compatible</em></h3>
 
@@ -510,7 +502,7 @@ The following vanilla followers are fully supported by FDE:
 <details>
 <summary>Follower Banter Guide</summary>
 
-### 💬 What Companions Have Good Banter Together?
+### What Companions Have Good Banter Together?
 
 | Pairing                          | Approximate Banter Lines |
 |----------------------------------|---------------------------|
@@ -519,22 +511,22 @@ The following vanilla followers are fully supported by FDE:
 | Kaidan -> Auri                   | ~100+ Lines               | 
 | Val Serano -> Gore               | ~100+ Lines               | 
 | Val Serano -> Remiel             | ~100+ Lines               | 
-| Auri → Gore                      | ~150 lines                |
-| Auri → Inigo                     | ~100+ lines               |
-| Auri → Lucien                    | ~100+ lines               |
-| Auri → Serana (SDA)             | ~100 lines                |
-| Lucien → Inigo                  | ~100+ lines               |
-| Lucien → Hoth                   | ~50+ lines                |
-| Xelzaz → Remiel                 | ~1150+ lines              |
-| Xelzaz → Redcap                 | ~450 lines                |
-| Xelzaz → Redcap → Remiel        | ~500 3-way lines          |
-| Xelzaz → Lucien                 | ~110+ lines               |
-| Xelzaz → Thogra                 | ~160 lines                |
-| Remiel → Gore                   | ~350 lines                |
-| Remiel → Serana (SDA)           | ~200 lines                |
-| Remiel → Thogra                 | ~150 lines                |
-| Remiel → Redcap                 | ~400 lines                |
-| Remiel → Auri                   | ~250 lines                |
+| Auri -> Gore                      | ~150 lines                |
+| Auri -> Inigo                     | ~100+ lines               |
+| Auri -> Lucien                    | ~100+ lines               |
+| Auri -> Serana (SDA)             | ~100 lines                |
+| Lucien -> Inigo                  | ~100+ lines               |
+| Lucien -> Hoth                   | ~50+ lines                |
+| Xelzaz -> Remiel                 | ~1150+ lines              |
+| Xelzaz -> Redcap                 | ~450 lines                |
+| Xelzaz -> Redcap -> Remiel        | ~500 3-way lines          |
+| Xelzaz -> Lucien                 | ~110+ lines               |
+| Xelzaz -> Thogra                 | ~160 lines                |
+| Remiel -> Gore                   | ~350 lines                |
+| Remiel -> Serana (SDA)           | ~200 lines                |
+| Remiel -> Thogra                 | ~150 lines                |
+| Remiel -> Redcap                 | ~400 lines                |
+| Remiel -> Auri                   | ~250 lines                |
 
 > *Note: Most followers will have **incidental commentary** with IFD Lydia and SDA Serana via Vanilla Commentary Expansions, but these are often one-sided (i.e. no true banter response).*
 
@@ -542,13 +534,13 @@ The following vanilla followers are fully supported by FDE:
 
 ---
 
-### 🎭 Recommended Teams for Maximum Banter (by Cirus)
+### Recommended Teams for Maximum Banter (by Cirus)
 
 #### **Team 1 – Have a Fun Time**
-- 🏹 Redcap (Ranged DPS)  
-- 🗡️ Remiel (Rogue/Ranged DPS)  
-- 🧙 Xelzaz (Caster)  
-- 🛡️ Thogra (Melee)
+- Redcap (Ranged DPS)  
+- Remiel (Rogue/Ranged DPS)  
+- Xelzaz (Caster)  
+- Thogra (Melee)
 
 > For more flavor but **less/no banter**, consider adding:  
 > - **Taliesin** (no banter, but humorous)  
@@ -557,10 +549,10 @@ The following vanilla followers are fully supported by FDE:
 ---
 
 #### **Team 2 – A Tale of Personal Growth**
-- 🧠 Lucien (Custom-trained role)  
-- 🏹 Inigo (Rogue/Ranged)  
-- 🏹 Auri (Rogue/Ranged)  
-- 🛡️ Kaidan (Melee)  
+- Lucien (Custom-trained role)  
+- Inigo (Rogue/Ranged)  
+- Auri (Rogue/Ranged)  
+- Kaidan (Melee)  
 > *(add  **Gore** for added emotional depth)*
 
 > For more flavor but **less/no banter**, consider adding:  
@@ -570,9 +562,9 @@ The following vanilla followers are fully supported by FDE:
 ---
 
 #### **Team 3 – Vanilla+**
-- 🛡️ IFD Lydia (Melee)  
-- 🧙 SDA Serana (Ranged/Caster)  
-- ➕ Add **Auri** or **Remiel** for more banter
+- IFD Lydia (Melee)  
+- SDA Serana (Ranged/Caster)  
+- Add **Auri** or **Remiel** for more banter
 
 > For more flavor but **less/no banter**, consider adding:  
 > - **Maven**, **Elenwen**, or **Ingrid** 
@@ -580,7 +572,7 @@ The following vanilla followers are fully supported by FDE:
 ---
 
 #### **Team 4 – Katana Gaaang**
-- 🗡️ Entire **Katana – Journey in the Shadows** crew
+- Entire **Katana – Journey in the Shadows** crew
 
 > For more flavor but **less/no banter**, consider adding:  
 > - **Gore**  
@@ -588,48 +580,48 @@ The following vanilla followers are fully supported by FDE:
 
 ---
 
-### 🧭 Modded Quest Commentary Coverage
+### Modded Quest Commentary Coverage
 
 #### **Legacy of the Dragonborn**
-- 🗡️ Remiel – Expansive (~600 lines)  
-- 🛡️ Kaidan - Moderate (~100 lines)  
-- 🛡️ IFD Lydia – Minimal (~50 lines)
+- Remiel – Expansive (~600 lines)  
+- Kaidan - Moderate (~100 lines)  
+- IFD Lydia – Minimal (~50 lines)
 
 #### **Sirenroot**
-- 🧙 Xelzaz (~50–100 lines)
+- Xelzaz (~50–100 lines)
 
 #### **Wyrmstooth**
-- 🧙 Xelzaz  
-- 🛡️ IFD Lydia
+- Xelzaz  
+- IFD Lydia
 
 #### **Moon and Star**
-- 🧠 Lucien
+- Lucien
 
 #### **Vigilant**
-- 🛡️ Gore  
-- 🏹 Auri  
-- 🐾 Khajiit Will Follow – ~5500 lines!
+- Gore  
+- Auri  
+- Khajiit Will Follow – ~5500 lines!
 
 #### **The Forgotten City**
-- 🐾 Khajiit Will Follow – ~1000 lines
+- Khajiit Will Follow – ~1000 lines
 
 ---
 
-### 🌐 Big Quest Mods *Not* in the List (But Supported via Rule 11)
+### Big Quest Mods *Not* in the List (But Supported via Rule 11)
 
 > These mods are not in JOJ by default but feature extensive follower commentary if you choose to add them:
 
 #### **Beyond Skyrim: Bruma**
-- 🛡️ IFD Lydia
+- IFD Lydia
 
 #### **Beyond Reach**
-- 🗡️ Remiel (~250 lines)
+- Remiel (~250 lines)
 
 #### **Astronautics**
-- 🗡️ Remiel (~130 lines)
+- Remiel (~130 lines)
 
 #### **Moonpath to Elsweyr**
-- 🧠 Lucien
+- Lucien
 
 </details>
 
@@ -644,7 +636,7 @@ With this wide selection of custom followers, **Journals of Jyggalag** transform
 
 Each follower adds something meaningful — from immersive questlines and deep lore to romance, humor, and roleplay flexibility. Their stories become intertwined with yours, making every playthrough uniquely personal.
 
-> ⚖️ **Play your way.** Whether you travel alone or form a fellowship, the voices of these characters will echo alongside yours across Tamriel.
+> **Play your way.** Whether you travel alone or form a fellowship, the voices of these characters will echo alongside yours across Tamriel.
 
 Happy adventuring, and may Order guide your path.
 

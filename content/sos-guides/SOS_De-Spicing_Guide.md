@@ -1,10 +1,6 @@
-# SOS De-Spicing Guide
-
----
-
 This guide covers how to reduce overt eroticism in the list while retaining NSFW functionality like OStim for users who prefer things "behind closed doors."
 
-> ⚠️ **How to Use This Guide**
+> **How to Use This Guide**
 >  
 > This is not a sequential guide.  
 > Each section is independent — pick and choose the changes that suit your preferences.  
@@ -25,7 +21,7 @@ This guide covers how to reduce overt eroticism in the list while retaining NSFW
 
 > **Disclaimer – Read This First**
 > This guide was originally assembled using **Journals of Jyggalag** as the reference list.
-> While the instructions apply across all **Scrolls of Schtevie** modlists, some screenshots, plugin orders, or plugin numbers may differ slightly between lists.
+> While the instructions apply across all **Modding Bordello** modlists, some screenshots, plugin orders, or plugin numbers may differ slightly between lists.
 > The core process and steps remain the same.
 
 > Special thanks to [Guurzak](https://www.nexusmods.com/profile/Guurzak?gameId=1704) for originally creating this guide as a Tome post on the Discord server.
@@ -415,4 +411,4 @@ Run in this order (see [SOS Tool Running Guide](/guides/sos-tool-running-guide))
 
 ---
 
-> ⚠️ Regardless of which changes you make, it is recommended to run Synthesis after modifying your modlist.
+> Regardless of which changes you make, it is recommended to run Synthesis after modifying your modlist.

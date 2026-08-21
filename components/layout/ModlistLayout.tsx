@@ -12,7 +12,7 @@ export function ModlistLayout({ list, activePage, children }: ModlistLayoutProps
   return (
     <div
       className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-8"
-      style={{ '--accent-color': list.accentColor } as React.CSSProperties}
+      style={{ '--accent-color': list.accentColor, '--accent-text': list.headerColor } as React.CSSProperties}
     >
       <PageHeader list={list} />
       <ModlistTabs list={list} activePage={activePage} />

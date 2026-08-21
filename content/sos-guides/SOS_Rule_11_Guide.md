@@ -1,9 +1,4 @@
-
-# A Prepper's Guide to Rule 11 — Scrolls of Schtevie
-
----
-
-Written by Voice of Order - **Aaronavich**
+*A Prepper's Guide to Rule 11*, written by Voice of Order **Aaronavich**
 
 Edits and additions by fellow Team Members - **Rauty79**, **Guurzak**, **Juntii**, and **BackBeatN**
 
@@ -11,7 +6,7 @@ Edits and additions by fellow Team Members - **Rauty79**, **Guurzak**, **Juntii*
 
 > **Disclaimer:**  
 > This guide was originally assembled using **Journals of Jyggalag** as the reference list.  
-> While the instructions apply across all **Scrolls of Schtevie** modlists, some screenshots, plugin orders, or plugin numbers may differ slightly between lists. The core process and steps remain the same.
+> While the instructions apply across all **Modding Bordello** modlists, some screenshots, plugin orders, or plugin numbers may differ slightly between lists. The core process and steps remain the same.
 
 ---
 
@@ -53,7 +48,7 @@ Follow these steps to protect yourself and make sure all is reversible!
 
 ![image](https://github.com/user-attachments/assets/26d7699c-3fd1-471f-b835-bb273f4585d8)
 
-> ⚠️ **Make sure your custom profile is now selected in MO2!**
+> **Make sure your custom profile is now selected in MO2!**
 
 ---
 
@@ -138,7 +133,7 @@ You may want to re-install a mod to pick different FOMOD options. Creating a new
 
 Go ahead and change your options.
 
-> ⚠️ **Never merge or replace the original!** There are exactly 0 good reasons to do this and it will corrupt the original profile you copied!
+> **Never merge or replace the original!** There are exactly 0 good reasons to do this and it will corrupt the original profile you copied!
 
 5. Once renamed and installed, locate the original version of the mod and make a note of the priority number in the second column of the left pane.
 
@@ -156,7 +151,7 @@ Go ahead and change your options.
 
 8. De-activate the original version of the mod and leave it in place.
 
-> 📌 **Note:** Always check the bottom of the Plugins tab (Right pane of MO2) and check if any new plugins have appeared, if there are and you weren't expecting this then it is best to carefully consider what changes you've made before proceeding to edit the load order.
+> **Note:** Always check the bottom of the Plugins tab (Right pane of MO2) and check if any new plugins have appeared, if there are and you weren't expecting this then it is best to carefully consider what changes you've made before proceeding to edit the load order.
 
 ---
 
@@ -230,9 +225,9 @@ In General the best thing you can do is- [learn to use xEdit](https://www.youtub
 
 ## What Tools Should I Re-run?
 
-> ⚠️ **Non-exhaustive! Use common sense!**
+> **Non-exhaustive! Use common sense!**
 
-**Official SOS GitHub Guide on re-running Tools:**
+**The official SOS guide on re-running tools:**
 [SOS Tool Running Guide](/guides/sos-tool-running-guide)
 
 **Bodyslide**
@@ -259,9 +254,9 @@ Armour / Clothing / Equipment etc
 Environmental textures- town overalls etc
 If you are re-running DynDOLOD, probably re-run this
 
-> 📌 **Note:** Before re-running a tool it is best practice to deactivate the output folders of tools that are lower down in the order (reference the mod load order in the outputs section of the left pane). Usually it is sensible to delete the contents of the output folder for the tool you are about to re-run beforehand.
+> **Note:** Before re-running a tool it is best practice to deactivate the output folders of tools that are lower down in the order (reference the mod load order in the outputs section of the left pane). Usually it is sensible to delete the contents of the output folder for the tool you are about to re-run beforehand.
 
-> ⚠️ **Ensure that the tool is set to output to YOUR output folder and not the original Output!**
+> **Ensure that the tool is set to output to YOUR output folder and not the original Output!**
 
 > **Caution:** When you reactivate DynDOLOD output, the plugins can sometimes be in reverse order. Ensure Occlusion.esp is below DynDOLOD.esp at the bottom of your load order.
 
@@ -273,7 +268,7 @@ In general, just don't disable mods, if there is something you want to remove fr
 
 Where possible, always use MCM settings to disable mods instead of removing/disabling in MO2!
 
-> ⚠️ **Warning:** Removing a mod entirely removes it for ALL PROFILES and will invalidate your original install. There is never a good reason to remove a mod!
+> **Warning:** Removing a mod entirely removes it for ALL PROFILES and will invalidate your original install. There is never a good reason to remove a mod!
 
 That concludes the Rule 11 Guide, those that follow it have the best chance of success and make the job of our support team far easier. If you are asking for help from them, feel free to mention that you followed this guide.
 

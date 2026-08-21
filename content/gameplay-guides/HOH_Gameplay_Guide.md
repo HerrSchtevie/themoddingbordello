@@ -1,6 +1,4 @@
-# Hymns of Hircine Gameplay Guide
-
-## 📖 Introduction
+## Introduction
 
 Welcome, Hunter of Hircine.
 
@@ -14,35 +12,14 @@ Let Hircine's call shape your steps.
 
 ---
 
-## 📚 Table of Contents
-
-1. 🧙 [Character Creation and Progression](#character-creation-and-progression)
-2. 💾 [Skyrim Save System Overhaul 3](#skyrim-save-system-overhaul-3)
-3. ⚖️ [Encounter Levels and Game Difficulty](#encounter-levels-and-game-difficulty)
-4. ⛺ [Survival Suite and Immersion](#survival-suite)
-5. ⚔️ [Combat](#combat)
-6. 🧭 [Questing](#questing)
-7. 🧑‍🎨 [Face & Appearance Issues](#face--appearance-issues)
-8. 🗺️ [Map Marker Issues](#map-marker-issues)
-9. 🏃 [Change Dodge Key](#change-dodge-key)
-10. 💀 [Shadow of Skyrim Death Alternative](#shadow-of-skyrim-death-alternative)
-11. 🗡️ [Attacking Innocents](#attacking-innocents)
-12. 🔒 [Lockpicking](#lockpicking)
-13. ✅ [Conclusion](#conclusion)
-
-
----
-
-<a id="character-creation-and-progression"></a>
-
-<h2 class="visually-hidden">🧙 Character Creation and Progression</h2>
+<h2 class="visually-hidden">Character Creation and Progression</h2>
 
 <details>
-<summary>🧙 Character Creation and Progression</summary>
+<summary>Character Creation and Progression</summary>
 
 ---
 
-### 🔹 Read First
+### Read First
 
 Before creating your character, please review the following mod pages carefully:
 
@@ -54,9 +31,8 @@ Your **choice of race** determines not only your starting bonuses, but also gran
 
 ---
 
-### 📜 **Skill Unlocks and Perk Progression**
-
-Also review the mod page for [Vokrii - Minimalistic Perks of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/26176) and [SALSa - Skill-Access Locking by Synergy](<https://www.nexusmods.com/skyrimspecialedition/mods/174469>) . **SALSa** completely redefines the way character progression works in Skyrim: you can **only use**, **gain experience in**, or **spend perks** on skill trees you have **unlocked**. This means:
+### Skill Unlocks and Perk Progression
+Also review the mod page for [Vokrii - Minimalistic Perks of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/26176) and [SALSa - Skill-Access Locking by Synergy](https://www.nexusmods.com/skyrimspecialedition/mods/174469) . **SALSa** completely redefines the way character progression works in Skyrim: you can **only use**, **gain experience in**, or **spend perks** on skill trees you have **unlocked**. This means:
 
 * Wearing armor you are not proficient in will encumber you
 * Weapons you are not proficient in will do no damage
@@ -76,13 +52,12 @@ In addition to your starting perks, you will receive an **extra perk** at level-
 
 ---
 
-> ⚠️ **Important:**  
+> **Important:**  
 > Be sure to **unlock your starting skills before leaving the shack.**
 
 ---
 
-### ⛪ **Religion**
-
+### Religion
 If you intend to engage with the religion system, please review:  
 
 [Wintersun](https://www.nexusmods.com/skyrimspecialedition/mods/22506)  
@@ -92,8 +67,7 @@ You may select a deity shortly after character creation, or through gameplay as 
 
 ---
 
-### 🧭 **Leveling Up**
-
+### Leveling Up
 Skyrim has two related leveling systems: **character leveling** and **skill leveling**.  
 In the vanilla game, you gain character levels by gaining skill levels, and skills level up through use.
 
@@ -109,12 +83,11 @@ For detailed information, see:
 
 [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751)  
 
-> ⚠️ Remember: You cannot gain skill levels in any skill you have not yet unlocked.
+> Remember: You cannot gain skill levels in any skill you have not yet unlocked.
 
 ---
 
-### 🌕 **Monster Curses**
-
+### Monster Curses
 Hymns of Hircine enhances vampirism and lycanthropy through the following mods:
 
 - [Sacrilege — Minimalistic Vampires of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/42408)  
@@ -122,7 +95,7 @@ Hymns of Hircine enhances vampirism and lycanthropy through the following mods:
 - [Moonlight Tales Mini — Highly Compatible Werewolf and Werebear Addon](https://www.nexusmods.com/skyrimspecialedition/mods/85234)
 
 These provide a **more immersive, balanced, and rewarding** experience for players embracing a cursed path.  
-Use the **Moonlight Tales Mini ** MCM to further customize your werewolf's appearance.
+Use the **Moonlight Tales Mini** MCM to further customize your werewolf's appearance.
 
 ---
 
@@ -163,12 +136,10 @@ There's a lot going on during character setup. It'll take a bit more time and a 
 
 ---
 
-<a id="skyrim-save-system-overhaul-3"></a>
-
-<h2 class="visually-hidden">💾 Skyrim Save System Overhaul 3</h2>
+<h2 class="visually-hidden">Skyrim Save System Overhaul 3</h2>
 
 <details>
-<summary>💾 Skyrim Save System Overhaul 3</summary>
+<summary>Skyrim Save System Overhaul 3</summary>
 
 ---
 
@@ -176,7 +147,7 @@ There's a lot going on during character setup. It'll take a bit more time and a 
 
 ---
 
-### 🎮 Save Your Game & Restart
+### Save Your Game & Restart
 
 - As mentioned above, once all MCM recordings have finished playback, **save and quit the game to desktop**. 
   - If this is your *first new character* after installing or updating the list, also **exit and restart MO2**.
@@ -185,18 +156,18 @@ There's a lot going on during character setup. It'll take a bit more time and a 
 - Open the **Safe Save System Overhaul** MCM and **enable the mod**.
 - Open the MCM again and configure the settings below.
 
-**⚙️ Recommended settings:**
-- 🕔 Enable Timed Save: **enabled**
-- 🕔 Autosave every: **5 minutes**
-- ⏳ Force autosave every: **15 minutes**
-- ♻️ Rotate autosaves after: **5 copies**
-- 📦 Rotate manual saves after: **5 copies**  
-- 🛡️ In the **Save Shield** section, check the boxes for:
-  - ✅ Combat State
-  - ✅ Riding
-  - ✅ High Speed
+**Recommended settings:**
+- Enable Timed Save: **enabled**
+- Autosave every: **5 minutes**
+- Force autosave every: **15 minutes**
+- Rotate autosaves after: **5 copies**
+- Rotate manual saves after: **5 copies**  
+- In the **Save Shield** section, check the boxes for:
+  - Combat State
+  - Riding
+  - High Speed
 
-- 🎮 Controls:
+- Controls:
   - In the main Skyrim Controls interface, remap **vanilla quicksave** to any unused key
   - In the SSSO3 MCM, set **Save Shortcut** to `F5`
   - Always use `F5` to save. **Do not** use the Pause Menu save option; that menu does not engage SSSO3's quality protection logic.
@@ -210,12 +181,10 @@ Note: the system assumes that any character with the default name "Prisoner" is 
 
 ---
 
-<a id="encounter-levels-and-game-difficulty"></a>
-
-<h2 class="visually-hidden">⚖️ Encounter Levels and Game Difficulty</h2>
+<h2 class="visually-hidden">Encounter Levels and Game Difficulty</h2>
 
 <details>
-<summary>⚖️ Encounter Levels and Game Difficulty</summary>
+<summary>Encounter Levels and Game Difficulty</summary>
 
 ---
 
@@ -227,8 +196,7 @@ Enemy **density** has been increased throughout the game, making encounters more
 
 ---
 
-### 🩸 **Quest and Zone Scaling**
-
+### Quest and Zone Scaling
 Major questlines will scale in difficulty **much faster than your character levels**.  
 You may complete the early stages of a quest series only to find the next part too difficult until you've leveled further.
 
@@ -242,8 +210,7 @@ If you need lighter challenges or a break from major questlines, check the **Mis
 
 ---
 
-### 🛡️ **Balancing Difficulty**
-
+### Balancing Difficulty
 Hymns of Hircine is intended to be:
 
 - **Very challenging** when playing solo  
@@ -252,22 +219,20 @@ Hymns of Hircine is intended to be:
 If you wish to fine-tune your experience — whether to make the game more punishing or balance it for multiple companions — consider these options:
 
 - Increase the **game difficulty slider** in the Skyrim **Gameplay Settings**  
-- In the **SkyValor MCM**, raise the follower damage reduction from **25% → 50%**, or up to **62.5%** by checking both boxes  
+- In the **SkyValor MCM**, raise the follower damage reduction from **25% to 50%**, or up to **62.5%** by checking both boxes  
 - Configure **Dynamic Follower Weakening** to fine-tune follower strength even further
 - Configure **Fading of Followers** to have some or all of your followers sit out of combat completely
 
-> 🦌 *The Hunt favors the strong — tread carefully, Hunter.*
+> *The Hunt favors the strong — tread carefully, Hunter.*
 
 </details>
 
 ---
 
-<a id="survival-suite"></a>
-
-<h2 class="visually-hidden">⛺ Survival Suite and Immersion</h2>
+<h2 class="visually-hidden">Survival Suite and Immersion</h2>
 
 <details>
-<summary>⛺ Survival Suite and Immersion</summary>
+<summary>Survival Suite and Immersion</summary>
 
 ---
 
@@ -286,12 +251,10 @@ In addition to those, we have dozens of mods making smaller changes to many face
 
 ---
 
-<a id="combat"></a>
-
-<h2 class="visually-hidden">⚔️ Combat</h2>
+<h2 class="visually-hidden">Combat</h2>
 
 <details>
-<summary>⚔️ Combat</summary>
+<summary>Combat</summary>
 
 ---
 
@@ -302,20 +265,18 @@ HOH utilizes the following combat mods — please see their modpages for details
 - [TK Dodge Suite](https://www.nexusmods.com/skyrimspecialedition/mods/115408)
 - [SkyValor](https://www.nexusmods.com/skyrimspecialedition/mods/106240)
 - [SIGA NG](https://www.nexusmods.com/skyrimspecialedition/mods/161590)
-- [For Honor Reforged](<https://www.nexusmods.com/skyrimspecialedition/mods/172176>)  
-- [For Honor Reforged - First Person Addon](<https://www.nexusmods.com/skyrimspecialedition/mods/172666>)  
-- [For Honor Stamina System](<https://www.nexusmods.com/skyrimspecialedition/mods/174120>)   
+- [For Honor Reforged](https://www.nexusmods.com/skyrimspecialedition/mods/172176)  
+- [For Honor Reforged - First Person Addon](https://www.nexusmods.com/skyrimspecialedition/mods/172666)  
+- [For Honor Stamina System](https://www.nexusmods.com/skyrimspecialedition/mods/174120)   
 
 </details>
 
 ---
 
-<a id="questing"></a>
-
-<h2 class="visually-hidden">🧭 Questing</h2>
+<h2 class="visually-hidden">Questing</h2>
 
 <details>
-<summary>🧭 Questing</summary>
+<summary>Questing</summary>
 
 ---
 
@@ -393,12 +354,10 @@ For Hymns of Hircine, the Sinister Seven MCM settings about level cadence are ig
 
 ---
 
-<a id="face--appearance-issues"></a>
-
-<h2 class="visually-hidden">🧑‍🎨 Face & Appearance Issues</h2>
+<h2 class="visually-hidden">Face & Appearance Issues</h2>
 
 <details>
-<summary>🧑‍🎨 Face & Appearance Issues</summary>
+<summary>Face & Appearance Issues</summary>
 
 ---
 
@@ -442,12 +401,10 @@ Using `showlimitedracemenu` ensures your character's appearance is refreshed wit
 
 ---
 
-<a id="map-marker-issues"></a>
-
-<h2 class="visually-hidden">🗺️ Map Marker Issues</h2>
+<h2 class="visually-hidden">Map Marker Issues</h2>
 
 <details>
-<summary>🗺️ Map Marker Issues</summary>
+<summary>Map Marker Issues</summary>
 
 ---
 
@@ -470,12 +427,10 @@ This will remove the "?" markers from your world map and prevent confusion while
 
 ---
 
-<a id="change-dodge-key"></a>
-
-<h2 class="visually-hidden">🏃 Change Dodge Key</h2>
+<h2 class="visually-hidden">Change Dodge Key</h2>
 
 <details>
-<summary>🏃 Change Dodge Key</summary>
+<summary>Change Dodge Key</summary>
 
 ---
 
@@ -496,12 +451,10 @@ Make sure to replace `[your desired key's scancode]` with the actual scancode of
 
 ---
 
-<a id="shadow-of-skyrim-death-alternative"></a>
-
-<h2 class="visually-hidden">💀 Shadow of Skyrim Death Alternative</h2>
+<h2 class="visually-hidden">Shadow of Skyrim Death Alternative</h2>
 
 <details>
-<summary>💀 Shadow of Skyrim Death Alternative</summary>
+<summary>Shadow of Skyrim Death Alternative</summary>
 
 ---
 
@@ -521,12 +474,10 @@ Designed for deep integration, this system synergizes beautifully with other mod
 
 ---
 
-<a id="attacking-innocents"></a>
-
-<h2 class="visually-hidden">🗡️ Attacking Innocents</h2>
+<h2 class="visually-hidden">Attacking Innocents</h2>
 
 <details>
-<summary>🗡️ Attacking Innocents</summary>
+<summary>Attacking Innocents</summary>
 
 ---
 
@@ -536,12 +487,10 @@ We use **Simple Offense Suppression** to ensure that you don't accidentally hurt
 
 ---
 
-<a id="lockpicking"></a>
-
-<h2 class="visually-hidden">🔒 Lockpicking</h2>
+<h2 class="visually-hidden">Lockpicking</h2>
 
 <details>
-<summary>🔒 Lockpicking</summary>
+<summary>Lockpicking</summary>
 
 * Most unlocking spells have been removed. The surviving unlock spells include Unlock Container from The Gray Cowl of Nocturnal, which can open up to apprentice tier locks, and Detonate Lock, an Expert-tier alteration spell which can open up to Adept locks, or Expert locks once 100 Alteration skill is reached.
 * Apprentice scrolls of unlocking can be found as loot or occasionally for purchase from general vendors. An adept version may be available from a few less upstanding sources.
@@ -551,12 +500,10 @@ We use **Simple Offense Suppression** to ensure that you don't accidentally hurt
 
 ---
 
-<a id="conclusion"></a>
-
-<h2 class="visually-hidden">✅ Conclusion</h2>
+<h2 class="visually-hidden">Conclusion</h2>
 
 <details>
-<summary>✅ Conclusion</summary>
+<summary>Conclusion</summary>
 
 ---
 

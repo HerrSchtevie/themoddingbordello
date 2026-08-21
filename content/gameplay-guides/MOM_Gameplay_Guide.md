@@ -1,6 +1,4 @@
-# Mantras of Mara Gameplay Guide
-
-## 📖 Introduction
+## Introduction
 
 Welcome, Consort of Mara.
 
@@ -8,32 +6,16 @@ This guide is your comprehensive companion to the **Mantras of Mara** modlist fo
 
 Whether you are a first-time player or a returning champion of Tamriel, this guide covers everything from character creation and combat mechanics to questing and troubleshooting. It is strongly recommended that you read through at least the **Character Creation and Progression** section before starting your journey.
 
-All information here is accurate to the latest release of the modlist and assumes no additional modifications. For additional support, updates, and discussion, please join **The Modding Bordello Discord server**.
+All information here is accurate to the latest release of the modlist and assumes no additional modifications. For additional support, updates, and discussion, please join **[The Modding Bordello Discord](https://discord.gg/themoddingbordello)**.
 
 Let the Path of Love guide you.
 
 ---
 
-## 📚 Table of Contents
-
-1. 🧙 [Character Creation and Progression](#-character-creation-and-progression)
-2. 💾 [Skyrim Save System Overhaul 3](#-skyrim-save-system-overhaul-3)
-3. 🔞 [SexLab and NSFW](#-sexlab-and-nsfw)
-4. 🧭 [Questing](#-questing)
-5. 🧑‍🎨 [Face & Appearance Issues](#-face--appearance-issues)
-6. 🗺️ [Map Marker Issues](#map-marker-issues)
-7. 🏃 [Change Dodge Key](#-change-dodge-key)
-8. 💀 [Acheron Death Alternative](#-acheron-death-alternative)
-9. 🗡️ [Attacking Innocents](#-attacking-innocents)
-10. ✅ [Conclusion](#-conclusion)
-
-
----
-
-<h2 class="visually-hidden">🧙 Character Creation and Progression</h2>
+<h2 class="visually-hidden">Character Creation and Progression</h2>
 
 <details>
-<summary>🧙 Character Creation and Progression</summary>
+<summary>Character Creation and Progression</summary>
 
 ### Race Selection
 - Your choice of race determines:
@@ -155,10 +137,10 @@ Let the Path of Love guide you.
 
 ---
 
-<h2 class="visually-hidden">💾 Skyrim Save System Overhaul 3</h2>
+<h2 class="visually-hidden">Skyrim Save System Overhaul 3</h2>
 
 <details>
-<summary>💾 Skyrim Save System Overhaul 3</summary>
+<summary>Skyrim Save System Overhaul 3</summary>
 
 ---
 
@@ -166,7 +148,7 @@ Let the Path of Love guide you.
 
 ---
 
-### 🎮 Save Your Game & Restart
+### Save Your Game & Restart
 
 - Once you've finished the intro and entered the main game world (e.g., just outside the Helgen cave or your chosen start):
   - Create a **manual save**.
@@ -183,19 +165,19 @@ Note: the system assumes that any character with the default name "Prisoner" is 
 
 ---
 
-⚙️ Recommended settings:
-- 🕔 Enable Timed Save: **enabled**
-- 🕔 Autosave every: **5 minutes**
-- ⏳ Force autosave every: **15 minutes**
-- ♻️ Rotate autosaves after: **5 copies**
-- 📦 Rotate manual saves after: **5 copies**  
-- 🛡️ In the **Save Shield** section, check the boxes for:
+**Recommended settings:**
+- Enable Timed Save: **enabled**
+- Autosave every: **5 minutes**
+- Force autosave every: **15 minutes**
+- Rotate autosaves after: **5 copies**
+- Rotate manual saves after: **5 copies**  
+- In the **Save Shield** section, check the boxes for:
   
-  - ✅ Combat State
-  - ✅ Riding
-  - ✅ High Speed
+  - Combat State
+  - Riding
+  - High Speed
 
-- 🎮 Controls:
+- Controls:
   
   - In the main Skyrim Controls interface, remap **vanilla quicksave** to any unused key
   - In the SSSO3 MCM, set **Save Shortcut** to `F5`
@@ -206,12 +188,10 @@ Note: the system assumes that any character with the default name "Prisoner" is 
 
 ---
 
-<h2 class="visually-hidden">🔞 SexLab and NSFW</h2>
+<h2 class="visually-hidden">SexLab and NSFW</h2>
 
 <details>
-<summary>🔞 SexLab and NSFW</summary>
-
-## SexLab & NSFW (Core Mods)
+<summary>SexLab and NSFW</summary>
 
 Below are the **key SexLab and NSFW mods** used in **Mantras of Mara**.
 
@@ -277,10 +257,10 @@ Below are the **key SexLab and NSFW mods** used in **Mantras of Mara**.
 
 ---
 
-<h2 class="visually-hidden">🧭 Questing</h2>
+<h2 class="visually-hidden">Questing</h2>
 
 <details>
-<summary>🧭 Questing</summary>
+<summary>Questing</summary>
 
 This list includes expansions of many vanilla quests as well as quite a few new ones. Most of these can be explored simply by encountering them through normal gameplay, or you can check the quest list in **Mod Organizer** to see if there's something you want to make a point of seeking out.
 
@@ -346,10 +326,10 @@ When you are ready to start Project AHO, and are level 15 or higher, head to the
 
 ---
 
-<h2 class="visually-hidden">🧑‍🎨 Face & Appearance Issues</h2>
+<h2 class="visually-hidden">Face & Appearance Issues</h2>
 
 <details>
-<summary>🧑‍🎨 Face & Appearance Issues</summary>
+<summary>Face & Appearance Issues</summary>
 
 ### Problem: Black Face or Unexpected Tattoos
 
@@ -391,11 +371,10 @@ Using `showlimitedracemenu` ensures your character's appearance is refreshed wit
 
 ---
 
-<a id="map-marker-issues"></a>
-<h2 class="visually-hidden">🗺️ Map Marker Issues</h2>
+<h2 class="visually-hidden">Map Marker Issues</h2>
 
 <details>
-<summary>🗺️ Map Marker Issues</summary>
+<summary>Map Marker Issues</summary>
 
 ### Problem: "I'm at a map marker, but there's nothing here!"
 
@@ -416,10 +395,10 @@ This will remove the "?" markers from your world map and prevent confusion while
 
 ---
 
-<h2 class="visually-hidden">🏃 Change Dodge Key</h2>
+<h2 class="visually-hidden">Change Dodge Key</h2>
 
 <details>
-<summary>🏃 Change Dodge Key</summary>
+<summary>Change Dodge Key</summary>
 
 By default, dodging is triggered by tapping your Sprint key. If you want to change this behavior, you'll need to manually edit the TK Dodge configuration file.
 
@@ -437,10 +416,10 @@ Make sure to replace `[your desired key's scancode]` with the actual scancode of
 
 ---
 
-<h2 class="visually-hidden">💀 Acheron Death Alternative</h2>
+<h2 class="visually-hidden">Acheron Death Alternative</h2>
 
 <details>
-<summary>💀 Acheron Death Alternative</summary>
+<summary>Acheron Death Alternative</summary>
 
 **Mantras of Mara** uses **[Acheron – A Combat Death Alternative Framework](https://www.nexusmods.com/skyrimspecialedition/mods/108159)** by default.
 
@@ -450,7 +429,7 @@ Rather than forcing a player to reload every time they're downed, Acheron provid
 
 ---
 
-#### ⚙️ Acheron Defeat Triggers
+#### Acheron Defeat Triggers
 
 Acheron uses multiple configurable systems to determine when the player (or NPCs) should be defeated instead of dying:
 
@@ -465,7 +444,7 @@ Acheron uses multiple configurable systems to determine when the player (or NPCs
 
 ---
 
-#### 🩸 Hunters Pride & NSFW Integration
+#### Hunters Pride & NSFW Integration
 
 In **Mantras of Mara**, Acheron is also leveraged by select NSFW systems to expand what can happen **after** a defeat occurs.
 
@@ -483,10 +462,10 @@ Together, these systems tie combat, defeat, and NSFW mechanics into a more cohes
 
 ---
 
-<h2 class="visually-hidden">🗡️ Attacking Innocents</h2>
+<h2 class="visually-hidden">Attacking Innocents</h2>
 
 <details>
-<summary>🗡️ Attacking Innocents</summary>
+<summary>Attacking Innocents</summary>
 
 We use Simple Offense Suppression to ensure that you don't accidentally hurt innocent NPCs during chaotic brawls with Miraak cultists or the Sinister Seven. We understand that this can be frustrating when you want to just murder your favorite drinking buddy or send Nazeem to the actual Cloud District; for such moments, just use the SOS MCM to toggle NPC protection off.
 
@@ -494,10 +473,10 @@ We use Simple Offense Suppression to ensure that you don't accidentally hurt inn
 
 ---
 
-<h2 class="visually-hidden">✅ Conclusion</h2>
+<h2 class="visually-hidden">Conclusion</h2>
 
 <details>
-<summary>✅ Conclusion</summary>
+<summary>Conclusion</summary>
 
 Mantras of Mara is built to be a user-friendly and immersive experience right out of the box. You don't need to read this entire guide to enjoy the list — it's here to help answer common questions, smooth out any confusion, and give you a bit of extra insight into how everything works under the hood.
 

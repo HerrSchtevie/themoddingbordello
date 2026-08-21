@@ -1,15 +1,13 @@
-## 🎭 Scrolls of Schtevie - NPC Plugin Chooser 2 (NPC2) Guide
-
-### 📖 Introduction
+### Introduction
 
 **NPC Plugin Chooser 2** is a utility created by [**Piranha91**](https://next.nexusmods.com/profile/Piranha91?gameId=1704), available on [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/157055).
 
-> ⚠️ **Before You Begin**  
+> **Before You Begin**  
 This guide is meant as a **quick overview** to help you get started.  
 For the full documentation — covering both basic and advanced usage — see the official GitHub guide:  
-👉 [**NPC Plugin Chooser 2 – GitHub Guide by Piranha91**](https://github.com/Piranha91/NPC-Plugin-Chooser-2)  
+[**NPC Plugin Chooser 2 – GitHub Guide by Piranha91**](https://github.com/Piranha91/NPC-Plugin-Chooser-2)  
 
-🙏 **Acknowledgement**  
+**Acknowledgement**  
 Enormous thanks to [**Piranha91**](https://next.nexusmods.com/profile/Piranha91?gameId=1704) for developing such an amazing tool. NPC Plugin Chooser 2 has transformed how we handle NPC overhauls, turning what used to be a frustrating, error-prone process into something intuitive and reliable.  
 If this tool improves your game (and it will), please take a moment to **endorse Piranha’s work on Nexus Mods** — it’s the best way to support the author.  
 
@@ -24,8 +22,8 @@ With NPC2, you can:
 - **Avoid conflicts automatically** — NPC2 ensures only one appearance “wins” so your load order stays clean  
 - **Prevent dark face bugs** — by generating a single merged plugin, NPC2 keeps faces and headparts consistent  
 
-### 🎯 Why We Use It
-The Scrolls of Schtevie lists rely on many appearance overhauls to create a more immersive, visually appealing Skyrim.  
+### Why We Use It
+The Modding Bordello lists rely on many appearance overhauls to create a more immersive, visually appealing Skyrim.  
 Without a tool like NPC2, these mods would constantly overwrite each other and cause broken NPC visuals.  
 
 By running NPC2:
@@ -37,8 +35,8 @@ In short: **NPC2 is our safeguard against NPC conflicts**, and it allows for max
 
 ---
 
-### 🧑‍🤝‍🧑 NPC Overhauls in Scrolls of Schtevie
-All **Scrolls of Schtevie modlists** come preconfigured with the full set of NPC replacers we utilize.  
+### NPC Overhauls in The Modding Bordello
+All **The Modding Bordello modlists** come preconfigured with the full set of NPC replacers we utilize.  
 This makes it much easier for users to:
 - **Mix and match NPC appearances** across different replacer mods  
 - **Customize or completely overhaul** all NPCs in the game with minimal effort  
@@ -47,7 +45,7 @@ Whether you want to swap just a handful of characters or redesign every NPC, NPC
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ---
 
@@ -61,7 +59,7 @@ Before doing anything else, download the NPC replacers you want and place them i
 
 (If you need help finding NPC replacers that suit your preferences, https://npcfacefinder.com allows you to view many different replacers at once for any NPC of interest.)
 
-> ⚠️ **Important Notes:**
+> **Important Notes:**
 > - These mods do **not** need to be enabled. NPC2 automatically detects them, so you don’t have to enable them or touch their plugins.  
 > - The replacer mods can sit anywhere in the load order, as long as they remain disabled. For proper organization, always keep them in your own NPC Overhauls separator, separate from the core list.  
 > - The **NPC Resources** separator in MO2 has a note saying *“Always keep enabled”*. Do not disable or change anything in NPC Resources — leave them alone.  
@@ -72,17 +70,17 @@ Before doing anything else, download the NPC replacers you want and place them i
 ---
 
 ### 2) Prepare Your NPC Merge Mod
-Since the Scrolls of Schtevie modlists already come with a preconfigured `JOJ - NPC Merge` mod and plugin, you have two options:
+Since the Modding Bordello modlists already come with a preconfigured `JOJ - NPC Merge` mod and plugin, you have two options:
 
 1. **Replace the existing merge**  
    - Delete the contents of the previous output located in the `JOJ - NPC Merge` mod under the **Outputs** separator  
    - Build your own merge, making sure the **output path points back to that same mod folder**  
 
-> ⚠️ **Note:** As per our [Rule 11 Guide](/guides/sos-rule-11-guide), this approach is **not recommended**. Creating your own separate output is the preferred method to avoid overwriting core list outputs and to keep your changes isolated.  
+> **Note:** As per our [Rule 11 Guide](/guides/sos-rule-11-guide), this approach is **not recommended**. Creating your own separate output is the preferred method to avoid overwriting core list outputs and to keep your changes isolated.  
   
 
 2. **(Recommended) Create your own NPC Merge mod**  
-   - Right-click the **Outputs** separator → **All Mods** → **Create empty mod inside**  
+   - Right-click the **Outputs** separator > **All Mods** > **Create empty mod inside**  
    - Name this new mod (for example: `My NPC2 Output`)  
    - Place your new mod directly **below** the existing `JOJ - NPC Merge` mod  
    - Deactivate the original `JOJ - NPC Merge` mod  
@@ -105,12 +103,12 @@ Mugshots are preview images of NPCs that make it much easier to choose between d
    - [Natural Lighting Mugshots (for EasyNPC)](https://www.nexusmods.com/skyrimspecialedition/mods/97595)  
      *Well-lit mugshots with a clean background for a wide variety of NPCs.*  
 
-> 📌 **Note:** Mugshots are optional.  
+> **Note:** Mugshots are optional.  
 > NPC2 will work fine without them, but having mugshots makes choosing between multiple NPC appearances **much easier and more user-friendly**.
 
 ---
 
-### 🌐 Alternative: NPC Face Finder
+### Alternative: NPC Face Finder
 If you don’t want to download mugshot packs, you can simply use the website [**NPC Face Finder**](https://npcfacefinder.com/) side-by-side while running NPC2.  
 This site provides searchable previews for many NPC overhauls, which can help guide your choices without extra downloads.
 
@@ -136,7 +134,7 @@ Before booting NPC2, you must disable everything in the **Outputs** plugin group
 After your first boot into NPC2, click the **Settings** tab in the top-left corner.  
 *(screenshot)*  
 
-Ensure the following (these values are preconfigured in the Scrolls of Schtevie modlists, but it’s always good to double check):  
+Ensure the following (these values are preconfigured in the Modding Bordello modlists, but it’s always good to double check):  
 
 **Game Environment Section**  
 - **Skyrim Game Data Path:** `YourDrive:\Journals of Jyggalag\Stock Game\data`    
@@ -152,7 +150,7 @@ Ensure the following (these values are preconfigured in the Scrolls of Schtevie 
 - **Output Plugin Name:** `My NPC2 Merge`   
 - **Patching Mode:** `CreateAndPatch`  
 - **Override Handling Mode:** `Ignore`  
-- ❌ The rest of the settings can be ignored.  
+- The rest of the settings can be ignored.  
 
 ![image](https://github.com/user-attachments/assets/d0d7eca2-222d-4b39-9d7d-6ff789bd811a)  
 
@@ -197,7 +195,7 @@ This is where you can scroll through NPC2 and **pick and choose the replacers yo
 - To select a face for an NPC, just click once on the mugshot (or box) you want.  
   - The box will turn **green** when selected — this means that appearance will be used for that NPC.  
 
-> ⚠️ **Note:** Watch out for NPCs with the *“shared with another NPC”* icon in the top-right corner of their mugshot. Choosing one of these will make them identical twins in your game — unless, of course, that’s what you want. 
+> **Note:** Watch out for NPCs with the *“shared with another NPC”* icon in the top-right corner of their mugshot. Choosing one of these will make them identical twins in your game — unless, of course, that’s what you want. 
 
 ![image](https://github.com/user-attachments/assets/a6cf2f15-a2e4-4196-b680-85bb55eb5a2f)  
 
@@ -208,7 +206,7 @@ Once you’re happy with your selections, it’s a good idea to **save your own 
 
 - Click **Export My Choices** in the top-right corner
 - Save the .json file wherever you like, with whatever name you prefer  
-- ✅ Recommended: Save it in the same location as the preconfigured file for organizational purposes:  
+- Recommended: Save it in the same location as the preconfigured file for organizational purposes:  
   Journals of Jyggalag\tools\NPC Plugin Chooser\NPC Merge Profile\MyNpcChoices.json  
 
 ---
@@ -233,7 +231,7 @@ Once the merge has been run and you close out of NPC2, refresh MO2.
 
 - You will now see your `My NPC Merge` plugin at the bottom of the Plugins panel  
 - Move this plugin to just **above** the `Lord's Vision (or Performance) - Synthesis Terrain` plugin 
-- ⚠️ Note: Your merge plugin may be named differently depending on what you called it  
+- Note: Your merge plugin may be named differently depending on what you called it  
 
 Additionally, the **Synthesis Character plugin** will most likely have shifted in load order.  
 - Move it back so it sits **between** the `Synthesis Terrain` plugin and the `Synthesis Gameplay` plugin
@@ -249,7 +247,7 @@ If you need help with this step, refer to the [SOS Tool Running Guide](/guides/s
 
 ---
 
-### 12) 🎉 That’s It!
+### 12) That’s It!
 You’re done!  
 Your NPC merge has been built, organized, and patched into your list. From here on out, Skyrim will run with your chosen NPC appearances without conflicts or dark face bugs.  
 
@@ -257,12 +255,12 @@ Enjoy your new characters — whether you’ve tweaked just a few favorites or o
 
 ---
 
-## 🧑‍🤝‍🧑 A Note from Herr Schtevie
+## A Note from Herr Schtevie
 
 Thank you for taking the time to follow this guide and make NPC Plugin Chooser 2 work for you.  
 This tool gives you the freedom to tailor Skyrim’s faces and personalities to your taste, while keeping the list stable and free from conflicts.  
 
-⚠️ **Rule 11 Reminder:** By adding your own replacers and generating your own merge, you are modifying the list at your own risk.  
+**Rule 11 Reminder:** By adding your own replacers and generating your own merge, you are modifying the list at your own risk.  
 If something breaks, crashes, or looks strange, support may be limited. The team will always try to help, but you are ultimately responsible for maintaining your changes.  
 
 That said — I hope you enjoy bringing your own vision of Skyrim’s characters to life. Thanks again for being part of this project and this community.  

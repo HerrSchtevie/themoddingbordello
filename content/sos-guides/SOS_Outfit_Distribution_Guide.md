@@ -1,12 +1,8 @@
-# SOS Outfit Distribution Guide
-
----
-
 This guide covers how the **JOJ Outfit Distribution** mod defines NPC outfits and how those outfits are assigned to specific NPCs using SkyPatcher. It also covers how to safely disable, modify, or add new outfit assignments.
 
 > **Disclaimer – Read This First**
 > This guide was originally assembled using **Journals of Jyggalag** as the reference list.
-> While the instructions apply across all **Scrolls of Schtevie** modlists, some plugin orders, FormIDs, or filenames may differ slightly between lists.
+> While the instructions apply across all **Modding Bordello** modlists, some plugin orders, FormIDs, or filenames may differ slightly between lists.
 > The core process and steps remain the same.
 
 > Special thanks to [Guurzak](https://www.nexusmods.com/profile/Guurzak?gameId=1704) for originally creating this guide as a Tome post on the Discord server.
@@ -77,7 +73,7 @@ If none of the existing outfits in your modlist suit your needs, you can define 
 
 1. Launch **xEdit** from the MO2 applications dropdown
 2. Load any armor mods containing pieces you intend to reference, then click **OK**
-3. In the left pane, **right-click an empty area** → **Create New File...**
+3. In the left pane, **right-click an empty area** > **Create New File...**
 4. In the dialog that appears, select the **`<new file>.esp`** row that shows **`ESL`** on the right (and no `ESM`)
 5. Click **OK** and name the file something descriptive, e.g. `MyCustomOutfits.esp`
 
@@ -89,21 +85,21 @@ The new plugin is created and placed in the modlist's xEdit output mod (e.g. `JO
 
 For your plugin to reference armor records from other mods, those mods must be added as **masters**:
 
-1. Right-click your new plugin in the left pane → **Add Masters**
+1. Right-click your new plugin in the left pane > **Add Masters**
 2. Check every armor mod whose pieces you intend to use
 3. Confirm
 
 #### Add Outfit Records
 
-1. Right-click your plugin → **Add** → select **Outfit (OTFT)**
+1. Right-click your plugin > **Add** > select **Outfit (OTFT)**
 2. Set the new record's **EDID** (Editor ID) to something meaningful, e.g. `MyOutfit_Ysolda01`
-3. On the new record, right-click the **INAM – Items** field → **Add** once for each armor piece you want included
+3. On the new record, right-click the **INAM – Items** field > **Add** once for each armor piece you want included
 4. For each new INAM entry, drag-and-drop the desired armor record from the left pane, or paste its FormID
 5. Repeat steps 1–4 for any additional outfits, then save the plugin and exit xEdit
 
 **Note each new outfit's FormID and the exact name of your plugin** — you'll need both when writing the SkyPatcher assignment line in the next section.
 
-> ⚠️ Any newly added armor must be **built in BodySlide** before it displays correctly in-game. See the [SOS Tool Running Guide](/guides/sos-tool-running-guide) for BodySlide instructions.
+> Any newly added armor must be **built in BodySlide** before it displays correctly in-game. See the [SOS Tool Running Guide](/guides/sos-tool-running-guide) for BodySlide instructions.
 
 </div>
 </details>
@@ -244,4 +240,4 @@ The folder structure must match exactly — `SKSE\Plugins\Skypatcher\npc\` — o
 
 ---
 
-> ✅ Because SkyPatcher applies its changes at runtime, edits made to these INI files take effect on the next game launch. No new save, clean save, or tool run is required.
+> Because SkyPatcher applies its changes at runtime, edits made to these INI files take effect on the next game launch. No new save, clean save, or tool run is required.

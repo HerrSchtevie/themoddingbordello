@@ -1,6 +1,4 @@
-# ⌨️ SOS Keyboard Guide
-
-Each Scrolls of Schtevie modlist includes a built-in keyboard reference overlay.
+Each Modding Bordello modlist includes a built-in keyboard reference overlay.
 
 You can view this **at any time while in-game** by pressing:
 
@@ -8,83 +6,81 @@ You can view this **at any time while in-game** by pressing:
 
 This will display the full keyboard layout showing the most important hotkeys used by the list.
 
-The images below mirror the in-game keyboard reference for quick access from the wiki.
+The images below mirror the in-game keyboard reference for quick access from the website.
 
 ---
 
-## 🛡️ Journals of Jyggalag (JOJ) - v6.2.0
+<h2 style="color:#C22222;border-bottom-color:rgba(194,34,34,0.28)">Journals of Jyggalag (JOJ) - v7.0.0</h2>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/092b0b72-0598-44c8-b0c7-a90089116495"
+  <img src="https://github.com/user-attachments/assets/092b0b72-0598-44c8-b0c7-a90089116495" alt="JOJ keyboard layout">
 </p>
 
-## ⚠️ Notes
+**Notes:**
 
 - To use the **PPA keys**, you must open the console, and hold **`Shift`** in addition to the listed modifier key.
 
 ---
 
-## 🗡️ Tomes of Talos (TOT) - v4.2.0
+<h2 style="color:#5B7FFF;border-bottom-color:rgba(91,127,255,0.28)">Tomes of Talos (TOT) - v5.0.0</h2>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1d671c48-5b6f-4d7b-8c0d-9a527a5f65d0"
+  <img src="https://github.com/user-attachments/assets/1d671c48-5b6f-4d7b-8c0d-9a527a5f65d0" alt="TOT keyboard layout">
 </p>
 
 ---
 
-## 🦌 Hymns of Hircine (HOH) - v3.1.0
+<h2 style="color:#7DA87B;border-bottom-color:rgba(125,168,123,0.28)">Hymns of Hircine (HOH) - v4.0.0</h2>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0b85eba8-b843-4068-b056-e2634f54e673"
+  <img src="https://github.com/user-attachments/assets/0b85eba8-b843-4068-b056-e2634f54e673" alt="HOH keyboard layout">
 </p>
 
-## ⚠️ Notes
+**Notes:**
 
 - To use the **PPA keys**, you must open the console, and hold **`Shift`** in addition to the listed modifier key.
 
 ---
 
-## 💫 Mantras of Mara (MOM) - v2.9.0
+<h2 style="color:#D46F00;border-bottom-color:rgba(212,111,0,0.28)">Mantras of Mara (MOM) - v3.0.0</h2>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e5c7c1b0-90d9-4867-86e6-92a5c86994f3"
-"
+  <img src="https://github.com/user-attachments/assets/e5c7c1b0-90d9-4867-86e6-92a5c86994f3" alt="MOM keyboard layout">
 </p>
 
-## ⚠️ Notes
-
-- To use the **PPA keys**, you must open the console, and hold **`Shift`** in addition to the listed modifier key.
-- To use the **Hunters Pride** and **Surrender** keys, you must hold the **Acheron Modifier** key in addition to the listed modifier key.
-
----
-
-## 🪻 Diaries of Dibella (DOD) - v1.7.0
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a0e19010-870f-4383-b855-3d0365676e53"
-"
-</p>
-
-## ⚠️ Notes
+**Notes:**
 
 - To use the **PPA keys**, you must open the console, and hold **`Shift`** in addition to the listed modifier key.
 - To use the **Hunters Pride** and **Surrender** keys, you must hold the **Acheron Modifier** key in addition to the listed modifier key.
 
 ---
 
-## 🌌 Visions of Vaermina (VOV) - v1.2.0
+<h2 style="color:#A46FE0;border-bottom-color:rgba(164,111,224,0.28)">Diaries of Dibella (DOD) - v2.0.0</h2>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f1895ede-2478-477b-8729-140d8bca3372"
+  <img src="https://github.com/user-attachments/assets/a0e19010-870f-4383-b855-3d0365676e53" alt="DOD keyboard layout">
 </p>
 
-## ⚠️ Notes
+**Notes:**
+
+- To use the **PPA keys**, you must open the console, and hold **`Shift`** in addition to the listed modifier key.
+- To use the **Hunters Pride** and **Surrender** keys, you must hold the **Acheron Modifier** key in addition to the listed modifier key.
+
+---
+
+<h2 style="color:#3AAFB8;border-bottom-color:rgba(58,175,184,0.28)">Visions of Vaermina (VOV) - v2.0.0</h2>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f1895ede-2478-477b-8729-140d8bca3372" alt="VOV keyboard layout">
+</p>
+
+**Notes:**
 
 - To use the **PPA keys**, you must open the console, and hold **`Shift`** in addition to the listed modifier key.
 
 ---
 
-## Notes
+## General Notes
 
 - Some hotkeys may be changed through the **Mod Configuration Menu (MCM)**.
 - Additional systems may add their own hotkeys depending on the modlist.

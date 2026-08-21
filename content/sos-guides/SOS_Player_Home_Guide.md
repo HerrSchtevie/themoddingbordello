@@ -1,31 +1,29 @@
-# 🏠 Player Home Guide
-
 Welcome to the SOS Player Home Guide — a categorized list of recommended houses ranging from immersive farmsteads and cheat lairs to simple vanilla+ retreats. Each entry includes acquisition instructions, highlights, and modpage links.
 
 ---
 
-## 📚 Table of Contents
+## Table of Contents
 
-### 🏡 Mid to Mega Homes with Special Features
+### Mid to Mega Homes with Special Features
 - [Elysium Estate](#elysium-estate)
 - [Legacy of the Dragonborn Safehouse](#legacy-of-the-dragonborn-safehouse)
 - [Aemers Refuge](#aemers-refuge)
 - [Talos' Tease](#talos-tease)
 - [Thur Vonun Sanctum](#thur-vonun-sanctum)
 
-### 🛖 Small to Mid-Size Homes
+### Small to Mid-Size Homes
 - [Mirele Bismath](#mirele-bismath)
 - [The Interdimensional Chambers](#the-interdimensional-chambers)
 
-### 🎒 Portable Homes
+### Portable Homes
 - [Home in a Hat](#home-in-a-hat)
 
-### 🌲 Vanilla+ / Minimalist Homes
+### Vanilla+ / Minimalist Homes
 - [Eclipse Cottage](#eclipse-cottage)
 - [Breaking Dawn Cottage](#breaking-dawn-cottage)
 - [New Moon Cottage](#new-moon-cottage)
 
-### 🧪 Cheater Homes
+### Cheater Homes
 - [Levelers Tower](#levelers-tower)
 
 ---
@@ -119,8 +117,6 @@ Welcome to the SOS Player Home Guide — a categorized list of recommended house
 
 ---
 
-<a id="talos-tease"></a>
-
 <h2 class="visually-hidden">Talos' Tease</h2>
 
 <details>
@@ -152,14 +148,12 @@ Welcome to the SOS Player Home Guide — a categorized list of recommended house
 
 ---
 
-<a id="thur-vonun-sanctum"></a>
-
 <h2 class="visually-hidden">Thur Vonun Sanctum</h2>
 
 <details>
 <summary>Thur Vonun Sanctum</summary>
 
-<img alt="Talos' Tease" src="https://github.com/user-attachments/assets/d996ea72-c506-4c94-b18c-06f1f044d14b" />
+<img alt="Thur Vonun Sanctum" src="https://github.com/user-attachments/assets/d996ea72-c506-4c94-b18c-06f1f044d14b" />
 
 **Location:** The Reach, northwest of Riften  
 **Acquisition:** Walk inside  
@@ -241,7 +235,7 @@ Welcome to the SOS Player Home Guide — a categorized list of recommended house
 <img src="https://github.com/user-attachments/assets/a3eba05d-54d7-4f06-a1ba-1687a4e4ddf2" alt="image" />
 
 **Location:** Can be purchased from Spell Vendors  
-**Acquisition:** Purchase from Spell vendor in spawn in with Modex
+**Acquisition:** Purchase from a spell vendor, or spawn it in with Modex
 **Vibe:** Portable minimalist
 
 **Special Features:**

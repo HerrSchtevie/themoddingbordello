@@ -1,23 +1,24 @@
-# Hymns of Hircine (HOH)
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ba19dd35-9a47-47a6-92e3-d97666541411">
+</p>
+
+<p class="stat-line"><strong>2</strong> PROFILES · <strong>297</strong> GB DOWNLOAD · <strong>598</strong> GB INSTALLED · FULLY AUTOMATED VIA WABBAJACK</p>
 
 ## IMPORTANT
-Heavily modded Skyrim is a complex and delicate machine. It's going to take some time and care to get everything set up. **Decide now** to embrace the process. 
 
-Read *all* the instructions. *Follow* all the instructions. If you do, you'll be playing Skyrim before you know it. 
+Heavily modded Skyrim is a complex and delicate machine. It's going to take some time and care to get everything set up. **Decide now** to embrace the process.
 
-If you try to rush the procedure or cut corners, you'll be asking in Discord why things aren't working, when you could have been playing Skyrim instead. 
+Read *all* the instructions. *Follow* all the instructions. If you do, you'll be playing Skyrim before you know it.
+
+If you try to rush the procedure or cut corners, you'll be asking in Discord why things aren't working, when you could have been playing Skyrim instead.
 
 Take your time, work through every step in sequence, and then enjoy the game.
 
 *Dedicate this quest to Order, else Chaos shall surely result.*
-  
 
 ---
 
-### 📎 Community
+### Community
 
 <div align="center">
 
@@ -72,58 +73,40 @@ Buy Me a Coffee
 
 ---
 
-## 📖 Table of Contents
-- [⚠️ Disclaimer](#️-disclaimer)
-- [📌 Introduction](#-introduction)
-- [📋 Features](#-features)
-- [💻 Requirements](#-requirements)
-- [🔥 Installation Instructions](#-installation-instructions)
-- [✅ Post-Installation Steps](#-post-installation-steps)
-- [📚 Additional Guides](#-additional-guides)
-- [⚖️ Rule 11 – Modlist Modification Disclaimer](#️-rule-11–modlist-modification-disclaimer)
-- [📞 Support & Troubleshooting](#-support--troubleshooting)
-- [🤝 Credits & Permissions](#-credits--permissions)
-- [📸 Screenshots](#-screenshots)
-- [🔗 Links](#-links)
-- [❓ FAQ](#-faq)
-- [💬 Thank You](#-thank-you)
-
----
-
-## ⚠️ Disclaimer
+## Disclaimer
 
 Hymns of Hircine (HOH) is a Skyrim modlist designed for mature audiences. It includes NSFW content, OStim integration, and other adult-oriented modifications. Ensure you are legally allowed to access such content in your region before proceeding.
 
-## 📌 Introduction
+## Introduction
 
-Hymns of Hircine (HOH) is the immersive challenge modlist from the Scrolls of Schtevie team. This list transforms Skyrim into a merciless Hunting Ground where survival is never guaranteed. You will battle hunger, cold, exhaustion, and predators that stalk your every step, with Hircine’s blessing only granted through blood and perseverance. HOH is designed to be difficult, immersive, and role-play focused, encouraging you to step fully into the role of a hunter in a dangerous, unforgiving world. Every system — survival mechanics, combat, economy, and immersion mods — works together to create a relentless challenge that rewards patience, strategy, and role-play above all else.
+Hymns of Hircine (HOH) is the immersive challenge modlist from The Modding Bordello team. This list transforms Skyrim into a merciless Hunting Ground where survival is never guaranteed. You will battle hunger, cold, exhaustion, and predators that stalk your every step, with Hircine's blessing only granted through blood and perseverance. HOH is designed to be difficult, immersive, and role-play focused, encouraging you to step fully into the role of a hunter in a dangerous, unforgiving world. Every system — survival mechanics, combat, economy, and immersion mods — works together to create a relentless challenge that rewards patience, strategy, and role-play above all else.
 
-## ⚠️ Before You Install
+## Before You Install
 
-Before installing, use the **SOS Pre-Install Checker** to confirm your system and setup are ready.
+Before installing, use the SOS Pre-Install Checker to confirm your system and setup are ready.
 
-👉 [Run the Pre-Install Checker](/sos-pre-install-checker)
+**[Run the Pre-Install Checker](/sos-pre-install-checker)**
 
-## 📋 Features
+## Features
 
 - **Two Unique Profiles Included:**  
   HOH offers two distinct profiles tailored to your preferred experience:  
-  - **Lord's Vision** – ENB with multiple preset options﻿, full graphics, and all features enabled 
-  - **Performance** – Community Shaders﻿, same gameplay experience with optimized graphics for smoother play on lower-end systems
-  
+  - **Lord's Vision** – ENB with multiple preset options, full graphics, and all features enabled
+  - **Performance** – Community Shaders, same gameplay experience with optimized graphics for smoother play on lower-end systems
+
 - **Quest Mods:**  
-  HOH includes a massive lineup of lore-rich, fully patched quests that expand Skyrim’s world with new factions, dungeons, and narratives. Major entries include:  
+  HOH includes a massive lineup of lore-rich, fully patched quests that expand Skyrim's world with new factions, dungeons, and narratives. Major entries include:  
   Legacy of the Dragonborn, DAc0da, Vigilant, Glenmoril, Unslaad, The Forgotten City, Project AHO, Wyrmstooth, The Tools of Kagrenac, The Gray Cowl of Nocturnal, Sirenroot, Olenveld, Moon and Star, Legends of Aetherium, Heart of the Reach, Ascend, Sleepwalking into a Nightmare — and many more.
 
 - **Combat & Perks:**  
-  MCO combat featuring For Honor in Skyrim Reforged. A complete magic overhaul with many of the most popular spell add-ons. Combat is brutal, punishing, and designed to test both your skill and your determination with modern animation and progression systems.    
-  Perk overhaul is Vokrii with additional features from SALSa, and support from Mannaz, Freyr, Sacrilege, Growl, and Wintersun.
+  MCO combat featuring For Honor in Skyrim Reforged. A complete magic overhaul with many of the most popular spell add-ons. Combat is brutal, punishing, and designed to test both your skill and your determination with modern animation and progression systems.  
+  Perk overhaul is Vokrii, paired with Synergy - Skills and Perks Reimagined and SALSa skill-access locking, with support from Mannaz, Freyr, Sacrilege, Growl, and Wintersun.
 
 - **Survival and Needs:**  
-   Last Seed, Frostfall, Campfire, Skills of the Wild, Carry Your Carcasses, Hunters Loot, Stress and Fear, and Bathing in Skyrim all contribute to the immersion experience.
+  Last Seed, Frostfall, Campfire, Skills of the Wild, Carry Your Carcasses, Hunters Loot, Stress and Fear, and Bathing in Skyrim all contribute to the immersion experience.
 
 - **City and World Overhauls:**  
-  Fully integrated combinations of JK’s Skyrim, Cities of the North, and The Great Cities series — all patched for terrain, navmesh, AI paths, and visual consistency.
+  Fully integrated combinations of JK's Skyrim, Cities of the North, and The Great Cities series — all patched for terrain, navmesh, AI paths, and visual consistency.
 
 - **Armor & Weapon Add-ons:**  
   Includes a wide range of high-quality, lore-friendly armors (as well as NSFW armors/clothing) and weapons curated for visual consistency and seamless distribution across leveled lists.
@@ -132,135 +115,118 @@ Before installing, use the **SOS Pre-Install Checker** to confirm your system an
   HOH integrates OStim Standalone, OBody, HIMBO, and 3BA with immersive balance. All adult content is carefully implemented — no defeat mods, no excessive scripts, and no forced interactions.
 
 - **Comprehensive NPC Overhauls:**  
-  Nearly every NPC in Skyrim has been visually enhanced through a custom EasyNPC merge for maximum compatibility and consistency.
+  Nearly every NPC in Skyrim has been visually enhanced through a custom NPC Plugin Chooser 2 merge for maximum compatibility and consistency.
 
+## Requirements
 
-
-## 💻 Requirements
-
-### 📊 My System Specs (Reference Build)
+### My System Specs (Reference Build)
 
 | Component  | Specs                                  |
-|------------|---------------------------------------|
-| CPU        | AMD Ryzen 9 9950X3D                  |
-| GPU        | ASUS ROG ASTRAL 5090                     |
-| RAM        | 64GB DDR5-6000                    |
-| Storage    | Samsung 990 EVO PLUS 4TB SSD (PCIe Gen 4x4)  |
+|------------|----------------------------------------|
+| CPU        | AMD Ryzen 9 9950X3D                    |
+| GPU        | ASUS ROG ASTRAL 5090                   |
+| RAM        | 64GB DDR5-6000                         |
+| Storage    | Samsung 990 EVO PLUS 4TB SSD (PCIe Gen 4x4) |
 
 For reference, I run this list on a 32:9 ultrawide monitor (5120 x 1440) with smooth, consistent FPS on the Lord's Vision profile.
 
-### 📋 Recommended System Specs
+### Recommended System Specs
 
-🎮 **System Requirements for Hymns of Hircine - 🛡️ Lord’s Vision Profile** 🎮
+#### Lord's Vision Profile
 
-High Graphics | Full Feature Set | Maximum Visuals
+*High graphics, full feature set, maximum visuals.*
 
-| Component     | 🟡 Minimum (Playable)                                   | 🟢 Recommended (Ideal)                               |
+| Component     | Minimum (Playable)                                      | Recommended (Ideal)                                  |
 |---------------|---------------------------------------------------------|------------------------------------------------------|
-| **CPU**       | Intel Core i5 (10th Gen) / AMD Ryzen 5 (3000 series)    | Intel Core i7 (12th Gen) / AMD Ryzen 7 (5000 series)|
+| **CPU**       | Intel Core i5 (10th Gen) / AMD Ryzen 5 (3000 series)    | Intel Core i7 (12th Gen) / AMD Ryzen 7 (5000 series) |
 | **RAM**       | 16GB DDR4                                               | 32GB DDR4                                            |
 | **Pagefile**  | 40GB                                                    | 40GB                                                 |
 | **Storage**   | Internal SATA SSD                                       | NVMe M.2 SSD                                         |
-| **GPU**       | NVIDIA RTX 3060 Ti / AMD RX 6600 XT (8 GB VRAM)         | NVIDIA RTX 4070 Ti / AMD RX 7800 XT (16 GB VRAM)    |
-| **Disk Space**| ~280GB Download / ~588GB Installed / ~868GB Total       | ~280GB Download / ~588GB Installed / ~868GB Total   |
+| **GPU**       | NVIDIA RTX 3060 Ti / AMD RX 6600 XT (8 GB VRAM)         | NVIDIA RTX 4070 Ti / AMD RX 7800 XT (16 GB VRAM)     |
+| **Disk Space**| ~297GB Download / ~598GB Installed / ~895GB Total       | ~297GB Download / ~598GB Installed / ~895GB Total    |
 
----
+#### Performance Profile
 
-🎮 **System Requirements for Hymns of Hircine - 🛡️ Performance Profile** 🎮
+*Optimized for lower-end hardware, reduced visual load.*
 
-Optimized for Lower-End Hardware | Reduced Visual Load
-
-| Component     | 🟡 Minimum (Playable)                                | 🟢 Recommended (Ideal)                               |
+| Component     | Minimum (Playable)                                   | Recommended (Ideal)                                  |
 |---------------|------------------------------------------------------|------------------------------------------------------|
-| **CPU**       | Intel Core i5-6500 / AMD Ryzen 5 (1st or 2nd Gen)    | Intel Core i5 (10th Gen) / AMD Ryzen 5 (3000 series)|
+| **CPU**       | Intel Core i5-6500 / AMD Ryzen 5 (1st or 2nd Gen)    | Intel Core i5 (10th Gen) / AMD Ryzen 5 (3000 series) |
 | **RAM**       | 16GB DDR4                                            | 16–32GB DDR4                                         |
 | **Pagefile**  | 40GB                                                 | 40GB                                                 |
 | **Storage**   | Internal SATA SSD                                    | NVMe M.2 SSD                                         |
-| **GPU**       | NVIDIA RTX 2060 (6 GB VRAM) / AMD RX 5600 XT         | NVIDIA RTX 3060 Ti / AMD RX 6600 XT (8 GB VRAM)     |
-| **Disk Space**| ~280GB Download / ~588GB Installed / ~868GB Total    | ~280GB Download / ~588GB Installed / ~868GB Total    |
-
----
+| **GPU**       | NVIDIA RTX 2060 (6 GB VRAM) / AMD RX 5600 XT         | NVIDIA RTX 3060 Ti / AMD RX 6600 XT (8 GB VRAM)      |
+| **Disk Space**| ~297GB Download / ~598GB Installed / ~895GB Total    | ~297GB Download / ~598GB Installed / ~895GB Total    |
 
 The downloads can be removed after successful installation. NOT RECOMMENDED. But if you're short on space, it won't cause issues.
 
+> **Can I install the list on an external drive?** No. USB tops out around 5 Gbps (roughly 625 MB/s) and throttles hard once its cache fills, while a typical internal NVMe drive sustains more than ten times that. With the number of files Skyrim streams in a list this size, an external install means freezing and crashes.
+>
+> What an external drive *is* great for is **downloads**: point Wabbajack's Download Location at the external drive and keep the Installation Location on an internal SSD. You keep every archive on hand for future updates without eating internal space.
+
 ---
 
-## 🔍 Pre-Install Validation
+## Installation Instructions
 
-Ensure your system and setup have been validated using the **SOS Pre-Install Checker** before proceeding.
+### System Dependencies
 
-👉 [Run the Pre-Install Checker](/sos-pre-install-checker)
-
-## 🔥 Installation Instructions
-
-### 🧱 System Dependencies
-
-Before continuing, make sure these system components are installed — they are required for Wabbajack and Skyrim to function correctly:
+Before continuing, make sure these system components are installed. They are required for Wabbajack and Skyrim to function correctly:
 
 - [Microsoft Visual C++ Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 - [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) and [.NET 9 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)
-    - Get the Windows X64 Installers for the most current SDK version, unless you know that you need something different.
-    - we recommend you NOT install .NET 10, and uninstall it if it is installed. We have seen many examples of tool failures when .NET 10 is present.
+    - Get the Windows x64 installers for the most current SDK version, unless you know that you need something different.
+    - We recommend you NOT install .NET 10, and uninstall it if it is installed. We have seen many examples of tool failures when .NET 10 is present.
 
-If you're unsure whether these are already installed, it's safe to install them again — they will update or repair as needed.
+If you're unsure whether these are already installed, it's safe to install them again. They will update or repair as needed.
 
 ---
 
-### ❗ Prerequisites
+### Prerequisites
 
 Before you begin, make sure you meet the following **hard requirements**:
 
 - **You must own and install Skyrim Anniversary Edition (AE).**  
-  The Standard Special Edition (SSE) will not work — this modlist requires the full AE version with all Creation Club content.
+  The Standard Special Edition (SSE) will not work. This modlist requires the full AE version with all Creation Club content.
 
 - **You must have the Creation Kit installed via Steam.**  
   It is required for the modlist to compile and **must be installed on the same drive** as your Skyrim AE installation.  
   > Example: If Skyrim AE is installed on `D:\`, the Creation Kit must also be installed on `D:\`.
 
-- **Installation must be on an Internal SSD.**  
+- **Your Steam copy of Skyrim must be fully updated.**  
+  Wabbajack reads vanilla game files from your Steam installation during install, so let Steam finish updating Skyrim to the current patch before you begin. Once installed, the list runs from its own copy of the game files and is not affected by future Steam updates.
+
+- **Installation must be on an internal SSD.**  
   Installing to an HDD or any external storage device will result in long load times, freezing, and crashes.
 
 - **Disable unneeded background processes.** This includes Steam, Nvidia, and AMD overlays; volunteer computing projects like Folding@home; hardware management apps from Corsair, Logitech, Razer, etc; Wallpaper Engine and other desktop toys; and anything else that will divert system resources from Skyrim.
 
-- **Consider disabling TurboBoost and any overclocking technology.** We've seen numerous cases where boosting hardware beyond its normal operating parameters leads to system instability under the demands of a highly modded Skyrim environment. 
-
-
-> ⚠️ **Creation Kit Installation Bug — March 2026 Steam Update**
->
-> A recent Steam update is causing the Skyrim Special Edition Creation Kit to install into a new, separate folder (e.g., `Skyrim Special Edition 1946180`) instead of your existing Skyrim directory.
->
-> **To fix it:**
->
-> - Open the newly created folder (e.g., `Skyrim Special Edition 1946180`).
-> - Move **all of its contents** into your main Skyrim Special Edition installation folder.
-> - Manually launch `CreationKit.exe` from that correct location.
-> - Allow it to finish its initial setup and script unpacking.
-> - Close the Creation Kit once it's done, then continue with the installation normally.
+- **Consider disabling TurboBoost and any overclocking technology.** We've seen numerous cases where boosting hardware beyond its normal operating parameters leads to system instability under the demands of a highly modded Skyrim environment.
 
 ---
 
-### 🧰 Installation Steps
+### Installation Steps
 
 1. **Download Wabbajack**  
    Get the latest version of Wabbajack from [https://www.wabbajack.org/](https://www.wabbajack.org/)
 
 2. **Prepare a Clean Skyrim AE Installation**  
-   🎥 *All of the steps below are shown in this video:*  
+   *All of the steps below are shown in this video:*  
    [GamerPoets – Clean Skyrim Setup Guide](https://www.youtube.com/watch?v=B1QyAj4c564&ab_channel=GamerPoets)
 
    - Uninstall any existing Skyrim installation via Steam.
    - Navigate to `Documents\My Games\Skyrim Special Edition` and delete all contents (back up if desired).
    - Reinstall **Skyrim Anniversary Edition** via Steam.
    - **Launch Skyrim AE once through Steam** to allow all Creation Club content to download.  
-     Do **not** change any settings or start a game — just reach the main menu, download the Creation Kit content via the popup, then close it.
+     Do **not** change any settings or start a game. Just reach the main menu, download the Creation Club content via the popup, then close the game.
    - Install the **Skyrim Special Edition Creation Kit** from the *Software* section in your Steam Library. (If your library is filtered to just Games, the SSE Creation Kit will not be visible.)  
-     ✅ Make sure it’s installed on the **same drive** as Skyrim AE.  
-     ⚠️ **Do not install the regular Skyrim Creation Kit** — it is not compatible and will not work with this modlist.
-   - **Launch the Creation Kit once** to initialize its content, allow it to complete downloading, then close it.  
+     Make sure it's installed on the **same drive** as Skyrim AE.  
+     **Do not install the regular Skyrim Creation Kit.** It is not compatible and will not work with this modlist.  
+     **Do not skip this step.** Creation Kit is not the same as Creation Club. You must have BOTH Creation Kit AND Creation Club content installed to proceed.
+   - **Launch the Creation Kit once** to initialize its content, allow it to complete downloading, then close it.
 
-3. **Create folders and Defender exceptions**
+3. **Create Folders and Defender Exceptions**
    - In Windows, create a `\modlists` directory and a `\downloaded mods` directory if you do not already have them. They do not need to be on the same drive, but each needs to be on a drive with adequate available storage capacity. You do not have to use those exact names.
-   - ⚠️Important: Do not bury your `\modlists` folder deep in your directory system. If the absolute path to your list install is much longer than `D:\modlists\HOH\` you may encounter cryptogenic errors resulting from overlong file paths.
+   - **Important:** do not bury your `\modlists` folder deep in your directory system. If the absolute path to your list install is much longer than `D:\modlists\HOH\` you may encounter cryptogenic errors resulting from overlong file paths.
    - Assuming you are using Windows Defender as your antivirus, open `Windows Security` -> `Virus and Threat Detection` -> `Manage settings`.
    - Scroll all the way down to the Exclusions section. Click `Add or remove exclusions`.
    - Select and add the two directories mentioned above.
@@ -268,9 +234,7 @@ Before you begin, make sure you meet the following **hard requirements**:
 
 ---
 
-A note about BitDefender
-
-We have seen numerous reports from players experiencing installation failures or unexplained crashes during play, that removing or disabling BitDefender massively improved their game stability. If you are using BitDefender, we strongly encourage you to consider uninstalling it and relying on the native Windows Defender security features. Failing that, you may wish to put the app into a temporary disable mode while you are installing or playing Skyrim. 
+**A note about BitDefender:** many players who experienced installation failures or unexplained crashes during play found that removing or disabling BitDefender massively improved their game stability. If you are using BitDefender, we strongly encourage you to consider uninstalling it and relying on the native Windows Defender security features. Failing that, you may wish to put the app into a temporary disable mode while you are installing or playing Skyrim.
 
 ---
 
@@ -278,132 +242,183 @@ We have seen numerous reports from players experiencing installation failures or
    - Open Wabbajack.
    - Click the **Modlists Browser** tab.
    - In the **upper-left corner**, enable both:
-     - ✅ **Show Unofficial Lists**
-     - ✅ **Show NSFW Lists**
+     - **Show Unofficial Lists**
+     - **Show NSFW Lists**
    - Use the search bar to find **Hymns of Hircine (HOH)**.
 
 5. **Select the Modlist**
    - Click on **Hymns of Hircine**.
    - Choose:
-     - A **Download Location** – where Wabbajack will store mod archives. Select the `\downloaded mods` directory from step 3. 
-       📦 Requires approximately **280 GB of free space**. 
-     - An **Installation Location** – where the modlist will be fully installed and run from. Create a `\HOH` directory in the \modlists folder from step 3.
-       💾 Requires approximately **588 GB of free space**.  
-       ⚠️ **This must be on an SSD** for performance and stability.
-          Note that SSDs perform *very poorly* when over 85-90% capacity. Don't try to cram this onto a drive where it will only barely fit.
+     - A **Download Location** – where Wabbajack will store mod archives. Select the `\downloaded mods` directory from step 3.  
+       Requires approximately **297 GB of free space**.
+     - An **Installation Location** – where the modlist will be fully installed and run from. Create a `\HOH` directory in the `\modlists` folder from step 3.  
+       Requires approximately **598 GB of free space**.  
+       **This must be on an internal SSD** for performance and stability.  
+       Note that SSDs perform *very poorly* when over 85-90% capacity. Don't try to cram this onto a drive where it will only barely fit.
 
-4. **Start Installation**
+6. **Start Installation**
    - Click **Start** to begin the automated installation.
    - Wabbajack will handle the process automatically. If any files fail to download (e.g., Nexus permissions), Wabbajack will prompt you to log in or download manually.
 
-   > 📺 *Optional:* [Watch Biggie’s Wabbajack Install Guide](https://www.youtube.com/watch?v=nApuOZWp12c&ab_channel=biggie_boss)
+   > *Optional:* [Watch Biggie's Wabbajack Install Guide](https://www.youtube.com/watch?v=nApuOZWp12c&ab_channel=biggie_boss)
 
-5. **While Wabbajack is running:**
-   - Join the [Discord server](https://discord.gg/themoddingbordello) and ask any questions you might have.
+7. **While Wabbajack Is Running**
+   - Join [The Modding Bordello Discord](https://discord.gg/themoddingbordello) and ask any questions you might have.
    - Review the mod pages for [Mannaz](https://www.nexusmods.com/skyrimspecialedition/mods/87219), [Freyr](https://www.nexusmods.com/skyrimspecialedition/mods/88043), and [Wintersun](https://www.nexusmods.com/skyrimspecialedition/mods/22506) and start planning your character build.
 
-> ⚠️ **Important Notice — Read Before You Begin**  
->  
-> **Hymns of Hircine** is *not* like the other Scrolls of Schtevie lists.  
+> **Important Notice: Read Before You Begin**
+>
+> **Hymns of Hircine** is *not* like the other Bordello lists.  
 > While it may have been forked from them, it shares only **visual similarities**.  
-> This list is built around **hardcore survival and punishing gameplay mechanics** that demand preparation, patience, and awareness.  
->  
-> It is **absolutely essential** that you read the full **[Gameplay Guide](/modlists/hoh/gameplay-guide)** before beginning your journey — especially if you are new to survival-focused modlists.  
->  
+> This list is built around **hardcore survival and punishing gameplay mechanics** that demand preparation, patience, and awareness.
+>
+> It is **absolutely essential** that you read the full **[Gameplay Guide](/modlists/hoh/gameplay-guide)** before beginning your journey — especially if you are new to survival-focused modlists.
+>
 > Proceeding without doing so will almost certainly result in frustration and confusion. You have been warned, Hunter.
 
 ---
 
----
+8. **Having Issues? Run Through This Checklist First**
 
-6. **Having Issues? Run Through This Checklist First**  
 If Wabbajack is refusing to download or install the modlist, double-check the following **before requesting support**:
 
-- ❓ Did you completely clean your system of all traces of Skyrim before beginning?
-- ✅ Are you using a **fresh install** of **Skyrim Anniversary Edition**?
-- 🔓 Did you **launch Skyrim once through Steam** to allow all Creation Club content to download?
-- 🧰 Did you install the **Skyrim Special Edition Creation Kit** via Steam on the **same drive** as your Skyrim install?
-- 🟢 Did you **launch the Skyrim Special Edition Creation Kit once** to initialize its required files?
-- 💾 Do you have enough **free space** on your installation drive?
-- 🌐 Are you **logged into NexusMods** with a **Premium membership**?
-- 🔁 Have you retried the download at least **3 times**? Sometimes Wabbajack errors are temporary and resolve on their own.
+- Did you completely clean your system of all traces of Skyrim before beginning?
+- Are you using a **fresh install** of **Skyrim Anniversary Edition**?
+- Did you **launch Skyrim once through Steam** to allow all Creation Club content to download?
+- Did you install the **Skyrim Special Edition Creation Kit** via Steam on the **same drive** as your Skyrim install?
+- Did you **launch the Skyrim Special Edition Creation Kit once** to initialize its required files?
+- Do you have enough **free space** on your installation drive?
+- Are you **logged into NexusMods** with a **Premium membership**?
+- Have you retried the download at least **3 times**? Sometimes Wabbajack errors are temporary and resolve on their own.
 
-> If you’ve gone through the full checklist and are still stuck, feel free to ask for help in [The Modding Bordello Discord](https://discord.gg/WuJe7CXpCZ)
+> If you've gone through the full checklist and are still stuck, feel free to ask for help in [The Modding Bordello Discord](https://discord.gg/themoddingbordello).
 
+## Post-Installation Steps
 
-## ✅ Post-Installation Steps
-
-Once Wabbajack finishes, you're not quite ready to jump in yet — follow these steps carefully to finalize your setup.
-
----
-
-### 0. **Seriously, read the [HOH Gameplay Guide](/modlists/hoh/gameplay-guide) first**!
+Once Wabbajack finishes, you're not quite ready to jump in yet. Follow these steps carefully to finalize your setup.
 
 ---
 
-### 1. **Open MO2**
+### 0. Seriously, read the [HOH Gameplay Guide](/modlists/hoh/gameplay-guide) first!
 
-- Navigate to your **Hymns of Hircine installation folder**.  
+---
+
+### 1. Open MO2
+
+- Navigate to your **Hymns of Hircine installation folder**.
 - Launch **ModOrganizer.exe** (MO2) from that directory.
 - If you get a popup asking if you want to associate Mod Organizer with NXM links, click Yes.
 
 ---
 
-### 2. **Select Your Profile (and Stick With It)**
+### 2. Select Your Profile (and Stick With It)
 
 Hymns of Hircine includes **two distinct profiles**, each preconfigured with its own settings, tool outputs, and game experience.  
 You can select your profile from the **dropdown in the upper-left corner of MO2** (just above the mod pane).
 
 | Profile Name                | Description                                                                 |
 |-----------------------------|-----------------------------------------------------------------------------|
-| **Lord’s Vision**           | Multiple ENB preset options, full graphics, and all features enabled                        |
-| **Performance**             | Community Shaders﻿, same gameplay experience with reduced graphics for smoother play on lower-end systems             |
+| **Lord's Vision**           | Multiple ENB preset options, full graphics, and all features enabled        |
+| **Performance**             | Community Shaders, same gameplay experience with reduced graphics for smoother play on lower-end systems |
 
-> ⚠️ **IMPORTANT:** Once you choose a profile, **stick with it**.  
+> **Important:** once you choose a profile, **stick with it**.  
 > Do **not** switch between profiles mid-playthrough. Each profile uses its own:
-> - Mod configurations  
-> - MCM settings  
-> - Tool outputs (DynDOLOD, TexGen, BodySlide, etc.)  
-> - Save file directories  
+> - Mod configurations
+> - MCM settings
+> - Tool outputs (DynDOLOD, TexGen, BodySlide, etc.)
+> - Save file directories
 >
 > **Save files are not cross-compatible.** Switching profiles mid-playthrough can break your game or result in corrupted saves.
 
 ---
 
-### 3. **Configure HOH to your preferences**
+### Swapping ENB Presets (Optional)
+
+The Lord's Vision profile ships with five ENB presets. Kauz ENB is enabled by default; the alternates sit disabled alongside it in MO2's left pane:
+
+- [Kauz ENB](https://www.nexusmods.com/skyrimspecialedition/mods/111431)
+- [Rudy ENB](https://www.nexusmods.com/skyrimspecialedition/mods/91675)
+- [Berserkyr ENB](https://www.nexusmods.com/skyrimspecialedition/mods/62381)
+- [Cabbage ENB](https://www.nexusmods.com/skyrimspecialedition/mods/103042)
+- [Amon ENB](https://www.nexusmods.com/skyrimspecialedition/mods/99786)
+
+**If you haven't loaded the game yet:**
+
+1. Uncheck the ENB preset you were previously using (by default, Kauz).
+2. Check the new ENB you want to use and follow any instructions noted on that mod in MO2.
+
+**If you have already loaded the game:**
+
+1. Delete the ENB Cache in your overwrite folder (e.g. `D:\modlists\HOH\overwrite`).
+2. Uncheck the ENB preset you were previously using.
+3. Check the new ENB you want to use and follow any instructions noted on that mod in MO2.
+
+For side-by-side comparisons, see [Berserkyr vs Rudy vs Kauz vs Cabbage](https://www.youtube.com/watch?v=iYbj4jkhap0) and [Amon vs Kauz vs Cabbage](https://www.youtube.com/watch?v=HsH8YF6uSmc).
+
+---
+
+### 3. Configure HOH to Your Preferences
 
 Before diving into your playthrough, take a moment to configure the list to match your setup. Whether you're using ultrawide resolutions or a controller, Hymns of Hircine is built to adapt — but it expects you to pick your setup and stick with it.
 
 ---
 
-### 🖥️ Widescreen & Resolution Support
+### Widescreen & Resolution Support
 
 Hymns of Hircine includes full widescreen support with UI presets for all major aspect ratios. These options are found near the **bottom of MO2** under the **`Resolution Presets`** separator (highlighted in blue).
 
-- **✅ Always enabled:**
+- **Always enabled:**
   - `HOH - Core UI`
 
 - **Choose one (and only one) based on your monitor:**
-  - `HOH - 21x9 UI Patch` → for ultrawide (21:9)
-  - `HOH - 32x9 UI Patch` → for super ultrawide (32:9)
+  - `HOH - 21x9 UI Patch` for ultrawide (21:9)
+  - `HOH - 32x9 UI Patch` for super ultrawide (32:9)
 
- ![image](https://github.com/user-attachments/assets/a3b222fc-89d1-4389-ad9e-c78e7cdf9b7f)
-
+![image](https://github.com/user-attachments/assets/a3b222fc-89d1-4389-ad9e-c78e7cdf9b7f)
 
 > Do not enable multiple resolution patches. Choose the one that fits your monitor setup.
 
+#### Setting Your Resolution
+
+The list reads its resolution from `SSEDisplayTweaks.ini`, not from the vanilla launcher. To set a specific resolution:
+
+1. In MO2's right panel, select the **Data** tab and type `ssedisplaytweaks.ini` into the filter field at the bottom right.
+2. Expand the `SKSE` folder, then the `Plugins` folder.
+3. Right-click `SSEDisplayTweaks.ini` and click **Open**.
+4. Scroll down to `Resolution`. If there is a `#` symbol in front of it, remove the `#`.
+5. Set your resolution, e.g. `Resolution = 1920x1080`.
+6. Save and exit the file, then play.
+
+To run a resolution different from your native one (upscaling for extra FPS), set the following in the same file:
+
+- Remove the `#` from `BorderlessUpscale` if present and set `BorderlessUpscale = true`.
+- Set `DisableBufferResizing = true`. This is required whenever `BorderlessUpscale` is on; without it you will be stuck on a black screen.
+- Remove the `#` from `ResolutionScale` and set `ResolutionScale = 1.00`.
+- Set `Resolution` below your native resolution (e.g. `1920x1080` on a 2560x1440 monitor, or `1600x900` on a 1080p monitor). This trades a little blur for FPS and reduced VRAM load.
+
+**16:10 monitors:** neither Skyrim nor our UI is configured for 16:10, and forcing a rectangular peg into a slightly more rectangular hole is a struggle you will not win. Use the steps above to set the closest 16:9 resolution, and make sure `BorderlessUpscale` and `DisableBufferResizing` are both enabled.
+
+#### Windows Display Scaling
+
+If Windows is set to a display scale other than 100%, your first launch may come up smaller than your screen (scale under 100%) or spill onto a second monitor (scale over 100%). The list includes DPI Scaling Fix, which corrects this automatically. Just close the game and start it again.
+
+To verify the fix (or apply it manually): open the list's `Stock Game` folder, right-click `SkyrimSE.exe`, select **Properties** > **Change high DPI settings**, and make sure **Override high DPI scaling behavior** is checked.
+
+Where possible, keep Windows Display Settings at 100% scale. Higher Windows scaling interferes with Skyrim's UI scaling.
+
 ---
 
-### 🛠️ Performance Tuning (Optional)
-* We encourage users to run VRAMr unless you have at least 16 GB of VRAM. If you have 10 GB of VRAM or less, we consider it a functional *necessity*.
-* We encourage users to install and run Bethini PIE to optimize Skyrim's ini files to suit your system.
-* Instructions for both tools and additional performance improvements can be found in the Tome section of our Discord.
+### Performance Tuning (Optional)
+
+- We encourage users to run **VRAMr** unless you have at least 16 GB of VRAM. If you have 10 GB of VRAM or less, we consider it a functional *necessity*.
+- We encourage users to install and run **Bethini PIE** to optimize Skyrim's ini files to suit your system.
+- Instructions for both tools and additional performance improvements are in the [SOS Performance Tuning Guide](/guides/sos-performance-tuning-guide).
 
 ---
 
-### 🎮 Controller Support (Optional)
+### Controller Support (Optional)
 
-Controller support is fully integrated into HOH — but all related mods are **disabled by default** so players can opt in manually. To enable controller support:
+Controller support is fully integrated into HOH, but all related mods are **disabled by default** so players can opt in manually. To enable controller support:
 
 1. Scroll to the **`Controller Support`** separator in MO2 (highlighted in blue).
 2. **Enable all of the following mods**:
@@ -413,68 +428,66 @@ Controller support is fully integrated into HOH — but all related mods are **d
    - `Dragonborn - Wheeler Reskin`
    - `Dragonborn - Wheeler Reskin Edge UI Colors`
    - `Complete Controller Setup`
-  
-  ![image](https://github.com/user-attachments/assets/338ebd7c-aaaa-47eb-8027-511d93fc80c1)
+
+   ![image](https://github.com/user-attachments/assets/338ebd7c-aaaa-47eb-8027-511d93fc80c1)
 
 3. In the **right-side plugin pane**, locate the following plugins and drag them into the correct plugin groups:
-   - `Gamepad++` → move to the **User Interface** group
-   - `Complete Controller Setup` → move to the **Master Plugins** group
+   - `Gamepad++` goes in the **User Interface** group
+   - `Complete Controller Setup` goes in the **Master Plugins** group
 
-> ⚠️ Incorrect plugin group assignment can cause controller-related bugs or interface issues.
+> Incorrect plugin group assignment can cause controller-related bugs or interface issues.
 
-Once enabled and properly sorted, you’ll have full access to enhanced controller features including radial wheels, custom stances, and a gamepad-friendly UI.
+Once enabled and properly sorted, you'll have full access to enhanced controller features including radial wheels, custom stances, and a gamepad-friendly UI.
 
-### 4. **Set the Executable and Launch the Game**
+### 4. Set the Executable and Launch the Game
 
 - Ensure **`Hymns of Hircine`** is selected as the modlist in the **top-right executable dropdown** in MO2.
 - Click **Run** to start the game.
 
-> ⚠️ **Important Warning: Never Click "Unlock" in MO2**
+> **Important Warning: Never Click "Unlock" in MO2**
 >
 > Do **not** click **"Unlock"** in Mod Organizer 2 while Hymns of Hircine is launching or running.
 >
 > **The game may take several minutes to launch depending on your system specs.**  
-> That’s normal. Be patient. If it’s taking forever, your PC might just be a potato in disguise. Don’t take it out on MO2.
-> 
+> That's normal. Be patient. If it's taking forever, your PC might just be a potato in disguise. Don't take it out on MO2.
+>
 > MO2 will automatically unlock when the game has fully closed.  
 > Manually clicking "Unlock" can break the virtual file system, sever mod links, or corrupt your entire install.
 
-### 5. **Saving and Loading**
+### 5. Saving and Loading
 
-- Skyrim’s default save and load system has long-standing issues that can introduce corruption into your saves over time. This corruption accumulates, eventually rendering saves unstable or unplayable. These are limitations of the Skyrim engine itself, not conflicts with this modlist.
+- Skyrim's default save and load system has long-standing issues that can introduce corruption into your saves over time. This corruption accumulates, eventually rendering saves unstable or unplayable. These are limitations of the Skyrim engine itself, not conflicts with this modlist.
 
-- To address this, we include Skyrim Save System Overhaul 3 (SSSO3). This mod ensures that saves are only written when the engine can safely create a clean file, greatly reducing the chance of progressive corruption. Refer to our [HOH Gameplay Guide](/modlists/hoh/gameplay-guide#-skyrim-save-system-overhaul-3) for configuration instructions.
+- To address this, we include Skyrim Save System Overhaul 3 (SSSO3). This mod ensures that saves are only written when the engine can safely create a clean file, greatly reducing the chance of progressive corruption. Refer to our [HOH Gameplay Guide](/modlists/hoh/gameplay-guide#skyrim-save-system-overhaul-3) for configuration instructions.
 
-- When SSSO3 displays a “Saving Delayed” message, it means the engine is too busy to make a clean save. To improve your chances of saving safely:
-  -    Exit dialogues and menus
-  -    Exit combat
-  -    Stop moving and look at the ground to reduce load
-  -    Wait until the game confirms the save has completed
-  -    If saving is consistently blocked in one spot, move to a quieter nearby area and try again.
+- When SSSO3 displays a "Saving Delayed" message, it means the engine is too busy to make a clean save. To improve your chances of saving safely:
+  - Exit dialogues and menus
+  - Exit combat
+  - Stop moving and look at the ground to reduce load
+  - Wait until the game confirms the save has completed
+  - If saving is consistently blocked in one spot, move to a quieter nearby area and try again.
 
 - Loading during play is even riskier than saving. When you reload mid-session, leftover data from the current session mixes with the new one; then, the next time you save, that bad data is baked into your save file from then on.
-  -    Never quickload.
-  -    Always exit to desktop and restart Skyrim before loading another save, including when reloading after death.
-  -    Again, this guidance applies to all Skyrim configurations, not just JOJ.
+  - Never quickload.
+  - Always exit to desktop and restart Skyrim before loading another save, including when reloading after death.
+  - Again, this guidance applies to all Skyrim configurations, not just HOH.
 
-- To reduce the number of reloads you’ll need to perform, the list includes the Shadow of Skyrim death alternative mod. While it won’t prevent every death, it will minimize situations where you’re forced to reload. Feel free to use a different death alternative if you prefer.
+- To reduce the number of reloads you'll need to perform, the list includes the Shadow of Skyrim death alternative mod. While it won't prevent every death, it will minimize situations where you're forced to reload. Feel free to use a different death alternative if you prefer.
 
+### 6. New Character Startup Procedures
 
-### 6. **New Character Startup Procedures**
+When starting a **brand-new character** in **Hymns of Hircine**, the single best thing you can do is not rush. Script registrations and MCM recordings run behind the scenes from the moment a new game starts; give them room to finish and most first-launch problems never happen.
 
-When starting a **brand-new character** in **Hymns of Hircine**, keep these things in mind.
+- **Take your time in RaceMenu:**  
+  Spend at least a few minutes on your character (or simply wait) before confirming. Consider saving your appearance as a RaceMenu preset in case you ever need to recreate the character.
 
 - **MCM Recorder prompts:**  
   During the initial startup, you may see a MCM Recorder failure prompt.  
-  Select **Retry** if this happens.
-
-- **Last Seed status bars on first load:**  
-  On a new save, **Last Seed status bars may appear at the bottom of the screen**, even though they are disabled by default.  
-  This is expected behavior on first load; they will remove themselves when you reload the game in the next step.
+  Select **Retry** if this happens. If the same recording fails repeatedly, select **Skip**; you can play it back manually later.
 
 - **After MCMs have finished loading, relog:**  
   Once character initialization is complete, **save your game, exit to desktop, and relaunch**.  
-  This relog is required by the SSSO3 start-up procedures specified in the [HOH Gameplay Guide](/modlists/hoh/gameplay-guide#-skyrim-save-system-overhaul-3).
+  This relog is required by the SSSO3 start-up procedures specified in the [HOH Gameplay Guide](/modlists/hoh/gameplay-guide#skyrim-save-system-overhaul-3).
 
 - **Verify Last Seed and Frostfall MCMs:**  
   After relaunching, open the MCM menu.  
@@ -482,78 +495,69 @@ When starting a **brand-new character** in **Hymns of Hircine**, keep these thin
   `MCM > Configure (at the top) > Reset MCM`  
   The missing MCMs will then appear as expected.
 
+- **Hand-tune after the recordings finish:**  
+  Once all MCM recordings have finished playback, you can begin hand-tuning MCMs to your preferences.
+
 These steps are part of the intended first-time setup process.
 
 ---
 
-### 🛠️ Additional Notes
+### Additional Notes
 
-- 🗣️ **Language:** Your Skyrim installation **must be set to English**  
-  → [How to change Skyrim’s language](https://help.bethesda.net/app/answers/detail/a_id/651/~/how-do-i-change-the-language-in-skyrim%3F)
+- **Language:** your Skyrim installation **must be set to English**.  
+  [How to change Skyrim's language](https://help.bethesda.net/app/answers/detail/a_id/651/~/how-do-i-change-the-language-in-skyrim%3F)
 
 ---
 
-## 📚 Additional Guides
+## Additional Guides
 
 For more information on controller support, NPC management, and running essential tools, check out the following:
 
-- [🧭 HOH Gameplay Guide](/modlists/hoh/gameplay-guide)  
-  Explains key gameplay systems, progression, mechanics, and builds.
-
-- [🛠️ SOS Tool Running Guide](/guides/sos-tool-running-guide)  
-  Covers when and how to safely run Pandora, Synthesis, ParallaxGen, xLODGen, TexGen, and DynDOLOD
-
-- [🎮 SOS Controller Setup Guide](/guides/sos-controller-guide)  
-  How to enable and configure controller support
-
-- [🧑‍🤝‍🧑 SOS Follower Guide](/guides/sos-follower-guide)  
-  List of custom followers, where to find them, and compatibility notes.
-
-- [🏠 SOS Player Home Guide](/guides/sos-player-home-guide)  
-  List of custom followers, where to find them, and compatibility notes.
-
-- [🎭 SOS NPC Plugin Chooser 2 Guide](/guides/sos-npc-plugin-chooser-2-guide)  
-  Managing and customizing NPC appearances  
-
-- [🧩 SOS Rule 11 Guide](/guides/sos-rule-11-guide)  
-  Understanding list modifications and their risks  
+- [HOH Gameplay Guide](/modlists/hoh/gameplay-guide): key gameplay systems, progression, mechanics, and builds.
+- [SOS Tool Running Guide](/guides/sos-tool-running-guide): when and how to safely run Pandora, Synthesis, ParallaxGen, xLODGen, TexGen, and DynDOLOD.
+- [SOS Controller Guide](/guides/sos-controller-guide): how to enable and configure controller support.
+- [SOS Follower Guide](/guides/sos-follower-guide): custom followers, where to find them, and compatibility notes.
+- [SOS Player Home Guide](/guides/sos-player-home-guide): player homes included in the lists, with features, acquisition, and location.
+- [SOS NPC Plugin Chooser 2 Guide](/guides/sos-npc-plugin-chooser-2-guide): managing and customizing NPC appearances.
+- [SOS Rule 11 Guide](/guides/sos-rule-11-guide): understanding list modifications and their risks.
 
 ---
 
-## ⚖️ Rule 11 – Modlist Modification Disclaimer
+## Rule 11: Modlist Modification Disclaimer
 
 By choosing to modify or tweak **Hymns of Hircine (HOH)** in any way — whether by adding mods, changing load order, editing settings, or rebuilding components — you are doing so at your own risk.
 
-> 🛠️ **You have effectively voided your warranty.**
+> **You have effectively voided your warranty.**
 
 While we absolutely encourage learning and modding, please understand that:
 
 - **Myself and the admin team are not obligated to help troubleshoot issues** caused by personal edits or changes to the list.
 - We cannot guarantee support for lists that differ from the officially published Wabbajack version.
-- If something breaks because of your changes, it’s your responsibility to fix it.
+- If something breaks because of your changes, it's your responsibility to fix it.
 
-That said, we understand modding is fun and personal. If you're stuck after making changes, you may post in the `🛡️ Grey Aegis` channel on our [Discord server](https://discord.gg/8ZCa7w8BZQ). Help is not guaranteed — but if we can (and want to), we may offer guidance.
+That said, we understand modding is fun and personal. If you're stuck after making changes, you may post in the list's Rule 11 channel on [The Modding Bordello Discord](https://discord.gg/themoddingbordello). Help is not guaranteed, but if we can (and want to), we may offer guidance.
 
-Thank you for respecting the work that went into JOJ, and for being part of the community!
+Thank you for respecting the work that went into HOH, and for being part of the community!
 
-➡️ [Here is the in-depth guide to help you out if you really want to modify the list.](/guides/sos-rule-11-guide)
+[Here is the in-depth guide](/guides/sos-rule-11-guide) if you really want to modify the list.
 
 ---
 
-## 📞 Support & Troubleshooting
+## Support & Troubleshooting
 
 If you encounter issues:
+
 - Check your install directory for errors.
 - Ensure all prerequisites are installed correctly.
-- Visit the Wabbajack Discord or Scrolls of Schtevie Discord for assistance.
+- Visit the Wabbajack Discord or [The Modding Bordello Discord](https://discord.gg/themoddingbordello) for assistance.
 
-## 🤝 Credits & Permissions
+## Credits & Permissions
 
-- **Biggie Boss:** Creator of NGVO graphics overhauls
-- **Various mod authors:** For quest mods, overhauls, and graphical enhancements.
-- **Wabbajack Team:** For providing the tools to distribute this list.
+- **Biggie Boss:** creator of the NGVO graphics overhauls.
+- **Various mod authors:** for quest mods, overhauls, and graphical enhancements.
+- **Wabbajack Team:** for providing the tools to distribute this list.
 
-## 📸 Screenshots
+## Screenshots
 
 ![Screenshot746](https://i.imgur.com/NmnkO8F.png)
 ![Screenshot746](https://i.imgur.com/3sGi2aX.png)
@@ -561,32 +565,32 @@ If you encounter issues:
 ![Screenshot748](https://i.imgur.com/iwWGkH9.jpeg)
 ![image](https://github.com/user-attachments/assets/43647165-2094-4c42-a9c8-8cff2ada0c4a)
 
-
-## 🔗 Links
+## Links
 
 - [Wabbajack](https://www.wabbajack.org/)
-- [Discord](https://discord.gg/8ZCa7w8BZQ)
+- [The Modding Bordello Discord](https://discord.gg/themoddingbordello)
+- [Hymns of Hircine on Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/156686)
 
-## ❓ FAQ
+## FAQ
 
 - **Q: What do I need for this list to install properly?**  
   A: **Anniversary Edition (AE) and Creation Kit are hard requirements.** This modlist will not work correctly with Standard Skyrim Special Edition (SSE), and will not download correctly without Creation Kit.
 
 - **Q: Where do I go for support?**  
-  A: Visit the Wabbajack Discord or [The Modding Bordello](https://discord.gg/themoddingbordello) for assistance.
+  A: Visit the Wabbajack Discord or [The Modding Bordello Discord](https://discord.gg/themoddingbordello) for assistance.
 
 ---
 
-## 💬 Thank You
+## Thank You
 
 Thank you for taking the time to install and experience **Hymns of Hircine**. This project is a passion-driven labor of love built on the shoulders of an incredible modding community.
 
-Whether you're here for the lore, the visuals, the chaos, or the adult content — I truly appreciate you choosing JOJ as your journey through Skyrim.
+Whether you're here for the lore, the visuals, the chaos, or the adult content — I truly appreciate you choosing HOH as your journey through Skyrim.
 
 If you enjoyed the list, consider joining the [Discord](https://discord.gg/themoddingbordello), sharing your screenshots, and helping others in the community. Your feedback, bug reports, and kind words help keep this project alive and growing.
 
-May Hircine’s blessing guide you, Hunter.
+May Hircine's blessing guide you, Hunter.
 
 ![Jyggalag_red_resized](https://github.com/user-attachments/assets/8af6f27c-fb04-41af-b6e8-7704127730ee)
 
-— **Herr Schtevie** 
+— **Herr Schtevie**
