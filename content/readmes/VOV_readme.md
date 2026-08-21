@@ -508,7 +508,7 @@ If you encounter issues:
 
 ## Credits & Permissions
 
-- **Biggie Boss:** creator of the NGVO graphics overhauls.
+- **The Schervants of Order:** my team, for their testing, patches, guides, and support of the community.
 - **Various mod authors:** for quest mods, overhauls, and graphical enhancements.
 - **Wabbajack Team:** for providing the tools to distribute this list.
 
