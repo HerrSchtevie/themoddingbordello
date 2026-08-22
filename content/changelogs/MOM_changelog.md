@@ -16,6 +16,51 @@ Save compatibility depends on **which number changes** between releases.
   Examples: `4.2.0 → 4.2.1`, `5.1.0 → 5.1.1`  
   Bug fixes, tuning, or minor adjustments. **Safe to update mid-save.**
 
+# MOM 3.0.1 (WORK IN PROGRESS)
+
+This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
+The actual MO2 modlist is always the authoritative reference for modlist content.
+
+---
+
+## Additions
+
+[Skyrim's Paraglider](https://www.nexusmods.com/skyrimspecialedition/mods/53256)  
+[Telvanni Paragliding](https://www.nexusmods.com/skyrimspecialedition/mods/119472)  
+[Cached Recursive Directory Walk](https://www.nexusmods.com/skyrimspecialedition/mods/186434)  
+[Automatic CRDW (Faster Load Times)](https://www.nexusmods.com/skyrimspecialedition/mods/189151) - Thanks, [Cirus](https://www.nexusmods.com/profile/Cirussss)!  
+[Project ja-Kha'jay - Khajiit Will Follow Body Patches](https://www.nexusmods.com/skyrimspecialedition/mods/186674)  
+
+---
+
+## Updates
+
+[Alpia Scribbles Slavetats Pack](https://www.loverslab.com/files/file/30951-alpia-scribbles-slavetats-pack/) - Requires new manual download from [MOM Manual Downloads](https://www.themoddingbordello.com/modlists/mom/manual-downloads)  
+
+---
+
+## Removals 
+
+NONE
+
+---
+
+## Tweaks
+
+- Added/edited the following custom patches: 
+   - `SOS - Merged Patches FOMOD`  
+   - `JOJ - Outfit Distribution`  
+   - `MOM - Armour WAAT Patch 5`  
+   - `SOS - SDU Patches`  
+- Removed the following custom patches:
+   - `SOS - Lux Consistency` - Merged with `SOS - Merged Patches FOMOD`  
+- Regenerated the following outputs:
+   - `MOM - Pandora Output`
+   - `MOM - Synthesis Output (Lord's Vision)`
+   - `MOM - Synthesis Output (Performance)`  
+
+---
+
 # MOM 3.0.0 (Updated - 08.21.2026)
 
 This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
@@ -72,7 +117,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Lux CS](https://www.nexusmods.com/skyrimspecialedition/mods/153919)  
 [SexLab P+](https://www.loverslab.com/files/file/25318-sexlab-p/) - Requires new manual download from [MOM Manual Downloads](https://www.themoddingbordello.com/modlists/mom/manual-downloads)  
 [Fill Her Up - Voice Files](https://www.loverslab.com/files/file/42778-fill-her-up-voice-files) - Requires new manual download from [MOM Manual Downloads](https://www.themoddingbordello.com/modlists/mom/manual-downloads)  
-[Devious Devices NG](https://www.loverslab.com/files/file/29779-devious-devices-ng/) - Requires new manual download from [DOD Manual Downloads](https://www.themoddingbordello.com/modlists/dod/manual-downloads)  
+[Devious Devices NG](https://www.loverslab.com/files/file/29779-devious-devices-ng/) - Requires new manual download from [DOD Manual Downloads](https://www.themoddingbordello.com/modlists/mom/manual-downloads)  
 [SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/106659)  
 [HOUSE OF WARRIORS - Immersive Dialogue Expansion - Jorrvaskr (Companions)](https://www.nexusmods.com/skyrimspecialedition/mods/173134)  
 [Immersive Dialogue Expansion - Thalmor](https://www.nexusmods.com/skyrimspecialedition/mods/168432)  
