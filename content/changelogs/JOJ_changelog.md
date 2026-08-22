@@ -53,8 +53,7 @@ NONE
    - `JOJ - Armour WAAT Patch 0`
    - `JOJ - Armour Waat Patch 3`
    - `JOJ - Armour Waat Patch 4`  
-   - `JOJ - Armour WAAT Patch 5`
-   - `Modded Weapon Consistency Patch`  
+   - `JOJ - Armour WAAT Patch 5` 
    - `SOS - SDU Patches`  
 - Removed the following custom patches:
    - `SOS - Lux Consistency` - Merged with `SOS - Merged Patches FOMOD`  
