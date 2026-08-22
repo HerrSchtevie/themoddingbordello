@@ -35,7 +35,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 ## Updates
 
-[Alpia Scribbles Slavetats Pack](https://www.loverslab.com/files/file/30951-alpia-scribbles-slavetats-pack/) - Requires new manual download from [DOD Manual Downloads](https://www.themoddingbordello.com/modlists/dod/manual-downloads)  
+[Alpia Scribbles Slavetats Pack](https://www.loverslab.com/files/file/30951-alpia-scribbles-slavetats-pack/) - Requires new manual downloads from [DOD Manual Downloads](https://www.themoddingbordello.com/modlists/dod/manual-downloads)  
 
 ---
 
