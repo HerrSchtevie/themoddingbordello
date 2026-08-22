@@ -50,8 +50,11 @@ NONE
 - Added/edited the following custom patches: 
    - `SOS - Merged Patches FOMOD`  
    - `JOJ - Outfit Distribution`
-   - `JOJ - Armour WAAT Patch 0` 
-   - `JOJ - Armour WAAT Patch 5`  
+   - `JOJ - Armour WAAT Patch 0`
+   - `JOJ - Armour Waat Patch 3`
+   - `JOJ - Armour Waat Patch 4`  
+   - `JOJ - Armour WAAT Patch 5`
+   - `Modded Weapon Consistency Patch`  
    - `SOS - SDU Patches`  
 - Removed the following custom patches:
    - `SOS - Lux Consistency` - Merged with `SOS - Merged Patches FOMOD`  
