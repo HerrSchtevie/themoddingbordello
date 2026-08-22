@@ -48,8 +48,10 @@ NONE
 ## Tweaks
 
 - Added/edited the following custom patches: 
-   - `SOS - Merged Patches FOMOD`
+   - `SOS - Merged Patches FOMOD`  
    - `JOJ - Outfit Distribution`  
+   - `JOJ - Armour WAAT Patch 5`  
+   - `SOS SDU Patches`  
 - Removed the following custom patches:
    - `SOS - Lux Consistency` - Merged with `SOS - Merged Patches FOMOD`  
 - Regenerated the following outputs:
