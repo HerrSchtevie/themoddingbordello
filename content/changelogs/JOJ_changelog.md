@@ -27,6 +27,9 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 [Skyrim's Paraglider](https://www.nexusmods.com/skyrimspecialedition/mods/53256)  
 [Telvanni Paragliding](https://www.nexusmods.com/skyrimspecialedition/mods/119472)  
+[Cached Recursive Directory Walk](https://www.nexusmods.com/skyrimspecialedition/mods/186434)  
+[Automatic CRDW (Faster Load Times)](https://www.nexusmods.com/skyrimspecialedition/mods/189151) - Thanks, [Cirus](https://www.nexusmods.com/profile/Cirussss)!  
+[Project ja-Kha'jay - Khajiit Will Follow Body Patches](https://www.nexusmods.com/skyrimspecialedition/mods/186674)  
 
 ---
 
@@ -45,8 +48,7 @@ NONE
 ## Tweaks
 
 - Added/edited the following custom patches: 
-   - `SOS - Merged Patches FOMOD`
-   - Adjusted [WHEELER - Refined](https://www.nexusmods.com/skyrimspecialedition/mods/167380) settings in all custom UI presets to properly position ammo wheel. Modifier key for gamepad users now set to Right Bumper for Ammo Wheel to stop conflict with Inventory Menu  
+   - `SOS - Merged Patches FOMOD`  
 - Removed the following custom patches:
    - `SOS - Lux Consistency` - Merged with `SOS - Merged Patches FOMOD`  
 - Regenerated the following outputs:
