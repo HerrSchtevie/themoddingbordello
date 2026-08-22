@@ -52,7 +52,7 @@ NONE
    - `JOJ - Outfit Distribution`  
    - `MOM - Armour WAAT Patch 0`
    - `MOM - Armour Waat Patch 3`
-   - `MPM - Armour Waat Patch 4`  
+   - `MOM - Armour Waat Patch 4`  
    - `MOM - Armour WAAT Patch 5`
    - `SOS - SDU Patches`  
 - Removed the following custom patches:
