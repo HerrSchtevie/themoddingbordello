@@ -49,7 +49,8 @@ NONE
 
 - Added/edited the following custom patches: 
    - `SOS - Merged Patches FOMOD`  
-   - `JOJ - Outfit Distribution`  
+   - `JOJ - Outfit Distribution`
+   - `JOJ - Armour WAAT Patch 0` 
    - `JOJ - Armour WAAT Patch 5`  
    - `SOS - SDU Patches`  
 - Removed the following custom patches:
