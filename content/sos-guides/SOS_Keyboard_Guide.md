@@ -10,7 +10,7 @@ The images below mirror the in-game keyboard reference for quick access from the
 
 ---
 
-<h2 style="color:#C22222;border-bottom-color:rgba(194,34,34,0.28)">Journals of Jyggalag (JOJ) - v7.0.0</h2>
+<h2 style="color:#C22222;border-bottom-color:rgba(194,34,34,0.28)">Journals of Jyggalag (JOJ) - v7.0.1</h2>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d4f39a0f-8f4e-4614-bd77-8f6fc645112f" alt="JOJ keyboard layout">
@@ -22,7 +22,7 @@ The images below mirror the in-game keyboard reference for quick access from the
 
 ---
 
-<h2 style="color:#5B7FFF;border-bottom-color:rgba(91,127,255,0.28)">Tomes of Talos (TOT) - v5.0.0</h2>
+<h2 style="color:#5B7FFF;border-bottom-color:rgba(91,127,255,0.28)">Tomes of Talos (TOT) - v5.0.1</h2>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1d671c48-5b6f-4d7b-8c0d-9a527a5f65d0" alt="TOT keyboard layout">
@@ -30,7 +30,7 @@ The images below mirror the in-game keyboard reference for quick access from the
 
 ---
 
-<h2 style="color:#7DA87B;border-bottom-color:rgba(125,168,123,0.28)">Hymns of Hircine (HOH) - v4.0.0</h2>
+<h2 style="color:#7DA87B;border-bottom-color:rgba(125,168,123,0.28)">Hymns of Hircine (HOH) - v4.0.1</h2>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0977358c-b49a-4652-8963-cb20c882aa36" alt="HOH keyboard layout">
@@ -42,10 +42,10 @@ The images below mirror the in-game keyboard reference for quick access from the
 
 ---
 
-<h2 style="color:#D46F00;border-bottom-color:rgba(212,111,0,0.28)">Mantras of Mara (MOM) - v3.0.0</h2>
+<h2 style="color:#D46F00;border-bottom-color:rgba(212,111,0,0.28)">Mantras of Mara (MOM) - v3.0.1</h2>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e5c7c1b0-90d9-4867-86e6-92a5c86994f3" alt="MOM keyboard layout">
+  <img src="https://github.com/user-attachments/assets/83e512f0-5119-4204-b59d-d89710cfde1f" alt="MOM keyboard layout">
 </p>
 
 **Notes:**
@@ -55,7 +55,7 @@ The images below mirror the in-game keyboard reference for quick access from the
 
 ---
 
-<h2 style="color:#A46FE0;border-bottom-color:rgba(164,111,224,0.28)">Diaries of Dibella (DOD) - v2.0.0</h2>
+<h2 style="color:#A46FE0;border-bottom-color:rgba(164,111,224,0.28)">Diaries of Dibella (DOD) - v2.0.1</h2>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a0e19010-870f-4383-b855-3d0365676e53" alt="DOD keyboard layout">
