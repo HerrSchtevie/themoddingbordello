@@ -16,6 +16,48 @@ Save compatibility depends on **which number changes** between releases.
   Examples: `4.2.0 → 4.2.1`, `5.1.0 → 5.1.1`  
   Bug fixes, tuning, or minor adjustments. **Safe to update mid-save.**
 
+# TOT 5.0.1 (WORK IN PROGRESS)
+
+This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
+The actual MO2 modlist is always the authoritative reference for modlist content.
+
+---
+
+## Additions
+
+[Skyrim's Paraglider](https://www.nexusmods.com/skyrimspecialedition/mods/53256)  
+[Telvanni Paragliding](https://www.nexusmods.com/skyrimspecialedition/mods/119472)  
+[Cached Recursive Directory Walk](https://www.nexusmods.com/skyrimspecialedition/mods/186434)  
+[Automatic CRDW (Faster Load Times)](https://www.nexusmods.com/skyrimspecialedition/mods/189151) - Thanks, [Cirus](https://www.nexusmods.com/profile/Cirussss)!  
+[Project ja-Kha'jay - Khajiit Will Follow Body Patches](https://www.nexusmods.com/skyrimspecialedition/mods/186674)  
+
+---
+
+## Updates
+
+NONE
+
+---
+
+## Removals 
+
+NONE
+
+---
+
+## Tweaks
+
+- Added/edited the following custom patches: 
+   - `SOS - Merged Patches FOMOD`  
+- Removed the following custom patches:
+   - `SOS - Lux Consistency` - Merged with `SOS - Merged Patches FOMOD`  
+- Regenerated the following outputs:
+   - `TOT - Pandora Output`
+   - `TOT - Synthesis Output (Lord's Vision)`
+   - `TOT - Synthesis Output (Performance)`  
+
+---
+
 # TOT 5.0.0 (Updated - 08.21.2026)
 
 This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
