@@ -58,7 +58,7 @@ The images below mirror the in-game keyboard reference for quick access from the
 <h2 style="color:#A46FE0;border-bottom-color:rgba(164,111,224,0.28)">Diaries of Dibella (DOD) - v2.0.1</h2>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a0e19010-870f-4383-b855-3d0365676e53" alt="DOD keyboard layout">
+  <img src="https://github.com/user-attachments/assets/cc93224a-c12f-4153-aea8-eb94251401bb" alt="DOD keyboard layout">
 </p>
 
 **Notes:**
@@ -68,7 +68,7 @@ The images below mirror the in-game keyboard reference for quick access from the
 
 ---
 
-<h2 style="color:#3AAFB8;border-bottom-color:rgba(58,175,184,0.28)">Visions of Vaermina (VOV) - v2.0.0</h2>
+<h2 style="color:#3AAFB8;border-bottom-color:rgba(58,175,184,0.28)">Visions of Vaermina (VOV) - v2.0.1</h2>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f1895ede-2478-477b-8729-140d8bca3372" alt="VOV keyboard layout">
