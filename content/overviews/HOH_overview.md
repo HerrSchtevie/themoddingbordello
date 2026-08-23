@@ -83,7 +83,7 @@ This list removes level-scaling, grounding Skyrim in a harsh, static danger curv
 
 - Massive collection of armors and clothing — a curated blend of lore-friendly and NSFW styles — fully integrated for 3BA, HIMBO, and dynamic in-game distribution
 - Expanded weapon variety including spears, halberds, katanas, javelins, shortswords, and more
-- Comprehensive magic overhaul featuring [Odin - Skyrim Magic Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/46000), [Triumvirate](https://www.nexusmods.com/skyrimspecialedition/mods/39170), [Darenii Spells](https://www.nexusmods.com/skyrimspecialedition/mods/122932), [Apocalypse](https://www.nexusmods.com/skyrimspecialedition/mods/1090), [Conduit](https://www.nexusmods.com/skyrimspecialedition/mods/58023), and [Lost Grimoire](https://www.nexusmods.com/skyrimspecialedition/mods/4455)
+- Comprehensive magic overhaul featuring [Odin - Skyrim Magic Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/46000), [Triumvirate](https://www.nexusmods.com/skyrimspecialedition/mods/39170), [Darenii Spells](https://www.nexusmods.com/profile/Darenii/mods), [Apocalypse](https://www.nexusmods.com/skyrimspecialedition/mods/1090), [Conduit](https://www.nexusmods.com/skyrimspecialedition/mods/58023), and [Lost Grimoire](https://www.nexusmods.com/skyrimspecialedition/mods/4455)
 
 ---
 

@@ -61,7 +61,7 @@ Major entries include [Legacy of the Dragonborn](https://www.nexusmods.com/skyri
 - A wide variety of armors and clothing — entirely SFW and lore-friendly
 - All equipment is 3BA/HIMBO-compatible and dynamically distributed via SPID
 - Expanded weapon selection: spears, halberds, katanas, javelins, and more
-- Comprehensive magic overhaul featuring [Triumvirate](https://www.nexusmods.com/skyrimspecialedition/mods/39170), [Darenii Spells](https://www.nexusmods.com/skyrimspecialedition/mods/122932), [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839), [Apocalypse](https://www.nexusmods.com/skyrimspecialedition/mods/1090), [Conduit](https://www.nexusmods.com/skyrimspecialedition/mods/58023), [Lost Grimoire](https://www.nexusmods.com/skyrimspecialedition/mods/4455), Spellsiphon, and Practical Necromancy
+- Comprehensive magic overhaul featuring [Triumvirate](https://www.nexusmods.com/skyrimspecialedition/mods/39170), [Darenii Spells](https://www.nexusmods.com/profile/Darenii/mods), [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839), [Apocalypse](https://www.nexusmods.com/skyrimspecialedition/mods/1090), [Conduit](https://www.nexusmods.com/skyrimspecialedition/mods/58023), [Lost Grimoire](https://www.nexusmods.com/skyrimspecialedition/mods/4455), Spellsiphon, and Practical Necromancy
 
 ---
 

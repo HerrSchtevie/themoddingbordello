@@ -62,7 +62,7 @@ Combat is brutal, punishing, and designed to test both your skill and your deter
 - Huge collection of armors: a curated mix of lore-friendly and NSFW designs
 - All outfits are HIMBO/3BA compatible and SPID-distributed
 - Expanded weapon types: spears, halberds, katanas, javelins, shortswords
-- Comprehensive magic overhaul featuring [Odin - Skyrim Magic Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/46000), [Triumvirate](https://www.nexusmods.com/skyrimspecialedition/mods/39170), [Darenii Spells](https://www.nexusmods.com/skyrimspecialedition/mods/122932), [Apocalypse](https://www.nexusmods.com/skyrimspecialedition/mods/1090), [Conduit](https://www.nexusmods.com/skyrimspecialedition/mods/58023), and [Lost Grimoire](https://www.nexusmods.com/skyrimspecialedition/mods/4455)
+- Comprehensive magic overhaul featuring [Odin - Skyrim Magic Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/46000), [Triumvirate](https://www.nexusmods.com/skyrimspecialedition/mods/39170), [Darenii Spells](https://www.nexusmods.com/profile/Darenii/mods), [Apocalypse](https://www.nexusmods.com/skyrimspecialedition/mods/1090), [Conduit](https://www.nexusmods.com/skyrimspecialedition/mods/58023), and [Lost Grimoire](https://www.nexusmods.com/skyrimspecialedition/mods/4455)
 
 ---
 
