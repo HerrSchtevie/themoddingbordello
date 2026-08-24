@@ -38,7 +38,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 ## Removals 
 
-[Effects 11 - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/179824)  
+[Effects 11 - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/179824) - removed from Nexus  
 
 ---
 
