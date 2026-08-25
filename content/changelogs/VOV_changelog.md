@@ -25,7 +25,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 ## Additions
 
-Adding a blank/placeholder mod for Effects 11. If you want to use ENB Presets on Performance Profile, please grab Effects 11 from here ([Effects 11 (ModPub release)](https://mod.pub/skyrim-se/415-effects-11)  ) and override the blank/placeholder mod with it.  
+Adding a blank/placeholder mod for Effects 11. If you want to use ENB Presets on Performance Profile, please grab Effects 11 from here ([Effects 11 (ModPub release)](https://mod.pub/skyrim-se/415-effects-11)) and override the blank/placeholder mod with it.  
 
 ---
 
