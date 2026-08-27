@@ -27,6 +27,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 [SearchUI - Remember Settings](https://www.nexusmods.com/skyrimspecialedition/mods/185441)   
 [Widget Addon - Keep It Clean - Bathing In Skyrim - Dirt and Blood - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/64721)  
+[GC Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/189699)  
 
 ---
 
