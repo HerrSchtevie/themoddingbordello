@@ -47,7 +47,7 @@ NONE
 ## Tweaks
 
 - Added/edited the following custom patches: 
-   - `JOJ - MCM Settings.esp` - replaces the historically unreliable MCM Recordings. The recordings stay installed as an optional tool for reverting to stock list settings.
+   - `MOM - MCM Settings.esp` - replaces the historically unreliable MCM Recordings. The recordings stay installed as an optional tool for reverting to stock list settings.
    - `MOM - ESLifier Output`  
 - Removed the following custom patches:
    - NONE
