@@ -47,7 +47,8 @@ NONE
 ## Tweaks
 
 - Added/edited the following custom patches: 
-   - `JOJ - MCM Settings.esp` - replaces the historically unreliable MCM Recordings. The recordings stay installed as an optional tool for reverting to stock list settings.  
+   - `JOJ - MCM Settings.esp` - replaces the historically unreliable MCM Recordings. The recordings stay installed as an optional tool for reverting to stock list settings.
+   - `SOS - Merged Patches FOMOD`  
 - Removed the following custom patches:
    - NONE
 - Regenerated the following outputs:
