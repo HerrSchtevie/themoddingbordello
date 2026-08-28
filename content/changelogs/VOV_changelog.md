@@ -26,6 +26,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 ## Additions
 
 [GC Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/189699)  
+[1.7 and above ContentCatalog.txt Nuker for MO2](https://www.nexusmods.com/skyrimspecialedition/mods/189542)  
 
 ---
 
