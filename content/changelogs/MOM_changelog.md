@@ -33,14 +33,13 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 ## Updates
 
-NONE  
+[SexLab Framework PPLUS - V2.15.6 - 1.6.1170](https://www.loverslab.com/files/file/25318-sexlab-p/) - Requires new manual download from [MOM Manual Downloads](https://www.themoddingbordello.com/modlists/mom/manual-downloads) - **Downgraded from V2.17.1 to fix auto advance issues**   
 
 ---
 
 ## Removals 
 
-[Advanced Nudity Detection](https://www.nexusmods.com/skyrimspecialedition/mods/165289) - Removed from Nexus  
-[Modesty Toggle Advanced Nudity Detection Config](https://www.nexusmods.com/skyrimspecialedition/mods/137555)  
+[CrosshairRefEvents script hang fix](https://www.loverslab.com/files/file/25378-crosshairrefevents-script-hang-fix/)  
 
 ---
 
@@ -48,7 +47,8 @@ NONE
 
 - Added/edited the following custom patches: 
    - `MOM - MCM Settings.esp` - replaces the historically unreliable MCM Recordings. The recordings stay installed as an optional tool for reverting to stock list settings.
-   - `MOM - ESLifier Output`  
+   - `MOM - ESLifier Output`
+   - `SOS - Merged Patches FOMOD`  
 - Removed the following custom patches:
    - NONE
 - Regenerated the following outputs:
