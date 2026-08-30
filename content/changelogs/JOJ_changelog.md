@@ -56,7 +56,7 @@ NONE
 - Added/edited the following custom patches: 
    - `JOJ - MCM Settings.esp` - replaces the historically unreliable MCM Recordings. The recordings stay installed as an optional tool for reverting to stock list settings.
    - `SOS - Merged Patches FOMOD`
-   - `JOJ - Patch of Order 7.1.0`
+   - `JOJ - Patch of Order 3.3.3`
    - `JOJ - Archivum Ultima`
    - `JOJ - Misc Armor Fixes`
    - `JOJ - Outfit Distribtution`  
