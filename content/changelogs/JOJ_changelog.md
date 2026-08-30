@@ -65,7 +65,8 @@ NONE
 - Removed the following custom patches:
    - NONE
 - Regenerated the following outputs:
-   - NONE
+   - `JOJ - Synthesis Output (Lord's Vision)`  
+   - `JOJ - Synthesis Output (Performance)`  
 
 ---
 
