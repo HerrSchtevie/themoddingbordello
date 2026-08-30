@@ -71,8 +71,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
    - `MOM - Daedric Armor Fix`  
 - Regenerated the following outputs:
    - `MOM - Pandora Output`
-   - `JOJ - Synthesis Output (Lord's Vision)`  
-   - `JOJ - Synthesis Output (Performance)`
+   - `MOM - Synthesis Output (Lord's Vision)`  
+   - `MOM - Synthesis Output (Performance)`
 
 ---
 
