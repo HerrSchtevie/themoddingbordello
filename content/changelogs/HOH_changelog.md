@@ -29,18 +29,25 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Widget Addon - Keep It Clean - Bathing In Skyrim - Dirt and Blood - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/64721)  
 [GC Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/189699)  
 [1.7 and above ContentCatalog.txt Nuker for MO2](https://www.nexusmods.com/skyrimspecialedition/mods/189542)  
+[Somewhere in Between - 3BA Armor Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/98945)  
+[Somewhere in Between - 3BA Clothes Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/167530)  
+[TAWOBA Replacer 3BA](https://www.nexusmods.com/skyrimspecialedition/mods/40015) - added as OPTIONAL replacer  
+[TEWOBA Replacer (3BA)](https://www.nexusmods.com/skyrimspecialedition/mods/42102) - added as OPTIONAL replacer  
+[SkyTittie's Vanilla Clothing Replacer (CBBE.3BA)](https://www.nexusmods.com/skyrimspecialedition/mods/86440) - added as OPTIONAL replacer  
+[Kreiste's Skimpy Outfits for HIMBO - Vanilla Male Armors and Clothing Replacers](https://www.nexusmods.com/skyrimspecialedition/mods/61351) - added as OPTIONAL replacer  
 
 ---
 
 ## Updates
 
-NONE  
+NONE
 
 ---
 
 ## Removals 
 
-NONE  
+[Remodeled Armor SE - CBBE 3BA](https://www.nexusmods.com/skyrimspecialedition/mods/22168)   
+[Slightly More Revealing Vanilla Clothing - 3BA Bodyslide](https://www.nexusmods.com/skyrimspecialedition/mods/58913)  
 
 ---
 
@@ -48,11 +55,18 @@ NONE
 
 - Added/edited the following custom patches: 
    - `HOH - MCM Settings.esp` - replaces the historically unreliable MCM Recordings. The recordings stay installed as an optional tool for reverting to stock list settings.
-   - `SOS - Merged Patches FOMOD`  
+   - `SOS - Merged Patches FOMOD`
+   - `HOH - Patch of the Hunt`
+   - `HOH - Archivum Ultima`
+   - `HOH - Misc Armor Fixes`
+   - `JOJ - Outfit Distribution`  
+   - `SOS - Pronouns ESL Warning`
+   - `SOS - Xelzaz Neck Seam Fix`  
 - Removed the following custom patches:
    - NONE
 - Regenerated the following outputs:
-   - NONE
+   - `HOH - Synthesis Output (Lord's Vision)`  
+   - `HOH - Synthesis Output (Performance)`  
 
 ---
 
