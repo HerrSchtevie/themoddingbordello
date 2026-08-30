@@ -31,6 +31,10 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [1.7 and above ContentCatalog.txt Nuker for MO2](https://www.nexusmods.com/skyrimspecialedition/mods/189542)  
 [Somewhere in Between - 3BA Armor Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/98945)  
 [Somewhere in Between - 3BA Clothes Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/167530)  
+[TAWOBA Replacer 3BA](https://www.nexusmods.com/skyrimspecialedition/mods/40015)  
+[TEWOBA Replacer (3BA)](https://www.nexusmods.com/skyrimspecialedition/mods/42102)  
+[SkyTittie's Vanilla Clothing Replacer (CBBE.3BA)](https://www.nexusmods.com/skyrimspecialedition/mods/86440)  
+[Kreiste's Skimpy Outfits for HIMBO - Vanilla Male Armors and Clothing Replacers](https://www.nexusmods.com/skyrimspecialedition/mods/61351)  
 
 ---
 
@@ -51,7 +55,13 @@ NONE
 
 - Added/edited the following custom patches: 
    - `JOJ - MCM Settings.esp` - replaces the historically unreliable MCM Recordings. The recordings stay installed as an optional tool for reverting to stock list settings.
-   - `SOS - Merged Patches FOMOD`  
+   - `SOS - Merged Patches FOMOD`
+   - `JOJ - Patch of Order 7.1.0`
+   - `JOJ - Archivum Ultima`
+   - `JOJ - Misc Armor Fixes`
+   - `JOJ - Outfit Distribtution`  
+   - `SOS - Pronouns ESL Warning`
+   - `SOS - Xelzaz Neck Seam Fix`  
 - Removed the following custom patches:
    - NONE
 - Regenerated the following outputs:
