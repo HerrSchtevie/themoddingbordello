@@ -34,7 +34,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 ## Updates
 
-NONE  
+[Keyword Item Distributor (KID)](https://www.nexusmods.com/skyrimspecialedition/mods/55728)  
 
 ---
 
