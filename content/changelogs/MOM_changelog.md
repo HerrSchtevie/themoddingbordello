@@ -44,6 +44,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Sex Animation Framework v1.66b](https://github.com/eeveelo/SexLab/) - Requires new manual download from [MOM Manual Downloads](https://www.themoddingbordello.com/modlists/mom/manual-downloads) - **Downgraded from V1.66c**  
 [SLAL_Billyy_Animations v10.5 SE](https://www.loverslab.com/files/file/3999-billyys-slal-animations-2026-8-4/)  
 [SLSB_Billyy_Animations v10.5 Patch for P+ users](https://www.loverslab.com/files/file/3999-billyys-slal-animations-2026-8-4/)  
+[Keyword Item Distributor (KID)](https://www.nexusmods.com/skyrimspecialedition/mods/55728)  
 
 
 ---
