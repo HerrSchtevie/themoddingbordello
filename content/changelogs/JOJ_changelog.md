@@ -59,7 +59,7 @@ NONE
    - `JOJ - Patch of Order 3.3.3`
    - `JOJ - Archivum Ultima`
    - `JOJ - Misc Armor Fixes`
-   - `JOJ - Outfit Distribtution`  
+   - `JOJ - Outfit Distribution`  
    - `SOS - Pronouns ESL Warning`
    - `SOS - Xelzaz Neck Seam Fix`  
 - Removed the following custom patches:
