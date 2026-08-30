@@ -29,18 +29,29 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Widget Addon - Keep It Clean - Bathing In Skyrim - Dirt and Blood - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/64721)  
 [GC Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/189699)  
 [1.7 and above ContentCatalog.txt Nuker for MO2](https://www.nexusmods.com/skyrimspecialedition/mods/189542)  
+[Somewhere in Between - 3BA Armor Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/98945)  
+[Somewhere in Between - 3BA Clothes Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/167530)  
+[TAWOBA Replacer 3BA](https://www.nexusmods.com/skyrimspecialedition/mods/40015) - added as OPTIONAL replacer  
+[TEWOBA Replacer (3BA)](https://www.nexusmods.com/skyrimspecialedition/mods/42102) - added as OPTIONAL replacer  
+[SkyTittie's Vanilla Clothing Replacer (CBBE.3BA)](https://www.nexusmods.com/skyrimspecialedition/mods/86440) - added as OPTIONAL replacer  
+[Kreiste's Skimpy Outfits for HIMBO - Vanilla Male Armors and Clothing Replacers](https://www.nexusmods.com/skyrimspecialedition/mods/61351) - added as OPTIONAL replacer  
 
 ---
 
 ## Updates
 
-[SexLab Framework PPLUS - V2.15.6 - 1.6.1170](https://www.loverslab.com/files/file/25318-sexlab-p/) - Requires new manual download from [DOD Manual Downloads](https://www.themoddingbordello.com/modlists/dod/manual-downloads) - **Downgraded from V2.17.1 to fix auto advance issues**     
+[SexLab Framework PPLUS - V2.15.6 - 1.6.1170](https://www.loverslab.com/files/file/25318-sexlab-p/) - Requires new manual download from [DOD Manual Downloads](https://www.themoddingbordello.com/modlists/dod/manual-downloads) - **Downgraded from V2.17.1 to fix auto advance issues**   
+[Sex Animation Framework v1.66b](https://github.com/eeveelo/SexLab/) - Requires new manual download from [DOD Manual Downloads](https://www.themoddingbordello.com/modlists/dod/manual-downloads) - **Downgraded from V1.66c**  
+[SLAL_Billyy_Animations v10.5 SE](https://www.loverslab.com/files/file/3999-billyys-slal-animations-2026-8-4/)  
+[SLSB_Billyy_Animations v10.5 Patch for P+ users](https://www.loverslab.com/files/file/3999-billyys-slal-animations-2026-8-4/)  
+
 
 ---
 
 ## Removals 
 
-[CrosshairRefEvents script hang fix](https://www.loverslab.com/files/file/25378-crosshairrefevents-script-hang-fix/)  
+[BD's Armor and Clothes Replacer - CBBE 3BA (3BBB)](https://www.nexusmods.com/skyrimspecialedition/mods/32518)  
+[BD's Armor and Clothes - Complex Material Fix](https://www.nexusmods.com/skyrimspecialedition/mods/155281)  
 
 ---
 
@@ -49,11 +60,19 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 - Added/edited the following custom patches: 
    - `DOD - MCM Settings.esp` - replaces the historically unreliable MCM Recordings. The recordings stay installed as an optional tool for reverting to stock list settings.
    - `DOD - ESLifier Output`
-   - `SOS - Merged Patches FOMOD`  
+   - `SOS - Merged Patches FOMOD`
+   - `DOD - Patch of Desire`
+   - `DOD - Archivum Ultima`
+   - `DOD - Misc Armor Fixes`
+   - `JOJ - Outfit Distribution`  
+   - `SOS - Pronouns ESL Warning`
+   - `SOS - Xelzaz Neck Seam Fix`  
 - Removed the following custom patches:
    - NONE
 - Regenerated the following outputs:
-   - NONE
+   - `DOD - Pandora Output`
+   - `DOD - Synthesis Output (Lord's Vision)`  
+   - `DOD - Synthesis Output (Performance)`
 
 ---
 
