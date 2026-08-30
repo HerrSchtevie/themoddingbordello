@@ -68,7 +68,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
    - `SOS - Pronouns ESL Warning`
    - `SOS - Xelzaz Neck Seam Fix`  
 - Removed the following custom patches:
-   - NONE
+   - `MOM - Daedric Armor Fix`  
 - Regenerated the following outputs:
    - `MOM - Pandora Output`
    - `JOJ - Synthesis Output (Lord's Vision)`  
