@@ -79,7 +79,7 @@ This page is kept up to date to ensure a **smooth, repeatable installation exper
 | SexLab CumTextures Remake v1.2 | https://www.loverslab.com/files/file/2968-sexlab-cum-textures-remake-slavetats/?do=download&r=486039&confirm=1&t=1&csrfKey=181ff905010669d06fa0a4fe14e5529b |
 | SexLab Eager NPCs SE | https://www.loverslab.com/files/file/7309-sexlab-eager-npcs-se-slen/?do=download&r=705476&confirm=1&t=1&csrfKey=265928ac2a1fd7302ab254ea55a36391 |
 | SexLab Framework PPLUS  V2.15.6 - 1.6.1170 | https://www.loverslab.com/files/file/25318-sexlab-p/?do=download&r=2093478&confirm=1&t=1&csrfKey=9aa84b4e868cad82ddb93a82c47d73e9 |
-| SexLab Framework AE v1.66b | https://github.com/eeveelo/SexLab/archive/refs/tags/1.66b.zip |
+| SexLab Framework v1.66b | https://github.com/eeveelo/SexLab/archive/refs/tags/1.66b.zip |
 | SexLab Framework Sound Replacer (AIO) | https://www.loverslab.com/files/file/14230-sexlab-framework-sound-replacer/?do=download&r=861380&confirm=1&t=1&csrfKey=c2d4b953eaad1689524ea1adf272ca41 |
 | SexLab Human Animation Remover | https://www.loverslab.com/files/file/18855-sl-default-animation-remover/?do=download&r=1320428&confirm=1&t=1&csrfKey=355e792d6fa52c8df9631d9d5f2e37ed |
 | SexLab Inflation Framework SE | https://www.loverslab.com/files/file/6938-sexlab-inflation-framework-se/?do=download&r=678229&confirm=1&t=1&csrfKey=b183f619f6ee5d2ea6ba1a36076d2b7c |
