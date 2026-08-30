@@ -48,7 +48,9 @@ NONE
 
 - Added/edited the following custom patches: 
    - `TOT - MCM Settings.esp` - replaces the historically unreliable MCM Recordings. The recordings stay installed as an optional tool for reverting to stock list settings.
-   - `SOS - Merged Patches FOMOD`  
+   - `SOS - Merged Patches FOMOD`
+   - `SOS - Pronouns ESL Warning`
+   - `SOS - Xelzaz Neck Seam Fix`  
 - Removed the following custom patches:
    - NONE
 - Regenerated the following outputs:
