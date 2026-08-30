@@ -54,7 +54,8 @@ NONE
 - Removed the following custom patches:
    - NONE
 - Regenerated the following outputs:
-   - NONE
+   - `TOT - Synthesis Output (Lord's Vision)`  
+   - `TOT - Synthesis Output (Performance)`  
 
 ---
 
