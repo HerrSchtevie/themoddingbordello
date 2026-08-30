@@ -104,15 +104,18 @@ Use the **Moonlight Tales Mini** MCM to further customize your werewolf's appear
 There's a lot going on during character setup. It'll take a bit more time and a bit more care than vanilla character creation. It'll be worth it.
 
 * To start, select New Character at the main menu. Racemenu opens. Play with sliders and presets for a while or not, but don't press R until about 5 minutes have passed. Go make some tea.
+* While you are still in RaceMenu the list is already configuring its own MCMs in the background. There is nothing for you to run. A popup reading **"Diaries of Dibella MCM configuration complete."** appears when it has finished, often before you have left this screen. Dismiss it and carry on; it only shows once.
 * Optionally, save your appearance as a preset in case you need to recreate the character later for any reason.
 * Finish and select your name. Do not leave your name as the default Prisoner, unless this is a throwaway/testing character. 
 * The Pronouns screen comes up; make your selection. 
 * The Commence screen comes up; wait until the notification scroll at the top right has cleared. Wait another minute. Now click Commence.
-* If you get an immediate *mod failed* message, click try again. Otherwise, let the process proceed. 
 * Make your initial gear selections when that menu appears. Ok the various notifications. Do not configure MCMs yet.
-* If you repeatedly get failure messages on the same mod, select Skip, but that shouldn't happen if you've been adequately patient til now.
 * If you get a Dialog Quest error at any point, something has gone irrevocably wrong. Delete the character and try again.
-* Once all MCM recordings have finished playback, **save and quit the game to desktop**. 
+* Stay in the starting room until you see the popup reading **"Museum list building complete."** The museum is still building until then.
+
+![image](/assets/readmes/museum-popup.png)
+
+* With your gear selected and the MCM configuration popup already seen, **save and quit the game to desktop**. 
 * Read the **Skyrim Save System Overhaul 3** section below and follow its instructions.
 * Once that's done, open the MCM menu and select the Configuration option at the top. Click **Reset**. If it's greyed out, exit the menu, wait several seconds, and try again. 
 * Once the reset completes, all MCMs should be available for your configuration needs; you may now tune all game settings to your preferences.
@@ -148,7 +151,7 @@ There's a lot going on during character setup. It'll take a bit more time and a 
 
 ### Save Your Game & Restart
 
-- As mentioned above, once all MCM recordings have finished playback, **save and quit the game to desktop**.
+- As mentioned above, once you have seen the MCM configuration popup, **save and quit the game to desktop**.
   - If this is your *first new character* after installing or updating the list, also **exit and restart MO2**.
 - Relaunch the game.
 - Load your save.

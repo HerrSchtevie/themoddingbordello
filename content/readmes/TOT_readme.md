@@ -430,13 +430,19 @@ Once enabled and properly sorted, you'll have full access to enhanced controller
 
 ### 5. New Character Setup
 
-If character setup misbehaves on a new game (scripts failing, MCM recorder errors), the cause is almost always rushing. Script registrations and MCM recordings run behind the scenes from the moment a new game starts; give them room to finish and most first-launch problems never happen.
+If character setup misbehaves on a new game, the cause is almost always rushing. Script registrations and the list's own MCM configuration run behind the scenes from the moment a new game starts; give them room to finish and most first-launch problems never happen.
 
 - When RaceMenu opens, take your time. Spend at least a few minutes on your character (or simply wait) before confirming.
 - Consider saving your appearance as a RaceMenu preset in case you ever need to recreate the character.
 - After confirming your name, let the notification stream in the top-right corner finish completely, then give it another minute before moving on.
-- If a recording fails with a "mod failed" message, choose **Retry**. If the same mod fails repeatedly, choose **Skip**; you can play back that recording manually later.
-- Once all MCM recordings have finished playback, you can begin hand-tuning MCMs to your preferences.
+- Stay in the starting room until the museum finishes building. You will see a popup reading **"Museum list building complete."** when it is done. Do not leave before it appears.
+
+  ![image](/assets/readmes/museum-popup.png)
+
+- The list configures its own MCMs for you. There is nothing to run and no recording to sit through; it settles during the first minute or two, and the popup **"Tomes of Talos MCM configuration complete."** confirms when it is done.
+- Wait about another minute after that popup before hand-tuning MCMs. The list makes one final settings pass just after it, and anything you change in that window can be overwritten. If you never see the popup it most likely fired while a menu was open, so carry on after five minutes or so.
+
+> MCM Recorder is still installed, but nothing plays back on its own any more. It stays in the list as an optional tool. Replaying the `Scrolls of Faith` recording puts the MCMs back to the settings the list ships with.
 
 ### 6. Saving and Loading
 

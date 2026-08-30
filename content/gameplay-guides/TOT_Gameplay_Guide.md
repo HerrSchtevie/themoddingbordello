@@ -51,7 +51,9 @@ Let the path of Order guide you.
   - It is OK to select your pronouns immediately.
   - Wait to press "Commence" until the initial stream of notifications has ended, i.e. after the Honed Metal message fades.
   - After pressing "Commence", walk away from your keyboard, let everything initialize, and wait for the final confirmation message.
-  - Once you see the popup that says **"Museum is done setting up,"** it's safe to proceed.
+  - Once you see the popup reading **"Museum list building complete."** it is safe to proceed. Do not leave the starting room before it appears.
+
+![image](/assets/readmes/museum-popup.png)
 
 ---
 

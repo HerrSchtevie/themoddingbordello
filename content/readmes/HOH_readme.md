@@ -439,6 +439,51 @@ Controller support is fully integrated into HOH, but all related mods are **disa
 
 Once enabled and properly sorted, you'll have full access to enhanced controller features including radial wheels, custom stances, and a gamepad-friendly UI.
 
+---
+
+### Spicier Armor & Clothing Replacers (Optional)
+
+Hymns of Hircine ships an optional set of skimpier vanilla armor and clothing replacers. Everything in it is **disabled by default** and safe to leave that way.
+
+To use it, scroll to the **`Spicier Armor & Clothing Replacers - OPTIONAL & MODULAR`** separator in MO2. Every mod involved lives together there, and the load order is already set, so do not move anything. Just tick the boxes. The `Spicier Armor and Clothing - INSTRUCTIONS` entry at the bottom of the block is a copy of these notes as a text file, so leave that one off.
+
+![image](/assets/readmes/hoh-spicier.png)
+
+There are **three independent groups**. None of them depend on each other, so enable any combination you like: all three, one, or none.
+
+1. **Female armor** (bikini armor replacers). Enable all three:
+   - `TAWOBA Replacer (3BA)`
+   - `TEWOBA Replacer (3BA)`
+   - `SOS - BodySlide Output (Spicier Female Armor)`
+
+   > `TAWOBA Replacer (3BA)` is required, not optional. It supplies the textures the armors need. Without it the bikini pieces will have purple or missing textures.
+
+2. **Female clothing.** Enable both:
+   - `SkyTittie's Vanilla Clothing Replacer (3BA)`
+   - `SOS - BodySlide Output (Spicier Female Clothing)`
+
+   Fully standalone. Works with or without group 1.
+
+3. **Male.** Enable both:
+   - `Kreiste's Skimpy Outfits for HIMBO - Vanilla Male Armors and Clothing Replacers`
+   - `SOS - BodySlide Output (Spicier Male AIO)`
+
+   Read the TNG note below before enabling this one.
+
+**Turning it on or off:** if you have not started playing yet, just tick the boxes now. Mid-playthrough, quit to desktop first, change the boxes in MO2, then load your save. Never toggle while the game is running. No new game is needed and nothing is baked into your save. Turn a group back off and you are back to the stock list appearance.
+
+> **TNG note (male group only, please read).**
+>
+> The skimpy male armors expose the crotch. TNG (The New Gentleman) normally hides the genitals under any armor it considers covering, which would leave a hole in the model.
+>
+> The list already ships the fix. A config file inside `SOS - BodySlide Output (Spicier Male AIO)` tells TNG that these specific vanilla armors are revealing. It is automatic, there is nothing for you to set up, and it only applies while that mod is enabled.
+>
+> Please **do not** change the revealing or covering settings in the TNG MCM. Doing so mid-game can leave a stale model on your character.
+>
+> **If you see a hole where the crotch should be.** Most players will never hit this. If you do, the fix is a hotkey, and the list does not ship a default key for it, so you have to assign one first. Open the TNG MCM and find **Swap Revealing/Covering**. This is a key assignment, not an on/off toggle, so clicking it only asks which key to bind. Bind it to any unused key. Then in game, wearing the armor that looks wrong, press that key **twice**. The first press flips it to the wrong state, the second puts it back and rebuilds the model. Both presses are needed.
+
+---
+
 ### 4. Set the Executable and Launch the Game
 
 - Ensure **`Hymns of Hircine`** is selected as the modlist in the **top-right executable dropdown** in MO2.
@@ -476,14 +521,19 @@ Once enabled and properly sorted, you'll have full access to enhanced controller
 
 ### 6. New Character Startup Procedures
 
-When starting a **brand-new character** in **Hymns of Hircine**, the single best thing you can do is not rush. Script registrations and MCM recordings run behind the scenes from the moment a new game starts; give them room to finish and most first-launch problems never happen.
+When starting a **brand-new character** in **Hymns of Hircine**, the single best thing you can do is not rush. Script registrations and the list's own MCM configuration run behind the scenes from the moment a new game starts; give them room to finish and most first-launch problems never happen.
 
 - **Take your time in RaceMenu:**  
   Spend at least a few minutes on your character (or simply wait) before confirming. Consider saving your appearance as a RaceMenu preset in case you ever need to recreate the character.
 
-- **MCM Recorder prompts:**  
-  During the initial startup, you may see a MCM Recorder failure prompt.  
-  Select **Retry** if this happens. If the same recording fails repeatedly, select **Skip**; you can play it back manually later.
+- **Wait for the museum:**  
+  Stay in the starting room until you see the popup reading **"Museum list building complete."** Do not leave before it appears.
+
+  ![image](/assets/readmes/museum-popup.png)
+
+- **MCM settings:**  
+  The list configures its own MCMs for you. There is nothing to run and no recording to sit through.  
+  It settles during the first minute or two, and the popup **"Hymns of Hircine MCM configuration complete."** confirms when it is done.
 
 - **After MCMs have finished loading, relog:**  
   Once character initialization is complete, **save your game, exit to desktop, and relaunch**.  
@@ -495,8 +545,10 @@ When starting a **brand-new character** in **Hymns of Hircine**, the single best
   `MCM > Configure (at the top) > Reset MCM`  
   The missing MCMs will then appear as expected.
 
-- **Hand-tune after the recordings finish:**  
-  Once all MCM recordings have finished playback, you can begin hand-tuning MCMs to your preferences.
+- **Hand-tune after the MCM popup:**  
+  Wait about another minute after the popup before hand-tuning. The list makes one final settings pass just after it, and anything you change in that window can be overwritten.
+
+> MCM Recorder is still installed, but nothing plays back on its own any more. It stays in the list as an optional tool. Replaying the `Scrolls of the Hunt` recording puts the MCMs back to the settings the list ships with, and if you use a tenkeyless keyboard you can run `Scrolls of the Hunt - OStim TKL` once per new game for the alternate keybinds.
 
 These steps are part of the intended first-time setup process.
 

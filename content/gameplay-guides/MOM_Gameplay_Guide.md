@@ -55,10 +55,10 @@ Let the Path of Love guide you.
   - It is OK to select your pronouns immediately.
   - Wait to press "Commence" until the initial stream of notifications has ended, i.e. after the museum message fades.
   - After pressing "Commence", walk away from your keyboard, let everything initialize, and wait for the final confirmation message.
-  - Wait until **all script registration messages in the top-right corner have fully finished** and you receive the popup saying that the "Museum List building complete".
+  - Wait until **all script registration messages in the top-right corner have fully finished** and you see the popup reading **"Museum list building complete."** Do not leave the starting room before it appears.
 
 
-![image](https://github.com/user-attachments/assets/b3941434-2ca0-4687-a4d0-5147ed119120)  
+![image](/assets/readmes/museum-popup.png)  
 
 
 2. **Leave the starting room - whichever Alternate Start you prefer (I personally always hit the button behind the table), and save your game.**
