@@ -185,10 +185,6 @@ Before you begin, make sure you meet the following **hard requirements**:
 - **You must own and install Skyrim Anniversary Edition (AE).**  
   The Standard Special Edition (SSE) will not work. This modlist requires the full AE version with all Creation Club content.
 
-- **You must have the Creation Kit installed via Steam.**  
-  It is required for the modlist to compile and **must be installed on the same drive** as your Skyrim AE installation.  
-  > Example: If Skyrim AE is installed on `D:\`, the Creation Kit must also be installed on `D:\`.
-
 - **Your Steam copy of Skyrim must be fully updated.**  
   Wabbajack reads vanilla game files from your Steam installation during install, so let Steam finish updating Skyrim to the current patch before you begin. Once installed, the list runs from its own copy of the game files and is not affected by future Steam updates.
 
@@ -215,11 +211,6 @@ Before you begin, make sure you meet the following **hard requirements**:
    - Reinstall **Skyrim Anniversary Edition** via Steam.
    - **Launch Skyrim AE once through Steam** to allow all Creation Club content to download.  
      Do **not** change any settings or start a game. Just reach the main menu, download the Creation Club content via the popup, then close the game.
-   - Install the **Skyrim Special Edition Creation Kit** from the *Software* section in your Steam Library. (If your library is filtered to just Games, the SSE Creation Kit will not be visible.)  
-     Make sure it's installed on the **same drive** as Skyrim AE.  
-     **Do not install the regular Skyrim Creation Kit.** It is not compatible and will not work with this modlist.  
-     **Do not skip this step.** Creation Kit is not the same as Creation Club. You must have BOTH Creation Kit AND Creation Club content installed to proceed.
-   - **Launch the Creation Kit once** to initialize its content, allow it to complete downloading, then close it.
 
 3. **Create Folders and Defender Exceptions**
    - In Windows, create a `\modlists` directory and a `\downloaded mods` directory if you do not already have them. They do not need to be on the same drive, but each needs to be on a drive with adequate available storage capacity. You do not have to use those exact names.
@@ -302,8 +293,6 @@ If Wabbajack is refusing to download or install the modlist, double-check the fo
 - Did you completely clean your system of all traces of Skyrim before beginning?
 - Are you using a **fresh install** of **Skyrim Anniversary Edition**?
 - Did you **launch Skyrim once through Steam** to allow all Creation Club content to download?
-- Did you install the **Skyrim Special Edition Creation Kit** via Steam on the **same drive** as your Skyrim install?
-- Did you **launch the Skyrim Special Edition Creation Kit once** to initialize its required files?
 - Do you have enough **free space** on your installation drive?
 - Are you **logged into NexusMods** with a **Premium membership**?
 - Have you retried the download at least **3 times**? Sometimes Wabbajack errors are temporary and resolve on their own.
@@ -652,7 +641,7 @@ If you encounter issues:
 ## FAQ
 
 - **Q: What do I need for this list to install properly?**  
-  A: **Anniversary Edition (AE) and Creation Kit are hard requirements.** This modlist will not work correctly with Standard Skyrim Special Edition (SSE), and will not download correctly without Creation Kit.
+  A: **Anniversary Edition (AE) is a hard requirement.** This modlist will not work correctly with Standard Skyrim Special Edition (SSE), and you must have all Creation Club content downloaded.
 
 - **Q: Where do I go for support?**  
   A: Visit the Wabbajack Discord or [The Modding Bordello Discord](https://discord.gg/themoddingbordello) for assistance.

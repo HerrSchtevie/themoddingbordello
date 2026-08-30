@@ -93,7 +93,6 @@ DOD delivers a divine, erotic gameplay experience built on SexLab, romance, and 
 These are **hard requirements**. The modlist will not function correctly without them.
 
 - Skyrim Anniversary Edition (AE), full version with all Creation Club content
-- Skyrim Special Edition Creation Kit, installed via Steam on the same drive as Skyrim
 - A fully updated Steam copy of Skyrim (once installed, the list runs from its own copy of the game files)
 - Internal SSD (HDD installs will freeze and crash)
 - Pagefile set to at least 40GB
