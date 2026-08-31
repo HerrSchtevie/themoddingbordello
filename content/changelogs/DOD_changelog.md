@@ -44,7 +44,7 @@ NONE
 ## Tweaks
 
 - Added/edited the following custom patches: 
-   - `DOD - MCM and INI Settings\Scripts\DOD_MCMSettingsInit.pex` - quick fix for Devious Devices stalling the MCM load   
+   - `DOD - MCM and INI Settings\Scripts\DOD_MCMSettingsInit.pex` - quick fix for the MCM stalling on new game    
    - `Scrolls of Desire - Sexlab TKL MCM Recording`  
 - Removed the following custom patches:
    - NONE
