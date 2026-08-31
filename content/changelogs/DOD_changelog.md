@@ -16,6 +16,42 @@ Save compatibility depends on **which number changes** between releases.
   Examples: `4.2.0 → 4.2.1`, `5.1.0 → 5.1.1`  
   Bug fixes, tuning, or minor adjustments. **Safe to update mid-save.**
 
+# DOD 2.2.1 (WORK IN PROGRESS)
+
+This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
+The actual MO2 modlist is always the authoritative reference for modlist content.
+
+---
+
+## Additions
+
+NONE
+
+---
+
+## Updates
+
+NONE
+
+---
+
+## Removals 
+
+NONE
+
+---
+
+## Tweaks
+
+- Added/edited the following custom patches: 
+   - `SOS - SiB Texture Fixes`  
+- Removed the following custom patches:
+   - NONE
+- Regenerated the following outputs:
+   - NONE
+
+---
+
 # DOD 2.2.0 (Updated - 08.31.2026)
 
 This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
