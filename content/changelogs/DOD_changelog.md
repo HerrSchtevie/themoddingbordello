@@ -16,7 +16,7 @@ Save compatibility depends on **which number changes** between releases.
   Examples: `4.2.0 → 4.2.1`, `5.1.0 → 5.1.1`  
   Bug fixes, tuning, or minor adjustments. **Safe to update mid-save.**
 
-# DOD 2.1.1 (Updated - 08.31.2026)
+# DOD 2.2.0 (Updated - 08.31.2026)
 
 This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
 The actual MO2 modlist is always the authoritative reference for modlist content.
@@ -44,7 +44,7 @@ NONE
 ## Tweaks
 
 - Added/edited the following custom patches: 
-   - `DOD - MCM and INI Settings` - quick fix for Devious Devices stalling the MCM load   
+   - `DOD - MCM and INI Settings\Scripts\DOD_MCMSettingsInit.pex` - quick fix for Devious Devices stalling the MCM load   
    - `Scrolls of Desire - Sexlab TKL MCM Recording`  
 - Removed the following custom patches:
    - NONE
