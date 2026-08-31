@@ -44,7 +44,7 @@ NONE
 ## Tweaks
 
 - Added/edited the following custom patches: 
-   - `MOM - MCM and INI Settings` - quick fix for Devious Devices stalling the MCM load    
+   - `MOM - MCM and INI Settings\Scripts\MOM_MCMSettingsInit.pex` - quick fix for Devious Devices stalling the MCM load    
    - `Scrolls of Love - Sexlab TKL MCM Recording`  
 - Removed the following custom patches:
    - NONE
