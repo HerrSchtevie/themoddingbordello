@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/ba19dd35-9a47-47a6-92e3-d97666541411">
 </p>
 
-<p class="stat-line"><strong>2</strong> PROFILES · <strong>297</strong> GB DOWNLOAD · <strong>598</strong> GB INSTALLED · FULLY AUTOMATED VIA WABBAJACK</p>
+<p class="stat-line"><strong>2</strong> PROFILES · <strong>302</strong> GB DOWNLOAD · <strong>608</strong> GB INSTALLED · FULLY AUTOMATED VIA WABBAJACK</p>
 
 ## IMPORTANT
 
@@ -143,7 +143,7 @@ For reference, I run this list on a 32:9 ultrawide monitor (5120 x 1440) with sm
 | **Pagefile**  | 40GB                                                    | 40GB                                                 |
 | **Storage**   | Internal SATA SSD                                       | NVMe M.2 SSD                                         |
 | **GPU**       | NVIDIA RTX 3060 Ti / AMD RX 6600 XT (8 GB VRAM)         | NVIDIA RTX 4070 Ti / AMD RX 7800 XT (16 GB VRAM)     |
-| **Disk Space**| ~297GB Download / ~598GB Installed / ~895GB Total       | ~297GB Download / ~598GB Installed / ~895GB Total    |
+| **Disk Space**| ~302GB Download / ~608GB Installed / ~910GB Total       | ~302GB Download / ~608GB Installed / ~910GB Total    |
 
 #### Performance Profile
 
@@ -156,7 +156,7 @@ For reference, I run this list on a 32:9 ultrawide monitor (5120 x 1440) with sm
 | **Pagefile**  | 40GB                                                 | 40GB                                                 |
 | **Storage**   | Internal SATA SSD                                    | NVMe M.2 SSD                                         |
 | **GPU**       | NVIDIA RTX 2060 (6 GB VRAM) / AMD RX 5600 XT         | NVIDIA RTX 3060 Ti / AMD RX 6600 XT (8 GB VRAM)      |
-| **Disk Space**| ~297GB Download / ~598GB Installed / ~895GB Total    | ~297GB Download / ~598GB Installed / ~895GB Total    |
+| **Disk Space**| ~302GB Download / ~608GB Installed / ~910GB Total    | ~302GB Download / ~608GB Installed / ~910GB Total    |
 
 The downloads can be removed after successful installation. NOT RECOMMENDED. But if you're short on space, it won't cause issues.
 
@@ -241,9 +241,9 @@ Before you begin, make sure you meet the following **hard requirements**:
    - Click on **Hymns of Hircine**.
    - Choose:
      - A **Download Location** – where Wabbajack will store mod archives. Select the `\downloaded mods` directory from step 3.  
-       Requires approximately **297 GB of free space**.
+       Requires approximately **302 GB of free space**.
      - An **Installation Location** – where the modlist will be fully installed and run from. Create a `\HOH` directory in the `\modlists` folder from step 3.  
-       Requires approximately **598 GB of free space**.  
+       Requires approximately **608 GB of free space**.  
        **This must be on an internal SSD** for performance and stability.  
        Note that SSDs perform *very poorly* when over 85-90% capacity. Don't try to cram this onto a drive where it will only barely fit.
 

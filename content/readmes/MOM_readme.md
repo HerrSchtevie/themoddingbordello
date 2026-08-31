@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/6a2e553b-bae6-4abd-9ea4-ca00cc89fc24">
 </p>
 
-<p class="stat-line"><strong>2</strong> PROFILES · <strong>301</strong> GB DOWNLOAD · <strong>638</strong> GB INSTALLED · FULLY AUTOMATED VIA WABBAJACK</p>
+<p class="stat-line"><strong>2</strong> PROFILES · <strong>305</strong> GB DOWNLOAD · <strong>648</strong> GB INSTALLED · FULLY AUTOMATED VIA WABBAJACK</p>
 
 ## IMPORTANT
 
@@ -139,7 +139,7 @@ For reference, I run this list on a 32:9 ultrawide monitor (5120 x 1440) with sm
 | **Pagefile**  | 40GB                                                    | 40GB                                                 |
 | **Storage**   | Internal SATA SSD                                       | NVMe M.2 SSD                                         |
 | **GPU**       | NVIDIA RTX 3060 Ti / AMD RX 6600 XT (8 GB VRAM)         | NVIDIA RTX 4070 Ti / AMD RX 7800 XT (16 GB VRAM)     |
-| **Disk Space**| ~301GB Download / ~638GB Installed / ~939GB Total       | ~301GB Download / ~638GB Installed / ~939GB Total    |
+| **Disk Space**| ~305GB Download / ~648GB Installed / ~953GB Total       | ~305GB Download / ~648GB Installed / ~953GB Total    |
 
 #### Performance Profile
 
@@ -152,7 +152,7 @@ For reference, I run this list on a 32:9 ultrawide monitor (5120 x 1440) with sm
 | **Pagefile**  | 40GB                                                 | 40GB                                                 |
 | **Storage**   | Internal SATA SSD                                    | NVMe M.2 SSD                                         |
 | **GPU**       | NVIDIA RTX 2060 (6 GB VRAM) / AMD RX 5600 XT         | NVIDIA RTX 3060 Ti / AMD RX 6600 XT (8 GB VRAM)      |
-| **Disk Space**| ~301GB Download / ~638GB Installed / ~939GB Total    | ~301GB Download / ~638GB Installed / ~939GB Total    |
+| **Disk Space**| ~305GB Download / ~648GB Installed / ~953GB Total    | ~305GB Download / ~648GB Installed / ~953GB Total    |
 
 The downloads can be removed after successful installation. NOT RECOMMENDED. But if you're short on space, it won't cause issues.
 
@@ -255,9 +255,9 @@ Before you begin, make sure you meet the following **hard requirements**:
    - Click on **Mantras of Mara**.
    - Choose:
      - A **Download Location** – where Wabbajack will store mod archives. Select the `\downloaded mods` directory from step 3.  
-       Requires approximately **301 GB of free space**.
+       Requires approximately **305 GB of free space**.
      - An **Installation Location** – where the modlist will be fully installed and run from. Create a `\MOM` directory in the `\modlists` folder from step 3.  
-       Requires approximately **638 GB of free space**.  
+       Requires approximately **648 GB of free space**.  
        **This must be on an internal SSD** for performance and stability.  
        Note that SSDs perform *very poorly* when over 85-90% capacity. Don't try to cram this onto a drive where it will only barely fit.
 

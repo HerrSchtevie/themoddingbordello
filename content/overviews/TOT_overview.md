@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/70b422ce-4769-4000-bc20-55a2cac16bc8">
 </p>
 
-<p class="stat-line"><strong>2</strong> PROFILES · <strong>255</strong> GB DOWNLOAD · <strong>468</strong> GB INSTALLED · FULLY AUTOMATED VIA WABBAJACK</p>
+<p class="stat-line"><strong>2</strong> PROFILES · <strong>255</strong> GB DOWNLOAD · <strong>467</strong> GB INSTALLED · FULLY AUTOMATED VIA WABBAJACK</p>
 
 **Tomes of Talos (TOT)** is the fully SFW counterpart to JOJ, offering the same scale, polish, and depth without any adult content.
 
@@ -88,7 +88,7 @@ These are **hard requirements**. The modlist will not function correctly without
 - [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) and [.NET 9 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)
 - Windows and Skyrim language set to English
 
-**Disk space:** ~255GB download / ~468GB installed / ~723GB total
+**Disk space:** ~255GB download / ~467GB installed / ~722GB total
 
 #### Lord's Vision Profile
 

@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/9849a12c-df14-4a22-aaa0-8075dd73d38e">
 </p>
 
-<p class="stat-line"><strong>2</strong> PROFILES · <strong>302</strong> GB DOWNLOAD · <strong>635</strong> GB INSTALLED · FULLY AUTOMATED VIA WABBAJACK</p>
+<p class="stat-line"><strong>2</strong> PROFILES · <strong>306</strong> GB DOWNLOAD · <strong>645</strong> GB INSTALLED · FULLY AUTOMATED VIA WABBAJACK</p>
 
 **Diaries of Dibella (DOD)** is a fusion of harsh survival and unapologetic sensuality, combining the intensity of HOH with the depth of MOM into a single, uncompromising experience.
 
@@ -100,7 +100,7 @@ These are **hard requirements**. The modlist will not function correctly without
 - [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) and [.NET 9 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)
 - Windows and Skyrim language set to English
 
-**Disk space:** ~302GB download / ~635GB installed / ~937GB total
+**Disk space:** ~306GB download / ~645GB installed / ~951GB total
 
 #### Lord's Vision Profile
 

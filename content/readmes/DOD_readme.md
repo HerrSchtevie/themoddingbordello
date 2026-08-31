@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/9849a12c-df14-4a22-aaa0-8075dd73d38e">
 </p>
 
-<p class="stat-line"><strong>2</strong> PROFILES · <strong>302</strong> GB DOWNLOAD · <strong>635</strong> GB INSTALLED · FULLY AUTOMATED VIA WABBAJACK</p>
+<p class="stat-line"><strong>2</strong> PROFILES · <strong>306</strong> GB DOWNLOAD · <strong>645</strong> GB INSTALLED · FULLY AUTOMATED VIA WABBAJACK</p>
 
 ## IMPORTANT
 
@@ -140,7 +140,7 @@ For reference, I run this list on a 32:9 ultrawide monitor (5120 x 1440) with sm
 | **Pagefile**  | 40GB                                                    | 40GB                                                 |
 | **Storage**   | Internal SATA SSD                                       | NVMe M.2 SSD                                         |
 | **GPU**       | NVIDIA RTX 3060 Ti / AMD RX 6600 XT (8 GB VRAM)         | NVIDIA RTX 4070 Ti / AMD RX 7800 XT (16 GB VRAM)     |
-| **Disk Space**| ~302GB Download / ~635GB Installed / ~937GB Total       | ~302GB Download / ~635GB Installed / ~937GB Total    |
+| **Disk Space**| ~306GB Download / ~645GB Installed / ~951GB Total       | ~306GB Download / ~645GB Installed / ~951GB Total    |
 
 #### Performance Profile
 
@@ -153,7 +153,7 @@ For reference, I run this list on a 32:9 ultrawide monitor (5120 x 1440) with sm
 | **Pagefile**  | 40GB                                                 | 40GB                                                 |
 | **Storage**   | Internal SATA SSD                                    | NVMe M.2 SSD                                         |
 | **GPU**       | NVIDIA RTX 2060 (6 GB VRAM) / AMD RX 5600 XT         | NVIDIA RTX 3060 Ti / AMD RX 6600 XT (8 GB VRAM)      |
-| **Disk Space**| ~302GB Download / ~635GB Installed / ~937GB Total    | ~302GB Download / ~635GB Installed / ~937GB Total    |
+| **Disk Space**| ~306GB Download / ~645GB Installed / ~951GB Total    | ~306GB Download / ~645GB Installed / ~951GB Total    |
 
 The downloads can be removed after successful installation. NOT RECOMMENDED. But if you're short on space, it won't cause issues.
 
@@ -256,9 +256,9 @@ Before you begin, make sure you meet the following **hard requirements**:
    - Click on **Diaries of Dibella**.
    - Choose:
      - A **Download Location** – where Wabbajack will store mod archives. Select the `\downloaded mods` directory from step 3.  
-       Requires approximately **302 GB of free space**.
+       Requires approximately **306 GB of free space**.
      - An **Installation Location** – where the modlist will be fully installed and run from. Create a `\DOD` directory in the `\modlists` folder from step 3.  
-       Requires approximately **635 GB of free space**.  
+       Requires approximately **645 GB of free space**.  
        **This must be on an internal SSD** for performance and stability.  
        Note that SSDs perform *very poorly* when over 85-90% capacity. Don't try to cram this onto a drive where it will only barely fit.
 

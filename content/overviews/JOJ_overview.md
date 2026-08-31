@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/5568612f-0a05-4651-96bc-bddbf3f023da">
 </p>
 
-<p class="stat-line"><strong>2</strong> PROFILES · <strong>298</strong> GB DOWNLOAD · <strong>604</strong> GB INSTALLED · FULLY AUTOMATED VIA WABBAJACK</p>
+<p class="stat-line"><strong>2</strong> PROFILES · <strong>303</strong> GB DOWNLOAD · <strong>614</strong> GB INSTALLED · FULLY AUTOMATED VIA WABBAJACK</p>
 
 **Journals of Jyggalag (JOJ)** is the flagship modlist of **The Modding Bordello** ecosystem and the foundation upon which all other lists are built.
 
@@ -99,7 +99,7 @@ These are **hard requirements**. The modlist will not function correctly without
 - [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) and [.NET 9 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)
 - Windows and Skyrim language set to English
 
-**Disk space:** ~298GB download / ~604GB installed / ~902GB total
+**Disk space:** ~303GB download / ~614GB installed / ~917GB total
 
 #### Lord's Vision Profile
 
