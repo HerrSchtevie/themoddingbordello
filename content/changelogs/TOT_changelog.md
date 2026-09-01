@@ -66,9 +66,9 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 - Removed the following custom patches:
    - NONE
 - Regenerated the following outputs:
-   - `JOJ - Pandora Output`
-   - `JOJ - Synthesis Output (Lord's Vision)`
-   - `JOJ - Synthesis Output (Performance)`  
+   - `TOT - Pandora Output`
+   - `TOT - Synthesis Output (Lord's Vision)`
+   - `TOT - Synthesis Output (Performance)`  
 
 ---
 
