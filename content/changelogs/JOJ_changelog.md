@@ -41,6 +41,11 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Core Impact Framework (CIF)](https://www.nexusmods.com/skyrimspecialedition/mods/146873)  
 [Precision - Accurate Melee Collisions](https://www.nexusmods.com/skyrimspecialedition/mods/72347)  
 [Fading of Followers](https://www.nexusmods.com/skyrimspecialedition/mods/165927)  
+[powerofthree's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/51073)  
+[powerofthree's Papyrus Extender](https://www.nexusmods.com/skyrimspecialedition/mods/22854)  
+[Dynamic String Distributor (DSD)](https://www.nexusmods.com/skyrimspecialedition/mods/107676)  
+[Photo Mode](https://www.nexusmods.com/skyrimspecialedition/mods/91701)  
+[Mfg Fix NG](https://www.nexusmods.com/skyrimspecialedition/mods/133568)  
 
 ---
 
