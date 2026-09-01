@@ -40,6 +40,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Sanguine Symphony](https://www.nexusmods.com/skyrimspecialedition/mods/148388)  
 [Core Impact Framework (CIF)](https://www.nexusmods.com/skyrimspecialedition/mods/146873)  
 [Precision - Accurate Melee Collisions](https://www.nexusmods.com/skyrimspecialedition/mods/72347)  
+[Fading of Followers](https://www.nexusmods.com/skyrimspecialedition/mods/165927)  
 
 ---
 
