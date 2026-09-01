@@ -27,7 +27,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 [Val Serano - OStim Integration](https://www.nexusmods.com/skyrimspecialedition/mods/189665)  
 [Directional Movement Keys - DMK](https://www.nexusmods.com/skyrimspecialedition/mods/174499)  
-[For Honor in Skyrim -BFCO Edition (All-in-One)](https://www.nexusmods.com/skyrimspecialedition/mods/181389)  
+[For Honor in Skyrim - BFCO Edition (All-in-One)](https://www.nexusmods.com/skyrimspecialedition/mods/181389)  
 [For Honor Stamina System](https://www.nexusmods.com/skyrimspecialedition/mods/174120)  
 [(SBF) State Behavior Framework](https://www.nexusmods.com/skyrimspecialedition/mods/164546)  
 [Chocolate Poise - Reforged](https://www.nexusmods.com/skyrimspecialedition/mods/181084)  
