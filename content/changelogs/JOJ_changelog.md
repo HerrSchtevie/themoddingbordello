@@ -16,7 +16,7 @@ Save compatibility depends on **which number changes** between releases.
   Examples: `4.2.0 → 4.2.1`, `5.1.0 → 5.1.1`  
   Bug fixes, tuning, or minor adjustments. **Safe to update mid-save.**
 
-# JOJ 7.1.1 (WORK IN PROGRESS)
+# JOJ 7.2.0 (WORK IN PROGRESS)
 
 This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
 The actual MO2 modlist is always the authoritative reference for modlist content.
@@ -26,18 +26,32 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 ## Additions
 
 [Val Serano - OStim Integration](https://www.nexusmods.com/skyrimspecialedition/mods/189665)  
+[Directional Movement Keys - DMK](https://www.nexusmods.com/skyrimspecialedition/mods/174499)  
+[For Honor in Skyrim -BFCO Edition (All-in-One)](https://www.nexusmods.com/skyrimspecialedition/mods/181389)  
+[For Honor Stamina System](https://www.nexusmods.com/skyrimspecialedition/mods/174120)  
+[(SBF) State Behavior Framework](https://www.nexusmods.com/skyrimspecialedition/mods/164546)  
+[Chocolate Poise - Reforged](https://www.nexusmods.com/skyrimspecialedition/mods/181084)  
 
 ---
 
 ## Updates
 
-NONE
+[BFCO - Attack Behavior Framework (SSE AE VR)](https://www.nexusmods.com/skyrimspecialedition/mods/117052)  
 
 ---
 
 ## Removals 
 
-NONE
+[Diverse NPC Movesets](https://www.nexusmods.com/skyrimspecialedition/mods/141893)  
+[Chocolate Poise](https://www.nexusmods.com/skyrimspecialedition/mods/70478)  
+[Chocolate Poise Plus - Addons and Rebalancing](https://www.nexusmods.com/skyrimspecialedition/mods/82091)  
+[BFCO Universal Support](https://www.nexusmods.com/skyrimspecialedition/mods/120091)  
+[Elden Sword Definitive I Sword Moveset Mashup (MCO I SCAR I BFCO)](https://www.nexusmods.com/skyrimspecialedition/mods/136573)  
+[ADXP I MCO I BFCO ER Mixed Scythe (SCAR)](https://www.nexusmods.com/skyrimspecialedition/mods/76480)  
+[ADXP I MCO I BFCO Elden Rim Dual Wield moveset collection](https://www.nexusmods.com/skyrimspecialedition/mods/110667)  
+[ADXP I MCO I BFCO ER Katana (SCAR)](https://www.nexusmods.com/skyrimspecialedition/mods/74503)  
+[ADXP l MCO Nordic Animation Complete Pack](https://www.nexusmods.com/skyrimspecialedition/mods/72966)  
+[ADXP I MCO I BFCO ER rapiers (SCAR)](https://www.nexusmods.com/skyrimspecialedition/mods/74808)  
 
 ---
 
@@ -45,6 +59,7 @@ NONE
 
 - Added/edited the following custom patches: 
    - `SOS - SiB Texture Fixes`  
+   - `SOS - For Honor Moveset Overrides`  
 - Removed the following custom patches:
    - NONE
 - Regenerated the following outputs:
