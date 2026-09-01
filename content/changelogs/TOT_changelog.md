@@ -30,7 +30,6 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [For Honor Stamina System](https://www.nexusmods.com/skyrimspecialedition/mods/174120)  
 [(SBF) State Behavior Framework](https://www.nexusmods.com/skyrimspecialedition/mods/164546)  
 [Chocolate Poise - Reforged](https://www.nexusmods.com/skyrimspecialedition/mods/181084)  
-[Third Person First Person Aiming](https://www.nexusmods.com/skyrimspecialedition/mods/84587)  
 
 ---
 
