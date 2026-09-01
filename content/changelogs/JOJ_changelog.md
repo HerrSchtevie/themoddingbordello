@@ -38,6 +38,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 [BFCO - Attack Behavior Framework (SSE AE VR)](https://www.nexusmods.com/skyrimspecialedition/mods/117052)  
 [Sanguine Symphony](https://www.nexusmods.com/skyrimspecialedition/mods/148388)  
+[Core Impact Framework (CIF)](https://www.nexusmods.com/skyrimspecialedition/mods/146873)  
+[Precision - Accurate Melee Collisions](https://www.nexusmods.com/skyrimspecialedition/mods/72347)  
 
 ---
 
