@@ -47,6 +47,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Photo Mode](https://www.nexusmods.com/skyrimspecialedition/mods/91701)  
 [Mfg Fix NG](https://www.nexusmods.com/skyrimspecialedition/mods/133568)  
 [SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/106659)  
+[FSMP - Faster HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339)  
 
 ---
 
