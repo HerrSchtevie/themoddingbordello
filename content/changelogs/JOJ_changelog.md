@@ -56,6 +56,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [ADXP I MCO I BFCO ER Katana (SCAR)](https://www.nexusmods.com/skyrimspecialedition/mods/74503)  
 [ADXP l MCO Nordic Animation Complete Pack](https://www.nexusmods.com/skyrimspecialedition/mods/72966)  
 [ADXP I MCO I BFCO ER rapiers (SCAR)](https://www.nexusmods.com/skyrimspecialedition/mods/74808)  
+[Plus Combat](https://www.nexusmods.com/skyrimspecialedition/mods/100915)  
 
 ---
 
