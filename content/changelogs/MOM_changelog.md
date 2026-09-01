@@ -45,6 +45,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Dynamic String Distributor (DSD)](https://www.nexusmods.com/skyrimspecialedition/mods/107676)  
 [Photo Mode](https://www.nexusmods.com/skyrimspecialedition/mods/91701)  
 [Mfg Fix NG](https://www.nexusmods.com/skyrimspecialedition/mods/133568)  
+[SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/106659)  
 
 ---
 
