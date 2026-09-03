@@ -30,6 +30,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [For Honor Stamina System](https://www.nexusmods.com/skyrimspecialedition/mods/174120)  
 [(SBF) State Behavior Framework](https://www.nexusmods.com/skyrimspecialedition/mods/164546)  
 [Chocolate Poise - Reforged](https://www.nexusmods.com/skyrimspecialedition/mods/181084)  
+[KS Hairdos - HDT SMP (Physics) - Unisex](https://www.nexusmods.com/skyrimspecialedition/mods/37502)  
+[KS Hairdos HDT SMP - For Khajiit](https://www.nexusmods.com/skyrimspecialedition/mods/170525)  
 
 ---
 
