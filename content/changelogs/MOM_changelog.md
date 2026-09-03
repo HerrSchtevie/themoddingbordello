@@ -70,7 +70,9 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 - Added/edited the following custom patches: 
    - `SOS - SiB Texture Fixes`  
-   - `SOS - For Honor Moveset Overrides`  
+   - `SOS - For Honor Moveset Overrides`
+   - `MOM - MCM and INI Settings\Scripts\MOM_MCMSettingsInit.pex`
+   - `MOM - MCM and INI Settings\interface\Bathing in Skyrim\Settings.json`  
 - Removed the following custom patches:
    - NONE
 - Regenerated the following outputs:
