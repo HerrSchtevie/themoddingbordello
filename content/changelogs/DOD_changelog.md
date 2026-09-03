@@ -44,7 +44,8 @@ NONE
 ## Tweaks
 
 - Added/edited the following custom patches: 
-   - `SOS - SiB Texture Fixes`  
+   - `SOS - SiB Texture Fixes`
+   - `DOD - MCM and INI Settings\Scripts\DOD_MCMSettingsInit.pex`  
 - Removed the following custom patches:
    - NONE
 - Regenerated the following outputs:
