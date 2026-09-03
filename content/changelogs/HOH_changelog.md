@@ -33,6 +33,15 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 Enabled [Skyrim's Paraglider](https://www.nexusmods.com/skyrimspecialedition/mods/53256) and [Telvanni Paragliding](https://www.nexusmods.com/skyrimspecialedition/mods/119472) on Performance Profile (forgot to do so in last update)  
 
+[Fading of Followers](https://www.nexusmods.com/skyrimspecialedition/mods/165927)  
+[powerofthree's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/51073)  
+[powerofthree's Papyrus Extender](https://www.nexusmods.com/skyrimspecialedition/mods/22854)  
+[Dynamic String Distributor (DSD)](https://www.nexusmods.com/skyrimspecialedition/mods/107676)  
+[Photo Mode](https://www.nexusmods.com/skyrimspecialedition/mods/91701)  
+[Mfg Fix NG](https://www.nexusmods.com/skyrimspecialedition/mods/133568)  
+[SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/106659)  
+[FSMP - Faster HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339)  
+
 ---
 
 ## Removals 
