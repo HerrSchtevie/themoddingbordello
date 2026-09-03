@@ -25,13 +25,21 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 ## Additions
 
-NONE
+[KS Hairdos - HDT SMP (Physics) - Unisex](https://www.nexusmods.com/skyrimspecialedition/mods/37502)  
+[KS Hairdos HDT SMP - For Khajiit](https://www.nexusmods.com/skyrimspecialedition/mods/170525)  
 
 ---
 
 ## Updates
 
-NONE
+[Fading of Followers](https://www.nexusmods.com/skyrimspecialedition/mods/165927)  
+[powerofthree's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/51073)  
+[powerofthree's Papyrus Extender](https://www.nexusmods.com/skyrimspecialedition/mods/22854)  
+[Dynamic String Distributor (DSD)](https://www.nexusmods.com/skyrimspecialedition/mods/107676)  
+[Photo Mode](https://www.nexusmods.com/skyrimspecialedition/mods/91701)  
+[Mfg Fix NG](https://www.nexusmods.com/skyrimspecialedition/mods/133568)  
+[SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/106659)  
+[FSMP - Faster HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339)  
 
 ---
 
@@ -48,7 +56,8 @@ NONE
 - Removed the following custom patches:
    - NONE
 - Regenerated the following outputs:
-   - NONE
+   - `VOV - Synthesis Output (Lord's Vision)`  
+   - `VOV - Synthesis Output (Performance)`  
 
 ---
 
