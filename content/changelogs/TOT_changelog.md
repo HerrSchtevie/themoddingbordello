@@ -30,6 +30,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [For Honor Stamina System](https://www.nexusmods.com/skyrimspecialedition/mods/174120)  
 [(SBF) State Behavior Framework](https://www.nexusmods.com/skyrimspecialedition/mods/164546)  
 [Chocolate Poise - Reforged](https://www.nexusmods.com/skyrimspecialedition/mods/181084)  
+[Timed Block-Dodge and Counter](https://www.nexusmods.com/skyrimspecialedition/mods/181239)  
 [KS Hairdos - HDT SMP (Physics) - Unisex](https://www.nexusmods.com/skyrimspecialedition/mods/37502)  
 [KS Hairdos HDT SMP - For Khajiit](https://www.nexusmods.com/skyrimspecialedition/mods/170525)  
 
@@ -50,6 +51,10 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/106659)  
 [FSMP - Faster HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339)  
 [Growl - Werebeasts of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/31245)  
+[Spell Casting Reworked - SKSE - SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/168593)  
+[DynDOLOD 3 Alpha](https://www.nexusmods.com/skyrimspecialedition/mods/68518)  
+[PGPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/120946)  
+[Halls of Order](https://www.nexusmods.com/skyrimspecialedition/mods/187403)  
 
 ---
 
@@ -73,9 +78,10 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 - Added/edited the following custom patches: 
    - `SOS - SiB Texture Fixes`  
-   - `SOS - For Honor Moveset Overrides`  
+   - `SOS - For Honor Moveset Overrides`
+   - `controlmap.txt` 
 - Removed the following custom patches:
-   - NONE
+   - `controlmap_custom.txt`  
 - Regenerated the following outputs:
    - `TOT - Pandora Output`
    - `TOT - Synthesis Output (Lord's Vision)`
