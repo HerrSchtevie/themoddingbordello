@@ -47,7 +47,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 ## Removals 
 
-NONE
+[SearchUI - Get Any Item Instantly](https://www.nexusmods.com/skyrimspecialedition/mods/155713)  
+[SearchUI - Remember Settings](https://www.nexusmods.com/skyrimspecialedition/mods/185441)  
 
 ---
 
