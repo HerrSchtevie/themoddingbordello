@@ -82,7 +82,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 - Added/edited the following custom patches: 
    - `SOS - SiB Texture Fixes`  
    - `SOS - For Honor Moveset Overrides`
-   - `controlmap.txt`  
+   - `controlmap.txt`
+   - `SOS - Merged Patches FOMOD`  
 - Removed the following custom patches:
    - `controlmap_custom.txt`  
 - Regenerated the following outputs:
