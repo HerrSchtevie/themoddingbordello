@@ -82,7 +82,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
    - `SOS - For Honor Moveset Overrides`
    - `controlmap.txt`  
 - Removed the following custom patches:
-   - NONE
+   - `controlmap_custom.txt`  
 - Regenerated the following outputs:
    - `JOJ - Pandora Output`
    - `JOJ - Synthesis Output (Lord's Vision)`
