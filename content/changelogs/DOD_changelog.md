@@ -52,7 +52,9 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 ## Removals 
 
-NONE
+[PSBoss Standing Stones AiO - LotD display Fix](https://www.loverslab.com/files/file/47795-psboss-standing-stones-aio-lotd-display-fix)  
+[SearchUI - Get Any Item Instantly](https://www.nexusmods.com/skyrimspecialedition/mods/155713)  
+[SearchUI - Remember Settings](https://www.nexusmods.com/skyrimspecialedition/mods/185441)  
 
 ---
 
