@@ -61,7 +61,8 @@ NONE
 - Added/edited the following custom patches: 
    - `SOS - SiB Texture Fixes`
    - `DOD - MCM and INI Settings\Scripts\DOD_MCMSettingsInit.pex`
-   - `controlmap.txt`  
+   - `controlmap.txt`
+   - `SOS - Merged Patches FOMOD`  
 - Removed the following custom patches:
    - `controlmap_custom.txt`  
 - Regenerated the following outputs:
