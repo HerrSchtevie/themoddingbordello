@@ -73,6 +73,9 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [ADXP l MCO Nordic Animation Complete Pack](https://www.nexusmods.com/skyrimspecialedition/mods/72966)  
 [ADXP I MCO I BFCO ER rapiers (SCAR)](https://www.nexusmods.com/skyrimspecialedition/mods/74808)  
 [Plus Combat](https://www.nexusmods.com/skyrimspecialedition/mods/100915)  
+[PSBoss Standing Stones AiO - LotD display Fix](https://www.loverslab.com/files/file/47795-psboss-standing-stones-aio-lotd-display-fix)  
+[SearchUI - Get Any Item Instantly](https://www.nexusmods.com/skyrimspecialedition/mods/155713)  
+[SearchUI - Remember Settings](https://www.nexusmods.com/skyrimspecialedition/mods/185441)  
 
 ---
 
