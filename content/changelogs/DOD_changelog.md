@@ -41,6 +41,11 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/106659)  
 [FSMP - Faster HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339)  
 [Growl - Werebeasts of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/31245)  
+[Spell Casting Reworked - SKSE - SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/168593)  
+[DynDOLOD 3 Alpha](https://www.nexusmods.com/skyrimspecialedition/mods/68518)  
+[PGPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/120946)  
+[Sanguine's Trade - An Economy Mod](https://www.nexusmods.com/skyrimspecialedition/mods/185788) - Thanks, [Juntii](https://www.nexusmods.com/profile/Juntii)!  
+[Halls of Order](https://www.nexusmods.com/skyrimspecialedition/mods/187403)  
 
 ---
 
@@ -54,9 +59,10 @@ NONE
 
 - Added/edited the following custom patches: 
    - `SOS - SiB Texture Fixes`
-   - `DOD - MCM and INI Settings\Scripts\DOD_MCMSettingsInit.pex`  
+   - `DOD - MCM and INI Settings\Scripts\DOD_MCMSettingsInit.pex`
+   - `controlmap.txt`  
 - Removed the following custom patches:
-   - NONE
+   - `controlmap_custom.txt`  
 - Regenerated the following outputs:
    - `DOD - Synthesis Output (Lord's Vision)`  
    - `DOD - Synthesis Output (Performance)`
