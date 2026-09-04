@@ -126,6 +126,7 @@ There's a lot going on during character setup. It'll take a bit more time and a 
 
 ### OBody and Character Appearance
 - Your character may appear **distorted or incorrect** in RaceMenu, or may be unable to apply tattoos/overlays during initial setup. This is expected. Finalizing your character and then reopening Racemenu via the Vanity Mirror should resolve most such issues. 
+- RaceMenu's `F9` Load Preset and `F5` Save Preset shortcuts are gone on this list. They followed the vanilla quickload and quicksave keys, which are unbound so that `F5` and `F9` belong to the save system (see the Skyrim Save System Overhaul 3 section). Use the **Load Preset** and **Save Preset** buttons in the Presets tab instead.
 
 - You may be accustomed to adjusting your body proportions in Racemenu during character creation. This is not possible or needed on our lists. Instead, we use Obody, which allows you to change your own body shape or any NPC's to any installed body preset at will.
 
@@ -157,7 +158,7 @@ There's a lot going on during character setup. It'll take a bit more time and a 
 - Relaunch the game.
 - Load your save.
 - Open the **Safe Save System Overhaul** MCM and **enable the mod**.
-- Open the MCM again and configure the settings below.
+- Open the MCM again and check the settings below. The list ships them pre-set, so you should only need to correct anything that differs.
 
 **Recommended settings:**
 - Enable Timed Save: **enabled**
@@ -171,10 +172,11 @@ There's a lot going on during character setup. It'll take a bit more time and a 
   - High Speed
 
 - Controls:
-  - In the main Skyrim Controls interface, remap **vanilla quicksave** to any unused key
-  - In the SSSO3 MCM, set **Save Shortcut** to `F5`
-  - Always use `F5` to save. **Do not** use the Pause Menu save option; that menu does not engage SSSO3's quality protection logic.
-  - Do not use either the vanilla or SSSO3 quickload option. If you must reload your game, exit to desktop first and restart Skyrim.
+  - `F5` is SSSO3's **Save Shortcut** and `F9` is its **Quick Load / Load Menu Shortcut** (hold `F9` for the load menu). Both come pre-set; you do not need to bind anything.
+  - The vanilla quicksave and quickload are unbound on this list and no longer appear in Skyrim's Controls menu, so `F5` and `F9` only ever talk to SSSO3.
+  - Until SSSO3 is enabled for your character, `F5` and `F9` do nothing. That is why the first manual save in the steps above is made from the pause menu.
+  - Once SSSO3 is enabled, always use `F5` to save. **Do not** use the Pause Menu save option; that menu does not engage SSSO3's quality protection logic.
+  - Do not quickload mid-session, even with SSSO3's shortcut. If you must reload your game, exit to desktop first and restart Skyrim.
 
 You're done! The new save system is now active and tailored to your character.
 
