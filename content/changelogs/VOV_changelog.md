@@ -40,6 +40,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Mfg Fix NG](https://www.nexusmods.com/skyrimspecialedition/mods/133568)  
 [SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/106659)  
 [FSMP - Faster HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339)  
+[DynDOLOD 3 Alpha](https://www.nexusmods.com/skyrimspecialedition/mods/68518)  
+[PGPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/120946)  
 
 ---
 
@@ -52,9 +54,10 @@ NONE
 ## Tweaks
 
 - Added/edited the following custom patches: 
-   - `SOS - SiB Texture Fixes`  
+   - `SOS - SiB Texture Fixes`
+   - `controlmap.txt`  
 - Removed the following custom patches:
-   - NONE
+   - `controlmap_custom.txt`  
 - Regenerated the following outputs:
    - `VOV - Synthesis Output (Lord's Vision)`  
    - `VOV - Synthesis Output (Performance)`  
