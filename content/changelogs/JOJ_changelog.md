@@ -32,6 +32,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [(SBF) State Behavior Framework](https://www.nexusmods.com/skyrimspecialedition/mods/164546)  
 [Chocolate Poise - Reforged](https://www.nexusmods.com/skyrimspecialedition/mods/181084)  
 [Timed Block-Dodge and Counter](https://www.nexusmods.com/skyrimspecialedition/mods/181239)  
+[KS Hairdos - HDT SMP (Physics) - Unisex](https://www.nexusmods.com/skyrimspecialedition/mods/37502)  
+[KS Hairdos HDT SMP - For Khajiit](https://www.nexusmods.com/skyrimspecialedition/mods/170525)  
 
 ---
 
