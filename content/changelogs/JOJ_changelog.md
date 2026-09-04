@@ -55,6 +55,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Spell Casting Reworked - SKSE - SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/168593)  
 [DynDOLOD 3 Alpha](https://www.nexusmods.com/skyrimspecialedition/mods/68518)  
 [PGPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/120946)  
+[MCM super SEEDED](https://www.nexusmods.com/skyrimspecialedition/mods/164370)  
 [Sanguine's Trade - An Economy Mod](https://www.nexusmods.com/skyrimspecialedition/mods/185788) - Thanks, [Juntii](https://www.nexusmods.com/profile/Juntii)!  
 [Halls of Order](https://www.nexusmods.com/skyrimspecialedition/mods/187403)  
 
