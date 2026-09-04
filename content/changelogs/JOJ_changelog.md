@@ -34,6 +34,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Timed Block-Dodge and Counter](https://www.nexusmods.com/skyrimspecialedition/mods/181239)  
 [KS Hairdos - HDT SMP (Physics) - Unisex](https://www.nexusmods.com/skyrimspecialedition/mods/37502)  
 [KS Hairdos HDT SMP - For Khajiit](https://www.nexusmods.com/skyrimspecialedition/mods/170525)  
+[MCM Memory - Settings Backup and Restore](https://www.nexusmods.com/skyrimspecialedition/mods/189722)  
 
 ---
 
