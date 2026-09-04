@@ -54,7 +54,8 @@ Enabled [Skyrim's Paraglider](https://www.nexusmods.com/skyrimspecialedition/mod
 
 ## Removals 
 
-NONE
+[SearchUI - Get Any Item Instantly](https://www.nexusmods.com/skyrimspecialedition/mods/155713)  
+[SearchUI - Remember Settings](https://www.nexusmods.com/skyrimspecialedition/mods/185441)  
 
 ---
 
