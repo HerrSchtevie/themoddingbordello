@@ -62,7 +62,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
    - `controlmap_custom.txt`  
 - Regenerated the following outputs:
    - `VOV - Synthesis Output (Lord's Vision)`  
-   - `VOV - Synthesis Output (Performance)`  
+   - `VOV - Synthesis Output (Performance)`
+   - `VOV - BodySlide Output`  
 
 ---
 
