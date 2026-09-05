@@ -42,6 +42,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [FSMP - Faster HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339)  
 [DynDOLOD 3 Alpha](https://www.nexusmods.com/skyrimspecialedition/mods/68518)  
 [PGPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/120946)  
+[Xavbio Cubemap Patch Hub (3BA - HIMBO)](https://www.nexusmods.com/skyrimspecialedition/mods/127261)  
 
 ---
 
