@@ -71,6 +71,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 - Regenerated the following outputs:
    - `DOD - Synthesis Output (Lord's Vision)`  
    - `DOD - Synthesis Output (Performance)`
+   - `DOD - BodySlide Output`  
 
 ---
 
