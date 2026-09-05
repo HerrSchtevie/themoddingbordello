@@ -42,7 +42,7 @@ The images below mirror the in-game keyboard reference for quick access from the
 
 ---
 
-<h2 style="color:#D46F00;border-bottom-color:rgba(212,111,0,0.28)">Mantras of Mara (MOM) - v3.0.1</h2>
+<h2 style="color:#D46F00;border-bottom-color:rgba(212,111,0,0.28)">Mantras of Mara (MOM) - v3.3.0</h2>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/bfbc64eb-39d1-44c7-92c4-c8335953928f" alt="MOM keyboard layout">
