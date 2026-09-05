@@ -72,7 +72,8 @@ Enabled [Skyrim's Paraglider](https://www.nexusmods.com/skyrimspecialedition/mod
    - `controlmap_custom.txt` 
 - Regenerated the following outputs:
    - `HOH - Synthesis Output (Lord's Vision)`  
-   - `HOH - Synthesis Output (Performance)`  
+   - `HOH - Synthesis Output (Performance)`
+   - `HOH - BodySlide Output`  
 
 ---
 
