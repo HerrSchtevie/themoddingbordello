@@ -27,7 +27,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 [Val Serano - OStim Integration](https://www.nexusmods.com/skyrimspecialedition/mods/189665)  
 [KS Hairdos - HDT SMP (Physics) - Unisex](https://www.nexusmods.com/skyrimspecialedition/mods/37502)  
-[KS Hairdos HDT SMP - For Khajiit](https://www.nexusmods.com/skyrimspecialedition/mods/170525)  
+[KS Hairdos HDT SMP - For Khajiit](https://www.nexusmods.com/skyrimspecialedition/mods/170525) - Thanks, [Aldwin](<https://www.nexusmods.com/skyrimspecialedition/mods/170525>)!  
 [MCM Memory - Settings Backup and Restore](https://www.nexusmods.com/skyrimspecialedition/mods/189722)  
 
 ---
