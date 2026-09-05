@@ -94,7 +94,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 - Regenerated the following outputs:
    - `JOJ - Pandora Output`
    - `JOJ - Synthesis Output (Lord's Vision)`
-   - `JOJ - Synthesis Output (Performance)`  
+   - `JOJ - Synthesis Output (Performance)`
+   - `JOJ - BodySlide Output`  
 
 ---
 
