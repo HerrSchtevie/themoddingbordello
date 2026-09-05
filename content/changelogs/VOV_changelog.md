@@ -16,6 +16,42 @@ Save compatibility depends on **which number changes** between releases.
   Examples: `4.2.0 → 4.2.1`, `5.1.0 → 5.1.1`  
   Bug fixes, tuning, or minor adjustments. **Safe to update mid-save.**
 
+# VOV 2.2.1 (Updated - 09.05.2026)
+
+This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
+The actual MO2 modlist is always the authoritative reference for modlist content.
+
+---
+
+## Additions
+
+NONE
+
+---
+
+## Updates
+
+NONE
+
+---
+
+## Removals 
+
+Removed all traces of Creation Kit (again) to fix install errors
+
+---
+
+## Tweaks
+
+- Added/edited the following custom patches: 
+   - `VOV - MCM Settings.esp`  
+- Removed the following custom patches:
+   - NONE
+- Regenerated the following outputs:
+   - NONE
+
+---
+
 # VOV 2.2.0 (Updated - 09.05.2026)
 
 This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
