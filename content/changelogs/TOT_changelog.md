@@ -44,7 +44,7 @@ Removed all traces of Creation Kit (again) to fix install errors
 ## Tweaks
 
 - Added/edited the following custom patches: 
-   - `SOS - Merged Patches FOMOD` (small face discoloration wench fix)   
+   - `SOS - Merged Patches FOMOD`  
    - `TOT - MCM Settings.esp`  
 - Removed the following custom patches:
    - NONE
