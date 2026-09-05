@@ -50,6 +50,7 @@ Enabled [Skyrim's Paraglider](https://www.nexusmods.com/skyrimspecialedition/mod
 [PGPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/120946)  
 [MCM super SEEDED](https://www.nexusmods.com/skyrimspecialedition/mods/164370)  
 [Xavbio Cubemap Patch Hub (3BA - HIMBO)](https://www.nexusmods.com/skyrimspecialedition/mods/127261)  
+[For Honor Stamina System](https://www.nexusmods.com/skyrimspecialedition/mods/174120)  
 [Sanguine's Trade - An Economy Mod](https://www.nexusmods.com/skyrimspecialedition/mods/185788) - Thanks, [Juntii](https://www.nexusmods.com/profile/Juntii)!  
 [Halls of Order](https://www.nexusmods.com/skyrimspecialedition/mods/187403)  
 
