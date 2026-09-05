@@ -26,7 +26,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 ## Additions
 
 [KS Hairdos - HDT SMP (Physics) - Unisex](https://www.nexusmods.com/skyrimspecialedition/mods/37502)  
-[KS Hairdos HDT SMP - For Khajiit](https://www.nexusmods.com/skyrimspecialedition/mods/170525)  
+[KS Hairdos HDT SMP - For Khajiit](https://www.nexusmods.com/skyrimspecialedition/mods/170525) - Thanks, [Aldwin](<https://www.nexusmods.com/skyrimspecialedition/mods/170525>)!  
 
 ---
 
