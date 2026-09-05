@@ -28,6 +28,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Val Serano - OStim Integration](https://www.nexusmods.com/skyrimspecialedition/mods/189665)  
 [KS Hairdos - HDT SMP (Physics) - Unisex](https://www.nexusmods.com/skyrimspecialedition/mods/37502)  
 [KS Hairdos HDT SMP - For Khajiit](https://www.nexusmods.com/skyrimspecialedition/mods/170525)  
+[MCM Memory - Settings Backup and Restore](https://www.nexusmods.com/skyrimspecialedition/mods/189722)  
 
 ---
 
@@ -47,6 +48,7 @@ Enabled [Skyrim's Paraglider](https://www.nexusmods.com/skyrimspecialedition/mod
 [Spell Casting Reworked - SKSE - SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/168593)  
 [DynDOLOD 3 Alpha](https://www.nexusmods.com/skyrimspecialedition/mods/68518)  
 [PGPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/120946)  
+[MCM super SEEDED](https://www.nexusmods.com/skyrimspecialedition/mods/164370)  
 [Sanguine's Trade - An Economy Mod](https://www.nexusmods.com/skyrimspecialedition/mods/185788) - Thanks, [Juntii](https://www.nexusmods.com/profile/Juntii)!  
 [Halls of Order](https://www.nexusmods.com/skyrimspecialedition/mods/187403)  
 
