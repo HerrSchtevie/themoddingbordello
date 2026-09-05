@@ -57,7 +57,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 - Added/edited the following custom patches: 
    - `SOS - SiB Texture Fixes`
-   - `controlmap.txt`  
+   - `controlmap.txt`
+   - `VOV - MCM Settings.esp` 
 - Removed the following custom patches:
    - `controlmap_custom.txt`  
 - Regenerated the following outputs:
