@@ -65,7 +65,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
    - `SOS - SiB Texture Fixes`
    - `DOD - MCM and INI Settings\Scripts\DOD_MCMSettingsInit.pex`
    - `controlmap.txt`
-   - `SOS - Merged Patches FOMOD`  
+   - `SOS - Merged Patches FOMOD`
+   - `SOS - MCM Settings.esp`  
 - Removed the following custom patches:
    - `controlmap_custom.txt`  
 - Regenerated the following outputs:
