@@ -89,7 +89,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
    - `SOS - For Honor Moveset Overrides`
    - `controlmap.txt`
    - `SOS - Merged Patches FOMOD`
-   - `SOS - MCM Settings.esp` 
+   - `JOJ - MCM Settings.esp`
+   - `JOJ - MCM and INI Settings\Scripts\DOD_MCMSettingsInit.pex`
 - Removed the following custom patches:
    - `controlmap_custom.txt`  
 - Regenerated the following outputs:
