@@ -89,7 +89,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
    - `MOM - MCM and INI Settings\interface\Bathing in Skyrim\Settings.json`
    - `controlmap.txt`
    - `SOS - Merged Patches FOMOD`
-   - `MOM - BodySlide Output`  
+   - `MOM - BodySlide Output`
+   - `SOS - MCM Settings.esp` 
 - Removed the following custom patches:
    - `controlmap_custom.txt`  
 - Regenerated the following outputs:
