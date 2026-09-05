@@ -90,7 +90,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
    - `controlmap.txt`
    - `SOS - Merged Patches FOMOD`
    - `MOM - BodySlide Output`
-   - `SOS - MCM Settings.esp` 
+   - `MOM - MCM Settings.esp` 
 - Removed the following custom patches:
    - `controlmap_custom.txt`  
 - Regenerated the following outputs:
