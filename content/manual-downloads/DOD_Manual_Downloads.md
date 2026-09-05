@@ -69,7 +69,6 @@ This page is kept up to date to ensure a **smooth, repeatable installation exper
 | Laura’s Bondage Shop v3.54 SE | https://www.loverslab.com/files/file/6949-devious-devices-lauras-bondage-shop-16-aug-2025-v355-le-se/?do=download&r=2098429&confirm=1&t=1&csrfKey=265928ac2a1fd7302ab254ea55a36391 |
 | MoreNastyCrittersSE&AE_v16_2 | https://www.loverslab.com/files/file/5464-more-nasty-critters-specialanniversary-edition/?do=download&r=2169763&confirm=1&t=1&csrfKey=190c56d2aad910963a70a62cc373489c |
 | No Overpenetration SE | https://www.loverslab.com/files/file/10339-no-overpenetration-se/?do=download |
-| PSBoss Standing Stones AiO - LotD display Fix 1.0.0 | https://www.loverslab.com/files/file/47795-psboss-standing-stones-aio-lotd-display-fix/?do=download |
 | SCoE Texture Set – SLACS Plus 4K | https://www.loverslab.com/applications/core/interface/file/attachment.php?id=2201727&key=befc541059be13bb61dc411181cb4c18 |
 | SexLab Confabulation – Solutions Patch v1.7.4 | https://www.loverslab.com/files/file/11867-sexlab-confabulation-september-16-2020/?do=download&r=859744&confirm=1&t=1&csrfKey=355e792d6fa52c8df9631d9d5f2e37ed |
 | SexLab Confabulation 1.7.4 – Voicepack | https://www.loverslab.com/files/file/36328-sl-confabulation-174-voicepack/?do=download&r=2016544&confirm=1&t=1&csrfKey=355e792d6fa52c8df9631d9d5f2e37ed |
