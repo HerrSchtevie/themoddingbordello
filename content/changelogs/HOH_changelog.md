@@ -67,7 +67,8 @@ Enabled [Skyrim's Paraglider](https://www.nexusmods.com/skyrimspecialedition/mod
 - Added/edited the following custom patches: 
    - `SOS - SiB Texture Fixes`
    - `controlmap.txt`
-   - `SOS - Merged Patches FOMOD`  
+   - `SOS - Merged Patches FOMOD`
+   - `SOS - MCM Settings.esp`  
 - Removed the following custom patches:
    - `controlmap_custom.txt` 
 - Regenerated the following outputs:
