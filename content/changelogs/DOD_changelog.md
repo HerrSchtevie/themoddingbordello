@@ -16,6 +16,45 @@ Save compatibility depends on **which number changes** between releases.
   Examples: `4.2.0 → 4.2.1`, `5.1.0 → 5.1.1`  
   Bug fixes, tuning, or minor adjustments. **Safe to update mid-save.**
 
+# DOD 2.4.0 (Updated - 09.06.2026)
+
+This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
+The actual MO2 modlist is always the authoritative reference for modlist content.
+
+---
+
+## Additions
+
+NONE
+
+---
+
+## Updates
+
+[Precision - Accurate Melee Collisions](https://www.nexusmods.com/skyrimspecialedition/mods/72347)  
+[Unofficial TCC Display Helper](https://www.nexusmods.com/skyrimspecialedition/mods/148952)  
+[Sanguine's Trade - An Economy Mod](https://www.nexusmods.com/skyrimspecialedition/mods/185788) - Thanks, [Juntii](https://www.nexusmods.com/profile/Juntii)!  
+[For Honor Stamina System](https://www.nexusmods.com/skyrimspecialedition/mods/174120)  
+
+---
+
+## Removals 
+
+[SLSB_Billyy_Animations v10.5 Patch for P+ users](https://www.loverslab.com/files/file/3999-billyys-slal-animations-2026-9-4/)  
+
+---
+
+## Tweaks
+
+- Added/edited the following custom patches: 
+   - NONE
+- Removed the following custom patches:
+   - NONE
+- Regenerated the following outputs:
+   - NONE
+
+---
+
 # DOD 2.3.1 (Updated - 09.05.2026)
 
 This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
