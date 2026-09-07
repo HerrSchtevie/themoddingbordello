@@ -95,7 +95,6 @@ This page is kept up to date to ensure a **smooth, repeatable installation exper
 | SlaveTatsNG-0.7.6.7z | https://www.loverslab.com/files/file/35989-slavetatsng/?do=download&r=2101783&confirm=1&t=1&csrfKey=265928ac2a1fd7302ab254ea55a36391 |
 | SlaveTatsSE-1.3.9.7z | https://www.loverslab.com/files/file/619-slavetats/?do=download&r=1362382&confirm=1&t=1&csrfKey=265928ac2a1fd7302ab254ea55a36391 |
 | SLEN Rev2 Voicepack bsa | https://www.loverslab.com/files/file/36330-slen-voicepack-100/?do=download&r=2016553&confirm=1&t=1&csrfKey=355e792d6fa52c8df9631d9d5f2e37ed |
-| SLSB_Billyy_Animations v10.5 Patch for P+ users | https://www.loverslab.com/files/file/3999-billyys-slal-animations-2026-8-4/?do=download&r=2169925&confirm=1&t=1&csrfKey=ed6df6673f738387690cf8cdf0b1be5d |
 | SubmissiveLolaResubmission 2.1.13.7z | https://www.loverslab.com/files/file/15346-submissive-lola-the-resubmission-lese/?do=download&r=2083332&confirm=1&t=1&csrfKey=355e792d6fa52c8df9631d9d5f2e37ed |
 | The Book Of Sex SE v1.1.7z | https://www.loverslab.com/files/file/10091-the-book-of-sex-se/?do=download&r=797069&confirm=1&t=1&csrfKey=69fd77326ed00b0d83bd1196cd2c3ef5 |
 | Yamete Kudasai 2.2.3 | https://www.loverslab.com/files/file/23123-yamete-kudasai/?do=download&r=2091641&confirm=1&t=1&csrfKey=265928ac2a1fd7302ab254ea55a36391 |
