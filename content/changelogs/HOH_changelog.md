@@ -31,7 +31,6 @@ NONE
 
 ## Updates
 
-[Precision - Accurate Melee Collisions](https://www.nexusmods.com/skyrimspecialedition/mods/72347)  
 [Unofficial TCC Display Helper](https://www.nexusmods.com/skyrimspecialedition/mods/148952)  
 [Sanguine's Trade - An Economy Mod](https://www.nexusmods.com/skyrimspecialedition/mods/185788) - Thanks, [Juntii](https://www.nexusmods.com/profile/Juntii)!  
 [For Honor Stamina System](https://www.nexusmods.com/skyrimspecialedition/mods/174120)  
