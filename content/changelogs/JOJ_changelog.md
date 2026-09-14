@@ -31,7 +31,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [CBBE 3BA Vanilla Outfits Redone](https://www.nexusmods.com/skyrimspecialedition/mods/109194)  
 [Noblesse Oblige and Noble Dress - SSE CBBE BodySlide](https://www.nexusmods.com/skyrimspecialedition/mods/25646)  
 [Triss' Dress - SSE CBBE 3BA BodySlide](https://www.nexusmods.com/skyrimspecialedition/mods/23835)  
-[Ingolf the White - A Manbeast Follower](https://www.nexusmods.com/skyrimspecialedition/mods/117489)  
+[Ingolf the White - A Manbeast Follower](https://www.nexusmods.com/skyrimspecialedition/mods/117489) - Thanks, [Squishy](https://www.nexusmods.com/profile/HDMFanatic)!  
 [NUTS - Navigate Using Triggers and Sticks](https://www.nexusmods.com/skyrimspecialedition/mods/191396) - Thanks, [Kyler](https://www.nexusmods.com/profile/Kyler45?gameId=1704)!   
 [Ostim Standalone - Enable Kiss and BJ for Beast Races](https://www.nexusmods.com/skyrimspecialedition/mods/181631)  
 
