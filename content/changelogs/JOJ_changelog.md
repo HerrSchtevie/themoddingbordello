@@ -16,7 +16,7 @@ Save compatibility depends on **which number changes** between releases.
   Examples: `4.2.0 → 4.2.1`, `5.1.0 → 5.1.1`  
   Bug fixes, tuning, or minor adjustments. **Safe to update mid-save.**
 
-# JOJ 7.4.0 (WORK IN PROGRESS)
+# JOJ 8.0.0 (WORK IN PROGRESS)
 
 This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
 The actual MO2 modlist is always the authoritative reference for modlist content.
@@ -25,20 +25,75 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 ## Additions
 
-[NUTS - Navigate Using Triggers and Sticks](https://www.nexusmods.com/skyrimspecialedition/mods/191396) - Thanks, [Kyler](https://www.nexusmods.com/profile/Kyler45)!  
+[Devotion - An Immersive Religion Mod](https://www.nexusmods.com/skyrimspecialedition/mods/185531) - Thanks, [Whisper](https://www.nexusmods.com/skyrimspecialedition/mods/185531)!  
+[Become High King of Skyrim TNG](https://www.nexusmods.com/skyrimspecialedition/mods/142993)  
+[Effects 11](https://github.com/community-shaders/skyrim-community-shaders/releases/tag/v1.8.3)  
+[CBBE 3BA Vanilla Outfits Redone](https://www.nexusmods.com/skyrimspecialedition/mods/109194)  
+[Noblesse Oblige and Noble Dress - SSE CBBE BodySlide](https://www.nexusmods.com/skyrimspecialedition/mods/25646)  
+[Triss' Dress - SSE CBBE 3BA BodySlide](https://www.nexusmods.com/skyrimspecialedition/mods/23835)  
+[Ingolf the White - A Manbeast Follower](https://www.nexusmods.com/skyrimspecialedition/mods/117489)  
+[NUTS - Navigate Using Triggers and Sticks](https://www.nexusmods.com/skyrimspecialedition/mods/191396) - Thanks, Kyler!  
 [Ostim Standalone - Enable Kiss and BJ for Beast Races](https://www.nexusmods.com/skyrimspecialedition/mods/181631)  
 
 ---
 
 ## Updates
 
+[NPC Plugin Chooser 2](https://www.nexusmods.com/skyrimspecialedition/mods/157055)  
+[PGPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/120946)  
 [For Honor Stamina System](https://www.nexusmods.com/skyrimspecialedition/mods/174120)  
 
 ---
 
 ## Removals 
 
-NONE
+The Lord's Vision (ENB) profile is gone. JOJ now ships a single Community Shaders profile, `Journals of Jyggalag`, and the Lord's Vision tool outputs went with it. ENB presets are still available through Effects 11; see `ENB Preset Setup Instructions for Community Shaders` in MO2.
+
+[Wintersun - Faiths of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/22506) - replaced by Devotion, along with its whole patch web:  
+[Wintersun - Faiths of Skyrim - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/56761)  
+[Wintersun - Tweaks and Enhancements](https://www.nexusmods.com/skyrimspecialedition/mods/107675)  
+[Wintersun Textures Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/55554)  
+[Wintersun Skillrate Alternative](https://www.nexusmods.com/skyrimspecialedition/mods/60409)  
+[Wintersun - Gallows Hall](https://www.nexusmods.com/skyrimspecialedition/mods/58988)  
+[Wintersun - Ghosts of the Tribunal](https://www.nexusmods.com/skyrimspecialedition/mods/58988)  
+[Wintersun - Zim's Immersive Artifacts Patch](https://www.nexusmods.com/skyrimspecialedition/mods/24228)  
+[Wintersun - M'rissi's Tails of Troubles Patch](https://www.nexusmods.com/skyrimspecialedition/mods/59940)  
+[Hearthfire - Craftable Wintersun Shrines](https://www.nexusmods.com/skyrimspecialedition/mods/141661)  
+[The Only Cure - Quest Expansion - Wintersun patch](https://www.nexusmods.com/skyrimspecialedition/mods/131556)  
+[The Whispering Door - Quest Expansion - Wintersun patch](https://www.nexusmods.com/skyrimspecialedition/mods/130774)  
+[CC's Camping Expansion - Wintersun patch](https://www.nexusmods.com/skyrimspecialedition/mods/145830)  
+[Patch for Mannaz - Freyr - Wintersun](https://www.nexusmods.com/skyrimspecialedition/mods/103918)  
+[House of Horrors Quest Expansion - Patches](https://www.nexusmods.com/skyrimspecialedition/mods/57584)  
+[ENBSeries Binaries](http://enbdev.com/download_mod_tesskyrimse.htm)  
+[ENB Extender for Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/99406)  
+[KiLoader for Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/99404)  
+[ENB Helper SE](https://www.nexusmods.com/skyrimspecialedition/mods/23174)  
+[ENB Helper Plus](https://www.nexusmods.com/skyrimspecialedition/mods/62743)  
+[ENB Anti-Aliasing - AMD FSR 3.1 - NVIDIA DLAA](https://www.nexusmods.com/skyrimspecialedition/mods/130669)  
+[ENB Frame Generation](https://www.nexusmods.com/skyrimspecialedition/mods/144507)  
+[ENB Input Disabler](https://www.nexusmods.com/skyrimspecialedition/mods/62796)  
+[ENB Terrain Blending Fix](https://www.nexusmods.com/skyrimspecialedition/mods/140041)  
+[ENB Grass Collisions](https://www.nexusmods.com/skyrimspecialedition/mods/67886)  
+[Sky Reflection Fix for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/110604)  
+[Parallax Occlusion Mapping](https://www.nexusmods.com/skyrimspecialedition/mods/78976)  
+[Enhanced Volumetric Lighting and Shadows (EVLaS)](https://www.nexusmods.com/skyrimspecialedition/mods/63725)  
+[Shadow Boost](https://www.nexusmods.com/skyrimspecialedition/mods/73133)  
+[NVIDIA Reflex Support](https://www.nexusmods.com/skyrimspecialedition/mods/74498)  
+[Native EditorID Fix](https://www.nexusmods.com/skyrimspecialedition/mods/85260)  
+[Improved Eye Reflections and Cube Map](https://www.nexusmods.com/skyrimspecialedition/mods/67447)  
+[Rudy Fix for Smoke](https://www.nexusmods.com/skyrimspecialedition/mods/78495)  
+[Gryphonknight Regalia - Dynamic ENB cubemap](https://www.nexusmods.com/skyrimspecialedition/mods/107437)  
+[Lifesworn Vestige - Dynamic ENB cubemap](https://www.nexusmods.com/skyrimspecialedition/mods/136837)  
+[Viridian Armor - Color Variations dynamic cubemaps](https://www.nexusmods.com/skyrimspecialedition/mods/72325)  
+[Freak's Floral Fields](https://www.nexusmods.com/skyrimspecialedition/mods/125349)  
+[Wildlands Renewal - grass and groundcover improvement mod 2k](https://www.nexusmods.com/skyrimspecialedition/mods/139896)  
+[Extended Cut - Saints and Seducers 2K](https://www.nexusmods.com/skyrimspecialedition/mods/80307)  
+[Amon - SK Fix All in One](https://www.nexusmods.com/skyrimspecialedition/mods/112174)  
+[ColdSun's Visions - NPC Replacers - Pack 1](https://www.nexusmods.com/skyrimspecialedition/mods/147136)  
+[ColdSun's Visions - NPC Replacers - Pack 2](https://www.nexusmods.com/skyrimspecialedition/mods/152524)  
+[Elder ENB](https://www.nexusmods.com/skyrimspecialedition/mods/117327)  
+`Effects 11 - Community Shaders` placeholder mod - superseded by the real Effects 11 above  
+Synthesis patchers [Muzzle-It-Patcher](https://github.com/krypto5863/Muzzle-It-Patcher) and [DeadBodyCleanupNPCAttacher](https://github.com/TokcDK/DeadBodyCleanupNPCAttacher) - never produced a record on this list  
 
 ---
 
@@ -46,12 +101,26 @@ NONE
 
 - Added/edited the following custom patches: 
    - `SOS - Merged Patches FOMOD`  
+   - `SOS - TNG Seam Fixes` - Thanks, [Arveth](https://www.nexusmods.com/profile/Arveth)!  
+   - `SOS - BHKS Lux Patch` - Thanks, [Rynfri](https://www.nexusmods.com/profile/Rynfri)!  
+   - `JOJ - Cell and Worldspace Edits`  
+   - `JOJ - Gameplay Edits`  
+   - `ENB Presets and DLSS 5 - Setup Instructions`  
+   - `JOJ - MCM and INI Settings`  
+   - `SOS - DALC Fix Customization`  
+   - `SOS - Forms of Order`  
+   - `DLSS 5 - ReShade Bridge`  
 - Removed the following custom patches:
    - NONE
 - Regenerated the following outputs:
-   - `JOJ - NPC Merge`
-   - `JOJ - Synthesis Output (Lord's Vision)`  
-   - `JOJ - Synthesis Output (Performance)`  
+   - `JOJ - NPC Merge`  
+   - `JOJ - Synthesis Output`  
+   - `JOJ - BodySlide Output`  
+   - `JOJ - ParallaxGen Output`  
+   - `JOJ - xLODGen Output`  
+   - `JOJ - Grass Cache`  
+   - `JOJ - TexGen Output`  
+   - `JOJ - DynDOLOD Output`  
 
 ---
 
