@@ -101,7 +101,8 @@ Synthesis patchers [Muzzle-It-Patcher](https://github.com/krypto5863/Muzzle-It-P
 
 - Added/edited the following custom patches: 
    - `SOS - Merged Patches FOMOD`  
-   - `SOS - TNG Seam Fixes` - Thanks, [Arveth](https://www.nexusmods.com/profile/Arveth)!  
+   - `SOS - TNG Seam Fixes` - Thanks, [Arveth](https://www.nexusmods.com/profile/Arveth)!
+   - `SOS - Khajiit Eye Shader Tweaks` - Thanks, [Arveth](https://www.nexusmods.com/profile/Arveth)!
    - `SOS - BHKS Lux Patch` - Thanks, [Rynfri](https://www.nexusmods.com/profile/Rynfri)!  
    - `JOJ - Cell and Worldspace Edits`  
    - `JOJ - Gameplay Edits`  
