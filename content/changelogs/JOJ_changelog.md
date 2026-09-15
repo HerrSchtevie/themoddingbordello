@@ -25,7 +25,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 ## Additions
 
-[Devotion - An Immersive Religion Mod](https://www.nexusmods.com/skyrimspecialedition/mods/185531) - Thanks, [Whisper](https://www.nexusmods.com/skyrimspecialedition/mods/185531)!  
+[Devotion - An Immersive Religion Mod](https://www.nexusmods.com/skyrimspecialedition/mods/185531) - Thanks, [Whisper](https://www.nexusmods.com/skyrimspecialedition/mods/185531)! - **Please read the mod page details prior to starting a new game**  
 [Become High King of Skyrim TNG](https://www.nexusmods.com/skyrimspecialedition/mods/142993)  
 [Effects 11](https://github.com/community-shaders/skyrim-community-shaders/releases/tag/v1.8.3)  
 [CBBE 3BA Vanilla Outfits Redone](https://www.nexusmods.com/skyrimspecialedition/mods/109194)  
