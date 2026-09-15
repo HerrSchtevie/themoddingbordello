@@ -34,6 +34,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Ingolf the White - A Manbeast Follower](https://www.nexusmods.com/skyrimspecialedition/mods/117489) - Thanks, [Squishy](https://www.nexusmods.com/profile/HDMFanatic)!  
 [NUTS - Navigate Using Triggers and Sticks](https://www.nexusmods.com/skyrimspecialedition/mods/191396) - Thanks, [Kyler](https://www.nexusmods.com/profile/Kyler45?gameId=1704)!   
 [Ostim Standalone - Enable Kiss and BJ for Beast Races](https://www.nexusmods.com/skyrimspecialedition/mods/181631)  
+[Herman The Mad SSE PORT (OG by JaervSkyrim)](https://www.nexusmods.com/skyrimspecialedition/mods/190903)  
+[Herman The Mad Patch](https://www.nexusmods.com/skyrimspecialedition/mods/191365) - Thanks, [Hoody](https://www.nexusmods.com/profile/missionx2000)!  
 
 ---
 
