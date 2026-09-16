@@ -36,6 +36,12 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Ostim Standalone - Enable Kiss and BJ for Beast Races](https://www.nexusmods.com/skyrimspecialedition/mods/181631)  
 [Herman The Mad SSE PORT (OG by JaervSkyrim)](https://www.nexusmods.com/skyrimspecialedition/mods/190903)  
 [Herman The Mad Patch](https://www.nexusmods.com/skyrimspecialedition/mods/191365) - Thanks, [Hoody](https://www.nexusmods.com/profile/missionx2000)!  
+[Enhanced Khajiit CBBE Himbo](https://www.nexusmods.com/skyrimspecialedition/mods/176481) - a full Khajiit overhaul: new head, digitigrade paws, beast hands, fangs, scars and 19 new eye colours  
+[K.C.C.E Khajiit Character Creation Extended](https://www.nexusmods.com/skyrimspecialedition/mods/95969) - RaceMenu sliders for Khajiit ears, muzzle and fangs  
+[K.C.C.E Enhanced Khajiit Patch](https://www.nexusmods.com/skyrimspecialedition/mods/177167)  
+[Enhanced Khajiit and Khajiit-yllux SOS and TRX Patches](https://www.nexusmods.com/skyrimspecialedition/mods/176702) - the LDD Racial Penis Variance patch file  
+[More accurate Khajiit chin and lips paint](https://www.nexusmods.com/skyrim/mods/6956)  
+[Fur Paint - RaceMenu Overlays for Khajiit - CBBE 3BA - BHUNP](https://www.nexusmods.com/skyrimspecialedition/mods/171333)  
 
 ---
 
@@ -44,6 +50,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [NPC Plugin Chooser 2](https://www.nexusmods.com/skyrimspecialedition/mods/157055)  
 [PGPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/120946)  
 [For Honor Stamina System](https://www.nexusmods.com/skyrimspecialedition/mods/174120)  
+[Demon Yoanna cbbe 3ba standalone High poly follower](https://www.nexusmods.com/skyrimspecialedition/mods/109140)  
 
 ---
 
@@ -95,6 +102,8 @@ The Lord's Vision (ENB) profile is gone. JOJ now ships a single Community Shader
 [Elder ENB](https://www.nexusmods.com/skyrimspecialedition/mods/117327)  
 `Effects 11 - Community Shaders` placeholder mod - superseded by the real Effects 11 above  
 Synthesis patchers [Muzzle-It-Patcher](https://github.com/krypto5863/Muzzle-It-Patcher) and [DeadBodyCleanupNPCAttacher](https://github.com/TokcDK/DeadBodyCleanupNPCAttacher) - never produced a record on this list  
+[Feminine Khajiit Textures (Grey Cat and Leopard)](https://www.nexusmods.com/skyrimspecialedition/mods/183) - superseded by Enhanced Khajiit, which covers every one of its textures and adds subsurface maps  
+`max fluff texture - female`, an optional file from [longer HDT SMP fluffy beast race tail](https://www.nexusmods.com/skyrimspecialedition/mods/111629) - Enhanced Khajiit now supplies the female tail texture, matched to its own body.
 
 ---
 
