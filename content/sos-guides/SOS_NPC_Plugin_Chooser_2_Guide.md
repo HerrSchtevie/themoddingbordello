@@ -120,6 +120,7 @@ Before booting NPC2, you must disable everything in the **Outputs** plugin group
 
 ![image](https://github.com/user-attachments/assets/3cc25878-a064-4a23-8cc8-428738eee9ac)  
 
+- **JOJ ships NPC Plugin Chooser 2.2.5, which needs the [.NET Desktop Runtime 10](https://dotnet.microsoft.com/en-us/download/dotnet/10.0)** (Windows x64, the runtime only, not the .NET 10 SDK). Install it first or the exe will not launch. The other lists still ship 2.1.5, which runs on .NET 8.  
 - Launch **NPC Plugin Chooser 2** from the MO2 dropdown menu.  
 - On first launch, you may see an error message about:  
   `RU_CityTreesSE.esm`  

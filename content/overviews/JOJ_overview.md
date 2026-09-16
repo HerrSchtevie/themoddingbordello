@@ -95,7 +95,7 @@ These are **hard requirements**. The modlist will not function correctly without
 - Internal SSD (HDD installs will freeze and crash)
 - Pagefile set to at least 40GB
 - [Microsoft Visual C++ Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe)
-- [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) and [.NET 9 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)
+- [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) and [.NET 9 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/9.0), plus the [.NET Desktop Runtime 10](https://dotnet.microsoft.com/en-us/download/dotnet/10.0) (the runtime only, not the .NET 10 SDK)
 - Windows and Skyrim language set to English
 
 **Disk space:** ~296GB download / ~577GB installed / ~873GB total

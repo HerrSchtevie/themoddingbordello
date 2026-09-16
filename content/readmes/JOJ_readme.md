@@ -156,7 +156,8 @@ Before continuing, make sure these system components are installed. They are req
 - [Microsoft Visual C++ Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 - [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) and [.NET 9 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)
     - Get the Windows x64 installers for the most current SDK version, unless you know that you need something different.
-    - We recommend you NOT install .NET 10, and uninstall it if it is installed. We have seen many examples of tool failures when .NET 10 is present.
+- [.NET Desktop Runtime 10](https://dotnet.microsoft.com/en-us/download/dotnet/10.0) (Windows x64). NPC Plugin Chooser 2 will not launch without it.
+    - Install the **Desktop Runtime** only. Do not install the .NET 10 SDK: the list's tools are built for the .NET 8 and 9 SDKs, and we have seen tool failures on machines with a newer SDK present. The Desktop Runtime is a separate package and causes none of that; the list's own tool runs happen on a machine that has it.
 
 If you're unsure whether these are already installed, it's safe to install them again. They will update or repair as needed.
 

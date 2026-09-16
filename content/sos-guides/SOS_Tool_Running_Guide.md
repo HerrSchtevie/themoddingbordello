@@ -338,7 +338,7 @@ If you receive a **blocking error** when launching or running Synthesis:
 **Recommended Fixes:**
 - Run **MO2 as Administrator** and try again.
 - Reboot your PC to clear temp/cache files and try again.
-- Ensure .Net 8 and .Net 9 are installed and updated, and .Net 10 is NOT installed. 
+- Ensure the .Net 8 and .Net 9 SDKs are installed and updated, and the .Net 10 SDK is NOT installed. The .Net 10 Desktop Runtime is a different package and is fine to keep; JOJ needs it for NPC Plugin Chooser 2.
 
 </details>
 
