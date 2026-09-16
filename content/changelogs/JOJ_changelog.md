@@ -36,8 +36,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Ostim Standalone - Enable Kiss and BJ for Beast Races](https://www.nexusmods.com/skyrimspecialedition/mods/181631)  
 [Herman The Mad SSE PORT (OG by JaervSkyrim)](https://www.nexusmods.com/skyrimspecialedition/mods/190903)  
 [Herman The Mad Patch](https://www.nexusmods.com/skyrimspecialedition/mods/191365) - Thanks, [Hoody](https://www.nexusmods.com/profile/missionx2000)!  
-[Enhanced Khajiit CBBE Himbo](https://www.nexusmods.com/skyrimspecialedition/mods/176481) - a full Khajiit overhaul: new head, digitigrade paws, beast hands, fangs, scars and 19 new eye colours  
-[K.C.C.E Khajiit Character Creation Extended](https://www.nexusmods.com/skyrimspecialedition/mods/95969) - RaceMenu sliders for Khajiit ears, muzzle and fangs  
+[Enhanced Khajiit CBBE Himbo](https://www.nexusmods.com/skyrimspecialedition/mods/176481)  
+[K.C.C.E Khajiit Character Creation Extended](https://www.nexusmods.com/skyrimspecialedition/mods/95969)  
 [K.C.C.E Enhanced Khajiit Patch](https://www.nexusmods.com/skyrimspecialedition/mods/177167)  
 [Enhanced Khajiit and Khajiit-yllux SOS and TRX Patches](https://www.nexusmods.com/skyrimspecialedition/mods/176702) - the LDD Racial Penis Variance patch file  
 [More accurate Khajiit chin and lips paint](https://www.nexusmods.com/skyrim/mods/6956)  
