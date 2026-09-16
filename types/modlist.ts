@@ -2,7 +2,8 @@ export type ModlistSlug = 'joj' | 'tot' | 'hoh' | 'mom' | 'dod' | 'vov';
 
 export type ModlistPage = 'overview' | 'readme' | 'gameplay-guide' | 'changelog' | 'manual-downloads' | 'load-order' | 'showcase';
 
-export type KodexProfileKey = 'lv' | 'perf';
+/** 'main' is the single profile of a one-profile list (JOJ since 8.0.0); 'lv' and 'perf' are the two profiles of the lists still shipping Lord's Vision + Performance. */
+export type KodexProfileKey = 'main' | 'lv' | 'perf';
 
 export interface PluginCountCell {
   active: number;

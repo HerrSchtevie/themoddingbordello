@@ -5,9 +5,10 @@ import { modlistBySlug } from './modlists';
 import { loadManualDownloads, normalizeModName, ManualDownloadEntry } from './manualDownloads';
 import { manualDownloadAliases } from './kodexAliases';
 
-export const KODEX_PROFILE_KEYS: KodexProfileKey[] = ['lv', 'perf'];
+export const KODEX_PROFILE_KEYS: KodexProfileKey[] = ['main', 'lv', 'perf'];
 
 const KODEX_PROFILE_FALLBACK_LABEL: Record<KodexProfileKey, string> = {
+  main: 'Default',
   lv: "Lord's Vision",
   perf: 'Performance',
 };
@@ -160,7 +161,8 @@ export function getKodexFilePath(slug: ModlistSlug, profile: KodexProfileKey): s
 
 function extractProfileLabel(html: string, modlistName: string, profile: KodexProfileKey): string {
   const match = html.match(/Generated for profile:\s*([^<]+)/);
-  if (!match) return KODEX_PROFILE_FALLBACK_LABEL[profile];
+  // A single-profile list's one profile is named after the list itself.
+  if (!match) return profile === 'main' ? modlistName : KODEX_PROFILE_FALLBACK_LABEL[profile];
   const raw = decodeEntities(match[1]).trim();
   const prefix = `${modlistName} - `;
   return raw.startsWith(prefix) ? raw.slice(prefix.length) : raw;

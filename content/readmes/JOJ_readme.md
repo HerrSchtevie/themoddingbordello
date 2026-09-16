@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/5568612f-0a05-4651-96bc-bddbf3f023da">
 </p>
 
-<p class="stat-line"><strong>2</strong> PROFILES · <strong>303</strong> GB DOWNLOAD · <strong>614</strong> GB INSTALLED · FULLY AUTOMATED VIA WABBAJACK</p>
+<p class="stat-line"><strong>296</strong> GB DOWNLOAD · <strong>577</strong> GB INSTALLED · FULLY AUTOMATED VIA WABBAJACK</p>
 
 ## IMPORTANT
 
@@ -89,10 +89,8 @@ Before installing, use the SOS Pre-Install Checker to confirm your system and se
 
 ## Features
 
-- **Two Unique Profiles Included:**  
-  JOJ offers two distinct profiles tailored to your preferred experience:  
-  - **Lord's Vision** – ENB with multiple preset options, full graphics, and all features enabled
-  - **Performance** – Community Shaders, same gameplay experience with optimized graphics for smoother play on lower-end systems
+- **Community Shaders, with ENB on Tap:**  
+  JOJ ships a single profile, `Journals of Jyggalag`, built on Community Shaders. Five ENB presets and a DLSS 5 add-on ride along disabled, ready to switch on under Rule 11; see ENB Presets and DLSS 5 in the post-installation steps.
 
 - **Quest Mods:**  
   JOJ includes a massive lineup of lore-rich, fully patched quests that expand Skyrim's world with new factions, dungeons, and narratives. Major entries include:  
@@ -124,35 +122,22 @@ Before installing, use the SOS Pre-Install Checker to confirm your system and se
 | RAM        | 64GB DDR5-6000                         |
 | Storage    | Samsung 990 EVO PLUS 4TB SSD (PCIe Gen 4x4) |
 
-For reference, I run this list on a 32:9 ultrawide monitor (5120 x 1440) with smooth, consistent FPS on the Lord's Vision profile.
+For reference, I run this list on a 32:9 ultrawide monitor (5120 x 1440) with smooth, consistent FPS.
 
 ### Recommended System Specs
 
-#### Lord's Vision Profile
-
-*High graphics, full feature set, maximum visuals.*
-
-| Component     | Minimum (Playable)                                      | Recommended (Ideal)                                  |
-|---------------|---------------------------------------------------------|------------------------------------------------------|
-| **CPU**       | Intel Core i5 (10th Gen) / AMD Ryzen 5 (3000 series)    | Intel Core i7 (12th Gen) / AMD Ryzen 7 (5000 series) |
-| **RAM**       | 16GB DDR4                                               | 32GB DDR4                                            |
-| **Pagefile**  | 40GB                                                    | 40GB                                                 |
-| **Storage**   | Internal SATA SSD                                       | NVMe M.2 SSD                                         |
-| **GPU**       | NVIDIA RTX 3060 Ti / AMD RX 6600 XT (8 GB VRAM)         | NVIDIA RTX 4070 Ti / AMD RX 7800 XT (16 GB VRAM)     |
-| **Disk Space**| ~303GB Download / ~614GB Installed / ~917GB Total       | ~303GB Download / ~614GB Installed / ~917GB Total    |
-
-#### Performance Profile
-
-*Optimized for lower-end hardware, reduced visual load.*
+JOJ ships one profile, built on Community Shaders, and the figures below are for the list as shipped. The optional ENB presets and DLSS 5 (see ENB Presets and DLSS 5 in the post-installation steps) cost more: if you plan to run either, treat the Recommended column as your minimum and aim for an RTX 4070 Ti / RX 7800 XT class card with 16 GB of VRAM and 32GB of RAM.
 
 | Component     | Minimum (Playable)                                   | Recommended (Ideal)                                  |
 |---------------|------------------------------------------------------|------------------------------------------------------|
 | **CPU**       | Intel Core i5-6500 / AMD Ryzen 5 (1st or 2nd Gen)    | Intel Core i5 (10th Gen) / AMD Ryzen 5 (3000 series) |
-| **RAM**       | 16GB DDR4                                            | 16–32GB DDR4                                         |
+| **RAM**       | 16GB DDR4                                            | 32GB DDR4                                            |
 | **Pagefile**  | 40GB                                                 | 40GB                                                 |
 | **Storage**   | Internal SATA SSD                                    | NVMe M.2 SSD                                         |
 | **GPU**       | NVIDIA RTX 2060 (6 GB VRAM) / AMD RX 5600 XT         | NVIDIA RTX 3060 Ti / AMD RX 6600 XT (8 GB VRAM)      |
-| **Disk Space**| ~303GB Download / ~614GB Installed / ~917GB Total    | ~303GB Download / ~614GB Installed / ~917GB Total    |
+| **Disk Space**| ~296GB Download / ~577GB Installed / ~873GB Total    | ~296GB Download / ~577GB Installed / ~873GB Total    |
+
+Distant grass and a fuller LOD tier make the Minimum column a true floor: on a 6 GB or 8 GB card, run VRAMr (see Performance Tuning under the post-installation steps).
 
 The downloads can be removed after successful installation. NOT RECOMMENDED. But if you're short on space, it won't cause issues.
 
@@ -236,9 +221,9 @@ Before you begin, make sure you meet the following **hard requirements**:
    - Click on **Journals of Jyggalag**.
    - Choose:
      - A **Download Location** – where Wabbajack will store mod archives. Select the `\downloaded mods` directory from step 3.  
-       Requires approximately **303 GB of free space**.
+       Requires approximately **296 GB of free space**.
      - An **Installation Location** – where the modlist will be fully installed and run from. Create a `\JOJ` directory in the `\modlists` folder from step 3.  
-       Requires approximately **614 GB of free space**.  
+       Requires approximately **577 GB of free space**.  
        **This must be on an internal SSD** for performance and stability.  
        Note that SSDs perform *very poorly* when over 85-90% capacity. Don't try to cram this onto a drive where it will only barely fit.
 
@@ -250,7 +235,7 @@ Before you begin, make sure you meet the following **hard requirements**:
 
 7. **While Wabbajack Is Running**
    - Join [The Modding Bordello Discord](https://discord.gg/themoddingbordello) and ask any questions you might have.
-   - Review the mod pages for [Mannaz](https://www.nexusmods.com/skyrimspecialedition/mods/87219), [Freyr](https://www.nexusmods.com/skyrimspecialedition/mods/88043), and [Wintersun](https://www.nexusmods.com/skyrimspecialedition/mods/22506) and start planning your character build.
+   - Review the mod pages for [Mannaz](https://www.nexusmods.com/skyrimspecialedition/mods/87219), [Freyr](https://www.nexusmods.com/skyrimspecialedition/mods/88043), and [Devotion](https://www.nexusmods.com/skyrimspecialedition/mods/185531) and start planning your character build.
 
 ---
 
@@ -281,53 +266,7 @@ Once Wabbajack finishes, you're not quite ready to jump in yet. Follow these ste
 
 ---
 
-### 2. Select Your Profile (and Stick With It)
-
-Journals of Jyggalag includes **two distinct profiles**, each preconfigured with its own settings, tool outputs, and game experience.  
-You can select your profile from the **dropdown in the upper-left corner of MO2** (just above the mod pane).
-
-| Profile Name                | Description                                                                 |
-|-----------------------------|-----------------------------------------------------------------------------|
-| **Lord's Vision**           | Multiple ENB preset options, full graphics, and all features enabled        |
-| **Performance**             | Community Shaders, same gameplay experience with reduced graphics for smoother play on lower-end systems |
-
-> **Important:** once you choose a profile, **stick with it**.  
-> Do **not** switch between profiles mid-playthrough. Each profile uses its own:
-> - Mod configurations
-> - MCM settings
-> - Tool outputs (DynDOLOD, TexGen, BodySlide, etc.)
-> - Save file directories
->
-> **Save files are not cross-compatible.** Switching profiles mid-playthrough can break your game or result in corrupted saves.
-
----
-
-### Swapping ENB Presets (Optional)
-
-The Lord's Vision profile ships with five ENB presets. Cabbage ENB is enabled by default; the alternates sit disabled alongside it in MO2's left pane:
-
-- [Kauz ENB](https://www.nexusmods.com/skyrimspecialedition/mods/111431)
-- [Rudy ENB](https://www.nexusmods.com/skyrimspecialedition/mods/91675)
-- [Berserkyr ENB](https://www.nexusmods.com/skyrimspecialedition/mods/62381)
-- [Cabbage ENB](https://www.nexusmods.com/skyrimspecialedition/mods/103042)
-- [Amon ENB](https://www.nexusmods.com/skyrimspecialedition/mods/99786)
-
-**If you haven't loaded the game yet:**
-
-1. Uncheck the ENB preset you were previously using (by default, Cabbage).
-2. Check the new ENB you want to use and follow any instructions noted on that mod in MO2.
-
-**If you have already loaded the game:**
-
-1. Delete the ENB Cache in your overwrite folder (e.g. `D:\modlists\JOJ\overwrite`).
-2. Uncheck the ENB preset you were previously using.
-3. Check the new ENB you want to use and follow any instructions noted on that mod in MO2.
-
-For side-by-side comparisons, see [Berserkyr vs Rudy vs Kauz vs Cabbage](https://www.youtube.com/watch?v=iYbj4jkhap0) and [Amon vs Kauz vs Cabbage](https://www.youtube.com/watch?v=HsH8YF6uSmc).
-
----
-
-### 3. Configure JOJ to Your Preferences
+### 2. Configure JOJ to Your Preferences
 
 Before diving into your playthrough, take a moment to configure the list to match your setup. Whether you're using ultrawide resolutions or a controller, Journals of Jyggalag is built to adapt — but it expects you to pick your setup and stick with it.
 
@@ -383,6 +322,24 @@ Where possible, keep Windows Display Settings at 100% scale. Higher Windows scal
 - We encourage users to run **VRAMr** unless you have at least 16 GB of VRAM. If you have 10 GB of VRAM or less, we consider it a functional *necessity*.
 - We encourage users to install and run **Bethini PIE** to optimize Skyrim's ini files to suit your system.
 - Instructions for both tools and additional performance improvements are in the [SOS Performance Tuning Guide](/guides/sos-performance-tuning-guide).
+
+---
+
+### ENB Presets and DLSS 5 (Optional)
+
+JOJ runs Community Shaders. Two optional visual add-ons ship with the list, both disabled by default, and both fall under Rule 11. They can be used together.
+
+- **ENB presets through Effects 11.** Five presets ship disabled and render through the Effects 11 feature of Community Shaders. No ENB binaries are installed, and none should ever be added.
+  - [Cabbage ENB](https://www.nexusmods.com/skyrimspecialedition/mods/103042)
+  - [Kauz ENB](https://www.nexusmods.com/skyrimspecialedition/mods/111431)
+  - [Rudy ENB](https://www.nexusmods.com/skyrimspecialedition/mods/91675)
+  - [Berserkyr ENB](https://www.nexusmods.com/skyrimspecialedition/mods/62381)
+  - [Amon ENB](https://www.nexusmods.com/skyrimspecialedition/mods/99786)
+- **DLSS 5 neural rendering**, delivered through a ReShade bridge. It needs an NVIDIA RTX card and driver 616.56 or newer, and it costs real performance.
+
+The step-by-step setup lives in the list itself: open the `ENB Presets and DLSS 5 - Setup Instructions` mod in MO2's left pane. It covers which mods to enable, where each preset's plugin goes, the ENB Extender version lock, and which caches to clear from `overwrite`. Read its section 4 before changing anything; a stale `overwrite\ShaderCache` is the most common cause of "it did not work". Enable one preset at a time, and expect a list update to reset these choices.
+
+For side-by-side comparisons, see [Berserkyr vs Rudy vs Kauz vs Cabbage](https://www.youtube.com/watch?v=iYbj4jkhap0) and [Amon vs Kauz vs Cabbage](https://www.youtube.com/watch?v=HsH8YF6uSmc).
 
 ---
 
@@ -454,7 +411,7 @@ There are **three independent groups**. None of them depend on each other, so en
 
 ---
 
-### 4. Set the Executable and Launch the Game
+### 3. Set the Executable and Launch the Game
 
 - Ensure **`Journals of Jyggalag`** is selected as the modlist in the **top-right executable dropdown** in MO2.
 - Click **Run** to start the game.
@@ -469,7 +426,7 @@ There are **three independent groups**. None of them depend on each other, so en
 > MO2 will automatically unlock when the game has fully closed.  
 > Manually clicking "Unlock" can break the virtual file system, sever mod links, or corrupt your entire install.
 
-### 5. New Character Setup
+### 4. New Character Setup
 
 If character setup misbehaves on a new game, the cause is almost always rushing. Script registrations and the list's own MCM configuration run behind the scenes from the moment a new game starts; give them room to finish and most first-launch problems never happen.
 
@@ -485,7 +442,7 @@ If character setup misbehaves on a new game, the cause is almost always rushing.
 
 > MCM Recorder is still installed, but nothing plays back on its own any more. It stays in the list as an optional tool. Replaying the `Scrolls of Order` recording puts the MCMs back to the settings the list ships with, and if you use a tenkeyless keyboard you can run `Scrolls of Order - OStim TKL` once per new game for the alternate keybinds.
 
-### 6. Saving and Loading
+### 5. Saving and Loading
 
 - Skyrim's default save and load system has long-standing issues that can introduce corruption into your saves over time. This corruption accumulates, eventually rendering saves unstable or unplayable. These are limitations of the Skyrim engine itself, not conflicts with this modlist.
 

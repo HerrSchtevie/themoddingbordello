@@ -25,7 +25,8 @@ Let the path of Order guide you.
 - Recommended reading before character creation:
   - [Mannaz](https://www.nexusmods.com/skyrimspecialedition/mods/87219) Integrated Races of Skyrim
   - [Freyr](https://www.nexusmods.com/skyrimspecialedition/mods/88043) Integrated Standing Stones of Skyrim
-  - [Wintersun](https://www.nexusmods.com/skyrimspecialedition/mods/22506) Faiths of Skyrim
+  - [Devotion](https://www.nexusmods.com/skyrimspecialedition/mods/185531) An Immersive Religion Mod
+- Religion runs through Devotion. It works in the background: each race worships its own pantheon, sixteen Daedric Princes may offer a pact with a boon, a price and a stigma, and your everyday choices shape your standing. The Book of Days records where you stand and how you got there. Read the mod page before you start.
 - **Do not** use console commands to change your race after creation.
 
 ---

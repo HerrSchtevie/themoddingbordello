@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/5568612f-0a05-4651-96bc-bddbf3f023da">
 </p>
 
-<p class="stat-line"><strong>2</strong> PROFILES · <strong>303</strong> GB DOWNLOAD · <strong>614</strong> GB INSTALLED · FULLY AUTOMATED VIA WABBAJACK</p>
+<p class="stat-line"><strong>296</strong> GB DOWNLOAD · <strong>577</strong> GB INSTALLED · FULLY AUTOMATED VIA WABBAJACK</p>
 
 **Journals of Jyggalag (JOJ)** is the flagship modlist of **The Modding Bordello** ecosystem and the foundation upon which all other lists are built.
 
@@ -22,12 +22,9 @@ Before installing, use the SOS Pre-Install Checker to validate your system and c
 
 ---
 
-## Choose Your Profile
+## One Profile, Your Choice of Look
 
-JOJ includes two profiles tailored to your system's capabilities and gameplay preferences:
-
-- **Lord's Vision** – Multiple ENB presets, full graphics, and all features enabled
-- **Performance** – Community Shaders, same gameplay experience with optimized graphics for smoother play on lower-end systems
+JOJ ships a single profile, `Journals of Jyggalag`, built on Community Shaders. Five ENB presets and a DLSS 5 add-on ride along disabled for anyone who wants them, switched on under Rule 11 with the instructions included in the list.
 
 ---
 
@@ -44,6 +41,7 @@ Major entries include [Legacy of the Dragonborn](https://www.nexusmods.com/skyri
 - [For Honor in Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/151478) movesets via [BFCO](https://www.nexusmods.com/skyrimspecialedition/mods/117052), with optional [Wo Long](https://next.nexusmods.com/profile/wkk654321/mods) movesets through a custom ring system
 - [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614) and stamina-based dodge rolling
 - [Pandora](https://www.nexusmods.com/skyrimspecialedition/mods/133232) animation system for smooth, modern movement
+- [Devotion](https://www.nexusmods.com/skyrimspecialedition/mods/185531) religion system: every race worships its own pantheon, sixteen Daedric Princes offer pacts with a price, and your standing grows from how you actually play
 - Tuned for challenge and flexibility across all playstyles: mage, rogue, battlemage, archer, berserker
 
 ---
@@ -52,7 +50,7 @@ Major entries include [Legacy of the Dragonborn](https://www.nexusmods.com/skyri
 
 - Complete city and terrain overhauls via [JK's Skyrim](https://next.nexusmods.com/profile/jkrojmal/mods?gameId=1704), [Cities of the North](https://next.nexusmods.com/profile/JPSteel2/mods?gameId=1704), and [The Great Cities](https://next.nexusmods.com/profile/Archinatic/mods?gameId=1704)
 - Enhanced lighting and weather using [Lux](https://www.nexusmods.com/skyrimspecialedition/mods/43158), [Embers XD](https://www.nexusmods.com/skyrimspecialedition/mods/37085), [Obsidian Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/12125), and more
-- High-resolution textures, handpicked ENB support, dense foliage, and region-specific landscapes
+- High-resolution textures, Community Shaders with five optional ENB presets, dense foliage with distant grass, and region-specific landscapes
 
 ---
 
@@ -79,6 +77,7 @@ JOJ fully integrates adult content in a way that enhances immersion — without 
 ## NPC & Follower Overhauls
 
 - Every named NPC visually enhanced using a custom [NPC Plugin Chooser 2](https://www.nexusmods.com/skyrimspecialedition/mods/157055) merge
+- Khajiit rebuilt with [Enhanced Khajiit](https://www.nexusmods.com/skyrimspecialedition/mods/176481) and [K.C.C.E](https://www.nexusmods.com/skyrimspecialedition/mods/95969): new heads, digitigrade paws, beast hands, fangs, scars, new eye colours, and RaceMenu sliders for ears, muzzle and fangs
 - Full compatibility with [AI Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/173), [Follower Dialogue Expansion](https://next.nexusmods.com/profile/anbeegod/mods?gameId=1704), [3DNPC](https://www.nexusmods.com/skyrimspecialedition/mods/29194), and more
 - Dynamic outfits, follower support for OStim, and consistent visual tone across regions
 - Includes fully-voiced followers like Kaidan, Remiel, Auri, Xelzaz, Lucien, Inigo, Hoth, Jesper, Taliesin, Gore, M'rissi, Katana, Redcap, Thogra, Merlin, Khajiit Will Follow, and many more
@@ -99,23 +98,17 @@ These are **hard requirements**. The modlist will not function correctly without
 - [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) and [.NET 9 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)
 - Windows and Skyrim language set to English
 
-**Disk space:** ~303GB download / ~614GB installed / ~917GB total
+**Disk space:** ~296GB download / ~577GB installed / ~873GB total
 
-#### Lord's Vision Profile
-
-| Component | Minimum                      | Recommended                    |
-|-----------|------------------------------|--------------------------------|
-| CPU       | i5 10th Gen / Ryzen 5 3000   | i7 12th Gen / Ryzen 7 5000     |
-| GPU       | RTX 3060 Ti / RX 6600 XT     | RTX 4070 Ti / RX 7800 XT       |
-| RAM       | 16GB                         | 32GB                           |
-
-#### Performance Profile
+#### System Specs
 
 | Component | Minimum                      | Recommended                    |
 |-----------|------------------------------|--------------------------------|
 | CPU       | i5-6500 / Ryzen 5 1st Gen    | i5 10th Gen / Ryzen 5 3000     |
 | GPU       | RTX 2060 / RX 5600 XT        | RTX 3060 Ti / RX 6600 XT       |
-| RAM       | 16GB                         | 16–32GB                        |
+| RAM       | 16GB                         | 32GB                           |
+
+Planning to run an ENB preset or DLSS 5? Treat the Recommended column as your minimum and aim for an RTX 4070 Ti / RX 7800 XT class card with 32GB of RAM.
 
 ---
 

@@ -17,19 +17,12 @@ export const modlists: ModlistMeta[] = [
       loadOrder: 'https://loadorderlibrary.com/lists/journals-of-jyggalag-2',
     },
     pluginCounts: {
-      lv: {
-        all: { active: 3716, total: 3716 },
-        esms: { active: 52, total: 52 },
-        esps: { active: 181, total: 181 },
-        esmsPlusEsps: { active: 233, total: 233 },
-        esls: { active: 3483, total: 3483 },
-      },
-      perf: {
-        all: { active: 3724, total: 3725 },
-        esms: { active: 52, total: 52 },
-        esps: { active: 183, total: 183 },
-        esmsPlusEsps: { active: 235, total: 235 },
-        esls: { active: 3489, total: 3490 },
+      main: {
+        all: { active: 3727, total: 3728 },
+        esms: { active: 53, total: 53 },
+        esps: { active: 186, total: 186 },
+        esmsPlusEsps: { active: 239, total: 239 },
+        esls: { active: 3488, total: 3489 },
       },
     },
   },
