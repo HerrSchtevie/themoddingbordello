@@ -126,7 +126,7 @@ DOD installs using [Wabbajack](https://www.wabbajack.org/), the automated modlis
 
 - [DOD Installation Guide](/modlists/dod/readme)
 - [DOD Manual Downloads](/modlists/dod/manual-downloads)
-- [Load Order Library](https://loadorderlibrary.com/lists/diaries-of-dibella)
+- [ModlistGrimoire](https://modlistgrimoire.com/modlists/diaries-of-dibella)
 
 ---
 

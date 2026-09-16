@@ -113,7 +113,7 @@ These are **hard requirements**. The modlist will not function correctly without
 TOT installs using [Wabbajack](https://www.wabbajack.org/), the automated modlist installer. No modding experience is required.
 
 - [TOT Installation Guide](/modlists/tot/readme)
-- [Load Order Library](https://loadorderlibrary.com/lists/tomes-of-talos)
+- [ModlistGrimoire](https://modlistgrimoire.com/modlists/tomes-of-talos)
 
 ---
 

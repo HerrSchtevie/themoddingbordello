@@ -117,7 +117,7 @@ Planning to run an ENB preset or DLSS 5? Treat the Recommended column as your mi
 JOJ installs using [Wabbajack](https://www.wabbajack.org/), the automated modlist installer. No modding experience is required.
 
 - [JOJ Installation Guide](/modlists/joj/readme)
-- [Load Order Library](https://loadorderlibrary.com/lists/journals-of-jyggalag-2)
+- [ModlistGrimoire](https://modlistgrimoire.com/modlists/journals-of-jyggalag)
 
 ---
 

@@ -14,7 +14,7 @@ export const modlists: ModlistMeta[] = [
     pages: { readme: true, gameplayGuide: true, changelog: true, manualDownloads: false, kodex: true },
     links: {
       nexus: 'https://www.nexusmods.com/skyrimspecialedition/mods/146771',
-      loadOrder: 'https://loadorderlibrary.com/lists/journals-of-jyggalag-2',
+      loadOrder: 'https://modlistgrimoire.com/modlists/journals-of-jyggalag',
     },
     pluginCounts: {
       main: {
@@ -39,7 +39,7 @@ export const modlists: ModlistMeta[] = [
     pages: { readme: true, gameplayGuide: true, changelog: true, manualDownloads: false, kodex: true },
     links: {
       nexus: 'https://www.nexusmods.com/skyrimspecialedition/mods/154277',
-      loadOrder: 'https://loadorderlibrary.com/lists/tomes-of-talos',
+      loadOrder: 'https://modlistgrimoire.com/modlists/tomes-of-talos',
     },
     pluginCounts: {
       lv: {
@@ -71,7 +71,7 @@ export const modlists: ModlistMeta[] = [
     pages: { readme: true, gameplayGuide: true, changelog: true, manualDownloads: false, kodex: true },
     links: {
       nexus: 'https://www.nexusmods.com/skyrimspecialedition/mods/156686',
-      loadOrder: 'https://loadorderlibrary.com/lists/hymns-of-hircine',
+      loadOrder: 'https://modlistgrimoire.com/modlists/hymns-of-hircine',
     },
     pluginCounts: {
       lv: {
@@ -103,7 +103,7 @@ export const modlists: ModlistMeta[] = [
     pages: { readme: true, gameplayGuide: true, changelog: true, manualDownloads: true, kodex: true },
     links: {
       nexus: 'https://www.nexusmods.com/skyrimspecialedition/mods/158622',
-      loadOrder: 'https://loadorderlibrary.com/lists/mantras-of-mara',
+      loadOrder: 'https://modlistgrimoire.com/modlists/mantras-of-mara',
     },
     pluginCounts: {
       lv: {
@@ -135,7 +135,7 @@ export const modlists: ModlistMeta[] = [
     pages: { readme: true, gameplayGuide: true, changelog: true, manualDownloads: true, kodex: true },
     links: {
       nexus: 'https://www.nexusmods.com/skyrimspecialedition/mods/156694',
-      loadOrder: 'https://loadorderlibrary.com/lists/diaries-of-dibella',
+      loadOrder: 'https://modlistgrimoire.com/modlists/diaries-of-dibella',
     },
     pluginCounts: {
       lv: {
@@ -167,7 +167,7 @@ export const modlists: ModlistMeta[] = [
     pages: { readme: true, gameplayGuide: false, changelog: true, manualDownloads: false, kodex: true },
     links: {
       nexus: 'https://www.nexusmods.com/skyrimspecialedition/mods/173492',
-      loadOrder: 'https://loadorderlibrary.com/lists/visions-of-vaermina',
+      loadOrder: 'https://modlistgrimoire.com/modlists/visions-of-vaermina',
     },
     pluginCounts: {
       lv: {

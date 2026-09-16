@@ -125,7 +125,7 @@ MOM installs using [Wabbajack](https://www.wabbajack.org/), the automated modlis
 
 - [MOM Installation Guide](/modlists/mom/readme)
 - [MOM Manual Downloads](/modlists/mom/manual-downloads)
-- [Load Order Library](https://loadorderlibrary.com/lists/mantras-of-mara)
+- [ModlistGrimoire](https://modlistgrimoire.com/modlists/mantras-of-mara)
 
 ---
 

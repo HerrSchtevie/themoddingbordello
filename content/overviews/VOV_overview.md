@@ -93,7 +93,7 @@ These are **hard requirements**. The modlist will not function correctly without
 VOV installs using [Wabbajack](https://www.wabbajack.org/), the automated modlist installer. No modding experience is required.
 
 - [VOV Installation Guide](/modlists/vov/readme)
-- [Load Order Library](https://loadorderlibrary.com/lists/visions-of-vaermina)
+- [ModlistGrimoire](https://modlistgrimoire.com/modlists/visions-of-vaermina)
 
 ---
 

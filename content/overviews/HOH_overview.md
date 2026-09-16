@@ -145,7 +145,7 @@ These are **hard requirements**. The modlist will not function correctly without
 HOH installs using [Wabbajack](https://www.wabbajack.org/), the automated modlist installer. No modding experience is required.
 
 - [HOH Installation Guide](/modlists/hoh/readme)
-- [Load Order Library](https://loadorderlibrary.com/lists/hymns-of-hircine)
+- [ModlistGrimoire](https://modlistgrimoire.com/modlists/hymns-of-hircine)
 
 ---
 
