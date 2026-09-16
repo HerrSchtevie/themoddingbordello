@@ -33,6 +33,7 @@ NONE
 
 [Demon Yoanna](https://www.nexusmods.com/skyrimspecialedition/mods/109140)  
 [For Honor Stamina System](https://www.nexusmods.com/skyrimspecialedition/mods/174120)  
+[MCM Memory - Settings Backup and Restore](https://www.nexusmods.com/skyrimspecialedition/mods/189722)  
 
 ---
 
