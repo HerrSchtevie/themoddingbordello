@@ -25,7 +25,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 ## Additions
 
-NONE
+[Portal Strict Lights Patcher Framework (SKSE)](https://www.nexusmods.com/skyrimspecialedition/mods/190892)  
 
 ---
 
