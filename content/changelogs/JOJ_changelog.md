@@ -42,6 +42,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Enhanced Khajiit and Khajiit-yllux SOS and TRX Patches](https://www.nexusmods.com/skyrimspecialedition/mods/176702)  
 [More accurate Khajiit chin and lips paint](https://www.nexusmods.com/skyrim/mods/6956)  
 [Fur Paint - RaceMenu Overlays for Khajiit - CBBE 3BA - BHUNP](https://www.nexusmods.com/skyrimspecialedition/mods/171333)  
+[Portal Strict Lights Patcher Framework (SKSE)](https://www.nexusmods.com/skyrimspecialedition/mods/190892)  
 
 ---
 
