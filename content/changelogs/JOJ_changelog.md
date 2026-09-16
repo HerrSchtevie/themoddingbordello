@@ -51,6 +51,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [PGPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/120946)  
 [For Honor Stamina System](https://www.nexusmods.com/skyrimspecialedition/mods/174120)  
 [Demon Yoanna cbbe 3ba standalone High poly follower](https://www.nexusmods.com/skyrimspecialedition/mods/109140)  
+[Prisma UI - Next-Gen Web UI Framework](https://www.nexusmods.com/skyrimspecialedition/mods/148718)  
 
 ---
 
