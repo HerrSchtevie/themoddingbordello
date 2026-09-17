@@ -125,7 +125,7 @@ Synthesis patchers [Muzzle-It-Patcher](https://github.com/krypto5863/Muzzle-It-P
    - `SOS - Forms of Order`  
    - `DLSS 5 - ReShade Bridge`  
 - Removed the following custom patches:
-   - NONE
+   - `JOJ - Grass Patch`  
 - Regenerated the following outputs:
    - `JOJ - NPC Merge`  
    - `JOJ - Synthesis Output`  
