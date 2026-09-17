@@ -125,7 +125,7 @@ Synthesis patchers [Muzzle-It-Patcher](https://github.com/krypto5863/Muzzle-It-P
    - `SOS - DALC Fix Customization`  
    - `DLSS 5 - ReShade Bridge`  
 - Removed the following custom patches:
-   - NONE
+   - `TOT - Grass Patch`  
 - Regenerated the following outputs:
    - `TOT - NPC Merge`  
    - `TOT - Synthesis Output`  
