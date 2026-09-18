@@ -48,6 +48,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [For Honor Stamina System](https://www.nexusmods.com/skyrimspecialedition/mods/174120)  
 [Prisma UI - Next-Gen Web UI Framework](https://www.nexusmods.com/skyrimspecialedition/mods/148718)  
 [MCM Memory - Settings Backup and Restore](https://www.nexusmods.com/skyrimspecialedition/mods/189722)  
+[PGPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/120946)  
+[STB Widgets](https://www.nexusmods.com/skyrimspecialedition/mods/136148)  
 
 ---
 
@@ -118,6 +120,7 @@ Synthesis patchers [Muzzle-It-Patcher](https://github.com/krypto5863/Muzzle-It-P
    - `SOS - Merged Patches FOMOD`  
    - `SOS - Khajiit Eye Shader Tweaks` - Thanks, [Arveth](https://www.nexusmods.com/profile/Arveth)!
    - `TOT - BHKS Lux Patch` - Thanks, [Rynfri](https://www.nexusmods.com/profile/Rynfri)!  
+   - `SOS - Devotion Hotfix` - Thanks, [Rynfri](https://www.nexusmods.com/profile/Rynfri)!  
    - `TOT - Cell and Worldspace Edits`  
    - `TOT - Gameplay Edits`  
    - `ENB Presets and DLSS 5 - Setup Instructions`  
@@ -125,7 +128,7 @@ Synthesis patchers [Muzzle-It-Patcher](https://github.com/krypto5863/Muzzle-It-P
    - `SOS - DALC Fix Customization`  
    - `DLSS 5 - ReShade Bridge`  
 - Removed the following custom patches:
-   - `TOT - Grass Patch`  
+   - `Display Tweaks for CS Upscaling` - its five upscaling keys now live in `TOT - MCM and INI Settings`
 - Regenerated the following outputs:
    - `TOT - NPC Merge`  
    - `TOT - Synthesis Output`  
