@@ -16,6 +16,129 @@ Save compatibility depends on **which number changes** between releases.
   Examples: `4.2.0 → 4.2.1`, `5.1.0 → 5.1.1`  
   Bug fixes, tuning, or minor adjustments. **Safe to update mid-save.**
 
+# MOM 4.0.0 (WORK IN PROGRESS)
+
+This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
+The actual MO2 modlist is always the authoritative reference for modlist content.
+
+---
+
+## Additions
+
+[Devotion - An Immersive Religion Mod](https://www.nexusmods.com/skyrimspecialedition/mods/185531) - Thanks, [Whisper](https://www.nexusmods.com/skyrimspecialedition/mods/185531)! - **Please read the mod page details prior to starting a new game**  
+[Become High King of Skyrim TNG](https://www.nexusmods.com/skyrimspecialedition/mods/142993)  
+[Effects 11](https://github.com/community-shaders/skyrim-community-shaders/releases/tag/v1.8.3)  
+[CBBE 3BA Vanilla Outfits Redone](https://www.nexusmods.com/skyrimspecialedition/mods/109194)  
+[Noblesse Oblige and Noble Dress - SSE CBBE BodySlide](https://www.nexusmods.com/skyrimspecialedition/mods/25646)  
+[Triss' Dress - SSE CBBE 3BA BodySlide](https://www.nexusmods.com/skyrimspecialedition/mods/23835)  
+[Ingolf the White - A Manbeast Follower](https://www.nexusmods.com/skyrimspecialedition/mods/117489) - Thanks, [Squishy](https://www.nexusmods.com/profile/HDMFanatic)!  
+[NUTS - Navigate Using Triggers and Sticks](https://www.nexusmods.com/skyrimspecialedition/mods/191396) - Thanks, [Kyler](https://www.nexusmods.com/profile/Kyler45?gameId=1704)!  
+[Herman The Mad SSE PORT (OG by JaervSkyrim)](https://www.nexusmods.com/skyrimspecialedition/mods/190903)  
+[Herman The Mad Patch](https://www.nexusmods.com/skyrimspecialedition/mods/191365) - Thanks, [Hoody](https://www.nexusmods.com/profile/missionx2000)!  
+[Enhanced Khajiit CBBE Himbo](https://www.nexusmods.com/skyrimspecialedition/mods/176481)  
+[K.C.C.E Khajiit Character Creation Extended](https://www.nexusmods.com/skyrimspecialedition/mods/95969)  
+[K.C.C.E Enhanced Khajiit Patch](https://www.nexusmods.com/skyrimspecialedition/mods/177167)  
+[Enhanced Khajiit and Khajiit-yllux SOS and TRX Patches](https://www.nexusmods.com/skyrimspecialedition/mods/176702)   
+[More accurate Khajiit chin and lips paint](https://www.nexusmods.com/skyrim/mods/6956)  
+[Fur Paint - RaceMenu Overlays for Khajiit - CBBE 3BA - BHUNP](https://www.nexusmods.com/skyrimspecialedition/mods/171333)  
+
+---
+
+## Updates
+
+[NPC Plugin Chooser 2](https://www.nexusmods.com/skyrimspecialedition/mods/157055)  
+[PGPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/120946)  
+[Prisma UI - Next-Gen Web UI Framework](https://www.nexusmods.com/skyrimspecialedition/mods/148718)  
+[STB Widgets](https://www.nexusmods.com/skyrimspecialedition/mods/136148)  
+[Roxie the mad](https://www.nexusmods.com/skyrimspecialedition/mods/107606)  
+[Vibian female goblin](https://www.nexusmods.com/skyrimspecialedition/mods/105576)  
+[DALC Fix Preset](https://www.nexusmods.com/skyrimspecialedition/mods/103052)  
+
+---
+
+## Removals 
+
+The Lord's Vision (ENB) profile is gone. MOM now ships a single Community Shaders profile, `Mantras of Mara`, and the Lord's Vision tool outputs went with it. ENB presets are still available through Effects 11; see `ENB Presets and DLSS 5 - Setup Instructions` in MO2.
+
+[Wintersun - Faiths of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/22506) - replaced by Devotion, along with its whole patch web:  
+[Wintersun - Faiths of Skyrim - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/56761)  
+[Wintersun - Tweaks and Enhancements](https://www.nexusmods.com/skyrimspecialedition/mods/107675)  
+[Wintersun Textures Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/55554)  
+[Wintersun Skillrate Alternative](https://www.nexusmods.com/skyrimspecialedition/mods/60409)  
+[Wintersun - Gallows Hall](https://www.nexusmods.com/skyrimspecialedition/mods/58988)  
+[Wintersun - Ghosts of the Tribunal](https://www.nexusmods.com/skyrimspecialedition/mods/58988)  
+[Wintersun - Zim's Immersive Artifacts Patch](https://www.nexusmods.com/skyrimspecialedition/mods/24228)  
+[Wintersun - M'rissi's Tails of Troubles Patch](https://www.nexusmods.com/skyrimspecialedition/mods/59940)  
+[Hearthfire - Craftable Wintersun Shrines](https://www.nexusmods.com/skyrimspecialedition/mods/141661)  
+[The Only Cure - Quest Expansion - Wintersun patch](https://www.nexusmods.com/skyrimspecialedition/mods/131556)  
+[The Whispering Door - Quest Expansion - Wintersun patch](https://www.nexusmods.com/skyrimspecialedition/mods/130774)  
+[CC's Camping Expansion - Wintersun patch](https://www.nexusmods.com/skyrimspecialedition/mods/145830)  
+[Patch for Mannaz - Freyr - Wintersun](https://www.nexusmods.com/skyrimspecialedition/mods/103918)  
+[House of Horrors Quest Expansion - Patches](https://www.nexusmods.com/skyrimspecialedition/mods/57584)  
+[ENBSeries Binaries](http://enbdev.com/download_mod_tesskyrimse.htm)  
+[ENB Extender for Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/99406)  
+[KiLoader for Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/99404)  
+[ENB Helper SE](https://www.nexusmods.com/skyrimspecialedition/mods/23174)  
+[ENB Helper Plus](https://www.nexusmods.com/skyrimspecialedition/mods/62743)  
+[ENB Anti-Aliasing - AMD FSR 3.1 - NVIDIA DLAA](https://www.nexusmods.com/skyrimspecialedition/mods/130669)  
+[ENB Frame Generation](https://www.nexusmods.com/skyrimspecialedition/mods/144507)  
+[ENB Input Disabler](https://www.nexusmods.com/skyrimspecialedition/mods/62796)  
+[ENB Terrain Blending Fix](https://www.nexusmods.com/skyrimspecialedition/mods/140041)  
+[ENB Grass Collisions](https://www.nexusmods.com/skyrimspecialedition/mods/67886)  
+[Sky Reflection Fix for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/110604)  
+[Parallax Occlusion Mapping](https://www.nexusmods.com/skyrimspecialedition/mods/78976)  
+[Enhanced Volumetric Lighting and Shadows (EVLaS)](https://www.nexusmods.com/skyrimspecialedition/mods/63725)  
+[Shadow Boost](https://www.nexusmods.com/skyrimspecialedition/mods/73133)  
+[NVIDIA Reflex Support](https://www.nexusmods.com/skyrimspecialedition/mods/74498)  
+[Native EditorID Fix](https://www.nexusmods.com/skyrimspecialedition/mods/85260)  
+[Improved Eye Reflections and Cube Map](https://www.nexusmods.com/skyrimspecialedition/mods/67447)  
+[Rudy Fix for Smoke](https://www.nexusmods.com/skyrimspecialedition/mods/78495)  
+[Gryphonknight Regalia - Dynamic ENB cubemap](https://www.nexusmods.com/skyrimspecialedition/mods/107437)  
+[Lifesworn Vestige - Dynamic ENB cubemap](https://www.nexusmods.com/skyrimspecialedition/mods/136837)  
+[Viridian Armor - Color Variations dynamic cubemaps](https://www.nexusmods.com/skyrimspecialedition/mods/72325)  
+[Freak's Floral Fields](https://www.nexusmods.com/skyrimspecialedition/mods/125349)  
+[Wildlands Renewal - grass and groundcover improvement mod 2k](https://www.nexusmods.com/skyrimspecialedition/mods/139896)  
+[Extended Cut - Saints and Seducers 2K](https://www.nexusmods.com/skyrimspecialedition/mods/80307)  
+[Amon - SK Fix All in One](https://www.nexusmods.com/skyrimspecialedition/mods/112174)  
+[ColdSun's Visions - NPC Replacers - Pack 1](https://www.nexusmods.com/skyrimspecialedition/mods/147136)  
+[ColdSun's Visions - NPC Replacers - Pack 2](https://www.nexusmods.com/skyrimspecialedition/mods/152524)  
+[Elder ENB](https://www.nexusmods.com/skyrimspecialedition/mods/117327)  
+`Effects 11 - Community Shaders` placeholder mod - superseded by the real Effects 11 above  
+[Feminine Khajiit Textures (Grey Cat and Leopard)](https://www.nexusmods.com/skyrimspecialedition/mods/183) - superseded by Enhanced Khajiit, which covers every one of its textures and adds subsurface maps  
+`max fluff texture - female`, an optional file from [longer HDT SMP fluffy beast race tail](https://www.nexusmods.com/skyrimspecialedition/mods/111629) - Enhanced Khajiit now supplies the female tail texture, matched to its own body. The tail mod itself stays  
+
+---
+
+## Tweaks
+
+- Added/edited the following custom patches: 
+   - `SOS - Merged Patches FOMOD`  
+   - `MOM - Cell and Worldspace Edits`  
+   - `MOM - Gameplay Edits`  
+   - `MOM - BHKS Lux Patch` - Thanks, [Rynfri](https://www.nexusmods.com/profile/Rynfri)!  
+   - `SOS - Devotion Hotfix` - Thanks, [Rynfri](https://www.nexusmods.com/profile/Rynfri)!  
+   - `SOS - TNG Seam Fixes` - Thanks, [Arveth](https://www.nexusmods.com/profile/Arveth)!
+   - `SOS - Khajiit Eye Shader Tweaks` - Thanks, [Arveth](https://www.nexusmods.com/profile/Arveth)!
+   - `ENB Presets and DLSS 5 - Setup Instructions`  
+   - `MOM - MCM and INI Settings`  
+   - `SOS - DALC Fix Customization`  
+   - `SOS - Forms of Order`  
+   - `DLSS 5 - ReShade Bridge`  
+- Removed the following custom patches:
+   - `Display Tweaks for CS Upscaling` - its five upscaling keys now live in `MOM - MCM and INI Settings`
+   - `ENB Preset Setup Instructions for Performance Profile` - superseded by `ENB Presets and DLSS 5 - Setup Instructions`
+- Regenerated the following outputs:
+   - `MOM - NPC Merge`  
+   - `MOM - Synthesis Output`  
+   - `MOM - BodySlide Output`  
+   - `MOM - ParallaxGen Output`  
+   - `MOM - xLODGen Output`  
+   - `MOM - Grass Cache`  
+   - `MOM - TexGen Output`  
+   - `MOM - DynDOLOD Output`  
+
+---
+
 # MOM 3.4.1 (Updated - 09.16.2026)
 
 This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
