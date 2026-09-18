@@ -50,6 +50,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [NPC Plugin Chooser 2](https://www.nexusmods.com/skyrimspecialedition/mods/157055)  
 [PGPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/120946)  
 [Prisma UI - Next-Gen Web UI Framework](https://www.nexusmods.com/skyrimspecialedition/mods/148718)  
+[STB Widgets](https://www.nexusmods.com/skyrimspecialedition/mods/136148)  
 
 ---
 
@@ -112,13 +113,14 @@ Synthesis patchers [Muzzle-It-Patcher](https://github.com/krypto5863/Muzzle-It-P
    - `SOS - TNG Seam Fixes` - Thanks, [Arveth](https://www.nexusmods.com/profile/Arveth)!
    - `SOS - Khajiit Eye Shader Tweaks` - Thanks, [Arveth](https://www.nexusmods.com/profile/Arveth)!
    - `HOH - BHKS Lux Patch` - Thanks, [Rynfri](https://www.nexusmods.com/profile/Rynfri)!  
+   - `SOS - Devotion Hotfix` - Thanks, [Rynfri](https://www.nexusmods.com/profile/Rynfri)!  
    - `ENB Presets and DLSS 5 - Setup Instructions`  
    - `HOH - MCM and INI Settings`  
    - `SOS - DALC Fix Customization`  
    - `SOS - Forms of Order`  
    - `DLSS 5 - ReShade Bridge`  
 - Removed the following custom patches:
-   - `HOH - Grass Patch`  
+   - `Display Tweaks for CS Upscaling` - its five upscaling keys now live in `HOH - MCM and INI Settings`
 - Regenerated the following outputs:
    - `HOH - NPC Merge`  
    - `HOH - Synthesis Output`  
