@@ -16,6 +16,47 @@ Save compatibility depends on **which number changes** between releases.
   Examples: `4.2.0 → 4.2.1`, `5.1.0 → 5.1.1`  
   Bug fixes, tuning, or minor adjustments. **Safe to update mid-save.**
 
+# JOJ 8.1.0 (WORK IN PROGRESS)
+
+This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
+The actual MO2 modlist is always the authoritative reference for modlist content.
+
+---
+
+## Additions
+
+NONE
+
+---
+
+## Updates
+
+[Roxie the mad](https://www.nexusmods.com/skyrimspecialedition/mods/107606)  
+[Vibian female goblin](https://www.nexusmods.com/skyrimspecialedition/mods/105576)  
+[STB Widgets](https://www.nexusmods.com/skyrimspecialedition/mods/136148)  
+
+---
+
+## Removals 
+
+NONE
+
+---
+
+## Tweaks
+
+- Added/edited the following custom patches: 
+   - `SOS - Devotion Hotfix` - Thanks, [Rynfri](https://www.nexusmods.com/profile/Rynfri?gameId=1704)!  
+   - `JOJ - MCM and INI Settings`  
+   - `DLSS 5 - ReShade Bridge`  
+   - `ENB Presets and DLSS 5 - Setup Instructions`  
+- Removed the following custom patches:
+   - `Display Tweaks for CS Upscaling` - its five upscaling keys now live in `JOJ - MCM and INI Settings`
+- Regenerated the following outputs:
+   - NONE
+
+---
+
 # JOJ 8.0.0 (Updated - 09.16.2026)
 
 This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
