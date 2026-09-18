@@ -102,7 +102,6 @@ The Lord's Vision (ENB) profile is gone. TOT now ships a single Community Shader
 [Viridian Armor - Color Variations dynamic cubemaps](https://www.nexusmods.com/skyrimspecialedition/mods/72325)  
 [Freak's Floral Fields](https://www.nexusmods.com/skyrimspecialedition/mods/125349)  
 [Wildlands Renewal - grass and groundcover improvement mod 2k](https://www.nexusmods.com/skyrimspecialedition/mods/139896)  
-[Extended Cut - Saints and Seducers 2K](https://www.nexusmods.com/skyrimspecialedition/mods/80307)  
 [Amon - SK Fix All in One](https://www.nexusmods.com/skyrimspecialedition/mods/112174)  
 [ColdSun's Visions - NPC Replacers - Pack 1](https://www.nexusmods.com/skyrimspecialedition/mods/147136)  
 [ColdSun's Visions - NPC Replacers - Pack 2](https://www.nexusmods.com/skyrimspecialedition/mods/152524)  
