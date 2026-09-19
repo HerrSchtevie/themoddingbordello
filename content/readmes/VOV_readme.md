@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/8d4ed38a-d18a-4b42-92ec-0d19b1c2a9f9">
 </p>
 
-<p class="stat-line"><strong>2</strong> PROFILES · <strong>174</strong> GB DOWNLOAD · <strong>280</strong> GB INSTALLED · FULLY AUTOMATED VIA WABBAJACK</p>
+<p class="stat-line"><strong>174</strong> GB DOWNLOAD · <strong>280</strong> GB INSTALLED · FULLY AUTOMATED VIA WABBAJACK</p>
 
 ## IMPORTANT
 
@@ -89,10 +89,8 @@ Before installing, use the SOS Pre-Install Checker to confirm your system and se
 
 ## Features
 
-- **Two Unique Profiles Included:**  
-  VOV offers two distinct profiles tailored to your preferred experience:  
-  - **Lord's Vision** – ENB with multiple preset options, full graphics, and all features enabled
-  - **Performance** – Community Shaders, same gameplay experience with optimized graphics for smoother play on lower-end systems
+- **Community Shaders, with ENB on Tap:**  
+  VOV ships a single profile, `Visions of Vaermina`, built on Community Shaders. Five ENB presets and a DLSS 5 add-on ride along disabled, ready to switch on under Rule 11; see ENB Presets and DLSS 5 in the post-installation steps.
 
 - **City and World Overhauls:**  
   Fully integrated combinations of JK's Skyrim, Cities of the North, and The Great Cities series — all patched for terrain, navmesh, AI paths, and visual consistency.
@@ -114,35 +112,22 @@ Before installing, use the SOS Pre-Install Checker to confirm your system and se
 | RAM        | 64GB DDR5-6000                         |
 | Storage    | Samsung 990 EVO PLUS 4TB SSD (PCIe Gen 4x4) |
 
-For reference, I run this list on a 32:9 ultrawide monitor (5120 x 1440) with smooth, consistent FPS on the Lord's Vision profile.
+For reference, I run this list on a 32:9 ultrawide monitor (5120 x 1440) with smooth, consistent FPS.
 
 ### Recommended System Specs
 
-#### Lord's Vision Profile
+VOV ships one profile, built on Community Shaders. The Minimum column assumes you tune the list: run VRAMr, enable Texture Downscaler on its Performance preset and follow the rest of the [SOS Performance Tuning Guide](/guides/sos-performance-tuning-guide). The Recommended column is the list as shipped, with no tuning. The optional ENB presets and DLSS 5 (see ENB Presets and DLSS 5 in the post-installation steps) cost more again: if you plan to run either, treat the Recommended column as your minimum and aim for an RTX 4070 Ti Super / RX 7800 XT class card with 16 GB of VRAM and 32GB of RAM.
 
-*High graphics, full feature set, maximum visuals.*
-
-| Component     | Minimum (Playable)                                      | Recommended (Ideal)                                  |
-|---------------|---------------------------------------------------------|------------------------------------------------------|
-| **CPU**       | Intel Core i5 (10th Gen) / AMD Ryzen 5 (3000 series)    | Intel Core i7 (12th Gen) / AMD Ryzen 7 (5000 series) |
-| **RAM**       | 16GB DDR4                                               | 32GB DDR4                                            |
-| **Pagefile**  | 40GB                                                    | 40GB                                                 |
-| **Storage**   | Internal SATA SSD                                       | NVMe M.2 SSD                                         |
-| **GPU**       | NVIDIA RTX 3060 Ti / AMD RX 6600 XT (8 GB VRAM)         | NVIDIA RTX 4070 Ti / AMD RX 7800 XT (16 GB VRAM)     |
-| **Disk Space**| ~174GB Download / ~280GB Installed / ~454GB Total       | ~174GB Download / ~280GB Installed / ~454GB Total    |
-
-#### Performance Profile
-
-*Optimized for lower-end hardware, reduced visual load.*
-
-| Component     | Minimum (Playable)                                   | Recommended (Ideal)                                  |
+| Component     | Minimum (Tuned)                                      | Recommended (As Shipped)                             |
 |---------------|------------------------------------------------------|------------------------------------------------------|
-| **CPU**       | Intel Core i5-6500 / AMD Ryzen 5 (1st or 2nd Gen)    | Intel Core i5 (10th Gen) / AMD Ryzen 5 (3000 series) |
-| **RAM**       | 16GB DDR4                                            | 16–32GB DDR4                                         |
+| **CPU**       | Intel Core i5 (10th Gen) / AMD Ryzen 5 (3000 series) | Intel Core i7 (12th Gen) / AMD Ryzen 7 (5000 series) |
+| **RAM**       | 16GB DDR4                                            | 32GB DDR4                                            |
 | **Pagefile**  | 40GB                                                 | 40GB                                                 |
 | **Storage**   | Internal SATA SSD                                    | NVMe M.2 SSD                                         |
-| **GPU**       | NVIDIA RTX 2060 (6 GB VRAM) / AMD RX 5600 XT         | NVIDIA RTX 3060 Ti / AMD RX 6600 XT (8 GB VRAM)      |
+| **GPU**       | NVIDIA RTX 3060 Ti / AMD RX 6600 XT (8 GB VRAM)      | NVIDIA RTX 4070 / AMD RX 7700 XT (12 GB VRAM)        |
 | **Disk Space**| ~174GB Download / ~280GB Installed / ~454GB Total    | ~174GB Download / ~280GB Installed / ~454GB Total    |
+
+A 6 GB card can still get there at 1080p with every step in the Performance Tuning guide applied, but that is Rule 11 territory and no support is promised.
 
 The downloads can be removed after successful installation. NOT RECOMMENDED. But if you're short on space, it won't cause issues.
 
@@ -161,7 +146,8 @@ Before continuing, make sure these system components are installed. They are req
 - [Microsoft Visual C++ Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 - [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) and [.NET 9 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)
     - Get the Windows x64 installers for the most current SDK version, unless you know that you need something different.
-    - We recommend you NOT install .NET 10, and uninstall it if it is installed. We have seen many examples of tool failures when .NET 10 is present.
+- [.NET Desktop Runtime 10](https://dotnet.microsoft.com/en-us/download/dotnet/10.0) (Windows x64). NPC Plugin Chooser 2 will not launch without it.
+    - Install the **Desktop Runtime** only. Do not install the .NET 10 SDK: the list's tools are built for the .NET 8 and 9 SDKs, and we have seen tool failures on machines with a newer SDK present. The Desktop Runtime is a separate package and causes none of that; the list's own tool runs happen on a machine that has it.
 
 If you're unsure whether these are already installed, it's safe to install them again. They will update or repair as needed.
 
@@ -271,55 +257,11 @@ Once Wabbajack finishes, you're not quite ready to jump in yet. Follow these ste
 
 ---
 
-### 2. Select Your Profile (and Stick With It)
-
-Visions of Vaermina includes **two distinct profiles**, each preconfigured with its own settings, tool outputs, and game experience.  
-You can select your profile from the **dropdown in the upper-left corner of MO2** (just above the mod pane).
-
-| Profile Name                | Description                                                                 |
-|-----------------------------|-----------------------------------------------------------------------------|
-| **Lord's Vision**           | Multiple ENB preset options, full graphics, and all features enabled        |
-| **Performance**             | Community Shaders, same gameplay experience with reduced graphics for smoother play on lower-end systems |
-
-> **Important:** once you choose a profile, **stick with it**.  
-> Do **not** switch between profiles mid-playthrough. Each profile uses its own:
-> - Mod configurations
-> - MCM settings
-> - Tool outputs (DynDOLOD, TexGen, BodySlide, etc.)
-> - Save file directories
->
-> **Save files are not cross-compatible.** Switching profiles mid-playthrough can break your game or result in corrupted saves.
-
----
-
-### Swapping ENB Presets (Optional)
-
-The Lord's Vision profile ships with five ENB presets. Cabbage ENB is enabled by default; the alternates sit disabled alongside it in MO2's left pane:
-
-- [Kauz ENB](https://www.nexusmods.com/skyrimspecialedition/mods/111431)
-- [Rudy ENB](https://www.nexusmods.com/skyrimspecialedition/mods/91675)
-- [Berserkyr ENB](https://www.nexusmods.com/skyrimspecialedition/mods/62381)
-- [Cabbage ENB](https://www.nexusmods.com/skyrimspecialedition/mods/103042)
-- [Amon ENB](https://www.nexusmods.com/skyrimspecialedition/mods/99786)
-
-**If you haven't loaded the game yet:**
-
-1. Uncheck the ENB preset you were previously using (by default, Cabbage).
-2. Check the new ENB you want to use and follow any instructions noted on that mod in MO2.
-
-**If you have already loaded the game:**
-
-1. Delete the ENB Cache in your overwrite folder (e.g. `D:\modlists\VOV\overwrite`).
-2. Uncheck the ENB preset you were previously using.
-3. Check the new ENB you want to use and follow any instructions noted on that mod in MO2.
-
-For side-by-side comparisons, see [Berserkyr vs Rudy vs Kauz vs Cabbage](https://www.youtube.com/watch?v=iYbj4jkhap0) and [Amon vs Kauz vs Cabbage](https://www.youtube.com/watch?v=HsH8YF6uSmc).
-
----
-
-### 3. Configure VOV to Your Preferences
+### 2. Configure VOV to Your Preferences
 
 Before diving into your playthrough, take a moment to configure the list to match your setup. Whether you're using ultrawide resolutions or a controller, Visions of Vaermina is built to adapt — but it expects you to pick your setup and stick with it.
+
+> **Before you change anything beyond the steps on this page (Rule 11):** copy the shipped profile first. Open the profile dropdown at the top of MO2's left pane, click **Manage**, select `Visions of Vaermina`, click **Copy**, and make every edit in the copy. The untouched original is your safe fallback if something breaks. The [SOS Rule 11 Guide](/guides/sos-rule-11-guide) has the full procedure.
 
 ---
 
@@ -371,8 +313,27 @@ Where possible, keep Windows Display Settings at 100% scale. Higher Windows scal
 ### Performance Tuning (Optional)
 
 - We encourage users to run **VRAMr** unless you have at least 16 GB of VRAM. If you have 10 GB of VRAM or less, we consider it a functional *necessity*.
-- We encourage users to install and run **Bethini PIE** to optimize Skyrim's ini files to suit your system.
-- Instructions for both tools and additional performance improvements are in the [SOS Performance Tuning Guide](/guides/sos-performance-tuning-guide).
+- **Texture Downscaler** ships disabled, installed on its Balanced preset. Enable it in MO2 when VRAM is tight; on an 8 GB card, also reinstall it on the Performance preset. The guide has the presets and the steps.
+- We encourage users to run **BethINI Pie** to optimize Skyrim's ini files to suit your system. It ships with the list; launch it from MO2's executable dropdown.
+- Instructions for all three tools and additional performance improvements are in the [SOS Performance Tuning Guide](/guides/sos-performance-tuning-guide).
+
+---
+
+### ENB Presets and DLSS 5 (Optional)
+
+VOV runs Community Shaders. Two optional visual add-ons ship with the list, both disabled by default, and both fall under Rule 11. They can be used together.
+
+- **ENB presets through Effects 11.** Five presets ship disabled and render through the Effects 11 feature of Community Shaders. No ENB binaries are installed, and none should ever be added.
+  - [Cabbage ENB](https://www.nexusmods.com/skyrimspecialedition/mods/103042)
+  - [Kauz ENB](https://www.nexusmods.com/skyrimspecialedition/mods/111431)
+  - [Rudy ENB](https://www.nexusmods.com/skyrimspecialedition/mods/91675)
+  - [Berserkyr ENB](https://www.nexusmods.com/skyrimspecialedition/mods/62381)
+  - [Amon ENB](https://www.nexusmods.com/skyrimspecialedition/mods/99786)
+- **DLSS 5 neural rendering**, delivered through a ReShade bridge. It needs an NVIDIA RTX card and driver 616.56 or newer, and it costs real performance.
+
+The step-by-step setup lives in the list itself: open the `ENB Presets and DLSS 5 - Setup Instructions` mod in MO2's left pane. It covers which mods to enable, where each preset's plugin goes, the ENB Extender version lock, and which caches to clear from `overwrite`. Read its section 5 before changing anything; a stale `overwrite\ShaderCache` is the most common cause of "it did not work". Enable one preset at a time, and expect a list update to reset these choices.
+
+For side-by-side comparisons, see [Berserkyr vs Rudy vs Kauz vs Cabbage](https://www.youtube.com/watch?v=iYbj4jkhap0) and [Amon vs Kauz vs Cabbage](https://www.youtube.com/watch?v=HsH8YF6uSmc).
 
 ---
 
@@ -444,7 +405,7 @@ There are **three independent groups**. None of them depend on each other, so en
 
 ---
 
-### 4. Set the Executable and Launch the Game
+### 3. Set the Executable and Launch the Game
 
 - Ensure **`Visions of Vaermina`** is selected as the modlist in the **top-right executable dropdown** in MO2.
 - Click **Run** to start the game.
@@ -459,7 +420,7 @@ There are **three independent groups**. None of them depend on each other, so en
 > MO2 will automatically unlock when the game has fully closed.  
 > Manually clicking "Unlock" can break the virtual file system, sever mod links, or corrupt your entire install.
 
-### 5. New Character Setup
+### 4. New Character Setup
 
 If character setup misbehaves on a new game, the cause is almost always rushing. Script registrations and the list's own MCM configuration run behind the scenes from the moment a new game starts; give them room to finish and most first-launch problems never happen.
 
@@ -471,7 +432,7 @@ If character setup misbehaves on a new game, the cause is almost always rushing.
 
 > MCM Recorder is still installed, but nothing plays back on its own any more. It stays in the list as an optional tool. Replaying the `Scrolls of Dreams` recording puts the MCMs back to the settings the list ships with, and if you use a tenkeyless keyboard you can run `Scrolls of Dreams - OStim TKL` once per new game for the alternate keybinds.
 
-### 6. Saving and Loading
+### 5. Saving and Loading
 
 - Skyrim's default save and load system has long-standing issues that can introduce corruption into your saves over time. This corruption accumulates, eventually rendering saves unstable or unplayable. These are limitations of the Skyrim engine itself, not conflicts with this modlist.
 
@@ -529,6 +490,8 @@ While we absolutely encourage learning and modding, please understand that:
 That said, we understand modding is fun and personal. If you're stuck after making changes, you may post in the list's Rule 11 channel on [The Modding Bordello Discord](https://discord.gg/themoddingbordello). Help is not guaranteed, but if we can (and want to), we may offer guidance.
 
 Thank you for respecting the work that went into VOV, and for being part of the community!
+
+Before you change anything, copy the shipped profile in MO2 (profile dropdown, **Manage**, select `Visions of Vaermina`, **Copy**) and make every edit in the copy. The untouched original is your safe fallback if something breaks.
 
 [Here is the in-depth guide](/guides/sos-rule-11-guide) if you really want to modify the list.
 

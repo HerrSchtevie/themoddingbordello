@@ -102,13 +102,13 @@ These are **hard requirements**. The modlist will not function correctly without
 
 #### System Specs
 
-| Component | Minimum                      | Recommended                    |
+| Component | Minimum (Tuned)              | Recommended (As Shipped)       |
 |-----------|------------------------------|--------------------------------|
-| CPU       | i5-6500 / Ryzen 5 1st Gen    | i5 10th Gen / Ryzen 5 3000     |
-| GPU       | RTX 2060 / RX 5600 XT        | RTX 3060 Ti / RX 6600 XT       |
+| CPU       | i5 10th Gen / Ryzen 5 3000   | i7 12th Gen / Ryzen 7 5000     |
+| GPU       | RTX 3060 Ti / RX 6600 XT     | RTX 4070 / RX 7700 XT          |
 | RAM       | 16GB                         | 32GB                           |
 
-Planning to run an ENB preset or DLSS 5? Treat the Recommended column as your minimum and aim for an RTX 4070 Ti / RX 7800 XT class card with 32GB of RAM.
+Minimum assumes VRAMr, Texture Downscaler on its Performance preset and the Performance Tuning guide; Recommended is the list as shipped. Planning to run an ENB preset or DLSS 5? Treat Recommended as your minimum and aim for an RTX 4070 Ti Super / RX 7800 XT class card with 16 GB of VRAM and 32GB of RAM.
 
 ---
 

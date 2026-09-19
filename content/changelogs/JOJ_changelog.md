@@ -100,7 +100,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 ## Removals 
 
-The Lord's Vision (ENB) profile is gone. JOJ now ships a single Community Shaders profile, `Journals of Jyggalag`, and the Lord's Vision tool outputs went with it. ENB presets are still available through Effects 11; see `ENB Presets and DLSS 5 - Setup Instructions` in MO2.
+The Lord's Vision (ENB) profile is gone. JOJ now ships a single Community Shaders profile, `Journals of Jyggalag`, and the Lord's Vision tool outputs went with it. ENB presets are still available through Effects 11; see `ENB Presets and DLSS 5 - Setup Instructions` in MO2. Rule 11 users: before you change anything, copy the shipped profile in MO2 (Manage, Copy) and make your edits in the copy, so the untouched original stays as a safe fallback.
 
 [Wintersun - Faiths of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/22506) - replaced by Devotion, along with its whole patch web:  
 [Wintersun - Faiths of Skyrim - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/56761)  

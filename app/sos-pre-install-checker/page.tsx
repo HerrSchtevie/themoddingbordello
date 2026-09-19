@@ -10,13 +10,11 @@ export const metadata = {
 interface PageProps {
   searchParams?: {
     list?: string;
-    profile?: string;
   };
 }
 
 export default function PreInstallCheckerPage({ searchParams }: PageProps) {
   const initialList = searchParams?.list;
-  const initialProfile = searchParams?.profile;
 
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
@@ -30,7 +28,7 @@ export default function PreInstallCheckerPage({ searchParams }: PageProps) {
       </div>
 
       <Suspense fallback={<div className="text-bordello-muted">Loading…</div>}>
-        <PreInstallChecker initialList={initialList} initialProfile={initialProfile} />
+        <PreInstallChecker initialList={initialList} />
       </Suspense>
     </div>
   );

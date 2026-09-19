@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/8d4ed38a-d18a-4b42-92ec-0d19b1c2a9f9">
 </p>
 
-<p class="stat-line"><strong>2</strong> PROFILES · <strong>174</strong> GB DOWNLOAD · <strong>280</strong> GB INSTALLED · FULLY AUTOMATED VIA WABBAJACK</p>
+<p class="stat-line"><strong>174</strong> GB DOWNLOAD · <strong>280</strong> GB INSTALLED · FULLY AUTOMATED VIA WABBAJACK</p>
 
 **Visions of Vaermina (VOV)** is the visual foundation of Herr Schtevie's modlists, designed for players who want a stunning baseline to build their own experience.
 
@@ -22,12 +22,9 @@ Before installing, use the SOS Pre-Install Checker to validate your system and c
 
 ---
 
-## Choose Your Profile
+## One Profile, Your Choice of Look
 
-VOV includes two profiles tailored to your system's capabilities and gameplay preferences:
-
-- **Lord's Vision** – Multiple ENB presets, full graphics, and all features enabled
-- **Performance** – Community Shaders, same gameplay experience with optimized graphics for smoother play on lower-end systems
+VOV ships a single profile, `Visions of Vaermina`, built on Community Shaders. Five ENB presets and a DLSS 5 add-on ride along disabled for anyone who wants them, switched on under Rule 11 with the instructions included in the list.
 
 ---
 
@@ -35,7 +32,7 @@ VOV includes two profiles tailored to your system's capabilities and gameplay pr
 
 - Massive city and terrain overhauls via [JK's Skyrim](https://next.nexusmods.com/profile/jkrojmal/mods?gameId=1704), [Cities of the North](https://next.nexusmods.com/profile/JPSteel2/mods?gameId=1704), and [The Great Cities](https://next.nexusmods.com/profile/Archinatic/mods?gameId=1704)
 - Enhanced lighting and weather using [Lux](https://www.nexusmods.com/skyrimspecialedition/mods/43158), [Embers XD](https://www.nexusmods.com/skyrimspecialedition/mods/37085), [Obsidian Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/12125), and more
-- High-resolution textures, performance-optimized ENBs, dense foliage, lush environments
+- High-resolution textures, Community Shaders with five optional ENB presets, dense foliage with distant grass, and region-specific landscapes
 
 ---
 
@@ -65,26 +62,20 @@ These are **hard requirements**. The modlist will not function correctly without
 - Internal SSD (HDD installs will freeze and crash)
 - Pagefile set to at least 40GB
 - [Microsoft Visual C++ Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe)
-- [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) and [.NET 9 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)
+- [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) and [.NET 9 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/9.0), plus the [.NET Desktop Runtime 10](https://dotnet.microsoft.com/en-us/download/dotnet/10.0) (the runtime only, not the .NET 10 SDK)
 - Windows and Skyrim language set to English
 
 **Disk space:** ~174GB download / ~280GB installed / ~454GB total
 
-#### Lord's Vision Profile
+#### System Specs
 
-| Component | Minimum                      | Recommended                    |
+| Component | Minimum (Tuned)              | Recommended (As Shipped)       |
 |-----------|------------------------------|--------------------------------|
 | CPU       | i5 10th Gen / Ryzen 5 3000   | i7 12th Gen / Ryzen 7 5000     |
-| GPU       | RTX 3060 Ti / RX 6600 XT     | RTX 4070 Ti / RX 7800 XT       |
+| GPU       | RTX 3060 Ti / RX 6600 XT     | RTX 4070 / RX 7700 XT          |
 | RAM       | 16GB                         | 32GB                           |
 
-#### Performance Profile
-
-| Component | Minimum                      | Recommended                    |
-|-----------|------------------------------|--------------------------------|
-| CPU       | i5-6500 / Ryzen 5 1st Gen    | i5 10th Gen / Ryzen 5 3000     |
-| GPU       | RTX 2060 / RX 5600 XT        | RTX 3060 Ti / RX 6600 XT       |
-| RAM       | 16GB                         | 16–32GB                        |
+Minimum assumes VRAMr, Texture Downscaler on its Performance preset and the Performance Tuning guide; Recommended is the list as shipped. Planning to run an ENB preset or DLSS 5? Treat Recommended as your minimum and aim for an RTX 4070 Ti Super / RX 7800 XT class card with 16 GB of VRAM and 32GB of RAM.
 
 ---
 

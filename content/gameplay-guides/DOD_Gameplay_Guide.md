@@ -25,7 +25,7 @@ Before creating your character, please review the following mod pages carefully:
 
 - [Mannaz — Integrated Races of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/87219)  
 - [Freyr — Integrated Standing Stones of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/88043)  
-- [Wintersun — Faiths of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/22506)
+- [Devotion - An Immersive Religion Mod](https://www.nexusmods.com/skyrimspecialedition/mods/185531)
 
 Your **choice of race** determines not only your starting bonuses, but also grants access to a **unique set of Standing Stone powers** per race as well as determining which deities will accept your worship. Your race selection will shape your playthrough far more strongly than in most modlists.
 
@@ -58,12 +58,7 @@ In addition to your starting perks, you will receive an **extra perk** at level-
 ---
 
 ### Religion
-If you intend to engage with the religion system, please review:  
-
-[Wintersun](https://www.nexusmods.com/skyrimspecialedition/mods/22506)  
-
-Choosing and glorifying a deity is optional, but offers both **mechanical and narrative rewards**.  
-You may select a deity shortly after character creation, or through gameplay as your character progresses.
+Religion runs through [Devotion](https://www.nexusmods.com/skyrimspecialedition/mods/185531). It works in the background: each race worships its own pantheon, sixteen Daedric Princes may offer a pact with a boon, a price and a stigma, and your everyday choices shape your standing. The Book of Days records where you stand and how you got there. Read the mod page before you start.
 
 ---
 

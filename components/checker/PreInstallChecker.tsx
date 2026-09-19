@@ -8,7 +8,6 @@ import {
   CpuBrand,
   DriveType,
   GpuBrand,
-  ProfileKey,
   cpuBrandLabels,
   cpuOptions,
   gpuBrandLabels,
@@ -31,14 +30,13 @@ type SupportedSlug = ModlistSlug;
 
 interface PreInstallCheckerProps {
   initialList?: string;
-  initialProfile?: string;
 }
 
 type Step = 1 | 2 | 3 | 4;
 
 interface FormState {
   list: SupportedSlug | '';
-  profile: ProfileKey | '';
+  visualAddons: boolean;
   gpuBrand: GpuBrand | '';
   gpuModel: string;
   gpuOtherName: string;
@@ -67,19 +65,14 @@ const driveOptions: { value: DriveType; label: string }[] = [
 
 const OTHER = 'other';
 
-function normalizeProfile(input?: string): ProfileKey | '' {
-  if (input === 'lords-vision' || input === 'performance') return input;
-  return '';
-}
-
 function normalizeList(input?: string): SupportedSlug | '' {
   if (input && isSupportedCheckerSlug(input)) return input;
   return '';
 }
 
-const initialForm = (list: SupportedSlug | '', profile: ProfileKey | ''): FormState => ({
+const initialForm = (list: SupportedSlug | ''): FormState => ({
   list,
-  profile,
+  visualAddons: false,
   gpuBrand: '',
   gpuModel: '',
   gpuOtherName: '',
@@ -99,10 +92,10 @@ const initialForm = (list: SupportedSlug | '', profile: ProfileKey | ''): FormSt
   downloadsFreeGB: '',
 });
 
-export function PreInstallChecker({ initialList, initialProfile }: PreInstallCheckerProps) {
+export function PreInstallChecker({ initialList }: PreInstallCheckerProps) {
   const [step, setStep] = useState<Step>(1);
   const [form, setForm] = useState<FormState>(
-    initialForm(normalizeList(initialList), normalizeProfile(initialProfile))
+    initialForm(normalizeList(initialList))
   );
 
   const totalSteps = 3;
@@ -139,7 +132,7 @@ export function PreInstallChecker({ initialList, initialProfile }: PreInstallChe
     return form.resolutionChoice;
   }, [form.resolutionChoice, form.resolutionOther]);
 
-  const canAdvanceFrom1 = form.list !== '' && form.profile !== '';
+  const canAdvanceFrom1 = form.list !== '';
   const canAdvanceFrom2 =
     resolvedGpuName !== '' &&
     resolvedCpuModel !== '' &&
@@ -194,12 +187,12 @@ export function PreInstallChecker({ initialList, initialProfile }: PreInstallChe
 
   const report = useMemo(() => {
     if (step !== 4) return null;
-    if (!form.list || !form.profile || !form.installDrive || form.downloadsSameDrive === '') return null;
+    if (!form.list || !form.installDrive || form.downloadsSameDrive === '') return null;
     const combinedStorage = form.downloadsSameDrive === 'yes';
     if (!combinedStorage && (!form.downloadsDrive || Number(form.downloadsFreeGB) <= 0)) return null;
     const input: CheckerInput = {
       list: form.list,
-      profile: form.profile,
+      visualAddons: form.visualAddons,
       gpuName: resolvedGpuName,
       vramGB: resolvedVramGB,
       cpuModel: resolvedCpuModel,
@@ -226,7 +219,7 @@ export function PreInstallChecker({ initialList, initialProfile }: PreInstallChe
 
   const reset = () => {
     setStep(1);
-    setForm(initialForm('', ''));
+    setForm(initialForm(''));
   };
 
   if (step === 4 && report && form.list) {
@@ -264,17 +257,11 @@ export function PreInstallChecker({ initialList, initialProfile }: PreInstallChe
               ]}
             />
           </Field>
-          <Field label="Profile">
-            <Select
-              value={form.profile}
-              onChange={(v) => update('profile', v as ProfileKey | '')}
-              options={[
-                { value: '', label: 'Select a profile\u2026' },
-                { value: 'lords-vision', label: 'Lord\u2019s Vision' },
-                { value: 'performance', label: 'Performance' },
-              ]}
-            />
-          </Field>
+          <Checkbox
+            checked={form.visualAddons}
+            onChange={(v) => update('visualAddons', v)}
+            label="I plan to enable the optional ENB presets or DLSS 5 (Rule 11 add-ons)"
+          />
           <WizardNav
             onBack={null}
             onNext={() => setStep(2)}
@@ -587,6 +574,28 @@ function Select<T extends string>({
   );
 }
 
+function Checkbox({
+  checked,
+  onChange,
+  label,
+}: {
+  checked: boolean;
+  onChange: (v: boolean) => void;
+  label: string;
+}) {
+  return (
+    <label className="flex items-center gap-3 p-3 rounded-lg border border-bordello-border bg-bordello-surface cursor-pointer hover:border-bordello-muted/50 transition-colors">
+      <input
+        type="checkbox"
+        checked={checked}
+        onChange={(e) => onChange(e.target.checked)}
+        className="h-4 w-4 shrink-0 rounded border-bordello-border bg-bordello-surface accent-white focus:outline-none"
+      />
+      <span className="text-sm font-medium text-bordello-text">{label}</span>
+    </label>
+  );
+}
+
 function WizardNav({
   onBack,
   onNext,
@@ -638,15 +647,13 @@ function ResultView({
   onReset: () => void;
 }) {
   const meta = modlistBySlug[list];
-  const suggestedProfileLabel =
-    report.suggestedProfile === 'lords-vision' ? 'Lord\u2019s Vision' : 'Performance';
 
   return (
     <div className="max-w-3xl mx-auto">
       <SummaryCard
         readiness={report.readiness}
         summary={report.summary}
-        suggestedProfileLabel={suggestedProfileLabel}
+        addons={report.addons}
         accent={accent}
         abbreviation={meta.abbreviation}
       />
@@ -714,17 +721,25 @@ const readinessMeta: Record<Readiness, { label: string; color: string; border: s
 function SummaryCard({
   readiness,
   summary,
-  suggestedProfileLabel,
+  addons,
   accent,
   abbreviation,
 }: {
   readiness: Readiness;
   summary: string;
-  suggestedProfileLabel: string;
+  addons: Severity | 'not-requested';
   accent: string;
   abbreviation: string;
 }) {
   const meta = readinessMeta[readiness];
+  let addonMessage: string | null = null;
+  if (addons === 'good') {
+    addonMessage = 'Optional add-ons: an ENB preset or DLSS 5 should run well here.';
+  } else if (addons === 'warn') {
+    addonMessage = 'Optional add-ons: borderline. Try one, expect to dial back.';
+  } else if (addons === 'bad') {
+    addonMessage = 'Optional add-ons: below the bar. Run the list as shipped.';
+  }
   return (
     <div
       className="p-6 sm:p-8 rounded-xl border-2 mb-8"
@@ -744,10 +759,8 @@ function SummaryCard({
           {meta.label}
         </span>
       </div>
-      <h2 className="text-2xl font-bold text-white mb-2">
-        Suggested Profile: {suggestedProfileLabel}
-      </h2>
       <p className="text-bordello-text">{summary}</p>
+      {addonMessage && <p className="text-bordello-text mt-2">{addonMessage}</p>}
     </div>
   );
 }

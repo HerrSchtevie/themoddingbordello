@@ -120,7 +120,7 @@ Before booting NPC2, you must disable everything in the **Outputs** plugin group
 
 ![image](https://github.com/user-attachments/assets/3cc25878-a064-4a23-8cc8-428738eee9ac)  
 
-- **JOJ ships NPC Plugin Chooser 2.2.5, which needs the [.NET Desktop Runtime 10](https://dotnet.microsoft.com/en-us/download/dotnet/10.0)** (Windows x64, the runtime only, not the .NET 10 SDK). Install it first or the exe will not launch. The other lists still ship 2.1.5, which runs on .NET 8.  
+- **Every Bordello list ships NPC Plugin Chooser 2.2.5 from its next major update on (JOJ since 8.0.0), and it needs the [.NET Desktop Runtime 10](https://dotnet.microsoft.com/en-us/download/dotnet/10.0)** (Windows x64, the runtime only, not the .NET 10 SDK). Install it first or the exe will not launch.  
 - Launch **NPC Plugin Chooser 2** from the MO2 dropdown menu.  
 - On first launch, you may see an error message about:  
   `RU_CityTreesSE.esm`  
@@ -231,7 +231,7 @@ Once you’ve made all of your choices and saved your .json file for future edit
 Once the merge has been run and you close out of NPC2, refresh MO2.  
 
 - You will now see your `My NPC Merge` plugin at the bottom of the Plugins panel  
-- Move this plugin to just **above** the `Lord's Vision (or Performance) - Synthesis Terrain` plugin 
+- Move this plugin to just **above** the `Synthesis Terrain` plugin 
 - Note: Your merge plugin may be named differently depending on what you called it  
 
 Additionally, the **Synthesis Character plugin** will most likely have shifted in load order.  

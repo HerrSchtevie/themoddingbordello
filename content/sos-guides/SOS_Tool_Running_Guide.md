@@ -62,10 +62,10 @@ Proceed with caution. You have been warned.
 
 #### Synthesis
   - **When to run:** After adding gameplay mods, appearance overhauls, perk overhauls, combat mods, or other systems that use Synthesis patchers (really after adding/removing anything at all).  
-  - **What it does:** Automatically generates compatibility patches for things like perks, spells, leveled lists, appearance, high-poly head, terrain, and more, depending on the patchers active for your profile.
+  - **What it does:** Automatically generates compatibility patches for things like perks, spells, leveled lists, appearance, high-poly head, terrain, and more, depending on the patchers in the list's Synthesis profile.
 
 #### VRAMr (Optional)
-  - **When to run:** Before running **ParallaxGen** or **xLODGen** if you are using the **Performance profile**.  
+  - **When to run:** Before running **ParallaxGen** or **xLODGen**, if you decide to run it at all.  
   - **What it does:** Generates optimized texture atlases to reduce VRAM usage, improve performance, and lower stutter without sacrificing major visual fidelity.
 
 #### ParallaxGen
@@ -91,7 +91,7 @@ Proceed with caution. You have been warned.
 
 ---
 
-You'll find detailed, step-by-step instructions for each tool below — including how to set them up properly for each profile and how to avoid common errors.
+You'll find detailed, step-by-step instructions for each tool below — including how to set them up properly and how to avoid common errors.
 
 These tools **build off one another in a specific sequence**, and must be run in the **order listed above** for everything to function correctly.
   
@@ -290,11 +290,7 @@ You're good to **close Pandora** at this point.
 <details>
 <summary>Step 1: Run Synthesis</summary>
 
-Each **Journals of Jyggalag** profile uses a prebuilt Synthesis configuration.
-
-**Supported Profiles:**
-- `Lord's Vision` – Full experience  
-- `Performance` – Lower fidelity, same content  
+Every Bordello list ships a prebuilt Synthesis configuration under one pipeline profile named after the list (`Journals of Jyggalag` on JOJ, `Tomes of Talos` on TOT, and so on). There is nothing to choose between; you only need to make sure that profile is the one selected before you run.
 
 ---
 
@@ -308,14 +304,12 @@ Each **Journals of Jyggalag** profile uses a prebuilt Synthesis configuration.
 
 ![image](https://github.com/user-attachments/assets/00fbcd9f-d797-4df3-9701-381cb96c6047)
 
-   From the list, select the profile that matches your current MO2 profile:
-   - `Lord's Vision`
-   - `Performance`
+   From the list, select the profile named after your list (`Journals of Jyggalag` on JOJ). It is the only Bordello profile there.
 
 ![image](https://github.com/user-attachments/assets/924a565a-6ee5-49c2-8c46-9c6a9a70d920)
 
-3. Once you have selected your profile, click the left arrow at the top left of the screen to return to the main window, then click the **Run** button in the **bottom-left corner**.  
-   Synthesis will now execute all patchers relevant to your chosen profile.
+3. Once you have selected the profile, click the left arrow at the top left of the screen to return to the main window, then click the **Run** button in the **bottom-left corner**.  
+   Synthesis will now execute every patcher in the profile.
 <img width="1050" height="663" alt="image" src="https://github.com/user-attachments/assets/d25c391b-27cb-42ef-bbd2-40c7d0adaa64" />
 
 
@@ -338,16 +332,16 @@ If you receive a **blocking error** when launching or running Synthesis:
 **Recommended Fixes:**
 - Run **MO2 as Administrator** and try again.
 - Reboot your PC to clear temp/cache files and try again.
-- Ensure the .Net 8 and .Net 9 SDKs are installed and updated, and the .Net 10 SDK is NOT installed. The .Net 10 Desktop Runtime is a different package and is fine to keep; JOJ needs it for NPC Plugin Chooser 2.
+- Ensure the .Net 8 and .Net 9 SDKs are installed and updated, and the .Net 10 SDK is NOT installed. The .Net 10 Desktop Runtime is a different package and is fine to keep; the lists need it for NPC Plugin Chooser 2.
 
 </details>
 
 ---
 <a id="vramr"></a>
-<h2 class="visually-hidden">Step 1.5: VRAMr Output (Recommended for Performance Users)</h2>
+<h2 class="visually-hidden">Step 1.5: VRAMr Output (Recommended for lower-end hardware)</h2>
 
 <details>
-<summary>Step 1.5: VRAMr Output (Recommended for Performance Users)</summary>
+<summary>Step 1.5: VRAMr Output (Recommended for lower-end hardware)</summary>
 
 This step is **optional** if you want to increase the overall performance of the list.  
 However, it is **absolutely mandatory** if your PC specs are **below the recommended minimum** listed in the Readme of whichever SOS list you are using.
@@ -374,9 +368,9 @@ If you're not generating a custom VRAMr output, skip this step and move on to **
 
 ---
 
-#### 1. Select Profile in MO2, then launch VRAMr.
+#### 1. Check the profile in MO2, then launch VRAMr.
 
-- In **MO2**, make sure you have the correct **JOJ profile** selected before running VRAMr.
+- In **MO2**, make sure the list's own profile (`Journals of Jyggalag` on JOJ) is selected before running VRAMr.
 - From the **MO2 executable dropdown**, select **VRAMr**.  
 - Click **Run**.
 
@@ -397,8 +391,8 @@ If you're not generating a custom VRAMr output, skip this step and move on to **
 
 #### 3. Choose Optimization Preset
 
-- When prompted, type **`P` for Performance preset**.  
-- This is the recommended setting for JOJ Performance.  
+- When prompted, type **`P` for the Performance preset**. That is VRAMr's own preset name and has nothing to do with MO2 profiles.  
+- This is the recommended setting for every Bordello list.  
 
 ![image](https://github.com/user-attachments/assets/24248cb1-399e-4899-a43b-8fc45c948a7b)  
 
@@ -418,7 +412,7 @@ If you're not generating a custom VRAMr output, skip this step and move on to **
 
 #### 5. Select Profile Directory
 
-- Point VRAMr to the **profile directory** of the JOJ profile you are running.
+- Point VRAMr to the list's **profile directory** (`profiles\Journals of Jyggalag` inside the JOJ install folder).
 
 ![image](https://github.com/user-attachments/assets/d8004268-79fc-4c06-bf9c-f09b648eda01)  
 
@@ -532,22 +526,22 @@ If your VRAMr output is hundreds of GB instead of a couple dozen, it's very like
 In **Mod Organizer 2**, scroll to the bottom of the left panel and locate the `Outputs` separator.  
 **Disable** the following mods:
 
-- `JOJ - Grass Cache (Your Profile)`
-- `JOJ - xLODGen Output (Your Profile)`
-- `JOJ - TexGen Output (Your Profile)`
-- `JOJ - DynDOLOD Output (Your Profile)`
+- `JOJ - Grass Cache`
+- `JOJ - xLODGen Output`
+- `JOJ - TexGen Output`
+- `JOJ - DynDOLOD Output`
 
 ![image](https://github.com/user-attachments/assets/48ff007c-b863-4c6f-ab28-b206206f74bb)
 
 
-Keep `JOJ - TexGen Output (Your Profile)` and `JOJ - DynDOLOD Output (Your Profile)` disabled even after the ParallaxGen step is complete.
+Keep `JOJ - TexGen Output` and `JOJ - DynDOLOD Output` disabled even after the ParallaxGen step is complete.
 
 ---
 
 #### 2. Clear Old Output Files
 
 1. **Delete the contents** of the existing output mod folder:
-- In MO2, right-click on `JOJ - ParallaxGen Output (Your Profile)` and choose **Open in Explorer**
+- In MO2, right-click on `JOJ - ParallaxGen Output` and choose **Open in Explorer**
 - Delete **all files inside** this folder
 
 ---
@@ -555,12 +549,8 @@ Keep `JOJ - TexGen Output (Your Profile)` and `JOJ - DynDOLOD Output (Your Profi
 #### 3. Run ParallaxGen
 
 1. Open **ParallaxGen**.
-2. In the **Profile** dropdown, make sure the profile you're currently using is selected.
-3. Depending on your profile:
-   - For `Lord's Vision` (ENB-enabled):  
-     **Check** the box **"Fix Mesh Lighting (ENB ONLY)"** in the top right.
-   - For `Performance` (no ENB):  
-     **Leave this box unchecked**.
+2. In the **Profile** dropdown, make sure the list's profile is selected.
+3. Leave the **"Fix Mesh Lighting (ENB ONLY)"** box in the top right **unchecked**. The lists run Community Shaders, and it stays unchecked even when you run an ENB preset through Effects 11, because no ENB binary is installed.
 4. In the **Output** field, choose a destination folder.  
    > It's recommended to create a folder like `Journals of Jyggalag - Outputs\ParallaxGen Output` on the same drive as your installation to keep things organized.
 5. **Do not check** the box for **"Zip Output"**.  
@@ -598,12 +588,12 @@ Your Drive:\Journals of Jyggalag - Outputs if you're following along exactly
    
 - Cut and paste the contents of the output folder into the folder below:
   ```
-  Journals of Jyggalag\mods\JOJ - ParallaxGen Output (Your Profile)
+  Journals of Jyggalag\mods\JOJ - ParallaxGen Output
   ```
 
 3. Back in MO2, click the **Refresh** button so it detects the new files
 
-4. **Enable** the `JOJ - ParallaxGen Output (Your Profile)` mod in the left panel
+4. **Enable** the `JOJ - ParallaxGen Output` mod in the left panel
 
 ---
 
@@ -617,7 +607,7 @@ In the **right-side Plugins tab** of MO2:
 ![image](https://github.com/user-attachments/assets/70161735-ce1d-4779-b95e-221c2152a308)  
 
 - Scroll to the bottom under the `Outputs` section
-- Find and move the `PG_1.esp` plugins **under** `Your Profile - Synthesis Patchers` (or under `OWL Randomized Special Loot.esp` for JOJ, TOT, and MOM):
+- Find and move `PG_1.esp` into the `Outputs` group, directly **under** the three `Synthesis` plugins (or under `OWL Randomized Special Loot.esp` on JOJ, TOT, and MOM):
 
 ![image](https://github.com/user-attachments/assets/44960a0b-bca6-4c00-9f16-a1cae57ea479)  
 
@@ -634,7 +624,7 @@ You're now ready to move on to the next tool!
 
 > This tool must be configured correctly for all four LOD levels (LOD4, LOD8, LOD16, LOD32).
 
-> I've included two screenshots for **each** LOD level below — one for Lord's Vision and one for Performance. Please double-check the title above each image to ensure you're using the correct settings for the profile you're configuring.
+> One screenshot per LOD level below. The settings are the same on every Bordello list.
 
 ---
 
@@ -670,44 +660,24 @@ Check all worldspaces in the left panel (right-click > **Select All**)
 ---
 
 #### LOD4 Settings
-- **Lord's Vision**
-
-![image](https://github.com/user-attachments/assets/f8342944-4aac-4e44-9070-a5de883a74f3)
-
-- **Performance**  
 
 ![image](https://github.com/user-attachments/assets/e685caab-5760-4554-a173-2c631ccc13df)
 
 ---
 
 #### LOD8 Settings
-- **Lord's Vision**  
-
-![image](https://github.com/user-attachments/assets/a96541f1-18bb-4d64-901f-3db691ae8fb7)
-
-- **Performance**  
 
 ![image](https://github.com/user-attachments/assets/3eaf00e7-8400-4012-bc2e-22581909ea13)
 
 ---
 
 #### LOD16 Settings
-- **Lord's Vision**  
-
-![image](https://github.com/user-attachments/assets/00738425-81a7-47b2-9e81-1f23054499a8)
-
-- **Performance**  
 
 ![image](https://github.com/user-attachments/assets/2aa518a3-978d-459e-8ac4-13940d14410b)
 
 ---
 
 #### LOD32 Settings
-- **Lord's Vision**  
-
-![image](https://github.com/user-attachments/assets/0b617d8f-053a-46f1-84fa-5bc6b2d9067f)
-
-- **Performance**  
 
 ![image](https://github.com/user-attachments/assets/4b3e75b9-5e44-44a2-a611-3ecd8a82e082)
 
@@ -725,7 +695,7 @@ After the LOD levels have been generated, your files will be located in:
 1. Navigate to the following folder:
 
     ```
-    Journals of Jyggalag\mods\JOJ - xLODGen Output (Your Profile)
+    Journals of Jyggalag\mods\JOJ - xLODGen Output
     ```
 
 2. **Delete everything inside this folder** to ensure no remnant files remain  
@@ -736,7 +706,7 @@ After the LOD levels have been generated, your files will be located in:
     ```
 
 4. Locate the `meshes` and `textures` folders (these should be the only files present)  
-5. Copy both folders into the `JOJ - xLODGen Output (Your Profile)` mod folder  
+5. Copy both folders into the `JOJ - xLODGen Output` mod folder  
 6. Back in MO2, click the **Refresh** button so the changes take effect  
 
 ---
@@ -746,7 +716,7 @@ After the LOD levels have been generated, your files will be located in:
 > **You MUST disable** the `xLODGen Resource - SSE Terrain Tamriel` mod after generating your LODs.  
 > Leaving it enabled will cause broken or ugly terrain in-game.
 
-> At this point, you should **reenable** `JOJ - Grass Cache (Your Profile)`. You will need it enabled for either of the next tasks in this process.
+> At this point, you should **reenable** `JOJ - Grass Cache`. You will need it enabled for either of the next tasks in this process.
 
 That's it! You're now ready to move on to **TexGen** if you are not regenerating Grass Cache.
 
@@ -759,8 +729,8 @@ That's it! You're now ready to move on to **TexGen** if you are not regenerating
 <details>
 <summary>Step 3.5: Grass Cache (Optional / Advanced)</summary>
 
-This step is **optional** — JOJ includes pre-generated grass caches for both supported profiles.  
-You may simply use the included `JOJ - Grass Cache (Your Profile)` mod without any extra work.
+This step is **optional**: every Bordello list ships a pre-generated grass cache.  
+You may simply use the included `JOJ - Grass Cache` mod without any extra work.
 
 However, you **should regenerate your own grass cache** if:
 - You've added or removed **large worldspace/landscape mods** (e.g., major quest or new land mods)  
@@ -772,7 +742,7 @@ However, you **should regenerate your own grass cache** if:
 - Navigate to:
 
     ```
-    JOJ - Grass Cache (Your Profile)
+    JOJ - Grass Cache
     ```
 
 - **Delete only** the `grass` folder.  
@@ -840,7 +810,7 @@ Another popup with text will then appear.
 1. Open:
 
    ```
-   JOJ - Grass Cache (Your Profile) > SKSE > Plugins > GrassControl.ini
+   JOJ - Grass Cache > SKSE > Plugins > GrassControl.ini
    ```
 
 *(Or double-click the mod in MO2 and use the INI Files tab)*
@@ -865,7 +835,7 @@ Another popup with text will then appear.
    No Grass in Objects
    ```
 
-*(Located in the Outputs separator, above `JOJ - Grass Cache (Your Profile)`)*
+*(Located in the Outputs separator, above `JOJ - Grass Cache`)*
 
 ![image](https://github.com/user-attachments/assets/082fac49-7265-42f3-ae49-22856abc3306)
 
@@ -914,7 +884,7 @@ Another popup with text will then appear.
 - Cut (not copy) the entire `grass` folder and paste it into:
 
    ```
-   JOJ - Grass Cache (Your Profile)
+   JOJ - Grass Cache
    ```
 
 ---
@@ -955,8 +925,8 @@ Once finished (or skipped), you're ready to move on to **TexGen**.
 <details>
 <summary>Step 4: Run TexGen</summary>
 
-> **Important for Performance Users:**  
-> If you are using the **Performance** profile and have generated your own VRAMr Output, you must **disable it** before running TexGen.  
+> **Important if you ran VRAMr:**  
+> If you generated your own VRAMr Output, you must **disable it** before running TexGen.  
 > Keep it disabled until **after DynDOLOD** has finished running (the next step).
 
 ---
@@ -969,7 +939,7 @@ Once finished (or skipped), you're ready to move on to **TexGen**.
 #### 1. Clear Old TexGen Files
 
 1. In **MO2**, scroll down to the `Outputs` separator
-2. **Double-click** `JOJ - TexGen Output (Your Profile)` and choose **Open in Explorer**
+2. **Double-click** `JOJ - TexGen Output` and choose **Open in Explorer**
 3. Inside the folder, **delete the `textures` folder** completely
 
 ---
@@ -1006,7 +976,7 @@ Once TexGen completes, it will display a message and a **button to exit**:
 
 3. Paste it into:
 
-`Journals of Jyggalag\mods\JOJ - TexGen Output (Your Profile)`
+`Journals of Jyggalag\mods\JOJ - TexGen Output`
 
 4. Back in MO2, click **Refresh**. Re-enable `JOJ - TexGen Output` on the left.
 
@@ -1061,17 +1031,13 @@ TexGen is now complete! You're ready for the final step: DynDOLOD.
 3. Double-check that your **Output Path** is set to:  
    `Journals of Jyggalag - Outputs\DynDOLOD Output\`
 
-4. In the **top-right corner**, select your quality preset based on your profile:
+4. In the **top-right corner**, click **Medium**, then set the grass LOD options underneath it:
+   - **Check the Grass LOD** box  
+   - **Density**: `50%`  
+   - **Mode**: `1`  
+   ![DynDOLOD Settings](https://github.com/user-attachments/assets/9ec0025d-bca2-4bf4-ab00-e1b47cb6a2d2)  
 
-   - **Lord's Vision** > Click **High**  
-     If you're using **Lord's Vision**, you must also set the following:
-     - **Check the Grass LOD** box  
-     - **Density**: `100%`  
-     - **Mode**: `1`  
-     ![Lord's Vision Settings](https://github.com/user-attachments/assets/16aa60ac-7299-4a7e-be3f-2d5f50c470ec)  
-
-   - **Performance** > Click **Medium**  
-     ![Performance Settings](https://github.com/user-attachments/assets/9ec0025d-bca2-4bf4-ab00-e1b47cb6a2d2)  
+   > The screenshot predates the grass LOD settings. Follow the three values above where the picture differs.
 
 5. Click OK to start the DynDOLOD tool run.  
    Be patient — this generally takes **at least an hour**, sometimes two depending on your PC specs.
@@ -1089,7 +1055,7 @@ Once DynDOLOD completes, the output files will be located at:
 1. Open that folder and **copy everything inside**
 2. Paste all files into:
 
-`Journals of Jyggalag\mods\JOJ - DynDOLOD Output (Your Profile)`
+`Journals of Jyggalag\mods\JOJ - DynDOLOD Output`
 
 
 3. Back in MO2, click **Refresh**. Re-enable the DynDOLOD output mod.
@@ -1119,8 +1085,8 @@ Make sure **all three are enabled**, then drag them into the correct plugin grou
 - Move `DynDOLOD.esp` and `Occlusion.esp` into the `Outputs` plugin group
 - Ensure that **`DynDOLOD.esp` and `Occlusion.esp` are the final two entries** at the very bottom of your load order.
 
-> **Important for Performance Users:**  
-> If you are using the **Performance** profiles and have a VRAMr Output, you must **re-enable** it.
+> **Important if you ran VRAMr:**  
+> If you have a VRAMr Output, you must **re-enable** it now.
 
 </details>
 

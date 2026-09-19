@@ -15,7 +15,7 @@ This guide is intended for:
 
 - Users on lower-end hardware struggling with performance
 - Users who want smoother gameplay without heavily compromising visuals
-- Users looking to fine-tune performance beyond the default profile
+- Users looking to fine-tune performance beyond the list as shipped
 
 You can follow individual sections as needed, or combine multiple methods for maximum performance gains.
 
@@ -23,11 +23,9 @@ You can follow individual sections as needed, or combine multiple methods for ma
 
 ## Quick Wins
 
-Two simple changes that can improve performance without significant visual tradeoffs.
+One simple change that can improve performance without a significant visual tradeoff.
 
-1. **Choose the Performance profile** in MO2 if you haven't already. This is the foundation for all other optimizations.
-
-2. **Set SSGI to AO Only:**
+1. **Set SSGI to AO Only:**
    - In game, open the CS menu with the `End` key
    - Set SSGI to `AO Only`
      <img width="2098" height="1192" alt="image" src="https://github.com/user-attachments/assets/832324f8-432b-4ed3-91a1-84ab6d562030" />
@@ -54,6 +52,32 @@ Run **VRAMr** from MO2's application list. For full step-by-step instructions, s
 >
 > VRAMr replaces textures and does not typically require a full tool rerun.
 > If you notice visual inconsistencies (especially distant objects), you may optionally rerun TexGen and DynDOLOD.
+
+---
+
+## Texture Downscaler
+
+Every Bordello list ships [Texture Downscaler](https://www.nexusmods.com/skyrimspecialedition/mods/187049) **disabled**, installed on its **Balanced** preset. Enable it in MO2's left pane to use it. It is an SKSE plugin that skips the largest mip levels when a texture loads, so a 4K texture can sit in video memory as a 1K one. Nothing on disk changes, nothing runs per frame, and uninstalling it brings every texture back to full size. Sky, terrain, LOD, DynDOLOD, face tints and facegen are left alone in every preset.
+
+The installer offers four presets. Balanced is what the list ships; Performance and Quality are the two knobs worth turning once the mod is enabled:
+
+| Preset | Diffuse | Normal and other maps | Notes |
+|---|---|---|---|
+| Quality | 2048 | 2048 | Characters, armor, clothes and PBR stay at full size; dragon normal maps up to 4096 |
+| Balanced (shipped) | 1024 | 1024 | Characters, armor, clothes, PBR, landscape and tree normal maps up to 2048 |
+| Performance | 1024 | 512 | Characters and landscape normal maps up to 1024 |
+| Custom | full size | full size | Nothing capped until you write your own rules in the ini |
+
+### Enabling it and changing the preset
+
+1. In MO2, find `Texture Downscaler` in the left pane (type the name into the filter box at the bottom) and tick its checkbox. On the Balanced preset that is all you need to do.
+2. To change the preset, right-click it and choose **Reinstall Mod**.
+3. Pick **Performance** for lower VRAM use or **Quality** for sharper close-ups, then finish the installer. If MO2 asks whether to merge or replace, choose **Replace**; keep the mod name as it is.
+4. Make sure the mod is still ticked after the reinstall, then launch the game. Textures already in memory keep their size, so a fresh load is what shows the difference.
+
+Performance is the preset to try first on cards with 8 GB of VRAM or less, or whenever new areas stream in with stutter. Quality is for 16 GB cards that want the last bit of texture detail back. If Performance looks too soft on armor and faces, raise the limits in `Texture Downscaler > SKSE > Plugins > TextureDownscaler.ini` (the mod page explains the per-folder rules) or go back to Balanced. A list update puts the mod back to disabled and on Balanced, so enable it again after updating.
+
+> **How it relates to VRAMr:** they stack. VRAMr rewrites the texture files once; Texture Downscaler decides how much of each file to load. On a low-VRAM card run both.
 
 ---
 
@@ -109,9 +133,9 @@ Check the specs on your CPU to determine what version of AVX is supported. If yo
 
 A guided path for users on low-end hardware. Apply these steps in order for maximum performance gains, then follow up with the tools above.
 
-### Performance Profile
+### Texture Downscaler
 
-Select the **Performance** profile in MO2. This should always be your starting point before applying any other tweaks.
+Enable **Texture Downscaler** in MO2 and reinstall it on its **Performance** preset (steps in the [Texture Downscaler](#texture-downscaler) section above). It is the cheapest VRAM win in the list and takes a minute.
 
 ### Resolution Scaling
 
@@ -143,7 +167,7 @@ Enable Performance Mode in SSE Display Tweaks to reduce rendering overhead.
 >
 > Make sure you are editing the correct (winning) file in MO2, or your changes will have no effect.
 
-After completing these steps, continue with [VRAMr](#vramr), [BethINI](#bethini), and [AVX / SMP Optimization](#avx--smp-optimization) above for additional gains.
+After completing these steps, continue with [VRAMr](#vramr), [Texture Downscaler](#texture-downscaler), [BethINI](#bethini), and [AVX / SMP Optimization](#avx--smp-optimization) above for additional gains.
 
 ---
 
@@ -152,8 +176,8 @@ After completing these steps, continue with [VRAMr](#vramr), [BethINI](#bethini)
 For best results on low-end systems:
 
 <div style="list-style:none;padding:0;margin:0;">
-<label style="display:block;padding:4px 0;cursor:pointer;"><input type="checkbox"> Select the Performance profile</label>
 <label style="display:block;padding:4px 0;cursor:pointer;"><input type="checkbox"> Run VRAMr</label>
+<label style="display:block;padding:4px 0;cursor:pointer;"><input type="checkbox"> Enable Texture Downscaler and reinstall it on the Performance preset</label>
 <label style="display:block;padding:4px 0;cursor:pointer;"><input type="checkbox"> Apply BethINI tweaks</label>
 <label style="display:block;padding:4px 0;cursor:pointer;"><input type="checkbox"> Enable <code>performancemode=true</code> in SSEDisplayTweaks</label>
 <label style="display:block;padding:4px 0;cursor:pointer;"><input type="checkbox"> Set SSGI to AO Only in game</label>
@@ -166,5 +190,5 @@ For best results on low-end systems:
 ## Final Notes
 
 - These methods trade visual fidelity for performance. Expect reduced texture quality, shorter draw distances, and simplified shadows.
-- The Performance profile is designed to work alongside these optimizations — always start there.
+- Every list ships one Community Shaders profile, and these optimizations are tuned for it as shipped.
 - VRAMr and BethINI changes persist across saves and do not need to be reapplied unless you update the list.

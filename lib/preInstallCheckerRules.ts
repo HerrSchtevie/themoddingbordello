@@ -2,8 +2,7 @@ import {
   CpuTier,
   DriveType,
   ModlistRequirements,
-  ProfileKey,
-  ProfileRequirements,
+  TierRequirements,
   ResolutionTier,
   modlistRequirements,
 } from './preInstallChecker';
@@ -20,7 +19,7 @@ export interface CheckItem {
 
 export interface CheckerInput {
   list: ModlistSlug;
-  profile: ProfileKey;
+  visualAddons: boolean;
   gpuName: string;
   vramGB: number;
   cpuModel: string;
@@ -36,7 +35,7 @@ export interface CheckerInput {
 export interface CheckerReport {
   readiness: Readiness;
   summary: string;
-  suggestedProfile: ProfileKey;
+  addons: Severity | 'not-requested';
   install: CheckItem[];
   runtime: CheckItem[];
   storage: CheckItem[];
@@ -179,7 +178,7 @@ function evaluateFreeSpace(
   };
 }
 
-function evaluateInstall(input: CheckerInput, req: ProfileRequirements): CheckItem[] {
+function evaluateInstall(input: CheckerInput, req: TierRequirements): CheckItem[] {
   const items: CheckItem[] = [];
 
   items.push(evaluateInstallDrive(input.installDrive));
@@ -220,7 +219,7 @@ function evaluateInstall(input: CheckerInput, req: ProfileRequirements): CheckIt
   return items;
 }
 
-function evaluateRuntime(input: CheckerInput, req: ProfileRequirements): CheckItem[] {
+function evaluateRuntime(input: CheckerInput, req: TierRequirements, tier: 'shipped' | 'addons'): CheckItem[] {
   const items: CheckItem[] = [];
 
   if (input.ramGB < req.ramMinGB) {
@@ -247,7 +246,7 @@ function evaluateRuntime(input: CheckerInput, req: ProfileRequirements): CheckIt
     items.push({
       label: 'VRAM',
       severity: 'bad',
-      message: `${input.vramGB} GB is below the ${req.vramMinGB} GB minimum for this profile.`,
+      message: `${input.vramGB} GB is below the ${req.vramMinGB} GB minimum for this list.`,
     });
   } else if (input.vramGB < req.vramRecommendedGB) {
     items.push({
@@ -271,7 +270,7 @@ function evaluateRuntime(input: CheckerInput, req: ProfileRequirements): CheckIt
     items.push({
       label: cpuLabel,
       severity: 'bad',
-      message: `Below the ${CPU_TIER_LABELS[req.cpuMinTier]} tier minimum for this profile.`,
+      message: `Below the ${CPU_TIER_LABELS[req.cpuMinTier]} tier minimum for this list.`,
     });
   } else if (cpuRecDelta < 0) {
     items.push({
@@ -288,41 +287,42 @@ function evaluateRuntime(input: CheckerInput, req: ProfileRequirements): CheckIt
   }
 
   const res = parseResolution(input.resolution);
-  const resItem = evaluateResolution(res, input.vramGB, input.profile);
+  const resItem = evaluateResolution(res, input.vramGB, tier);
   items.push(resItem);
 
   return items;
 }
 
-function evaluateResolution(res: ResolutionTier, vramGB: number, profile: ProfileKey): CheckItem {
+function evaluateResolution(res: ResolutionTier, vramGB: number, tier: 'shipped' | 'addons'): CheckItem {
   const label = `Resolution (${res})`;
-  if (profile === 'lords-vision') {
+  if (tier === 'addons') {
     if (res === '4k') {
-      if (vramGB >= 16) return { label, severity: 'good', message: '4K with 16+ GB VRAM is suitable for Lord\u2019s Vision.' };
-      if (vramGB >= 12) return { label, severity: 'warn', message: '4K on less than 16 GB VRAM may struggle on Lord\u2019s Vision.' };
-      return { label, severity: 'bad', message: '4K on Lord\u2019s Vision needs 16 GB VRAM. Drop to 1440p or use Performance.' };
+      if (vramGB >= 16) return { label, severity: 'good', message: '4K with 16+ GB VRAM is suitable for the optional ENB presets and DLSS 5.' };
+      if (vramGB >= 12) return { label, severity: 'warn', message: '4K on 12 GB VRAM may struggle with the optional ENB presets and DLSS 5.' };
+      return { label, severity: 'bad', message: '4K with the optional add-ons needs 16 GB VRAM. Drop to 1440p or run the list as shipped.' };
     }
     if (res === '1440p') {
-      if (vramGB >= 12) return { label, severity: 'good', message: '1440p with 12+ GB VRAM is suitable for Lord\u2019s Vision.' };
-      if (vramGB >= 8) return { label, severity: 'warn', message: '1440p on 8 GB VRAM is borderline for Lord\u2019s Vision. VRAMr is strongly recommended.' };
-      return { label, severity: 'bad', message: '1440p on Lord\u2019s Vision needs at least 8 GB VRAM.' };
+      if (vramGB >= 12) return { label, severity: 'good', message: '1440p with 12+ GB VRAM is suitable for the optional ENB presets and DLSS 5.' };
+      return { label, severity: 'bad', message: '1440p with the optional add-ons needs at least 12 GB VRAM.' };
     }
-    if (vramGB >= 8) return { label, severity: 'good', message: '1080p with 8+ GB VRAM runs Lord\u2019s Vision well.' };
-    return { label, severity: 'warn', message: '1080p on under 8 GB VRAM is tight for Lord\u2019s Vision. Use Performance instead.' };
+    if (vramGB >= 12) return { label, severity: 'good', message: '1080p with 12+ GB VRAM runs the optional add-ons well.' };
+    if (vramGB >= 8) return { label, severity: 'warn', message: '1080p on 8 GB VRAM is tight for the optional add-ons. Run the list as shipped.' };
+    return { label, severity: 'bad', message: '1080p with the optional add-ons needs at least 8 GB VRAM.' };
   }
 
   if (res === '4k') {
-    if (vramGB >= 12) return { label, severity: 'good', message: '4K with 12+ GB VRAM is suitable for Performance.' };
-    if (vramGB >= 8) return { label, severity: 'warn', message: '4K on 8 GB VRAM is borderline. VRAMr is strongly recommended.' };
-    return { label, severity: 'bad', message: '4K on Performance needs at least 8 GB VRAM.' };
+    if (vramGB >= 16) return { label, severity: 'good', message: '4K with 16+ GB VRAM is suitable for this list.' };
+    if (vramGB >= 12) return { label, severity: 'warn', message: '4K on 12 GB VRAM is borderline. VRAMr and the Performance preset of Texture Downscaler are strongly recommended.' };
+    return { label, severity: 'bad', message: '4K needs at least 12 GB VRAM on this list.' };
   }
   if (res === '1440p') {
-    if (vramGB >= 8) return { label, severity: 'good', message: '1440p with 8+ GB VRAM is suitable for Performance.' };
-    if (vramGB >= 6) return { label, severity: 'warn', message: '1440p on 6 GB VRAM is tight. VRAMr is strongly recommended.' };
-    return { label, severity: 'bad', message: '1440p on Performance needs at least 6 GB VRAM.' };
+    if (vramGB >= 12) return { label, severity: 'good', message: '1440p with 12+ GB VRAM is suitable for this list.' };
+    if (vramGB >= 8) return { label, severity: 'warn', message: '1440p on 8 GB VRAM is tight. VRAMr and the Performance preset of Texture Downscaler are strongly recommended.' };
+    return { label, severity: 'bad', message: '1440p needs at least 8 GB VRAM on this list.' };
   }
-  if (vramGB >= 6) return { label, severity: 'good', message: '1080p with 6+ GB VRAM runs Performance well.' };
-  return { label, severity: 'bad', message: '1080p on Performance needs at least 6 GB VRAM.' };
+  if (vramGB >= 12) return { label, severity: 'good', message: '1080p with 12+ GB VRAM runs this list well.' };
+  if (vramGB >= 8) return { label, severity: 'warn', message: '1080p on 8 GB VRAM runs with VRAMr and the Performance preset of Texture Downscaler.' };
+  return { label, severity: 'bad', message: '1080p needs at least 8 GB VRAM on this list; 6 GB cards are unsupported.' };
 }
 
 function pickWorst(items: CheckItem[]): Severity {
@@ -333,11 +333,9 @@ function pickWorst(items: CheckItem[]): Severity {
 
 export function evaluateChecker(input: CheckerInput): CheckerReport {
   const bundle: ModlistRequirements = modlistRequirements[input.list];
-  const req = bundle[input.profile];
-  const perfReq = bundle.performance;
 
-  const install = evaluateInstall(input, req);
-  const runtime = evaluateRuntime(input, req);
+  const install = evaluateInstall(input, bundle.shipped);
+  const runtime = evaluateRuntime(input, bundle.shipped, 'shipped');
   const storage = install.filter(
     (i) =>
       i.label === 'Combined Drive Free Space' ||
@@ -353,38 +351,40 @@ export function evaluateChecker(input: CheckerInput): CheckerReport {
   if (installSeverity === 'bad' || runtimeSeverity === 'bad') readiness = 'not-recommended';
   else if (installSeverity === 'warn' || runtimeSeverity === 'warn') readiness = 'risky';
 
-  let suggestedProfile: ProfileKey = input.profile;
-  let summary = '';
+  let summary: string;
+  if (readiness === 'ready') summary = 'Your setup is ready for installation.';
+  else if (readiness === 'risky')
+    summary = 'Your setup can install, but some items are borderline. Review the warnings below.';
+  else summary = 'Your setup is not ready for installation. Resolve the blockers below before proceeding.';
 
-  if (input.profile === 'lords-vision') {
-    const runtimeBad = runtime.some((i) => i.severity === 'bad');
-    const runtimeWarn = runtime.some((i) => i.severity === 'warn');
-    if (runtimeBad || runtimeWarn) {
-      suggestedProfile = 'performance';
-      const perfRuntime = evaluateRuntime({ ...input, profile: 'performance' }, perfReq);
-      const perfRuntimeSeverity = pickWorst(perfRuntime);
-      if (perfRuntimeSeverity === 'good' && installSeverity !== 'bad') {
-        readiness = runtimeBad ? 'not-recommended' : 'risky';
-        summary = runtimeBad
-          ? 'Your hardware does not meet Lord\u2019s Vision requirements. Use the Performance profile instead.'
-          : 'Your hardware is borderline for Lord\u2019s Vision. The Performance profile is the safer choice.';
-      } else {
-        summary = runtimeBad
-          ? 'Your hardware is below the requirements for this profile. Installation is not recommended as configured.'
-          : 'Your hardware is borderline. Consider the Performance profile and VRAMr / BethINI Pie tuning.';
-      }
+  let addons: Severity | 'not-requested' = 'not-requested';
+  if (input.visualAddons) {
+    const addonRuntime = evaluateRuntime(input, bundle.addons, 'addons');
+    const addonSeverity = pickWorst(addonRuntime);
+    addons = addonSeverity;
+
+    let addonMessage: string;
+    if (addonSeverity === 'good') {
+      addonMessage = 'Your hardware meets the recommended tier for the optional ENB presets and DLSS 5.';
+    } else if (addonSeverity === 'warn') {
+      addonMessage = 'Borderline for the optional ENB presets and DLSS 5. Try them, but expect to dial back.';
+    } else {
+      addonMessage = 'Below the bar for the optional ENB presets and DLSS 5. Run the list as shipped.';
+    }
+    // Appended after readiness was already computed, so it never affects readiness.
+    runtime.push({
+      label: 'ENB presets / DLSS 5 (optional)',
+      severity: addonSeverity,
+      message: addonMessage,
+    });
+
+    if (readiness === 'ready' && addonSeverity !== 'good') {
+      summary += ' The optional ENB presets and DLSS 5 are a stretch on this hardware; run the list as shipped first.';
     }
   }
 
-  if (!summary) {
-    if (readiness === 'ready') summary = 'Your setup is ready for installation on the selected profile.';
-    else if (readiness === 'risky')
-      summary = 'Your setup can install, but some items are borderline. Review the warnings below.';
-    else summary = 'Your setup is not ready for installation. Resolve the blockers below before proceeding.';
-  }
-
   const notes: string[] = [];
-  if (readiness === 'risky' || suggestedProfile === 'performance') {
+  if (readiness === 'risky' || (input.visualAddons && addons !== 'good')) {
     notes.push('Run VRAMr to reduce VRAM pressure without visible quality loss.');
     notes.push('Use BethINI Pie to apply safe performance tuning.');
     notes.push('See the SOS Performance Tuning Guide for detailed steps.');
@@ -396,7 +396,7 @@ export function evaluateChecker(input: CheckerInput): CheckerReport {
   return {
     readiness,
     summary,
-    suggestedProfile,
+    addons,
     install,
     runtime,
     storage,

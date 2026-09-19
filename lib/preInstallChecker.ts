@@ -1,11 +1,10 @@
 import { ModlistSlug } from '@/types/modlist';
 
-export type ProfileKey = 'lords-vision' | 'performance';
 export type DriveType = 'nvme' | 'sata-ssd' | 'hdd' | 'external';
 export type CpuTier = 'low' | 'mid' | 'upper-mid' | 'high';
 export type ResolutionTier = '1080p' | '1440p' | '4k';
 
-export interface ProfileRequirements {
+export interface TierRequirements {
   installGB: number;
   downloadGB: number;
   totalGB: number;
@@ -18,8 +17,8 @@ export interface ProfileRequirements {
 }
 
 export interface ModlistRequirements {
-  'lords-vision': ProfileRequirements;
-  performance: ProfileRequirements;
+  shipped: TierRequirements;
+  addons: TierRequirements;
 }
 
 const SHARED_RAM = { ramMinGB: 16, ramRecommendedGB: 32 };
@@ -27,31 +26,31 @@ const SHARED_RAM = { ramMinGB: 16, ramRecommendedGB: 32 };
 function buildRequirements(installGB: number, downloadGB: number): ModlistRequirements {
   const totalGB = installGB + downloadGB;
   return {
-    'lords-vision': {
+    shipped: {
       installGB,
       downloadGB,
       totalGB,
       ...SHARED_RAM,
       vramMinGB: 8,
-      vramRecommendedGB: 16,
+      vramRecommendedGB: 12,
       cpuMinTier: 'mid',
       cpuRecommendedTier: 'upper-mid',
     },
-    performance: {
+    addons: {
       installGB,
       downloadGB,
       totalGB,
       ...SHARED_RAM,
-      vramMinGB: 6,
-      vramRecommendedGB: 8,
-      cpuMinTier: 'low',
-      cpuRecommendedTier: 'mid',
+      vramMinGB: 12,
+      vramRecommendedGB: 16,
+      cpuMinTier: 'upper-mid',
+      cpuRecommendedTier: 'upper-mid',
     },
   };
 }
 
 export const modlistRequirements: Record<ModlistSlug, ModlistRequirements> = {
-  joj: buildRequirements(594, 283),
+  joj: buildRequirements(577, 296),
   tot: buildRequirements(464, 254),
   hoh: buildRequirements(588, 280),
   mom: buildRequirements(630, 289),

@@ -29,11 +29,6 @@ export function QuizResult({ result, onReset }: QuizResultProps) {
         </span>
         <h3 className="text-3xl font-bold text-white mb-2">{list.name}</h3>
         <p className="text-sm text-bordello-muted italic mb-4">{list.tagline}</p>
-        {result.profile && (
-          <p className="text-lg text-bordello-text mb-4">
-            {result.profile === 'lords-vision' ? "Lord's Vision" : 'Performance'} Profile
-          </p>
-        )}
 
         <ul className="text-left space-y-2 mb-8 max-w-md mx-auto">
           {result.reasons.map((reason, i) => (
@@ -53,7 +48,7 @@ export function QuizResult({ result, onReset }: QuizResultProps) {
             View {list.abbreviation} Overview
           </Link>
           <Link
-            href={`/sos-pre-install-checker?list=${list.slug}${result.profile ? `&profile=${result.profile}` : ''}`}
+            href={`/sos-pre-install-checker?list=${list.slug}`}
             className="inline-flex items-center gap-2 px-6 py-3 font-semibold rounded-lg text-bordello-text bg-bordello-surface border border-bordello-border hover:text-white hover:border-bordello-muted/50 transition-colors"
           >
             Step 2: Validate Your Setup

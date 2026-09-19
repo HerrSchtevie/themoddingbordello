@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/70b422ce-4769-4000-bc20-55a2cac16bc8">
 </p>
 
-<p class="stat-line"><strong>2</strong> PROFILES · <strong>255</strong> GB DOWNLOAD · <strong>467</strong> GB INSTALLED · FULLY AUTOMATED VIA WABBAJACK</p>
+<p class="stat-line"><strong>255</strong> GB DOWNLOAD · <strong>467</strong> GB INSTALLED · FULLY AUTOMATED VIA WABBAJACK</p>
 
 **Tomes of Talos (TOT)** is the fully SFW counterpart to JOJ, offering the same scale, polish, and depth without any adult content.
 
@@ -22,12 +22,9 @@ Before installing, use the SOS Pre-Install Checker to validate your system and c
 
 ---
 
-## Choose Your Profile
+## One Profile, Your Choice of Look
 
-TOT includes two profiles tailored to your system's capabilities and gameplay preferences:
-
-- **Lord's Vision** – Cabbage ENB, full graphics, and all features enabled
-- **Performance** – Community Shaders, same gameplay experience with optimized graphics for smoother play on lower-end systems
+TOT ships a single profile, `Tomes of Talos`, built on Community Shaders. Five ENB presets and a DLSS 5 add-on ride along disabled for anyone who wants them, switched on under Rule 11 with the instructions included in the list.
 
 ---
 
@@ -44,6 +41,7 @@ Major entries include [Legacy of the Dragonborn](https://www.nexusmods.com/skyri
 - [For Honor in Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/151478), [Wo Long](https://next.nexusmods.com/profile/wkk654321/mods), and Elden Rim movesets via [BFCO](https://www.nexusmods.com/skyrimspecialedition/mods/117052)
 - [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614), dodge rolling, and full stamina system
 - [Pandora](https://www.nexusmods.com/skyrimspecialedition/mods/133232) animation framework for smooth, modern character motion
+- [Devotion](https://www.nexusmods.com/skyrimspecialedition/mods/185531) religion system: every race worships its own pantheon, sixteen Daedric Princes offer pacts with a price, and your standing grows from how you actually play
 - Balanced for every playstyle: mage, rogue, battlemage, dual-wield, and more
 
 ---
@@ -52,7 +50,7 @@ Major entries include [Legacy of the Dragonborn](https://www.nexusmods.com/skyri
 
 - Full city and world overhauls via [JK's Skyrim](https://next.nexusmods.com/profile/jkrojmal/mods?gameId=1704), [Cities of the North](https://next.nexusmods.com/profile/JPSteel2/mods?gameId=1704), and [The Great Cities](https://next.nexusmods.com/profile/Archinatic/mods?gameId=1704)
 - Enhanced lighting and weather using [Lux](https://www.nexusmods.com/skyrimspecialedition/mods/43158), [Embers XD](https://www.nexusmods.com/skyrimspecialedition/mods/37085), [Obsidian Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/12125), and more
-- High-resolution textures, handpicked ENBs, dense forests, and region-specific terrain
+- High-resolution textures, Community Shaders with five optional ENB presets, dense foliage with distant grass, and region-specific landscapes
 
 ---
 
@@ -68,6 +66,7 @@ Major entries include [Legacy of the Dragonborn](https://www.nexusmods.com/skyri
 ## NPC & Follower Overhauls
 
 - All named NPCs and followers have been visually enhanced using a curated blend of ColdSun's Visions, Pandorables NPCs, Sons of Nirn, and other top-quality overhaul mods, integrated through a custom [NPC Plugin Chooser 2](https://www.nexusmods.com/skyrimspecialedition/mods/157055) merge
+- Khajiit rebuilt with [Enhanced Khajiit](https://www.nexusmods.com/skyrimspecialedition/mods/176481) and [K.C.C.E](https://www.nexusmods.com/skyrimspecialedition/mods/95969): new heads, digitigrade paws, beast hands, fangs, scars, new eye colours, and RaceMenu sliders for ears, muzzle and fangs
 - Seamless integration with [AI Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/173), [Follower Dialogue Expansion](https://next.nexusmods.com/profile/anbeegod/mods?gameId=1704), and [3DNPC](https://www.nexusmods.com/skyrimspecialedition/mods/29194)
 - Balanced outfits, consistent visual tone, and no NSFW content
 - Includes fully-voiced followers like Remiel, Auri, Xelzaz, Lucien, Inigo, Hoth, Jesper, Taliesin, Gore, M'rissi, Katana, Redcap, Thogra, Merlin, Khajiit Will Follow, and many more
@@ -85,26 +84,20 @@ These are **hard requirements**. The modlist will not function correctly without
 - Internal SSD (HDD installs will freeze and crash)
 - Pagefile set to at least 40GB
 - [Microsoft Visual C++ Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe)
-- [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) and [.NET 9 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)
+- [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) and [.NET 9 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/9.0), plus the [.NET Desktop Runtime 10](https://dotnet.microsoft.com/en-us/download/dotnet/10.0) (the runtime only, not the .NET 10 SDK)
 - Windows and Skyrim language set to English
 
 **Disk space:** ~255GB download / ~467GB installed / ~722GB total
 
-#### Lord's Vision Profile
+#### System Specs
 
-| Component | Minimum                      | Recommended                    |
+| Component | Minimum (Tuned)              | Recommended (As Shipped)       |
 |-----------|------------------------------|--------------------------------|
 | CPU       | i5 10th Gen / Ryzen 5 3000   | i7 12th Gen / Ryzen 7 5000     |
-| GPU       | RTX 3060 Ti / RX 6600 XT     | RTX 4070 Ti / RX 7800 XT       |
+| GPU       | RTX 3060 Ti / RX 6600 XT     | RTX 4070 / RX 7700 XT          |
 | RAM       | 16GB                         | 32GB                           |
 
-#### Performance Profile
-
-| Component | Minimum                      | Recommended                    |
-|-----------|------------------------------|--------------------------------|
-| CPU       | i5-6500 / Ryzen 5 1st Gen    | i5 10th Gen / Ryzen 5 3000     |
-| GPU       | RTX 2060 / RX 5600 XT        | RTX 3060 Ti / RX 6600 XT       |
-| RAM       | 16GB                         | 16–32GB                        |
+Minimum assumes VRAMr, Texture Downscaler on its Performance preset and the Performance Tuning guide; Recommended is the list as shipped. Planning to run an ENB preset or DLSS 5? Treat Recommended as your minimum and aim for an RTX 4070 Ti Super / RX 7800 XT class card with 16 GB of VRAM and 32GB of RAM.
 
 ---
 

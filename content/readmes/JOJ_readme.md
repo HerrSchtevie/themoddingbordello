@@ -126,18 +126,18 @@ For reference, I run this list on a 32:9 ultrawide monitor (5120 x 1440) with sm
 
 ### Recommended System Specs
 
-JOJ ships one profile, built on Community Shaders, and the figures below are for the list as shipped. The optional ENB presets and DLSS 5 (see ENB Presets and DLSS 5 in the post-installation steps) cost more: if you plan to run either, treat the Recommended column as your minimum and aim for an RTX 4070 Ti / RX 7800 XT class card with 16 GB of VRAM and 32GB of RAM.
+JOJ ships one profile, built on Community Shaders. The Minimum column assumes you tune the list: run VRAMr, enable Texture Downscaler on its Performance preset and follow the rest of the [SOS Performance Tuning Guide](/guides/sos-performance-tuning-guide). The Recommended column is the list as shipped, with no tuning. The optional ENB presets and DLSS 5 (see ENB Presets and DLSS 5 in the post-installation steps) cost more again: if you plan to run either, treat the Recommended column as your minimum and aim for an RTX 4070 Ti Super / RX 7800 XT class card with 16 GB of VRAM and 32GB of RAM.
 
-| Component     | Minimum (Playable)                                   | Recommended (Ideal)                                  |
+| Component     | Minimum (Tuned)                                      | Recommended (As Shipped)                             |
 |---------------|------------------------------------------------------|------------------------------------------------------|
-| **CPU**       | Intel Core i5-6500 / AMD Ryzen 5 (1st or 2nd Gen)    | Intel Core i5 (10th Gen) / AMD Ryzen 5 (3000 series) |
+| **CPU**       | Intel Core i5 (10th Gen) / AMD Ryzen 5 (3000 series) | Intel Core i7 (12th Gen) / AMD Ryzen 7 (5000 series) |
 | **RAM**       | 16GB DDR4                                            | 32GB DDR4                                            |
 | **Pagefile**  | 40GB                                                 | 40GB                                                 |
 | **Storage**   | Internal SATA SSD                                    | NVMe M.2 SSD                                         |
-| **GPU**       | NVIDIA RTX 2060 (6 GB VRAM) / AMD RX 5600 XT         | NVIDIA RTX 3060 Ti / AMD RX 6600 XT (8 GB VRAM)      |
+| **GPU**       | NVIDIA RTX 3060 Ti / AMD RX 6600 XT (8 GB VRAM)      | NVIDIA RTX 4070 / AMD RX 7700 XT (12 GB VRAM)        |
 | **Disk Space**| ~296GB Download / ~577GB Installed / ~873GB Total    | ~296GB Download / ~577GB Installed / ~873GB Total    |
 
-Distant grass and a fuller LOD tier make the Minimum column a true floor: on a 6 GB or 8 GB card, run VRAMr (see Performance Tuning under the post-installation steps).
+A 6 GB card can still get there at 1080p with every step in the Performance Tuning guide applied, but that is Rule 11 territory and no support is promised.
 
 The downloads can be removed after successful installation. NOT RECOMMENDED. But if you're short on space, it won't cause issues.
 
@@ -271,6 +271,8 @@ Once Wabbajack finishes, you're not quite ready to jump in yet. Follow these ste
 
 Before diving into your playthrough, take a moment to configure the list to match your setup. Whether you're using ultrawide resolutions or a controller, Journals of Jyggalag is built to adapt — but it expects you to pick your setup and stick with it.
 
+> **Before you change anything beyond the steps on this page (Rule 11):** copy the shipped profile first. Open the profile dropdown at the top of MO2's left pane, click **Manage**, select `Journals of Jyggalag`, click **Copy**, and make every edit in the copy. The untouched original is your safe fallback if something breaks. The [SOS Rule 11 Guide](/guides/sos-rule-11-guide) has the full procedure.
+
 ---
 
 ### Widescreen & Resolution Support
@@ -321,8 +323,9 @@ Where possible, keep Windows Display Settings at 100% scale. Higher Windows scal
 ### Performance Tuning (Optional)
 
 - We encourage users to run **VRAMr** unless you have at least 16 GB of VRAM. If you have 10 GB of VRAM or less, we consider it a functional *necessity*.
-- We encourage users to install and run **Bethini PIE** to optimize Skyrim's ini files to suit your system.
-- Instructions for both tools and additional performance improvements are in the [SOS Performance Tuning Guide](/guides/sos-performance-tuning-guide).
+- **Texture Downscaler** ships disabled, installed on its Balanced preset. Enable it in MO2 when VRAM is tight; on an 8 GB card, also reinstall it on the Performance preset. The guide has the presets and the steps.
+- We encourage users to run **BethINI Pie** to optimize Skyrim's ini files to suit your system. It ships with the list; launch it from MO2's executable dropdown.
+- Instructions for all three tools and additional performance improvements are in the [SOS Performance Tuning Guide](/guides/sos-performance-tuning-guide).
 
 ---
 
@@ -338,7 +341,7 @@ JOJ runs Community Shaders. Two optional visual add-ons ship with the list, both
   - [Amon ENB](https://www.nexusmods.com/skyrimspecialedition/mods/99786)
 - **DLSS 5 neural rendering**, delivered through a ReShade bridge. It needs an NVIDIA RTX card and driver 616.56 or newer, and it costs real performance.
 
-The step-by-step setup lives in the list itself: open the `ENB Presets and DLSS 5 - Setup Instructions` mod in MO2's left pane. It covers which mods to enable, where each preset's plugin goes, the ENB Extender version lock, and which caches to clear from `overwrite`. Read its section 4 before changing anything; a stale `overwrite\ShaderCache` is the most common cause of "it did not work". Enable one preset at a time, and expect a list update to reset these choices.
+The step-by-step setup lives in the list itself: open the `ENB Presets and DLSS 5 - Setup Instructions` mod in MO2's left pane. It covers which mods to enable, where each preset's plugin goes, the ENB Extender version lock, and which caches to clear from `overwrite`. Read its section 5 before changing anything; a stale `overwrite\ShaderCache` is the most common cause of "it did not work". Enable one preset at a time, and expect a list update to reset these choices.
 
 For side-by-side comparisons, see [Berserkyr vs Rudy vs Kauz vs Cabbage](https://www.youtube.com/watch?v=iYbj4jkhap0) and [Amon vs Kauz vs Cabbage](https://www.youtube.com/watch?v=HsH8YF6uSmc).
 
@@ -501,6 +504,8 @@ While we absolutely encourage learning and modding, please understand that:
 That said, we understand modding is fun and personal. If you're stuck after making changes, you may post in the `grey-aegis-rule-11` channel on [The Modding Bordello Discord](https://discord.gg/themoddingbordello). Help is not guaranteed, but if we can (and want to), we may offer guidance.
 
 Thank you for respecting the work that went into JOJ, and for being part of the community!
+
+Before you change anything, copy the shipped profile in MO2 (profile dropdown, **Manage**, select `Journals of Jyggalag`, **Copy**) and make every edit in the copy. The untouched original is your safe fallback if something breaks.
 
 [Here is the in-depth guide](/guides/sos-rule-11-guide) if you really want to modify the list.
 

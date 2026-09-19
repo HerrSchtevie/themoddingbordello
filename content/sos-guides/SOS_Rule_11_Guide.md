@@ -35,13 +35,15 @@ We all love customizing our lists, however MO2 is a powerful tool and, if set up
 
 Follow these steps to protect yourself and make sure all is reversible!
 
+Copy the shipped profile before you change anything, and make every edit in the copy. The untouched original is your safe fallback if something goes wrong.
+
 ### Create a Custom Profile in Mod Organizer 2
 
 1. Click the profile drop down menu at the top of the left pane and select 'Manage'
 
 ![image](https://github.com/user-attachments/assets/0b537ce6-eb1a-4cdd-bd7e-9065d8103b7c)
 
-2. In the pop-up window select Journals of Jyggalag Lord's Vision (or whatever SOS list you are using)
+2. In the pop-up window select the list's shipped profile, `Journals of Jyggalag` (or the profile named after whichever Bordello list you are using). It is the only profile the list ships with.
 3. Select copy
 4. Name your new profile 'Custom' or something else
 5. Click select, close the profiles window.

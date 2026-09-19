@@ -8,7 +8,7 @@ export interface QuizQuestion {
 
 export interface QuizResult {
   list: ModlistSlug;
-  profile: 'lords-vision' | 'performance' | null;
+  hardware: 'high' | 'lean' | null;
   reasons: string[];
 }
 
@@ -35,8 +35,8 @@ export const quizQuestions: QuizQuestion[] = [
     id: 'hardware',
     question: 'Which best fits your setup?',
     options: [
-      { label: 'High-end — I want maximum visuals and my PC can handle it', value: 'high' },
-      { label: 'Performance — I want smooth gameplay or I\'m on older hardware', value: 'performance' },
+      { label: 'Comfortable — my PC meets the recommended specs', value: 'high' },
+      { label: 'Tight — older or lower-end hardware', value: 'lean' },
     ],
   },
 ];
@@ -101,34 +101,34 @@ export function getVisualStep(currentIndex: number, answers: Record<string, stri
 export function evaluateQuiz(answers: Record<string, string>): QuizResult {
   const reasons: string[] = [];
 
-  // Profile from hardware (null if skipped)
-  const profile: 'lords-vision' | 'performance' | null =
-    answers.hardware === 'high' ? 'lords-vision' :
-    answers.hardware === 'performance' ? 'performance' :
+  // Hardware tier from Q3 (null if skipped)
+  const hardware: 'high' | 'lean' | null =
+    answers.hardware === 'high' ? 'high' :
+    answers.hardware === 'lean' ? 'lean' :
     null;
 
   // Visual overhaul → VOV
   if (answers.experience === 'visual') {
     reasons.push('Visions of Vaermina focuses on visual upgrades with minimal gameplay changes');
-    reasons.push(
-      profile === 'lords-vision'
-        ? "Lord's Vision profile for the full visual experience"
-        : 'Performance profile for smoother gameplay on your hardware'
-    );
+    if (hardware === 'high') {
+      reasons.push('Your hardware is comfortable for the list as shipped, and the optional ENB presets and DLSS 5 are within reach');
+    } else if (hardware === 'lean') {
+      reasons.push('Every list ships one Community Shaders profile; on your hardware, run VRAMr and follow the Performance Tuning guide');
+    }
     reasons.push('VOV best matches your preferences');
-    return { list: 'vov', profile, reasons };
+    return { list: 'vov', hardware, reasons };
   }
 
   // SFW + Power → TOT
   if (answers.adult === 'none') {
     reasons.push('Tomes of Talos is the fully SFW Bordello experience');
-    reasons.push(
-      profile === 'lords-vision'
-        ? "Lord's Vision profile for the full visual experience"
-        : 'Performance profile for smoother gameplay on your hardware'
-    );
+    if (hardware === 'high') {
+      reasons.push('Your hardware is comfortable for the list as shipped, and the optional ENB presets and DLSS 5 are within reach');
+    } else if (hardware === 'lean') {
+      reasons.push('Every list ships one Community Shaders profile; on your hardware, run VRAMr and follow the Performance Tuning guide');
+    }
     reasons.push('TOT best matches your preferences');
-    return { list: 'tot', profile, reasons };
+    return { list: 'tot', hardware, reasons };
   }
 
   // Power fantasy
@@ -141,13 +141,13 @@ export function evaluateQuiz(answers: Record<string, string>): QuizResult {
       list = 'joj';
       reasons.push('Journals of Jyggalag offers an expansive power fantasy with optional adult content');
     }
-    reasons.push(
-      profile === 'lords-vision'
-        ? "Lord's Vision profile for the full visual experience"
-        : 'Performance profile for smoother gameplay on your hardware'
-    );
+    if (hardware === 'high') {
+      reasons.push('Your hardware is comfortable for the list as shipped, and the optional ENB presets and DLSS 5 are within reach');
+    } else if (hardware === 'lean') {
+      reasons.push('Every list ships one Community Shaders profile; on your hardware, run VRAMr and follow the Performance Tuning guide');
+    }
     reasons.push(`${list === 'mom' ? 'Mantras of Mara' : 'Journals of Jyggalag'} best matches your preferences`);
-    return { list, profile, reasons };
+    return { list, hardware, reasons };
   }
 
   // Challenging survival
@@ -159,11 +159,11 @@ export function evaluateQuiz(answers: Record<string, string>): QuizResult {
     list = 'hoh';
     reasons.push('Hymns of Hircine delivers a punishing survival experience with optional adult content');
   }
-  reasons.push(
-    profile === 'lords-vision'
-      ? "Lord's Vision profile for the full visual experience"
-      : 'Performance profile for smoother gameplay on your hardware'
-  );
+  if (hardware === 'high') {
+    reasons.push('Your hardware is comfortable for the list as shipped, and the optional ENB presets and DLSS 5 are within reach');
+  } else if (hardware === 'lean') {
+    reasons.push('Every list ships one Community Shaders profile; on your hardware, run VRAMr and follow the Performance Tuning guide');
+  }
   reasons.push(`${list === 'dod' ? 'Diaries of Dibella' : 'Hymns of Hircine'} best matches your preferences`);
-  return { list, profile, reasons };
+  return { list, hardware, reasons };
 }
