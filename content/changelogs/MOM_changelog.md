@@ -126,6 +126,7 @@ Synthesis patchers [Muzzle-It-Patcher](https://github.com/krypto5863/Muzzle-It-P
 - Removed the following custom patches:
    - `Display Tweaks for CS Upscaling` - its five upscaling keys now live in `MOM - MCM and INI Settings`
    - `ENB Preset Setup Instructions for Performance Profile` - superseded by `ENB Presets and DLSS 5 - Setup Instructions`
+   - `MOM - Grass Patch`  
 - Regenerated the following outputs:
    - `MOM - NPC Merge`  
    - `MOM - Synthesis Output`  
