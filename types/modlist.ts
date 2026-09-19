@@ -2,7 +2,7 @@ export type ModlistSlug = 'joj' | 'tot' | 'hoh' | 'mom' | 'dod' | 'vov';
 
 export type ModlistPage = 'overview' | 'readme' | 'gameplay-guide' | 'changelog' | 'manual-downloads' | 'load-order' | 'showcase';
 
-/** 'main' is the single profile of a one-profile list (JOJ since 8.0.0); 'lv' and 'perf' are the two profiles of the lists still shipping Lord's Vision + Performance. */
+/** 'main' is the single profile every list ships since the 2026-09 consolidation. 'lv' and 'perf' are legacy keys, kept only to render the kodex exports of releases published before it; a list moves to 'main' when its next release ships. */
 export type KodexProfileKey = 'main' | 'lv' | 'perf';
 
 export interface PluginCountCell {
