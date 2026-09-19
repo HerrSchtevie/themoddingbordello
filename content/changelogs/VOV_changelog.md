@@ -83,6 +83,7 @@ The Lord's Vision (ENB) profile is gone. VOV now ships a single Community Shader
    - `Display Tweaks for CS Upscaling` - its five upscaling keys now live in `VOV - MCM and INI Settings`
    - `ENB Preset Setup Instructions for Performance Profile` - superseded by `ENB Presets and DLSS 5 - Setup Instructions`
    - `VOV - Creation Kit Output`
+   - `VOV - Grass Patch`  
 - Regenerated the following outputs:
    - `VOV - NPC Merge`  
    - `VOV - Synthesis Output`  
