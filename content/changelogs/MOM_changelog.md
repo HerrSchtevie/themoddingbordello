@@ -101,6 +101,7 @@ The Lord's Vision (ENB) profile is gone. MOM now ships a single Community Shader
 [ColdSun's Visions - NPC Replacers - Pack 1](https://www.nexusmods.com/skyrimspecialedition/mods/147136)  
 [ColdSun's Visions - NPC Replacers - Pack 2](https://www.nexusmods.com/skyrimspecialedition/mods/152524)  
 [Elder ENB](https://www.nexusmods.com/skyrimspecialedition/mods/117327)  
+Synthesis patchers [Muzzle-It-Patcher](https://github.com/krypto5863/Muzzle-It-Patcher) and [DeadBodyCleanupNPCAttacher](https://github.com/TokcDK/DeadBodyCleanupNPCAttacher) - never produced a record on this list  
 `Effects 11 - Community Shaders` placeholder mod - superseded by the real Effects 11 above  
 [Feminine Khajiit Textures (Grey Cat and Leopard)](https://www.nexusmods.com/skyrimspecialedition/mods/183) - superseded by Enhanced Khajiit, which covers every one of its textures and adds subsurface maps  
 `max fluff texture - female`, an optional file from [longer HDT SMP fluffy beast race tail](https://www.nexusmods.com/skyrimspecialedition/mods/111629) - Enhanced Khajiit now supplies the female tail texture, matched to its own body. The tail mod itself stays  
