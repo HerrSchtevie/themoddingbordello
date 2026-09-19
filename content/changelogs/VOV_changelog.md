@@ -16,6 +16,85 @@ Save compatibility depends on **which number changes** between releases.
   Examples: `4.2.0 → 4.2.1`, `5.1.0 → 5.1.1`  
   Bug fixes, tuning, or minor adjustments. **Safe to update mid-save.**
 
+# VOV 3.0.0 (WORK IN PROGRESS)
+
+This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
+The actual MO2 modlist is always the authoritative reference for modlist content.
+
+---
+
+## Additions
+
+[CBBE 3BA Vanilla Outfits Redone](https://www.nexusmods.com/skyrimspecialedition/mods/109194)  
+[Effects 11](https://github.com/community-shaders/skyrim-community-shaders/releases/tag/v1.8.3)  
+[NUTS - Navigate Using Triggers and Sticks](https://www.nexusmods.com/skyrimspecialedition/mods/191396) - Thanks, [Kyler](https://www.nexusmods.com/profile/Kyler45?gameId=1704)!  
+[Ostim Standalone - Enable Kiss and BJ for Beast Races](https://www.nexusmods.com/skyrimspecialedition/mods/181631)  
+[Portal Strict Lights Patcher Framework (SKSE)](https://www.nexusmods.com/skyrimspecialedition/mods/190892)  
+
+---
+
+## Updates
+
+[NPC Plugin Chooser 2](https://www.nexusmods.com/skyrimspecialedition/mods/157055)  
+[PGPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/120946)  
+[STB Widgets](https://www.nexusmods.com/skyrimspecialedition/mods/136148)  
+[MCM Memory - Settings Backup and Restore](https://www.nexusmods.com/skyrimspecialedition/mods/189722)  
+
+---
+
+## Removals 
+
+The Lord's Vision (ENB) profile is gone. VOV now ships a single Community Shaders profile, `Visions of Vaermina`, and the Lord's Vision tool outputs went with it. ENB presets are still available through Effects 11; see `ENB Presets and DLSS 5 - Setup Instructions` in MO2.
+
+[ENBSeries Binaries](http://enbdev.com/download_mod_tesskyrimse.htm)  
+[ENB Extender for Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/99406)  
+[KiLoader for Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/99404)  
+[ENB Helper SE](https://www.nexusmods.com/skyrimspecialedition/mods/23174)  
+[ENB Helper Plus](https://www.nexusmods.com/skyrimspecialedition/mods/62743)  
+[ENB Anti-Aliasing - AMD FSR 3.1 - NVIDIA DLAA](https://www.nexusmods.com/skyrimspecialedition/mods/130669)  
+[ENB Frame Generation](https://www.nexusmods.com/skyrimspecialedition/mods/144507)  
+[ENB Input Disabler](https://www.nexusmods.com/skyrimspecialedition/mods/62796)  
+[ENB Terrain Blending Fix](https://www.nexusmods.com/skyrimspecialedition/mods/140041)  
+[ENB Grass Collisions](https://www.nexusmods.com/skyrimspecialedition/mods/67886)  
+[Sky Reflection Fix for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/110604)  
+[Parallax Occlusion Mapping](https://www.nexusmods.com/skyrimspecialedition/mods/78976)  
+[Enhanced Volumetric Lighting and Shadows (EVLaS)](https://www.nexusmods.com/skyrimspecialedition/mods/63725)  
+[Shadow Boost](https://www.nexusmods.com/skyrimspecialedition/mods/73133)  
+[NVIDIA Reflex Support](https://www.nexusmods.com/skyrimspecialedition/mods/74498)  
+[Native EditorID Fix](https://www.nexusmods.com/skyrimspecialedition/mods/85260)  
+[Improved Eye Reflections and Cube Map](https://www.nexusmods.com/skyrimspecialedition/mods/67447)  
+[Rudy Fix for Smoke](https://www.nexusmods.com/skyrimspecialedition/mods/78495)  
+[Freak's Floral Fields](https://www.nexusmods.com/skyrimspecialedition/mods/125349)  
+[Wildlands Renewal - grass and groundcover improvement mod 2k](https://www.nexusmods.com/skyrimspecialedition/mods/139896)  
+[Amon - SK Fix All in One](https://www.nexusmods.com/skyrimspecialedition/mods/112174)  
+[Elder ENB](https://www.nexusmods.com/skyrimspecialedition/mods/117327)  
+`Effects 11 - Community Shaders` placeholder mod - superseded by the real Effects 11 above  
+
+---
+
+## Tweaks
+
+- Added/edited the following custom patches: 
+   - `ENB Presets and DLSS 5 - Setup Instructions`  
+   - `VOV - MCM and INI Settings`  
+   - `SOS - DALC Fix Customization`  
+   - `DLSS 5 - ReShade Bridge`  
+- Removed the following custom patches:
+   - `Display Tweaks for CS Upscaling` - its five upscaling keys now live in `VOV - MCM and INI Settings`
+   - `ENB Preset Setup Instructions for Performance Profile` - superseded by `ENB Presets and DLSS 5 - Setup Instructions`
+   - `VOV - Creation Kit Output`
+- Regenerated the following outputs:
+   - `VOV - NPC Merge`  
+   - `VOV - Synthesis Output`  
+   - `VOV - BodySlide Output`  
+   - `VOV - ParallaxGen Output`  
+   - `VOV - xLODGen Output`  
+   - `VOV - Grass Cache`  
+   - `VOV - TexGen Output`  
+   - `VOV - DynDOLOD Output`  
+
+---
+
 # VOV 2.2.1 (Updated - 09.05.2026)
 
 This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
