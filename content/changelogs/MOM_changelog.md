@@ -52,7 +52,6 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [STB Widgets](https://www.nexusmods.com/skyrimspecialedition/mods/136148)  
 [Roxie the mad](https://www.nexusmods.com/skyrimspecialedition/mods/107606)  
 [Vibian female goblin](https://www.nexusmods.com/skyrimspecialedition/mods/105576)  
-[DALC Fix Preset](https://www.nexusmods.com/skyrimspecialedition/mods/103052)  
 
 ---
 
