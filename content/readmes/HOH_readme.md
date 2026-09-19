@@ -341,7 +341,7 @@ Where possible, keep Windows Display Settings at 100% scale. Higher Windows scal
 
 ### Performance Tuning (Optional)
 
-- We encourage users to run **VRAMr** unless you have at least 16 GB of VRAM. If you have 10 GB of VRAM or less, we consider it a functional *necessity*.
+- We encourage users to run **VRAMr** unless you have at least 12 GB of VRAM. If you have 10 GB of VRAM or less, we consider it a functional *necessity*.
 - **Texture Downscaler** ships disabled, installed on its Balanced preset. Enable it in MO2 when VRAM is tight; on an 8 GB card, also reinstall it on the Performance preset. The guide has the presets and the steps.
 - We encourage users to run **BethINI Pie** to optimize Skyrim's ini files to suit your system. It ships with the list; launch it from MO2's executable dropdown.
 - Instructions for all three tools and additional performance improvements are in the [SOS Performance Tuning Guide](/guides/sos-performance-tuning-guide).
