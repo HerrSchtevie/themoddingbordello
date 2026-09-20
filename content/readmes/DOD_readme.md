@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/9849a12c-df14-4a22-aaa0-8075dd73d38e">
 </p>
 
-<p class="stat-line"><strong>306</strong> GB DOWNLOAD · <strong>645</strong> GB INSTALLED · FULLY AUTOMATED VIA WABBAJACK</p>
+<p class="stat-line"><strong>300</strong> GB DOWNLOAD · <strong>606</strong> GB INSTALLED · FULLY AUTOMATED VIA WABBAJACK</p>
 
 ## IMPORTANT
 
@@ -136,7 +136,7 @@ DOD ships one profile, built on Community Shaders. The Minimum column assumes yo
 | **Pagefile**  | 40GB                                                 | 40GB                                                 |
 | **Storage**   | Internal SATA SSD                                    | NVMe M.2 SSD                                         |
 | **GPU**       | NVIDIA RTX 3060 Ti / AMD RX 6600 XT (8 GB VRAM)      | NVIDIA RTX 4070 / AMD RX 7700 XT (12 GB VRAM)        |
-| **Disk Space**| ~306GB Download / ~645GB Installed / ~951GB Total    | ~306GB Download / ~645GB Installed / ~951GB Total    |
+| **Disk Space**| ~300GB Download / ~606GB Installed / ~906GB Total    | ~300GB Download / ~606GB Installed / ~906GB Total    |
 
 A 6 GB card can still get there at 1080p with every step in the Performance Tuning guide applied, but that is Rule 11 territory and no support is promised.
 
@@ -242,9 +242,9 @@ Before you begin, make sure you meet the following **hard requirements**:
    - Click on **Diaries of Dibella**.
    - Choose:
      - A **Download Location** – where Wabbajack will store mod archives. Select the `\downloaded mods` directory from step 3.  
-       Requires approximately **306 GB of free space**.
+       Requires approximately **300 GB of free space**.
      - An **Installation Location** – where the modlist will be fully installed and run from. Create a `\DOD` directory in the `\modlists` folder from step 3.  
-       Requires approximately **645 GB of free space**.  
+       Requires approximately **606 GB of free space**.  
        **This must be on an internal SSD** for performance and stability.  
        Note that SSDs perform *very poorly* when over 85-90% capacity. Don't try to cram this onto a drive where it will only barely fit.
 

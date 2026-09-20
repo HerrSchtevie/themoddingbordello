@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/70b422ce-4769-4000-bc20-55a2cac16bc8">
 </p>
 
-<p class="stat-line"><strong>255</strong> GB DOWNLOAD · <strong>467</strong> GB INSTALLED · FULLY AUTOMATED VIA WABBAJACK</p>
+<p class="stat-line"><strong>248</strong> GB DOWNLOAD · <strong>426</strong> GB INSTALLED · FULLY AUTOMATED VIA WABBAJACK</p>
 
 ## IMPORTANT
 
@@ -128,7 +128,7 @@ TOT ships one profile, built on Community Shaders. The Minimum column assumes yo
 | **Pagefile**  | 40GB                                                 | 40GB                                                 |
 | **Storage**   | Internal SATA SSD                                    | NVMe M.2 SSD                                         |
 | **GPU**       | NVIDIA RTX 3060 Ti / AMD RX 6600 XT (8 GB VRAM)      | NVIDIA RTX 4070 / AMD RX 7700 XT (12 GB VRAM)        |
-| **Disk Space**| ~255GB Download / ~467GB Installed / ~722GB Total    | ~255GB Download / ~467GB Installed / ~722GB Total    |
+| **Disk Space**| ~248GB Download / ~426GB Installed / ~674GB Total    | ~248GB Download / ~426GB Installed / ~674GB Total    |
 
 A 6 GB card can still get there at 1080p with every step in the Performance Tuning guide applied, but that is Rule 11 territory and no support is promised.
 
@@ -215,9 +215,9 @@ Before you begin, make sure you meet the following **hard requirements**:
    - Click on **Tomes of Talos**.
    - Choose:
      - A **Download Location** – where Wabbajack will store mod archives. Select the `\downloaded mods` directory from step 3.  
-       Requires approximately **255 GB of free space**.
+       Requires approximately **248 GB of free space**.
      - An **Installation Location** – where the modlist will be fully installed and run from. Create a `\TOT` directory in the `\modlists` folder from step 3.  
-       Requires approximately **467 GB of free space**.  
+       Requires approximately **426 GB of free space**.  
        **This must be on an internal SSD** for performance and stability.  
        Note that SSDs perform *very poorly* when over 85-90% capacity. Don't try to cram this onto a drive where it will only barely fit.
 

@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/70b422ce-4769-4000-bc20-55a2cac16bc8">
 </p>
 
-<p class="stat-line"><strong>255</strong> GB DOWNLOAD · <strong>467</strong> GB INSTALLED · FULLY AUTOMATED VIA WABBAJACK</p>
+<p class="stat-line"><strong>248</strong> GB DOWNLOAD · <strong>426</strong> GB INSTALLED · FULLY AUTOMATED VIA WABBAJACK</p>
 
 **Tomes of Talos (TOT)** is the fully SFW counterpart to JOJ, offering the same scale, polish, and depth without any adult content.
 
@@ -87,7 +87,7 @@ These are **hard requirements**. The modlist will not function correctly without
 - [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) and [.NET 9 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/9.0), plus the [.NET Desktop Runtime 10](https://dotnet.microsoft.com/en-us/download/dotnet/10.0) (the runtime only, not the .NET 10 SDK)
 - Windows and Skyrim language set to English
 
-**Disk space:** ~255GB download / ~467GB installed / ~722GB total
+**Disk space:** ~248GB download / ~426GB installed / ~674GB total
 
 #### System Specs
 

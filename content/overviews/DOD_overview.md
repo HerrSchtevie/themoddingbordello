@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/9849a12c-df14-4a22-aaa0-8075dd73d38e">
 </p>
 
-<p class="stat-line"><strong>306</strong> GB DOWNLOAD · <strong>645</strong> GB INSTALLED · FULLY AUTOMATED VIA WABBAJACK</p>
+<p class="stat-line"><strong>300</strong> GB DOWNLOAD · <strong>606</strong> GB INSTALLED · FULLY AUTOMATED VIA WABBAJACK</p>
 
 **Diaries of Dibella (DOD)** is a fusion of harsh survival and unapologetic sensuality, combining the intensity of HOH with the depth of MOM into a single, uncompromising experience.
 
@@ -99,7 +99,7 @@ These are **hard requirements**. The modlist will not function correctly without
 - [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) and [.NET 9 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/9.0), plus the [.NET Desktop Runtime 10](https://dotnet.microsoft.com/en-us/download/dotnet/10.0) (the runtime only, not the .NET 10 SDK)
 - Windows and Skyrim language set to English
 
-**Disk space:** ~306GB download / ~645GB installed / ~951GB total
+**Disk space:** ~300GB download / ~606GB installed / ~906GB total
 
 #### System Specs
 

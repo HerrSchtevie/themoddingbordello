@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/5568612f-0a05-4651-96bc-bddbf3f023da">
 </p>
 
-<p class="stat-line"><strong>296</strong> GB DOWNLOAD · <strong>577</strong> GB INSTALLED · FULLY AUTOMATED VIA WABBAJACK</p>
+<p class="stat-line"><strong>296</strong> GB DOWNLOAD · <strong>576</strong> GB INSTALLED · FULLY AUTOMATED VIA WABBAJACK</p>
 
 **Journals of Jyggalag (JOJ)** is the flagship modlist of **The Modding Bordello** ecosystem and the foundation upon which all other lists are built.
 
@@ -98,7 +98,7 @@ These are **hard requirements**. The modlist will not function correctly without
 - [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) and [.NET 9 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/9.0), plus the [.NET Desktop Runtime 10](https://dotnet.microsoft.com/en-us/download/dotnet/10.0) (the runtime only, not the .NET 10 SDK)
 - Windows and Skyrim language set to English
 
-**Disk space:** ~296GB download / ~577GB installed / ~873GB total
+**Disk space:** ~296GB download / ~576GB installed / ~872GB total
 
 #### System Specs
 

@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/6a2e553b-bae6-4abd-9ea4-ca00cc89fc24">
 </p>
 
-<p class="stat-line"><strong>305</strong> GB DOWNLOAD · <strong>648</strong> GB INSTALLED · FULLY AUTOMATED VIA WABBAJACK</p>
+<p class="stat-line"><strong>299</strong> GB DOWNLOAD · <strong>609</strong> GB INSTALLED · FULLY AUTOMATED VIA WABBAJACK</p>
 
 **Mantras of Mara (MOM)** is the indulgent, fully NSFW evolution of JOJ, built around themes of love, devotion, and divine connection.
 
@@ -98,7 +98,7 @@ These are **hard requirements**. The modlist will not function correctly without
 - [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) and [.NET 9 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/9.0), plus the [.NET Desktop Runtime 10](https://dotnet.microsoft.com/en-us/download/dotnet/10.0) (the runtime only, not the .NET 10 SDK)
 - Windows and Skyrim language set to English
 
-**Disk space:** ~305GB download / ~648GB installed / ~953GB total
+**Disk space:** ~299GB download / ~609GB installed / ~908GB total
 
 #### System Specs
 

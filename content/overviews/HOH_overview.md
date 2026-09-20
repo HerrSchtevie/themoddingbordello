@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/ba19dd35-9a47-47a6-92e3-d97666541411">
 </p>
 
-<p class="stat-line"><strong>302</strong> GB DOWNLOAD · <strong>608</strong> GB INSTALLED · FULLY AUTOMATED VIA WABBAJACK</p>
+<p class="stat-line"><strong>295</strong> GB DOWNLOAD · <strong>570</strong> GB INSTALLED · FULLY AUTOMATED VIA WABBAJACK</p>
 
 **Hymns of Hircine (HOH)** is the immersive challenge modlist from **The Modding Bordello** team.
 
@@ -119,7 +119,7 @@ These are **hard requirements**. The modlist will not function correctly without
 - [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) and [.NET 9 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/9.0), plus the [.NET Desktop Runtime 10](https://dotnet.microsoft.com/en-us/download/dotnet/10.0) (the runtime only, not the .NET 10 SDK)
 - Windows and Skyrim language set to English
 
-**Disk space:** ~302GB download / ~608GB installed / ~910GB total
+**Disk space:** ~295GB download / ~570GB installed / ~865GB total
 
 #### System Specs
 

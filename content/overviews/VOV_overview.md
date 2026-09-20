@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/8d4ed38a-d18a-4b42-92ec-0d19b1c2a9f9">
 </p>
 
-<p class="stat-line"><strong>174</strong> GB DOWNLOAD · <strong>280</strong> GB INSTALLED · FULLY AUTOMATED VIA WABBAJACK</p>
+<p class="stat-line"><strong>167</strong> GB DOWNLOAD · <strong>258</strong> GB INSTALLED · FULLY AUTOMATED VIA WABBAJACK</p>
 
 **Visions of Vaermina (VOV)** is the visual foundation of Herr Schtevie's modlists, designed for players who want a stunning baseline to build their own experience.
 
@@ -65,7 +65,7 @@ These are **hard requirements**. The modlist will not function correctly without
 - [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) and [.NET 9 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/9.0), plus the [.NET Desktop Runtime 10](https://dotnet.microsoft.com/en-us/download/dotnet/10.0) (the runtime only, not the .NET 10 SDK)
 - Windows and Skyrim language set to English
 
-**Disk space:** ~174GB download / ~280GB installed / ~454GB total
+**Disk space:** ~167GB download / ~258GB installed / ~425GB total
 
 #### System Specs
 

@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/6a2e553b-bae6-4abd-9ea4-ca00cc89fc24">
 </p>
 
-<p class="stat-line"><strong>305</strong> GB DOWNLOAD · <strong>648</strong> GB INSTALLED · FULLY AUTOMATED VIA WABBAJACK</p>
+<p class="stat-line"><strong>299</strong> GB DOWNLOAD · <strong>609</strong> GB INSTALLED · FULLY AUTOMATED VIA WABBAJACK</p>
 
 ## IMPORTANT
 
@@ -135,7 +135,7 @@ MOM ships one profile, built on Community Shaders. The Minimum column assumes yo
 | **Pagefile**  | 40GB                                                 | 40GB                                                 |
 | **Storage**   | Internal SATA SSD                                    | NVMe M.2 SSD                                         |
 | **GPU**       | NVIDIA RTX 3060 Ti / AMD RX 6600 XT (8 GB VRAM)      | NVIDIA RTX 4070 / AMD RX 7700 XT (12 GB VRAM)        |
-| **Disk Space**| ~305GB Download / ~648GB Installed / ~953GB Total    | ~305GB Download / ~648GB Installed / ~953GB Total    |
+| **Disk Space**| ~299GB Download / ~609GB Installed / ~908GB Total    | ~299GB Download / ~609GB Installed / ~908GB Total    |
 
 A 6 GB card can still get there at 1080p with every step in the Performance Tuning guide applied, but that is Rule 11 territory and no support is promised.
 
@@ -241,9 +241,9 @@ Before you begin, make sure you meet the following **hard requirements**:
    - Click on **Mantras of Mara**.
    - Choose:
      - A **Download Location** – where Wabbajack will store mod archives. Select the `\downloaded mods` directory from step 3.  
-       Requires approximately **305 GB of free space**.
+       Requires approximately **299 GB of free space**.
      - An **Installation Location** – where the modlist will be fully installed and run from. Create a `\MOM` directory in the `\modlists` folder from step 3.  
-       Requires approximately **648 GB of free space**.  
+       Requires approximately **609 GB of free space**.  
        **This must be on an internal SSD** for performance and stability.  
        Note that SSDs perform *very poorly* when over 85-90% capacity. Don't try to cram this onto a drive where it will only barely fit.
 
