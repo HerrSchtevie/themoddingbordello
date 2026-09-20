@@ -48,7 +48,7 @@ NONE
 - Removed the following custom patches:
    - NONE
 - Regenerated the following outputs:
-   - NONE
+   - `MOM - Synthesis Output`  
 
 ---
 
