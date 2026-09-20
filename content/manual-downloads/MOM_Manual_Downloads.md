@@ -95,7 +95,7 @@ This page is kept up to date to ensure a **smooth, repeatable installation exper
 | SlaveTatsNG-0.7.6.7z | https://www.loverslab.com/files/file/35989-slavetatsng/?do=download&r=2101783&confirm=1&t=1&csrfKey=265928ac2a1fd7302ab254ea55a36391 |
 | SlaveTatsSE-1.3.9.7z | https://www.loverslab.com/files/file/619-slavetats/?do=download&r=1362382&confirm=1&t=1&csrfKey=265928ac2a1fd7302ab254ea55a36391 |
 | SLEN Rev2 Voicepack bsa | https://www.loverslab.com/files/file/36330-slen-voicepack-100/?do=download&r=2016553&confirm=1&t=1&csrfKey=355e792d6fa52c8df9631d9d5f2e37ed |
-| SubmissiveLolaResubmission 2.1.13.7z | https://www.loverslab.com/files/file/15346-submissive-lola-the-resubmission-lese/?do=download&r=2083332&confirm=1&t=1&csrfKey=355e792d6fa52c8df9631d9d5f2e37ed |
+| SubmissiveLolaResubmission 2.1.24.7z | https://www.loverslab.com/files/file/15346-submissive-lola-the-resubmission-lese/?do=download&r=2182586&confirm=1&t=1&csrfKey=5eb60367d6ebdb2948efd50dd568237d |
 | The Book Of Sex SE v1.1.7z | https://www.loverslab.com/files/file/10091-the-book-of-sex-se/?do=download&r=797069&confirm=1&t=1&csrfKey=69fd77326ed00b0d83bd1196cd2c3ef5 |
 | Yamete Kudasai 2.2.3 | https://www.loverslab.com/files/file/23123-yamete-kudasai/?do=download&r=2091641&confirm=1&t=1&csrfKey=265928ac2a1fd7302ab254ea55a36391 |
 | ZaZ Animation Pack + CBBE HDT v8.0 (SE 2023) | https://mega.nz/file/7IhyFKrQ#IfUw7ex6vg6h0to4x5fQ7IoEJpUqUmW130p7aazDNmg |
