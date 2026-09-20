@@ -48,7 +48,7 @@ NONE
 - Removed the following custom patches:
    - NONE
 - Regenerated the following outputs:
-   - NONE
+   - `DOD - Synthesis Output`  
 
 ---
 
