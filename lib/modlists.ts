@@ -18,11 +18,11 @@ export const modlists: ModlistMeta[] = [
     },
     pluginCounts: {
       main: {
-        all: { active: 3727, total: 3728 },
+        all: { active: 3728, total: 3728 },
         esms: { active: 53, total: 53 },
         esps: { active: 186, total: 186 },
         esmsPlusEsps: { active: 239, total: 239 },
-        esls: { active: 3488, total: 3489 },
+        esls: { active: 3489, total: 3489 },
       },
     },
   },
@@ -42,19 +42,12 @@ export const modlists: ModlistMeta[] = [
       loadOrder: 'https://modlistgrimoire.com/modlists/tomes-of-talos',
     },
     pluginCounts: {
-      lv: {
-        all: { active: 3227, total: 3227 },
-        esms: { active: 51, total: 51 },
-        esps: { active: 167, total: 167 },
-        esmsPlusEsps: { active: 218, total: 218 },
-        esls: { active: 3009, total: 3009 },
-      },
-      perf: {
-        all: { active: 3234, total: 3236 },
-        esms: { active: 51, total: 51 },
-        esps: { active: 169, total: 169 },
-        esmsPlusEsps: { active: 220, total: 220 },
-        esls: { active: 3014, total: 3016 },
+      main: {
+        all: { active: 3228, total: 3228 },
+        esms: { active: 52, total: 52 },
+        esps: { active: 172, total: 172 },
+        esmsPlusEsps: { active: 224, total: 224 },
+        esls: { active: 3004, total: 3004 },
       },
     },
   },
@@ -74,19 +67,12 @@ export const modlists: ModlistMeta[] = [
       loadOrder: 'https://modlistgrimoire.com/modlists/hymns-of-hircine',
     },
     pluginCounts: {
-      lv: {
-        all: { active: 3728, total: 3728 },
-        esms: { active: 54, total: 54 },
-        esps: { active: 185, total: 185 },
-        esmsPlusEsps: { active: 239, total: 239 },
-        esls: { active: 3489, total: 3489 },
-      },
-      perf: {
-        all: { active: 3736, total: 3737 },
-        esms: { active: 54, total: 54 },
-        esps: { active: 187, total: 187 },
-        esmsPlusEsps: { active: 241, total: 241 },
-        esls: { active: 3495, total: 3496 },
+      main: {
+        all: { active: 3743, total: 3743 },
+        esms: { active: 55, total: 55 },
+        esps: { active: 189, total: 189 },
+        esmsPlusEsps: { active: 244, total: 244 },
+        esls: { active: 3499, total: 3499 },
       },
     },
   },
@@ -106,19 +92,12 @@ export const modlists: ModlistMeta[] = [
       loadOrder: 'https://modlistgrimoire.com/modlists/mantras-of-mara',
     },
     pluginCounts: {
-      lv: {
-        all: { active: 3763, total: 3763 },
-        esms: { active: 61, total: 61 },
-        esps: { active: 174, total: 174 },
-        esmsPlusEsps: { active: 235, total: 235 },
-        esls: { active: 3528, total: 3528 },
-      },
-      perf: {
-        all: { active: 3769, total: 3771 },
-        esms: { active: 61, total: 61 },
-        esps: { active: 176, total: 176 },
-        esmsPlusEsps: { active: 237, total: 237 },
-        esls: { active: 3532, total: 3534 },
+      main: {
+        all: { active: 3774, total: 3774 },
+        esms: { active: 62, total: 62 },
+        esps: { active: 183, total: 183 },
+        esmsPlusEsps: { active: 245, total: 245 },
+        esls: { active: 3529, total: 3529 },
       },
     },
   },
@@ -138,19 +117,12 @@ export const modlists: ModlistMeta[] = [
       loadOrder: 'https://modlistgrimoire.com/modlists/diaries-of-dibella',
     },
     pluginCounts: {
-      lv: {
-        all: { active: 3771, total: 3771 },
-        esms: { active: 63, total: 63 },
-        esps: { active: 176, total: 176 },
-        esmsPlusEsps: { active: 239, total: 239 },
-        esls: { active: 3532, total: 3532 },
-      },
-      perf: {
-        all: { active: 3779, total: 3780 },
-        esms: { active: 63, total: 63 },
-        esps: { active: 178, total: 178 },
-        esmsPlusEsps: { active: 241, total: 241 },
-        esls: { active: 3538, total: 3539 },
+      main: {
+        all: { active: 3786, total: 3786 },
+        esms: { active: 64, total: 64 },
+        esps: { active: 185, total: 185 },
+        esmsPlusEsps: { active: 249, total: 249 },
+        esls: { active: 3537, total: 3537 },
       },
     },
   },
@@ -170,19 +142,12 @@ export const modlists: ModlistMeta[] = [
       loadOrder: 'https://modlistgrimoire.com/modlists/visions-of-vaermina',
     },
     pluginCounts: {
-      lv: {
-        all: { active: 1440, total: 1441 },
-        esms: { active: 30, total: 30 },
-        esps: { active: 51, total: 51 },
-        esmsPlusEsps: { active: 81, total: 81 },
-        esls: { active: 1359, total: 1360 },
-      },
-      perf: {
-        all: { active: 1450, total: 1451 },
+      main: {
+        all: { active: 1453, total: 1453 },
         esms: { active: 30, total: 30 },
         esps: { active: 53, total: 53 },
         esmsPlusEsps: { active: 83, total: 83 },
-        esls: { active: 1367, total: 1368 },
+        esls: { active: 1370, total: 1370 },
       },
     },
   },
