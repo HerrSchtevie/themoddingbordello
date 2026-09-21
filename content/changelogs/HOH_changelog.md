@@ -45,7 +45,7 @@ NONE
 
 - Added/edited the following custom patches: 
    - `DLSS 5 AIO - RTX 50 Series` and `DLSS 5 AIO - RTX 20 30 40 Series` - enable the ONE that matches your card, never both  
-   - `HOH- MCM and INI Settings` - VSync is now on by deafult in `ssedisplaysettings.ini`  
+   - `HOH- MCM and INI Settings` - VSync is now on by default in `ssedisplaysettings.ini`  
    - `ENB Presets and DLSS 5 - Setup Instructions`  
    - `SOS - Merged Patches FOMOD` - Fixed floating sign from BHKS - Thanks, [Rynfri](https://www.nexusmods.com/profile/Rynfri?gameId=1704)!  
 - Removed the following custom patches:
