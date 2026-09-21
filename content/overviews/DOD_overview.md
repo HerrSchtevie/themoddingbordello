@@ -109,7 +109,7 @@ These are **hard requirements**. The modlist will not function correctly without
 | GPU       | RTX 3060 Ti / RX 6600 XT     | RTX 4070 / RX 7700 XT          |
 | RAM       | 16GB                         | 32GB                           |
 
-Minimum assumes VRAMr, Texture Downscaler on its Performance preset and the Performance Tuning guide; Recommended is the list as shipped. Planning to run an ENB preset or DLSS 5? Treat Recommended as your minimum and aim for an RTX 4070 Ti Super / RX 7800 XT class card with 16 GB of VRAM and 32GB of RAM.
+Minimum assumes VRAMr, Texture Downscaler on its Performance preset and the Performance Tuning guide; Recommended is the list as shipped. Planning to run an ENB preset? Treat Recommended as your minimum and aim for an RTX 4070 Ti Super / RX 7800 XT class card with 16 GB of VRAM and 32GB of RAM. Planning to run DLSS 5? Card generation matters more than VRAM there: a 50 series card handles it comfortably, while a 20, 30 or 40 series takes a substantial hit.
 
 ---
 

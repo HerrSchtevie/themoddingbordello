@@ -116,7 +116,7 @@ For reference, I run this list on a 32:9 ultrawide monitor (5120 x 1440) with sm
 
 ### Recommended System Specs
 
-VOV ships one profile, built on Community Shaders. The Minimum column assumes you tune the list: run VRAMr, enable Texture Downscaler on its Performance preset and follow the rest of the [SOS Performance Tuning Guide](/guides/sos-performance-tuning-guide). The Recommended column is the list as shipped, with no tuning. The optional ENB presets and DLSS 5 (see ENB Presets and DLSS 5 in the post-installation steps) cost more again: if you plan to run either, treat the Recommended column as your minimum and aim for an RTX 4070 Ti Super / RX 7800 XT class card with 16 GB of VRAM and 32GB of RAM.
+VOV ships one profile, built on Community Shaders. The Minimum column assumes you tune the list: run VRAMr, enable Texture Downscaler on its Performance preset and follow the rest of the [SOS Performance Tuning Guide](/guides/sos-performance-tuning-guide). The Recommended column is the list as shipped, with no tuning. The optional ENB presets and DLSS 5 (see ENB Presets and DLSS 5 in the post-installation steps) cost more again. For an ENB preset, treat the Recommended column as your minimum and aim for an RTX 4070 Ti Super / RX 7800 XT class card with 16 GB of VRAM and 32GB of RAM. For DLSS 5 the card generation matters more than the VRAM: a 50 series card handles it comfortably, while a 20, 30 or 40 series card takes a substantial hit no matter how much VRAM it has.
 
 | Component     | Minimum (Tuned)                                      | Recommended (As Shipped)                             |
 |---------------|------------------------------------------------------|------------------------------------------------------|
@@ -329,7 +329,7 @@ VOV runs Community Shaders. Two optional visual add-ons ship with the list, both
   - [Rudy ENB](https://www.nexusmods.com/skyrimspecialedition/mods/91675)
   - [Berserkyr ENB](https://www.nexusmods.com/skyrimspecialedition/mods/62381)
   - [Amon ENB](https://www.nexusmods.com/skyrimspecialedition/mods/99786)
-- **DLSS 5 neural rendering**, delivered through a ReShade bridge. It needs an NVIDIA RTX card and driver 616.56 or newer, and it costs real performance.
+- **DLSS 5 neural rendering**, delivered through ReShade. It ships as two card-specific mods, both disabled: enable the one that matches your card, and never both. It needs an NVIDIA RTX card, with no particular driver version to chase or avoid. The cost is manageable on a 50 series card and substantial on a 20, 30 or 40 series, where you should expect to tune performance back with the [SOS Performance Tuning Guide](/guides/sos-performance-tuning-guide).
 
 The step-by-step setup lives in the list itself: open the `ENB Presets and DLSS 5 - Setup Instructions` mod in MO2's left pane. It covers which mods to enable, where each preset's plugin goes, the ENB Extender version lock, and which caches to clear from `overwrite`. Read its section 5 before changing anything; a stale `overwrite\ShaderCache` is the most common cause of "it did not work". Enable one preset at a time, and expect a list update to reset these choices.
 
