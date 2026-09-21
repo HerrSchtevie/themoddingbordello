@@ -341,7 +341,7 @@ Plugin:
 
 ## Daedric Statues
 
-Replace NSFW daedric statues and shrines with lore-friendly alternatives.
+Replace NSFW daedric statues, shrines and standing stones with lore-friendly alternatives.
 
 > **Warning:** This section requires a full tool suite run after completion. See the [SOS Tool Running Guide](/guides/sos-tool-running-guide).
 
@@ -349,25 +349,37 @@ Replace NSFW daedric statues and shrines with lore-friendly alternatives.
 <summary>Remove Statue Masters</summary>
 <div class="details-content">
 
-Remove masters from the following plugins using xEdit.
+This is smaller than it looks. Across the whole load order exactly **one** record actually uses the statuettes: the container `MerchantWCollegeUragChest` [CONT:0010C430], which `<ACR> - Archivum Ultima.esp` overrides to add `1x AABookStatuettes`. Every other plugin that declares `PsBoss's Statuettes Crafting.esp` as a master never references a single form from it.
 
-For a visual guide, see:
+So the job is:
+
+1. Open `<ACR> - Archivum Ultima.esp` in xEdit (`JOJ - Archivum Ultima.esp`, `HOH - Archivum Ultima.esp`, and so on for your list).
+2. In `MerchantWCollegeUragChest`, delete the `AABookStatuettes` item entry.
+3. Run Clean Masters on that plugin. `PsBoss's Statuettes Crafting.esp` drops off by itself.
+
+For a visual guide to the master removal, see:
 [Biggie's EASILY Remove Masters From Plugins | SSEEdit & xEdit Guide](https://www.youtube.com/watch?v=5cHJ0i7hE2U)
 
-**Remove these masters:**
-- PsBoss's Statuettes
-- NSFW AIO Statues
+On HOH and DOD two further plugins declare the master, `HOH - Patch of the Hunt 1.2.0.esp` or `DOD - Patch of Desire 1.0.0.esp`, and `PronounsPatch.esp`. Neither references anything from it, so Clean Masters removes it from both with no editing at all.
 
-**From these plugins:**
-- Archivum Ultima
-- Patch of Order
+> **About `PronounsPatch.esp`:** it lives in `<ACR> - xEdit Output` and is nothing more than the output of the Pronouns mod's xEdit script. Since it references no statuette forms you can leave it alone, clean its masters, rerun the script yourself, or simply disable it for the purposes of this guide. Any of the four is fine.
+
+VOV ships the statuettes with no plugin mastering them, and TOT does not include them at all, so on those two lists only the disable step below applies.
+
+`Aio Statue Fixes.esp`, from `New NSFW Statues AIO SE`, needs no master removal on any list. Nothing masters it, so disabling the mod is enough.
 
 Also disable the following mods in MO2:
 
 - `New Night Mother SE`
 - `New NSFW Statues AIO SE`
 - `PsBoss's Statuettes`
-- `Whispers of Daedric Voices`
+- `Whispers of the Daedric Princes`
+- `Standing Stones AIO with New Fixes`
+- `PSBoss Standing Stones AiO - Compatibility Patches`
+
+> **On the standing stones:** the last two are on JOJ, HOH, DOD and MOM, and on DOD and MOM the first of them is named `PSBoss Standing Stones AIO with New Fixes`. Nothing masters them, so there is no master to remove and nothing else breaks; the stones simply return to their vanilla models and no replacement mod is needed.
+>
+> **One thing you cannot undo from MO2.** On these four lists the Dragonborn Hall displays in the Legacy of the Dragonborn museum were repositioned to suit PSBoss's models, because LotD places its 13 miniature stones for the vanilla meshes and PSBoss's have a different base and origin. That correction lives inside `<ACR> - Late Loaders.esp`, not in the standing stones mod, so it stays after you disable them: the 13 miniatures and the gallery niche insert end up off by up to 11 units, and two of them face backwards. It is museum dressing only and affects nothing else. If it bothers you, revert those 14 references in xEdit.
 
 </div>
 </details>
