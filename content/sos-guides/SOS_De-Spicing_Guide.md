@@ -364,8 +364,6 @@ On HOH and DOD two further plugins declare the master, `HOH - Patch of the Hunt 
 
 > **About `PronounsPatch.esp`:** it lives in `<ACR> - xEdit Output` and is nothing more than the output of the Pronouns mod's xEdit script. Since it references no statuette forms you can leave it alone, clean its masters, rerun the script yourself, or simply disable it for the purposes of this guide. Any of the four is fine.
 
-VOV ships the statuettes with no plugin mastering them, and TOT does not include them at all, so on those two lists only the disable step below applies.
-
 `Aio Statue Fixes.esp`, from `New NSFW Statues AIO SE`, needs no master removal on any list. Nothing masters it, so disabling the mod is enough.
 
 Also disable the following mods in MO2:
@@ -377,9 +375,11 @@ Also disable the following mods in MO2:
 - `Standing Stones AIO with New Fixes`
 - `PSBoss Standing Stones AiO - Compatibility Patches`
 
-> **On the standing stones:** the last two are on JOJ, HOH, DOD and MOM, and on DOD and MOM the first of them is named `PSBoss Standing Stones AIO with New Fixes`. Nothing masters them, so there is no master to remove and nothing else breaks; the stones simply return to their vanilla models and no replacement mod is needed.
+> **On the standing stones:** the last two are on JOJ, HOH, DOD and MOM, and on DOD and MOM the first of them is named `PSBoss Standing Stones AIO with New Fixes`. Nothing masters either plugin, so there is no master to remove; the stones return to their vanilla models and no replacement mod is needed.
 >
-> **One thing you cannot undo from MO2.** On these four lists the Dragonborn Hall displays in the Legacy of the Dragonborn museum were repositioned to suit PSBoss's models, because LotD places its 13 miniature stones for the vanilla meshes and PSBoss's have a different base and origin. That correction lives inside `<ACR> - Late Loaders.esp`, not in the standing stones mod, so it stays after you disable them: the 13 miniatures and the gallery niche insert end up off by up to 11 units, and two of them face backwards. It is museum dressing only and affects nothing else. If it bothers you, revert those 14 references in xEdit.
+> **Then reinstall the `Halls of Order` FOMOD and deselect the standing stones patch.** It drops the 13 standing stones in the Halls of Order by 5 to 10 units each to suit PSBoss's taller base, so with the vanilla stones back they would sit sunk into the floor. Leaving that option out restores Halls of Order's own placement, which is the one built for the vanilla stones.
+>
+> **One thing you cannot undo from MO2.** The same correction was made for the Dragonborn Hall displays in the Legacy of the Dragonborn museum, where LotD places its 13 miniature stones for the vanilla meshes. That one lives inside `<ACR> - Late Loaders.esp` rather than in a plugin of its own, so it stays after you disable the standing stones: the 13 miniatures and the gallery niche insert end up off by up to 11 units, and two of them face backwards. It is museum dressing and affects nothing else. If it bothers you, revert those 14 references in xEdit.
 
 </div>
 </details>
