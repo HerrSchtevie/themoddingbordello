@@ -32,31 +32,36 @@ This guide covers how to reduce overt eroticism in the list while retaining NSFW
 
 Replace default outfits and armor with less revealing alternatives.
 
+> **Most of this is already done for you.** Every list now ships Somewhere in Between as its armor and clothing replacer, enabled by default, and the skimpier replacers ship disabled. A default install is already the less revealing configuration, so only the first step below is still needed.
+
 <details>
 <summary>Required Steps</summary>
 <div class="details-content">
 
-1. Filter the modlist for **JOJ**
-2. In the **Overrides and Patches** section, disable:
-   - `JOJ - Outfit Distribution`
+Search the left pane for `Outfit Distribution` and disable **`JOJ - Outfit Distribution`**. It carries the JOJ prefix on every list, not just JOJ.
+
+That mod is a SkyPatcher layer of 127 rules that assigns revealing outfits to NPCs by faction and gender, drawing on Talos' Tease, Immersive Wenches and SkyrimDressUp. It applies whether or not the skimpy replacers are enabled, which is why it is the one step here that still matters.
 
 </div>
 </details>
 
 <details>
-<summary>Armor Replacers</summary>
+<summary>Already Shipped, Nothing To Do</summary>
 <div class="details-content">
 
-Download, install, and activate:
+These used to be manual steps in this guide. They are now part of every list, installed and enabled:
 
-- [Somewhere in Between - 3BA Clothes Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/167530)
-- [Somewhere in Between - 3BA Armor Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/98945)
+- `Somewhere in Between - 3BA Clothes Replacer`
+- `Somewhere in Between - 3BA Armor Replacer`, plus `Somewhere in Between - Helmets`
+- `CBBE 3BA Vanilla Outfits Redone`
 
-Select the **PM** file versions with prebuilt meshes. You will not need to run Bodyslide.
+And the spicier layer ships **disabled**, so there is nothing to remove. Simply leave these off:
 
-Place the mods immediately below `JOJ - ParallaxGen Output` in the **Outputs** section so that they win all conflicts, and enable them.
-
-On the right side, move the new plugins to just below the `PG_1` plugin in the Outputs section.
+- `TAWOBA Replacer (3BA)` and `TEWOBA Replacer (3BA)`
+- `SkyTittie's Vanilla Clothing Replacer (3BA)`
+- `Kreiste's Skimpy Outfits for HIMBO - Vanilla Male Armors and Clothing Replacers`
+- the three `SOS - BodySlide Output (Spicier ...)` mods
+- `Spicier Armor and Clothing - INSTRUCTIONS`
 
 </div>
 </details>
@@ -65,20 +70,9 @@ On the right side, move the new plugins to just below the `PG_1` plugin in the O
 <summary>Advanced Alternative</summary>
 <div class="details-content">
 
-Download the **NPM** versions instead, place the mods in a **My Mods** section just above the Outputs section, and run Bodyslide to build the appropriate outfit groups yourself. Select zaps if desired.
+The list ships Somewhere in Between with prebuilt meshes, so nothing needs building. If you would rather build it yourself, or use a different replacer entirely, download the **NPM** (not-prebuilt) version of whichever replacer you want, place it in a **My Mods** section just above the Outputs section, and run BodySlide to build the outfit groups. Select zaps if desired.
 
-If there's a different replacer you'd rather use and you're able to build it in Bodyslide, have at it.
-
-</div>
-</details>
-
-<details>
-<summary>Less Spicy Option</summary>
-<div class="details-content">
-
-Install SIB Clothes followed by:
-
-- [Vanilla Outfits Redone](https://www.nexusmods.com/skyrimspecialedition/mods/109194)
+On the right side, move any new plugins to just below the `PG_1` plugin in the Outputs section so they win their conflicts.
 
 </div>
 </details>
@@ -371,9 +365,11 @@ Also disable the following mods in MO2:
 - `New Night Mother SE`
 - `New NSFW Statues AIO SE`
 - `PsBoss's Statuettes`
-- `Whispers of the Daedric Princes`
+- `Whispers of the Daedric Princes` (audio only, the looping whispers at daedric shrines; nothing is shown or unlocked by it, so keep it if you like the ambience)
 - `Standing Stones AIO with New Fixes`
 - `PSBoss Standing Stones AiO - Compatibility Patches`
+
+Disabling `New NSFW Statues AIO SE` returns 249 of its 250 statue meshes and textures to vanilla, which is what the replacements below are for. `New Night Mother SE` needs no replacement at all; see the suggestions block.
 
 > **On the standing stones:** the last two are on JOJ, HOH, DOD and MOM, and on DOD and MOM the first of them is named `PSBoss Standing Stones AIO with New Fixes`. Nothing masters either plugin, so there is no master to remove; the stones return to their vanilla models and no replacement mod is needed.
 >
@@ -398,9 +394,14 @@ Also disable the following mods in MO2:
 <summary>Statue Replacements Suggestions</summary>
 <div class="details-content">
 
-- [Statue of Kynareth](https://www.nexusmods.com/skyrimspecialedition/mods/91358)
-- [A Shrine of Azura at The Shrine of Azura](https://www.nexusmods.com/skyrimspecialedition/mods/130094)
-- [Night Mother](https://www.nexusmods.com/skyrimspecialedition/mods/83527)
+Three of these are already handled by mods the list ships, so do not go looking for them:
+
+- **Kynareth** is covered by `Aedric Shrines - Statue of Kynareth`, already installed and enabled.
+- **Azura** is covered by `A Shrine of Azura at The Shrine of Azura`, already installed and enabled.
+- **The Night Mother** is covered by `Much Better Night Mother`, already installed. It sits directly below `New Night Mother SE` and takes over her mesh the moment you disable that mod, so there is nothing to install and nothing to reorder.
+
+Worth adding if you want more than the vanilla statue:
+
 - [Statue of Mara](https://www.nexusmods.com/skyrimspecialedition/mods/93909)
 - [Dibella statue](https://www.nexusmods.com/skyrimspecialedition/mods/61553)
 - [Wooden Talos Statue](https://www.nexusmods.com/skyrimspecialedition/mods/81250)
