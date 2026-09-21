@@ -16,6 +16,45 @@ Save compatibility depends on **which number changes** between releases.
   Examples: `4.2.0 → 4.2.1`, `5.1.0 → 5.1.1`  
   Bug fixes, tuning, or minor adjustments. **Safe to update mid-save.**
 
+# JOJ 8.1.1 (Updated - 09.21.2026)
+
+This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
+The actual MO2 modlist is always the authoritative reference for modlist content.
+
+---
+
+## Additions
+
+NONE
+
+---
+
+## Updates
+
+NONE
+
+---
+
+## Removals 
+
+NONE
+
+---
+
+## Tweaks
+
+- Added/edited the following custom patches: 
+   - `DLSS 5 AIO - RTX 50 Series` and `DLSS 5 AIO - RTX 20 30 40 Series` - enable the ONE that matches your card, never both  
+   - `JOJ - MCM and INI Settings` - VSync is now on by deafult in `ssedisplaysettings.ini`  
+   - `ENB Presets and DLSS 5 - Setup Instructions`  
+   - `SOS - Merged Patches FOMOD` - Fixed floating sign from BHKS - Thanks, [Rynfri](https://www.nexusmods.com/profile/Rynfri?gameId=1704)!  
+- Removed the following custom patches:
+   - `DLSS 5 - ReShade Bridge` - replaced by the two card-specific mods above  
+- Regenerated the following outputs:
+   - NONE
+
+---
+
 # JOJ 8.1.0 (Updated - 09.19.2026)
 
 This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
