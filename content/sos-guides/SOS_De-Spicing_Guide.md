@@ -391,6 +391,28 @@ Disabling `New NSFW Statues AIO SE` returns 249 of its 250 statue meshes and tex
 </details>
 
 <details>
+<summary>Where To Put Them</summary>
+<div class="details-content">
+
+**Left pane.** Every list already has a `Shrines and Statues` separator, and it already holds two statue replacers: `A Shrine of Azura at The Shrine of Azura` and `Aedric Shrines - Statue of Kynareth`. Put everything you add into that same section, below those two.
+
+Order inside the group only matters among the Daedric Shrines mods themselves. Put the base `Daedric Shrines - All in One` at the bottom of the group, with the Mehrunes Dagon fixes and any single-statue replacers above it, so the specific ones win.
+
+**Right pane.** Your list already has `man_kynarethStatue.esp` and `ShrineOfAzuraAtShrineOfAzura.esp` sitting next to each other. Put the new plugins immediately **above** `man_kynarethStatue.esp`, in this order:
+
+1. `man_DaedricShrines.esp`
+2. any `man_DaedricShrines - ... patch by Xtudo.esp` you installed
+3. `man_dibella.esp`
+4. `man_maraStatue.esp`
+5. `man_kynarethStatue.esp` (already there)
+6. `ShrineOfAzuraAtShrineOfAzura.esp` (already there)
+
+That is exactly how **TOT** orders these same mods, in both panes. If you ever want a working reference for statue placement, TOT is the list to copy, since it ships the full lore-friendly set.
+
+</div>
+</details>
+
+<details>
 <summary>Statue Replacements Suggestions</summary>
 <div class="details-content">
 
