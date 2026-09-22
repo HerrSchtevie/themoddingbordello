@@ -90,11 +90,11 @@ Before installing, use the SOS Pre-Install Checker to confirm your system and se
 ## Features
 
 - **Community Shaders, with ENB on Tap:**  
-  JOJ ships a single profile, `Journals of Jyggalag`, built on Community Shaders. Five ENB presets and a DLSS 5 add-on ride along disabled, ready to switch on under Rule 11; see ENB Presets and DLSS 5 in the post-installation steps.
+  JOJ ships a single profile, `Journals of Jyggalag`, built on Community Shaders. Five ENB presets and two card-specific DLSS 5 add-ons ride along disabled, ready to switch on under Rule 11; see ENB Presets and DLSS 5 in the post-installation steps.
 
 - **Quest Mods:**  
   JOJ includes a massive lineup of lore-rich, fully patched quests that expand Skyrim's world with new factions, dungeons, and narratives. Major entries include:  
-  Legacy of the Dragonborn, DAc0da, Vigilant, Glenmoril, Unslaad, The Forgotten City, Project AHO, Wyrmstooth, The Tools of Kagrenac, The Gray Cowl of Nocturnal, Sirenroot, Olenveld, Moon and Star, Legends of Aetherium, Heart of the Reach, Ascend, Sleepwalking into a Nightmare — and many more.
+  Become High King of Skyrim TNG, Legacy of the Dragonborn, DAc0da, Vigilant, Glenmoril, Unslaad, The Forgotten City, Project AHO, Wyrmstooth, The Tools of Kagrenac, The Gray Cowl of Nocturnal, Sirenroot, Olenveld, Moon and Star, Legends of Aetherium, Heart of the Reach, Ascend, Sleepwalking into a Nightmare — and many more.
 
 - **Combat:**  
   Features For Honor and Wo Long movesets, full BFCO integration, and a suite of enemy balance and difficulty tweaks. The combat system supports a challenging but fair experience where any playstyle is viable: battlemage, stealth archer, heavy melee, dual wield, and more.

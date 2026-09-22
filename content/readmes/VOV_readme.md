@@ -90,7 +90,7 @@ Before installing, use the SOS Pre-Install Checker to confirm your system and se
 ## Features
 
 - **Community Shaders, with ENB on Tap:**  
-  VOV ships a single profile, `Visions of Vaermina`, built on Community Shaders. Five ENB presets and a DLSS 5 add-on ride along disabled, ready to switch on under Rule 11; see ENB Presets and DLSS 5 in the post-installation steps.
+  VOV ships a single profile, `Visions of Vaermina`, built on Community Shaders. Five ENB presets and two card-specific DLSS 5 add-ons ride along disabled, ready to switch on under Rule 11; see ENB Presets and DLSS 5 in the post-installation steps.
 
 - **City and World Overhauls:**  
   Fully integrated combinations of JK's Skyrim, Cities of the North, and The Great Cities series — all patched for terrain, navmesh, AI paths, and visual consistency.

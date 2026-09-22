@@ -24,7 +24,7 @@ Before installing, use the SOS Pre-Install Checker to validate your system and c
 
 ## One Profile, Your Choice of Look
 
-MOM ships a single profile, `Mantras of Mara`, built on Community Shaders. Five ENB presets and a DLSS 5 add-on ride along disabled for anyone who wants them, switched on under Rule 11 with the instructions included in the list.
+MOM ships a single profile, `Mantras of Mara`, built on Community Shaders. Five ENB presets and two card-specific DLSS 5 add-ons ride along disabled for anyone who wants them, switched on under Rule 11 with the instructions included in the list.
 
 ---
 
@@ -32,7 +32,7 @@ MOM ships a single profile, `Mantras of Mara`, built on Community Shaders. Five 
 
 From ancient Dwemer ruins to Daedric realms and underground cults, MOM includes dozens of lore-rich quests that expand Skyrim's world in meaningful and mysterious ways.
 
-Major entries include [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802), [The Forgotten City](https://www.nexusmods.com/skyrimspecialedition/mods/1179), [VIGILANT](https://www.nexusmods.com/skyrimspecialedition/mods/11849), [Project AHO](https://www.nexusmods.com/skyrimspecialedition/mods/15996), [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565), [GLEN-MORIL](https://www.nexusmods.com/skyrimspecialedition/mods/32998), [Unslaad](https://www.nexusmods.com/skyrimspecialedition/mods/11789), [Carved Brink](https://www.nexusmods.com/skyrimspecialedition/mods/24351), [The Tools of Kagrenac](https://www.nexusmods.com/skyrimspecialedition/mods/14168), [The Gray Cowl of Nocturnal](https://www.nexusmods.com/skyrimspecialedition/mods/4509), [Sirenroot](https://www.nexusmods.com/skyrimspecialedition/mods/70917), [Olenveld](https://www.nexusmods.com/skyrimspecialedition/mods/133579), [DAc0da](https://www.nexusmods.com/skyrimspecialedition/mods/134405), [Moon and Star](https://www.nexusmods.com/skyrimspecialedition/mods/4301), [Legends of Aetherium](https://www.nexusmods.com/skyrimspecialedition/mods/69807), [Heart of the Reach](https://www.nexusmods.com/skyrimspecialedition/mods/76494), [Ascend](https://www.nexusmods.com/skyrimspecialedition/mods/120802), [Sleepwalking into a Nightmare](https://www.nexusmods.com/skyrimspecialedition/mods/141047), and many more — all patched and rebalanced to fit seamlessly into your journey.
+Major entries include [Become High King of Skyrim TNG](https://www.nexusmods.com/skyrimspecialedition/mods/142993), [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802), [The Forgotten City](https://www.nexusmods.com/skyrimspecialedition/mods/1179), [VIGILANT](https://www.nexusmods.com/skyrimspecialedition/mods/11849), [Project AHO](https://www.nexusmods.com/skyrimspecialedition/mods/15996), [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565), [GLEN-MORIL](https://www.nexusmods.com/skyrimspecialedition/mods/32998), [Unslaad](https://www.nexusmods.com/skyrimspecialedition/mods/11789), [Carved Brink](https://www.nexusmods.com/skyrimspecialedition/mods/24351), [The Tools of Kagrenac](https://www.nexusmods.com/skyrimspecialedition/mods/14168), [The Gray Cowl of Nocturnal](https://www.nexusmods.com/skyrimspecialedition/mods/4509), [Sirenroot](https://www.nexusmods.com/skyrimspecialedition/mods/70917), [Olenveld](https://www.nexusmods.com/skyrimspecialedition/mods/133579), [DAc0da](https://www.nexusmods.com/skyrimspecialedition/mods/134405), [Moon and Star](https://www.nexusmods.com/skyrimspecialedition/mods/4301), [Legends of Aetherium](https://www.nexusmods.com/skyrimspecialedition/mods/69807), [Heart of the Reach](https://www.nexusmods.com/skyrimspecialedition/mods/76494), [Ascend](https://www.nexusmods.com/skyrimspecialedition/mods/120802), [Sleepwalking into a Nightmare](https://www.nexusmods.com/skyrimspecialedition/mods/141047), and many more — all patched and rebalanced to fit seamlessly into your journey.
 
 ---
 
@@ -49,7 +49,7 @@ Major entries include [Legacy of the Dragonborn](https://www.nexusmods.com/skyri
 ## Visuals, Atmosphere & World Overhaul
 
 - Massive city and terrain overhauls via [JK's Skyrim](https://next.nexusmods.com/profile/jkrojmal/mods?gameId=1704), [Cities of the North](https://next.nexusmods.com/profile/JPSteel2/mods?gameId=1704), and [The Great Cities](https://next.nexusmods.com/profile/Archinatic/mods?gameId=1704)
-- Enhanced lighting and weather using [Lux](https://www.nexusmods.com/skyrimspecialedition/mods/43158), [Embers XD](https://www.nexusmods.com/skyrimspecialedition/mods/37085), [Obsidian Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/12125), and more
+- Enhanced lighting and weather using [Lux](https://www.nexusmods.com/skyrimspecialedition/mods/43158), [Embers XD](https://www.nexusmods.com/skyrimspecialedition/mods/37085), [NAT III](https://www.nexusmods.com/skyrimspecialedition/mods/27141), and more
 - High-resolution textures, Community Shaders with five optional ENB presets, dense foliage with distant grass, and region-specific landscapes
 
 ---

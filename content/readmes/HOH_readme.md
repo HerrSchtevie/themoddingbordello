@@ -90,11 +90,11 @@ Before installing, use the SOS Pre-Install Checker to confirm your system and se
 ## Features
 
 - **Community Shaders, with ENB on Tap:**  
-  HOH ships a single profile, `Hymns of Hircine`, built on Community Shaders. Five ENB presets and a DLSS 5 add-on ride along disabled, ready to switch on under Rule 11; see ENB Presets and DLSS 5 in the post-installation steps.
+  HOH ships a single profile, `Hymns of Hircine`, built on Community Shaders. Five ENB presets and two card-specific DLSS 5 add-ons ride along disabled, ready to switch on under Rule 11; see ENB Presets and DLSS 5 in the post-installation steps.
 
 - **Quest Mods:**  
   HOH includes a massive lineup of lore-rich, fully patched quests that expand Skyrim's world with new factions, dungeons, and narratives. Major entries include:  
-  Legacy of the Dragonborn, DAc0da, Vigilant, Glenmoril, Unslaad, The Forgotten City, Project AHO, Wyrmstooth, The Tools of Kagrenac, The Gray Cowl of Nocturnal, Sirenroot, Olenveld, Moon and Star, Legends of Aetherium, Heart of the Reach, Ascend, Sleepwalking into a Nightmare — and many more.
+  Become High King of Skyrim TNG, Legacy of the Dragonborn, DAc0da, Vigilant, Glenmoril, Unslaad, The Forgotten City, Project AHO, Wyrmstooth, The Tools of Kagrenac, The Gray Cowl of Nocturnal, Sirenroot, Olenveld, Moon and Star, Legends of Aetherium, Heart of the Reach, Ascend, Sleepwalking into a Nightmare — and many more.
 
 - **Combat & Perks:**  
   MCO combat featuring For Honor in Skyrim Reforged. A complete magic overhaul with many of the most popular spell add-ons. Combat is brutal, punishing, and designed to test both your skill and your determination with modern animation and progression systems.  
