@@ -5,6 +5,7 @@ Welcome to the SOS Player Home Guide — a categorized list of recommended house
 ## Table of Contents
 
 ### Mid to Mega Homes with Special Features
+- [Halls of Order](#halls-of-order)
 - [Elysium Estate](#elysium-estate)
 - [Legacy of the Dragonborn Safehouse](#legacy-of-the-dragonborn-safehouse)
 - [Aemers Refuge](#aemers-refuge)
@@ -25,6 +26,41 @@ Welcome to the SOS Player Home Guide — a categorized list of recommended house
 
 ### Cheater Homes
 - [Levelers Tower](#levelers-tower)
+
+---
+
+<h2 class="visually-hidden">Halls of Order</h2>
+
+<details>
+<summary>Halls of Order</summary>
+
+<img alt="Halls of Order" src="https://i.imgur.com/cnAGlLa.jpeg" />
+
+**Location:** A crystal obelisk on the tundra northwest of Whiterun, between Volunruud and Halted Stream Camp  
+**Acquisition:** Step through the obelisk  
+**Vibe:** Grand Sovngarde-inspired palace in ordered stone and crimson crystal
+
+This one is mine. I built the Halls of Order myself, and it is the player home I wanted for my own playthroughs.
+
+**Special Features:**
+- Portal nexus to thirteen destinations: all nine hold capitals plus Raven Rock, High Hrothgar, Castle Volkihar and Fort Dawnguard, with a recall spell that takes you home from anywhere and back to where you left
+- Museum wing of eighty-six scripted displays, sixteen mannequins, twelve weapon racks, and all thirteen standing stones attunable in place
+- The Keeper of Order, a dragon steward who opens all fourteen storage chests through dialogue, files your carried loot into them, and answers a summons anywhere in Tamriel
+- A foundry holding every crafting station in the game, linked to the storage chests so crafting borrows materials and files them back when you close the menu
+- The Baths of Clarity, where robes come off at the water's edge and return when you step away, for the NPCs in the room as well as for you
+- Twin fonts to contract or cure vampirism and lycanthropy in either direction, with no questlines required
+- A household of up to twenty-seven staff and residents, chosen room by room as female, male, both, or empty
+- Knights' Rest, lodging for fifteen followers of your choosing
+
+**Pros:**
+- Seven interiors, and no container in them ever respawns
+- Portal landings resolve to vanilla anchors at runtime, so city overhauls keep working with no patches
+- Faces ship pre-generated and the resident plugins are self-contained: no follower, body, or texture mods required
+- SFW mode included
+
+**Modpage:** https://www.nexusmods.com/skyrimspecialedition/mods/187403
+
+</details>
 
 ---
 
@@ -108,7 +144,7 @@ Welcome to the SOS Player Home Guide — a categorized list of recommended house
 - Dwemer elevator and Blackreach bridge
 
 **Pros:**
-- Best teleport system in the list
+- Still the strongest portal hub short of the Halls of Order
 - Strong auto-sorting and utility features
 
 **Modpage:** https://www.nexusmods.com/skyrimspecialedition/mods/4751
@@ -122,7 +158,7 @@ Welcome to the SOS Player Home Guide — a categorized list of recommended house
 <details>
 <summary>Talos' Tease</summary>
 
-## Not available in TOT or VOV
+## Not available in TOT
 
 <img alt="Talos' Tease" src="https://github.com/user-attachments/assets/56dd63fc-a1fc-4439-b690-262f4a642d78" />
 
