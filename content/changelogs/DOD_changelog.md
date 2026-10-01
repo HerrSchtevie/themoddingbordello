@@ -16,6 +16,43 @@ Save compatibility depends on **which number changes** between releases.
   Examples: `4.2.0 → 4.2.1`, `5.1.0 → 5.1.1`  
   Bug fixes, tuning, or minor adjustments. **Safe to update mid-save.**
 
+# DOD 3.0.3 (Updated - 10.01.2026)
+
+This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
+The actual MO2 modlist is always the authoritative reference for modlist content.
+
+---
+
+## Additions
+
+[Cloaks and Capes - FSMP - XPMSSE](https://www.nexusmods.com/skyrimspecialedition/mods/2019)  
+
+---
+
+## Updates
+
+NONE
+
+---
+
+## Removals 
+
+[HDT-SMP for Cloaks and Capes](https://www.nexusmods.com/skyrimspecialedition/mods/55030)  
+
+---
+
+## Tweaks
+
+- Added/edited the following custom patches: 
+   - `SOS - Merged Patches FOMOD`
+   - `SOS - SDU Patches`  
+- Removed the following custom patches:
+   - NONE
+- Regenerated the following outputs:
+   - NONE
+
+---
+
 # DOD 3.0.2 (Updated - 09.21.2026)
 
 This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
