@@ -45,10 +45,11 @@ NONE
 
 - Added/edited the following custom patches: 
    - `HOH - Experience INI Settings`  
+   - `Synthesis Requiem Experience`  
 - Removed the following custom patches:
    - NONE
 - Regenerated the following outputs:
-   - NONE
+   - `HOH - Synthesis Output`  
 
 ---
 
