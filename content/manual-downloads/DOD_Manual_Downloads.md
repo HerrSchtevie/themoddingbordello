@@ -39,7 +39,7 @@ This page is kept up to date to ensure a **smooth, repeatable installation exper
 | Alpia SlaveTats SE (08.2026) | https://www.loverslab.com/files/file/30951-alpia-scribbles-slavetats-pack/?do=download&r=2175445&confirm=1&t=1&csrfKey=c1da82069bb3277e5fcd7b793ae8d629 |
 | Amorous Adventures Text and Player Dialogue Revision | https://www.loverslab.com/files/file/23233-amorous-adventures-text-and-player-dialogue-revision/?do=download&r=1368929&confirm=1&t=1&csrfKey=14a36592a162b81ba4279b6bd4382ad6 |
 | AmorousAdventures v3.4-SexLab | https://www.loverslab.com/files/file/984-amorous-adventures-v34-20180602/?do=download&r=665985&confirm=1&t=1&csrfKey=14a36592a162b81ba4279b6bd4382ad6 |
-| ASF – Autonomous Sex Framework | https://www.loverslab.com/files/file/42977-asf-autonomous-sex-framework/?do=download&r=2101835&confirm=1&t=1&csrfKey=355e792d6fa52c8df9631d9d5f2e37ed |
+| ASF – Autonomous Sex Framework v2.1.0 | https://www.loverslab.com/files/file/42977-asf-autonomous-sex-framework/?do=download&r=2190002&confirm=1&t=1&csrfKey=6b82d8fc7700087f69702302c3613105 |
 | Automated SLSB Conversions v0.9d HF | https://www.loverslab.com/files/file/25318-sexlab-p/?do=download&r=2093477&confirm=1&t=1&csrfKey=f1c91ecafaecd20871239192b570e512 |
 | CBPC Anus Support 2.2 AE1170 Patch | https://www.loverslab.com/applications/core/interface/file/attachment.php?id=1947021&key=44779e35d50715b51862a93743d5bf8a |
 | CBPC Separate Anal Collision 2.2 (CBPC) | https://www.loverslab.com/files/file/22048-cbpc-separate-anal-collision-22-cbpc-156/?do=download&r=1424395&confirm=1&t=1&csrfKey=c2d4b953eaad1689524ea1adf272ca41 |
