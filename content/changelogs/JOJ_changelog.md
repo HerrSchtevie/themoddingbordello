@@ -26,6 +26,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 ## Additions
 
 [Grass Optimizations - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/188628)  
+[Shadow Scene Node Crash Fix](https://www.nexusmods.com/skyrimspecialedition/mods/193863)  
 
 ---
 
@@ -36,6 +37,30 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Terrain Variation - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/148123)  
 [Light Placer](https://www.nexusmods.com/skyrimspecialedition/mods/127557)  
 [ISL Helper SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/179132)  
+[Save Unbaker](https://www.nexusmods.com/skyrimspecialedition/mods/85565)  
+[LOD Refresh Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/187070)  
+[Considerate Followers - Followers are Silent During Dialogue](https://www.nexusmods.com/skyrimspecialedition/mods/133659)  
+[Exit Sneak On Sprint](https://www.nexusmods.com/skyrimspecialedition/mods/138669)  
+[Unequip Quiver NG](https://www.nexusmods.com/skyrimspecialedition/mods/128582)  
+[Papyrus Tweaks NG](https://www.nexusmods.com/skyrimspecialedition/mods/77779)  
+[Spell Perk Item Distributor (SPID)](https://www.nexusmods.com/skyrimspecialedition/mods/36869)  
+[SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/106659)  
+[JContainers SE](https://www.nexusmods.com/skyrimspecialedition/mods/16495)  
+[Container Distribution Framework](https://www.nexusmods.com/skyrimspecialedition/mods/120152)  
+[Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/60805)  
+[Actor Value Generator](https://www.nexusmods.com/skyrimspecialedition/mods/84743)  
+[LeveledList Crash Fix](https://www.nexusmods.com/skyrimspecialedition/mods/129136)  
+[Crash Logger SSE AE VR - PDB support](https://www.nexusmods.com/skyrimspecialedition/mods/59818)  
+[SSE Display Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705)  
+[MCM Helper](https://www.nexusmods.com/skyrimspecialedition/mods/53000)  
+[Main Menu Video](https://www.nexusmods.com/skyrimspecialedition/mods/160238)  
+[CBPC - Physics with Collisions for SSE and VR](https://www.nexusmods.com/skyrimspecialedition/mods/21224)  
+[Racemenu Rotation with Gamepad Support NG](https://www.nexusmods.com/skyrimspecialedition/mods/177359)  
+[Ultimate Animated Potions NG](https://www.nexusmods.com/skyrimspecialedition/mods/97674)  
+[Unread Books Glow Redone](https://www.nexusmods.com/skyrimspecialedition/mods/138451)  
+[Smart NPC Potions - Enemies Use Potions and Poisons](https://www.nexusmods.com/skyrimspecialedition/mods/40102)  
+[Floating Subtitles](https://www.nexusmods.com/skyrimspecialedition/mods/154424)  
+[Perfectly Valid Wards](https://www.nexusmods.com/skyrimspecialedition/mods/153401)  
 
 ---
 
