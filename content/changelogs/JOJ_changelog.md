@@ -41,15 +41,14 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 ## Removals 
 
-[HDT-SMP for Cloaks and Capes](https://www.nexusmods.com/skyrimspecialedition/mods/55030)  
+NONE
 
 ---
 
 ## Tweaks
 
 - Added/edited the following custom patches: 
-   - `SOS - Merged Patches FOMOD`  
-   - `SOS - SDU Patches`  
+   - NONE
 - Removed the following custom patches:
    - NONE
 - Regenerated the following outputs:
