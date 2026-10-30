@@ -45,7 +45,8 @@ NONE
 
 - Added/edited the following custom patches: 
    - `HOH - Experience INI Settings`  
-   - `Synthesis Requiem Experience`  
+   - `Synthesis Requiem Experience`
+   - `HOH - Patch of the Hunt 1.2.0`  
 - Removed the following custom patches:
    - NONE
 - Regenerated the following outputs:
