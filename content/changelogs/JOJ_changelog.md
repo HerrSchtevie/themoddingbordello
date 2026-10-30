@@ -41,7 +41,12 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 ## Removals 
 
-NONE
+[For Honor Stamina System](https://www.nexusmods.com/skyrimspecialedition/mods/174120)  
+[Valhalla Combat](https://www.nexusmods.com/skyrimspecialedition/mods/64741)  
+[Perks of Valhalla - Block Skill Tree](https://www.nexusmods.com/skyrimspecialedition/mods/95559)  
+[Mysticism - Enhanced Atronachs Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38840)  
+[Skyrim Outfit Equipment System NG](https://www.nexusmods.com/skyrimspecialedition/mods/147011)  
+[Wet Function Redux SE compatibility for Skyrim Outfit System](https://www.nexusmods.com/skyrimspecialedition/mods/89585)  
 
 ---
 
