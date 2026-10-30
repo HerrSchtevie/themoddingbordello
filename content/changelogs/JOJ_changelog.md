@@ -16,6 +16,47 @@ Save compatibility depends on **which number changes** between releases.
   Examples: `4.2.0 → 4.2.1`, `5.1.0 → 5.1.1`  
   Bug fixes, tuning, or minor adjustments. **Safe to update mid-save.**
 
+# JOJ 8.2.0 (WORJ IN PROGRESS)
+
+This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
+The actual MO2 modlist is always the authoritative reference for modlist content.
+
+---
+
+## Additions
+
+[Grass Optimizations - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/188628)  
+
+---
+
+## Updates
+
+[Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492)  
+[Skylighting - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/139352)  
+[Terrain Variation - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/148123)  
+[Light Placer](https://www.nexusmods.com/skyrimspecialedition/mods/127557)  
+[ISL Helper SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/179132)  
+
+---
+
+## Removals 
+
+[HDT-SMP for Cloaks and Capes](https://www.nexusmods.com/skyrimspecialedition/mods/55030)  
+
+---
+
+## Tweaks
+
+- Added/edited the following custom patches: 
+   - `SOS - Merged Patches FOMOD`  
+   - `SOS - SDU Patches`  
+- Removed the following custom patches:
+   - NONE
+- Regenerated the following outputs:
+   - NONE
+
+---
+
 # JOJ 8.1.2 (Updated - 10.01.2026)
 
 This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
