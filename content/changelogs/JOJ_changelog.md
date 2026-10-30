@@ -27,6 +27,13 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 [Grass Optimizations - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/188628)  
 [Shadow Scene Node Crash Fix](https://www.nexusmods.com/skyrimspecialedition/mods/193863)  
+[Plus Combat Reborn - An Integrated Combat Overhaul for BFCO and MCO](https://www.nexusmods.com/skyrimspecialedition/mods/191894)  
+[Attacks Use Stamina](https://www.nexusmods.com/skyrimspecialedition/mods/132796)  
+[Stamina Affects Damage](https://www.nexusmods.com/skyrimspecialedition/mods/132969)  
+[Fury - Animal Taming of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/108212)  
+[HorsePower - Modernized Horse Riding (Total Riding Overhaul)](https://www.nexusmods.com/skyrimspecialedition/mods/169335)  
+[Dynamic NPC Scaling](https://www.nexusmods.com/skyrimspecialedition/mods/180306)  
+[Dynamic Enhance Enemy Attributes](https://www.nexusmods.com/skyrimspecialedition/mods/65861)  
 
 ---
 
@@ -61,6 +68,9 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Smart NPC Potions - Enemies Use Potions and Poisons](https://www.nexusmods.com/skyrimspecialedition/mods/40102)  
 [Floating Subtitles](https://www.nexusmods.com/skyrimspecialedition/mods/154424)  
 [Perfectly Valid Wards](https://www.nexusmods.com/skyrimspecialedition/mods/153401)  
+[Chocolate Poise - Reforged](https://www.nexusmods.com/skyrimspecialedition/mods/181084)  
+[Timed Block-Dodge and Counter](https://www.nexusmods.com/skyrimspecialedition/mods/181239)  
+[Spell Casting Reworked - SKSE - SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/168593)  
 
 ---
 
@@ -72,6 +82,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Mysticism - Enhanced Atronachs Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38840)  
 [Skyrim Outfit Equipment System NG](https://www.nexusmods.com/skyrimspecialedition/mods/147011)  
 [Wet Function Redux SE compatibility for Skyrim Outfit System](https://www.nexusmods.com/skyrimspecialedition/mods/89585)  
+[Horses Simply Turn Better](https://www.nexusmods.com/skyrimspecialedition/mods/57790)  
+[Faster Horses](https://www.nexusmods.com/skyrimspecialedition/mods/2003)  
 
 ---
 
@@ -79,6 +91,10 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 - Added/edited the following custom patches: 
    - `SOS - Merged Patches FOMOD`  
+   - `Hoody Tweaks`  
+   - `JOJ - MCM and INI Settings`  
+   - `JOJ - Outfit Distribution`  
+   - `JOJ - xEdit Output`  
 - Removed the following custom patches:
    - NONE
 - Regenerated the following outputs:
