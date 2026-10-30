@@ -68,10 +68,10 @@ export const modlists: ModlistMeta[] = [
     },
     pluginCounts: {
       main: {
-        all: { active: 3743, total: 3743 },
+        all: { active: 3744, total: 3744 },
         esms: { active: 55, total: 55 },
-        esps: { active: 189, total: 189 },
-        esmsPlusEsps: { active: 244, total: 244 },
+        esps: { active: 190, total: 190 },
+        esmsPlusEsps: { active: 245, total: 245 },
         esls: { active: 3499, total: 3499 },
       },
     },
@@ -118,10 +118,10 @@ export const modlists: ModlistMeta[] = [
     },
     pluginCounts: {
       main: {
-        all: { active: 3786, total: 3786 },
+        all: { active: 3787, total: 3787 },
         esms: { active: 64, total: 64 },
-        esps: { active: 185, total: 185 },
-        esmsPlusEsps: { active: 249, total: 249 },
+        esps: { active: 186, total: 186 },
+        esmsPlusEsps: { active: 250, total: 250 },
         esls: { active: 3537, total: 3537 },
       },
     },
