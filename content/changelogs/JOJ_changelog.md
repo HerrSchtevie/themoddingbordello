@@ -27,6 +27,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 [Grass Optimizations - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/188628)  
 [Shadow Scene Node Crash Fix](https://www.nexusmods.com/skyrimspecialedition/mods/193863)  
+[Lexicon SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/153176)  
 [Plus Combat Reborn - An Integrated Combat Overhaul for BFCO and MCO](https://www.nexusmods.com/skyrimspecialedition/mods/191894)  
 [Attacks Use Stamina](https://www.nexusmods.com/skyrimspecialedition/mods/132796)  
 [Stamina Affects Damage](https://www.nexusmods.com/skyrimspecialedition/mods/132969)  
@@ -34,6 +35,11 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [HorsePower - Modernized Horse Riding (Total Riding Overhaul)](https://www.nexusmods.com/skyrimspecialedition/mods/169335)  
 [Dynamic NPC Scaling](https://www.nexusmods.com/skyrimspecialedition/mods/180306)  
 [Dynamic Enhance Enemy Attributes](https://www.nexusmods.com/skyrimspecialedition/mods/65861)  
+[Mysticism Consistency for Enhanced Atronachs](https://www.nexusmods.com/skyrimspecialedition/mods/194906)  
+[OStrands - Procedural Fluid for OStim Standalone](https://www.nexusmods.com/skyrimspecialedition/mods/195115)  
+[OGaze](https://www.nexusmods.com/skyrimspecialedition/mods/196580)  
+[Gentleman Khajiit - Enhanced Khajiit TNG Compatibility](https://www.nexusmods.com/skyrimspecialedition/mods/192902)  
+[NAT Effect 11](https://www.nexusmods.com/skyrimspecialedition/mods/186575)  
 
 ---
 
@@ -52,7 +58,6 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Papyrus Tweaks NG](https://www.nexusmods.com/skyrimspecialedition/mods/77779)  
 [Spell Perk Item Distributor (SPID)](https://www.nexusmods.com/skyrimspecialedition/mods/36869)  
 [SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/106659)  
-[JContainers SE](https://www.nexusmods.com/skyrimspecialedition/mods/16495)  
 [Container Distribution Framework](https://www.nexusmods.com/skyrimspecialedition/mods/120152)  
 [Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/60805)  
 [Actor Value Generator](https://www.nexusmods.com/skyrimspecialedition/mods/84743)  
@@ -71,6 +76,44 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Chocolate Poise - Reforged](https://www.nexusmods.com/skyrimspecialedition/mods/181084)  
 [Timed Block-Dodge and Counter](https://www.nexusmods.com/skyrimspecialedition/mods/181239)  
 [Spell Casting Reworked - SKSE - SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/168593)  
+[DynDOLOD 3 Alpha](https://www.nexusmods.com/skyrimspecialedition/mods/68518)  
+[DynDOLOD DLL NG](https://www.nexusmods.com/skyrimspecialedition/mods/97720)  
+[PGPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/120946)  
+[Texture Downscaler](https://www.nexusmods.com/skyrimspecialedition/mods/187049)  
+[Ultimate Optimized Scripts Compilation](https://www.nexusmods.com/skyrimspecialedition/mods/122999)  
+[Tailor - An Outfit and Wig Manager](https://www.nexusmods.com/skyrimspecialedition/mods/173691)  
+[Helmet Toggle 2](https://www.nexusmods.com/skyrimspecialedition/mods/100617)  
+[Legacy of the Dragonborn SSE](https://www.nexusmods.com/skyrimspecialedition/mods/11802)  
+[Legacy of the Dragonborn Patches (Official)](https://www.nexusmods.com/skyrimspecialedition/mods/30980)  
+[Legacy of the Dragonborn - Creation Club Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/31563)  
+[Legacy of the Dragonborn - The Curator's Companion](https://www.nexusmods.com/skyrimspecialedition/mods/38529)  
+[Legacy of the Dragonborn - Followers Patch (Inigo-Auri-Kaidan-Xelzaz-Val Serano-Grandma Shirley-Remiel-Redcap)](https://www.nexusmods.com/skyrimspecialedition/mods/40816)  
+[Legacy of the Dragonborn - Craftloot Sort and Storage FormList Patches (FLM)](https://www.nexusmods.com/skyrimspecialedition/mods/74810)  
+[Animated Armoury Legacy of the Dragonborn Updated Displays Patch](https://www.nexusmods.com/skyrimspecialedition/mods/134438)  
+[OStim Standalone - Advanced Adult Animation Framework](https://www.nexusmods.com/skyrimspecialedition/mods/98163)  
+[Ostim Standalone Sound Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/120663)  
+[Val Serano - Pirate Follower and Quest Adventure](https://www.nexusmods.com/skyrimspecialedition/mods/103669)  
+[Val Serano - OStim Integration](https://www.nexusmods.com/skyrimspecialedition/mods/189665)  
+[Project ja-Kha'jay Body Patches - HIMBO - TNG - Feet](https://www.nexusmods.com/skyrimspecialedition/mods/186674)  
+[VIGILANT SE](https://www.nexusmods.com/skyrimspecialedition/mods/11849)  
+[VIGILANT - English Translation (Plus Voiced Addon)](https://www.nexusmods.com/skyrimspecialedition/mods/11894)  
+[VIGILANT(missing lines) - ElevenLabs Voiced](https://www.nexusmods.com/skyrimspecialedition/mods/161442)  
+[Unslaad SE](https://www.nexusmods.com/skyrimspecialedition/mods/11789)  
+[UNSLAAD - English Translation (Plus Voiced Addon)](https://www.nexusmods.com/skyrimspecialedition/mods/11896)  
+[UNSLAAD - ElevenLabs Voiced](https://www.nexusmods.com/skyrimspecialedition/mods/155073)  
+[Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565)  
+[Redcap the Riekling - A Fully Voice-Acted Immersive Follower and Quest](https://www.nexusmods.com/skyrimspecialedition/mods/73441)  
+[Serana Dialogue Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/32161)  
+[Serana Dialogue Add-On Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/70782)  
+[Follower Dialogue Expansion - Aela the Huntress](https://www.nexusmods.com/skyrimspecialedition/mods/114801)  
+[Follower Dialogue Expansion - Jenassa](https://www.nexusmods.com/skyrimspecialedition/mods/120255)  
+[Lucien - Immersive Fully Voiced Male Follower](https://www.nexusmods.com/skyrimspecialedition/mods/20035)  
+[Gore - A Companion Mod](https://www.nexusmods.com/skyrimspecialedition/mods/85298)  
+[Remiel-Custom Voiced Dwemer Specialist and Companion](https://www.nexusmods.com/skyrimspecialedition/mods/51874)  
+[Tiny but Useful - Yet Another Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/62050)  
+[JK's Interiors Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/35910)  
+[Cities of the North - Dawnstar Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/30885)  
+[Orc Strongholds - AIO - Patches Collection](https://www.nexusmods.com/skyrimspecialedition/mods/160944)  
 
 ---
 
@@ -84,6 +127,11 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Wet Function Redux SE compatibility for Skyrim Outfit System](https://www.nexusmods.com/skyrimspecialedition/mods/89585)  
 [Horses Simply Turn Better](https://www.nexusmods.com/skyrimspecialedition/mods/57790)  
 [Faster Horses](https://www.nexusmods.com/skyrimspecialedition/mods/2003)  
+[Enhanced Khajiit and Khajiit-yllux SOS and TRX Patches](https://www.nexusmods.com/skyrimspecialedition/mods/176702)  
+[Kauz ENB](https://www.nexusmods.com/skyrimspecialedition/mods/111431)  
+[Cabbage ENB for NAT 3 Weather](https://www.nexusmods.com/skyrimspecialedition/mods/103042)  
+[Silent Horizons 2 - Shader Core](https://www.nexusmods.com/skyrimspecialedition/mods/101696)  
+[ENB Extender and Helper Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/99406)  
 
 ---
 
@@ -91,14 +139,23 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 - Added/edited the following custom patches: 
    - `SOS - Merged Patches FOMOD`  
+   - `SOS - Forms of Order`  
    - `Hoody Tweaks`  
    - `JOJ - MCM and INI Settings`  
    - `JOJ - Outfit Distribution`  
    - `JOJ - xEdit Output`  
+   - `ENB Presets and DLSS 5 - Setup Instructions`  
+   - `DLSS 5 AIO - RTX 50 Series`  
+   - `DLSS 5 AIO - RTX 20 30 40 Series`  
 - Removed the following custom patches:
    - NONE
 - Regenerated the following outputs:
-   - NONE
+   - `JOJ - BodySlide Output`  
+   - `JOJ - Pandora Output`  
+   - `JOJ - NPC Merge`  
+   - `JOJ - Synthesis Output`  
+   - `JOJ - ParallaxGen Output`  
+   - `JOJ - DynDOLOD Output`  
 
 ---
 
