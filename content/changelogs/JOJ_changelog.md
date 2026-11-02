@@ -154,7 +154,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
    - `JOJ - Pandora Output`  
    - `JOJ - NPC Merge`  
    - `JOJ - Synthesis Output`  
-   - `JOJ - ParallaxGen Output`  
+   - `JOJ - ParallaxGen Output`
+   - `JOJ - TexGen Output`  
    - `JOJ - DynDOLOD Output`  
 
 ---
