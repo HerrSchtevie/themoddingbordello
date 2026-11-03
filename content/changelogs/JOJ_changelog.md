@@ -38,7 +38,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Mysticism Consistency for Enhanced Atronachs](https://www.nexusmods.com/skyrimspecialedition/mods/194906)  
 [OStrands - Procedural Fluid for OStim Standalone](https://www.nexusmods.com/skyrimspecialedition/mods/195115)  
 [OGaze](https://www.nexusmods.com/skyrimspecialedition/mods/196580) - Thanks, [Juntii](https://www.nexusmods.com/profile/Juntii)!  
-[Gentleman Khajiit - Enhanced Khajiit TNG Compatibility](https://www.nexusmods.com/skyrimspecialedition/mods/192902)  
+[Gentleman Khajiit - Enhanced Khajiit TNG Compatibility](https://www.nexusmods.com/skyrimspecialedition/mods/192902) - Thanks, [Arveth](https://www.nexusmods.com/profile/Arveth)!
 [NAT Effect 11](https://www.nexusmods.com/skyrimspecialedition/mods/186575)  
 
 ---
