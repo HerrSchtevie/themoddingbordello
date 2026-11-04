@@ -114,6 +114,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [JK's Interiors Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/35910)  
 [Cities of the North - Dawnstar Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/30885)  
 [Orc Strongholds - AIO - Patches Collection](https://www.nexusmods.com/skyrimspecialedition/mods/160944)  
+[Vaelyra the Veiled](https://www.nexusmods.com/skyrimspecialedition/mods/182838) - Thanks, [bridgeburnerr](https://www.nexusmods.com/profile/bridgeburnerr?gameId=1704)!  
+[Yoana the Wanderer](https://www.nexusmods.com/skyrimspecialedition/mods/164506) - Thanks, [bridgeburnerr](https://www.nexusmods.com/profile/bridgeburnerr?gameId=1704)!  
 
 ---
 
