@@ -29,8 +29,6 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Shadow Scene Node Crash Fix](https://www.nexusmods.com/skyrimspecialedition/mods/193863)  
 [Lexicon SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/153176)  
 [Plus Combat Reborn - An Integrated Combat Overhaul for BFCO and MCO](https://www.nexusmods.com/skyrimspecialedition/mods/191894)  
-[Attacks Use Stamina](https://www.nexusmods.com/skyrimspecialedition/mods/132796)  
-[Stamina Affects Damage](https://www.nexusmods.com/skyrimspecialedition/mods/132969)  
 [Fury - Animal Taming of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/108212)  
 [HorsePower - Modernized Horse Riding (Total Riding Overhaul)](https://www.nexusmods.com/skyrimspecialedition/mods/169335)  
 [Dynamic NPC Scaling](https://www.nexusmods.com/skyrimspecialedition/mods/180306)  
@@ -121,7 +119,6 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 ## Removals 
 
-[For Honor Stamina System](https://www.nexusmods.com/skyrimspecialedition/mods/174120)  
 [Valhalla Combat](https://www.nexusmods.com/skyrimspecialedition/mods/64741)  
 [Perks of Valhalla - Block Skill Tree](https://www.nexusmods.com/skyrimspecialedition/mods/95559)  
 [Mysticism - Enhanced Atronachs Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38840)  
