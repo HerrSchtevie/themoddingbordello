@@ -140,6 +140,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
    - `SOS - Merged Patches FOMOD`  
    - `SOS - Forms of Order`  
    - `Hoody Tweaks` - Thanks, [Hoody](https://www.nexusmods.com/profile/missionx2000)!  
+   - `JOJ - Helmet Compatibility Patch` - Thanks, [Rynfri](https://www.nexusmods.com/profile/Rynfri?gameId=1704)!  
+   - `Simply Order Summons - Summoned Mount Riding Fix` - Thanks, [Rynfri](https://www.nexusmods.com/profile/Rynfri?gameId=1704)!  
    - `JOJ - MCM and INI Settings`  
    - `JOJ - Outfit Distribution`  
    - `JOJ - xEdit Output`  
