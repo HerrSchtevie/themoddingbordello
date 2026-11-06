@@ -28,14 +28,18 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Grass Optimizations - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/188628)  
 [Shadow Scene Node Crash Fix](https://www.nexusmods.com/skyrimspecialedition/mods/193863)  
 [Lexicon SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/153176)  
+[Magelight UI](https://www.nexusmods.com/skyrimspecialedition/mods/193303)  
 [Plus Combat Reborn - An Integrated Combat Overhaul for BFCO and MCO](https://www.nexusmods.com/skyrimspecialedition/mods/191894)  
+[Elden Parry -- Ordinator Patch](https://www.nexusmods.com/skyrimspecialedition/mods/74004)  
 [Fury - Animal Taming of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/108212)  
 [HorsePower - Modernized Horse Riding (Total Riding Overhaul)](https://www.nexusmods.com/skyrimspecialedition/mods/169335)  
+[HorsePower - LostGrimoire Patches](https://www.nexusmods.com/skyrimspecialedition/mods/177246)  
 [Dynamic NPC Scaling](https://www.nexusmods.com/skyrimspecialedition/mods/180306)  
 [Dynamic Enhance Enemy Attributes](https://www.nexusmods.com/skyrimspecialedition/mods/65861)  
 [Mysticism Consistency for Enhanced Atronachs](https://www.nexusmods.com/skyrimspecialedition/mods/194906)  
 [OStrands - Procedural Fluid for OStim Standalone](https://www.nexusmods.com/skyrimspecialedition/mods/195115)  
 [OGaze](https://www.nexusmods.com/skyrimspecialedition/mods/196580) - Thanks, [Juntii](https://www.nexusmods.com/profile/Juntii)!  
+[SLO Aroused NG](https://www.nexusmods.com/skyrimspecialedition/mods/151502)  
 [Gentleman Khajiit - Enhanced Khajiit TNG Compatibility](https://www.nexusmods.com/skyrimspecialedition/mods/192902) - Thanks, [Arveth](https://www.nexusmods.com/profile/Arveth)!  
 [NAT Effect 11](https://www.nexusmods.com/skyrimspecialedition/mods/186575)  
 
@@ -53,7 +57,6 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Considerate Followers - Followers are Silent During Dialogue](https://www.nexusmods.com/skyrimspecialedition/mods/133659)  
 [Exit Sneak On Sprint](https://www.nexusmods.com/skyrimspecialedition/mods/138669)  
 [Unequip Quiver NG](https://www.nexusmods.com/skyrimspecialedition/mods/128582)  
-[Papyrus Tweaks NG](https://www.nexusmods.com/skyrimspecialedition/mods/77779)  
 [Spell Perk Item Distributor (SPID)](https://www.nexusmods.com/skyrimspecialedition/mods/36869)  
 [SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/106659)  
 [Container Distribution Framework](https://www.nexusmods.com/skyrimspecialedition/mods/120152)  
@@ -73,6 +76,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Perfectly Valid Wards](https://www.nexusmods.com/skyrimspecialedition/mods/153401)  
 [Chocolate Poise - Reforged](https://www.nexusmods.com/skyrimspecialedition/mods/181084)  
 [Timed Block-Dodge and Counter](https://www.nexusmods.com/skyrimspecialedition/mods/181239)  
+[Vokord - Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/129564)  
 [Spell Casting Reworked - SKSE - SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/168593)  
 [DynDOLOD 3 Alpha](https://www.nexusmods.com/skyrimspecialedition/mods/68518)  
 [DynDOLOD DLL NG](https://www.nexusmods.com/skyrimspecialedition/mods/97720)  
@@ -90,6 +94,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Animated Armoury Legacy of the Dragonborn Updated Displays Patch](https://www.nexusmods.com/skyrimspecialedition/mods/134438)  
 [OStim Standalone - Advanced Adult Animation Framework](https://www.nexusmods.com/skyrimspecialedition/mods/98163)  
 [Ostim Standalone Sound Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/120663)  
+[Sanguine's Trade - An Economy Mod](https://www.nexusmods.com/skyrimspecialedition/mods/185788) - Thanks, [Juntii](https://www.nexusmods.com/profile/Juntii)!  
 [Val Serano - Pirate Follower and Quest Adventure](https://www.nexusmods.com/skyrimspecialedition/mods/103669)  
 [Val Serano - OStim Integration](https://www.nexusmods.com/skyrimspecialedition/mods/189665)  
 [Project ja-Kha'jay Body Patches - HIMBO - TNG - Feet](https://www.nexusmods.com/skyrimspecialedition/mods/186674)  
