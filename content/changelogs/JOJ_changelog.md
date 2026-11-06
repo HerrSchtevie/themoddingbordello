@@ -48,6 +48,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 ## Updates
 
 [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492)  
+[Effects 11](https://github.com/community-shaders/skyrim-community-shaders/releases/tag/v1.9.1)  
 [Skylighting - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/139352)  
 [Terrain Variation - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/148123)  
 [Light Placer](https://www.nexusmods.com/skyrimspecialedition/mods/127557)  
@@ -131,6 +132,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Wet Function Redux SE compatibility for Skyrim Outfit System](https://www.nexusmods.com/skyrimspecialedition/mods/89585)  
 [Horses Simply Turn Better](https://www.nexusmods.com/skyrimspecialedition/mods/57790)  
 [Faster Horses](https://www.nexusmods.com/skyrimspecialedition/mods/2003)  
+[USSEP - Default2StateActivator Script Fix](https://www.nexusmods.com/skyrimspecialedition/mods/122999)  
 [Enhanced Khajiit and Khajiit-yllux SOS and TRX Patches](https://www.nexusmods.com/skyrimspecialedition/mods/176702)  
 [Kauz ENB](https://www.nexusmods.com/skyrimspecialedition/mods/111431)  
 [Cabbage ENB for NAT 3 Weather](https://www.nexusmods.com/skyrimspecialedition/mods/103042)  
