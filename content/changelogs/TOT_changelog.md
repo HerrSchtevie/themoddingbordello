@@ -28,6 +28,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Grass Optimizations - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/188628)  
 [Shadow Scene Node Crash Fix](https://www.nexusmods.com/skyrimspecialedition/mods/193863)  
 [Lexicon SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/153176)  
+[Magelight UI](https://www.nexusmods.com/skyrimspecialedition/mods/193303)  
 [Plus Combat Reborn - An Integrated Combat Overhaul for BFCO and MCO](https://www.nexusmods.com/skyrimspecialedition/mods/191894)  
 [Elden Parry -- Ordinator Patch](https://www.nexusmods.com/skyrimspecialedition/mods/74004)  
 [Fury - Animal Taming of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/108212)  
