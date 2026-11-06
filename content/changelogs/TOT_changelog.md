@@ -43,6 +43,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 ## Updates
 
 [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492)  
+[Effects 11](https://github.com/community-shaders/skyrim-community-shaders/releases/tag/v1.9.1)  
 [Skylighting - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/139352)  
 [Terrain Variation - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/148123)  
 [Light Placer](https://www.nexusmods.com/skyrimspecialedition/mods/127557)  
