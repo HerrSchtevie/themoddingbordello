@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import { communityLinks } from '@/lib/community';
 
 export function Footer() {
@@ -19,7 +20,10 @@ export function Footer() {
             ))}
           </div>
           <p className="text-xs text-bordello-muted">
-            The Modding Bordello
+            The Modding Bordello ·{' '}
+            <Link href="/privacy" className="hover:text-white transition-colors">
+              Privacy
+            </Link>
           </p>
         </div>
       </div>
