@@ -37,6 +37,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Dynamic NPC Scaling](https://www.nexusmods.com/skyrimspecialedition/mods/180306)  
 [Dynamic Enhance Enemy Attributes](https://www.nexusmods.com/skyrimspecialedition/mods/65861)  
 [Mysticism Consistency for Enhanced Atronachs](https://www.nexusmods.com/skyrimspecialedition/mods/194906)  
+[Sorcerer - JK's COW Patch](https://www.nexusmods.com/skyrimspecialedition/mods/95212)  
 [NAT Effect 11](https://www.nexusmods.com/skyrimspecialedition/mods/186575)  
 [NAT Effect 11 Preset](https://www.nexusmods.com/skyrimspecialedition/mods/186575)  
 
