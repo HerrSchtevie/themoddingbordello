@@ -98,7 +98,7 @@ These are **hard requirements**. The modlist will not function correctly without
 - [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) and [.NET 9 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/9.0), plus the [.NET Desktop Runtime 10](https://dotnet.microsoft.com/en-us/download/dotnet/10.0) (the runtime only, not the .NET 10 SDK)
 - Windows and Skyrim language set to English
 
-**Disk space:** ~296GB download / ~576GB installed / ~872GB total
+**Disk space:** ~294GB download / ~579GB installed / ~873GB total
 
 #### System Specs
 

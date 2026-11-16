@@ -50,12 +50,12 @@ function buildRequirements(installGB: number, downloadGB: number): ModlistRequir
 }
 
 export const modlistRequirements: Record<ModlistSlug, ModlistRequirements> = {
-  joj: buildRequirements(576, 296),
-  tot: buildRequirements(426, 248),
-  hoh: buildRequirements(570, 295),
-  mom: buildRequirements(609, 299),
-  dod: buildRequirements(606, 300),
-  vov: buildRequirements(258, 167),
+  joj: buildRequirements(579, 294),
+  tot: buildRequirements(428, 241),
+  hoh: buildRequirements(573, 293),
+  mom: buildRequirements(612, 297),
+  dod: buildRequirements(609, 298),
+  vov: buildRequirements(259, 166),
 };
 
 export const supportedCheckerSlugs: ModlistSlug[] = [
