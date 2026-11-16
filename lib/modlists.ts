@@ -18,11 +18,11 @@ export const modlists: ModlistMeta[] = [
     },
     pluginCounts: {
       main: {
-        all: { active: 3728, total: 3728 },
+        all: { active: 3751, total: 3751 },
         esms: { active: 53, total: 53 },
-        esps: { active: 186, total: 186 },
-        esmsPlusEsps: { active: 239, total: 239 },
-        esls: { active: 3489, total: 3489 },
+        esps: { active: 184, total: 184 },
+        esmsPlusEsps: { active: 237, total: 237 },
+        esls: { active: 3514, total: 3514 },
       },
     },
   },
@@ -43,11 +43,11 @@ export const modlists: ModlistMeta[] = [
     },
     pluginCounts: {
       main: {
-        all: { active: 3228, total: 3228 },
+        all: { active: 3247, total: 3247 },
         esms: { active: 52, total: 52 },
-        esps: { active: 172, total: 172 },
-        esmsPlusEsps: { active: 224, total: 224 },
-        esls: { active: 3004, total: 3004 },
+        esps: { active: 169, total: 169 },
+        esmsPlusEsps: { active: 221, total: 221 },
+        esls: { active: 3026, total: 3026 },
       },
     },
   },
@@ -68,11 +68,11 @@ export const modlists: ModlistMeta[] = [
     },
     pluginCounts: {
       main: {
-        all: { active: 3744, total: 3744 },
+        all: { active: 3761, total: 3761 },
         esms: { active: 55, total: 55 },
         esps: { active: 190, total: 190 },
         esmsPlusEsps: { active: 245, total: 245 },
-        esls: { active: 3499, total: 3499 },
+        esls: { active: 3516, total: 3516 },
       },
     },
   },
@@ -93,11 +93,11 @@ export const modlists: ModlistMeta[] = [
     },
     pluginCounts: {
       main: {
-        all: { active: 3774, total: 3774 },
+        all: { active: 3799, total: 3799 },
         esms: { active: 62, total: 62 },
-        esps: { active: 183, total: 183 },
-        esmsPlusEsps: { active: 245, total: 245 },
-        esls: { active: 3529, total: 3529 },
+        esps: { active: 181, total: 181 },
+        esmsPlusEsps: { active: 243, total: 243 },
+        esls: { active: 3556, total: 3556 },
       },
     },
   },
@@ -118,11 +118,11 @@ export const modlists: ModlistMeta[] = [
     },
     pluginCounts: {
       main: {
-        all: { active: 3787, total: 3787 },
+        all: { active: 3806, total: 3806 },
         esms: { active: 64, total: 64 },
         esps: { active: 186, total: 186 },
         esmsPlusEsps: { active: 250, total: 250 },
-        esls: { active: 3537, total: 3537 },
+        esls: { active: 3556, total: 3556 },
       },
     },
   },
@@ -143,11 +143,11 @@ export const modlists: ModlistMeta[] = [
     },
     pluginCounts: {
       main: {
-        all: { active: 1453, total: 1453 },
+        all: { active: 1459, total: 1459 },
         esms: { active: 30, total: 30 },
         esps: { active: 53, total: 53 },
         esmsPlusEsps: { active: 83, total: 83 },
-        esls: { active: 1370, total: 1370 },
+        esls: { active: 1376, total: 1376 },
       },
     },
   },
