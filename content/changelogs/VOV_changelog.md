@@ -16,6 +16,100 @@ Save compatibility depends on **which number changes** between releases.
   Examples: `4.2.0 → 4.2.1`, `5.1.0 → 5.1.1`  
   Bug fixes, tuning, or minor adjustments. **Safe to update mid-save.**
 
+# VOV 3.1.0 (WORK IN PROGRESS)
+
+This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
+The actual MO2 modlist is always the authoritative reference for modlist content.
+
+---
+
+## Additions
+
+[Grass Optimizations - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/188628)  
+[Shadow Scene Node Crash Fix](https://www.nexusmods.com/skyrimspecialedition/mods/193863)  
+[Lexicon SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/153176)  
+[OStrands - Procedural Fluid for OStim Standalone](https://www.nexusmods.com/skyrimspecialedition/mods/195115)  
+[OGaze](https://www.nexusmods.com/skyrimspecialedition/mods/196580) - Thanks, [Juntii](https://www.nexusmods.com/profile/Juntii)!  
+[NAT Effect 11](https://www.nexusmods.com/skyrimspecialedition/mods/186575)  
+[NAT Effect 11 Preset](https://www.nexusmods.com/skyrimspecialedition/mods/186575)  
+
+---
+
+## Updates
+
+[Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492)  
+[Effects 11](https://github.com/community-shaders/skyrim-community-shaders/releases/tag/v1.9.1)  
+[Skylighting - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/139352)  
+[Terrain Variation - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/148123)  
+[Light Placer](https://www.nexusmods.com/skyrimspecialedition/mods/127557)  
+[ISL Helper SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/179132)  
+[Save Unbaker](https://www.nexusmods.com/skyrimspecialedition/mods/85565)  
+[LOD Refresh Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/187070)  
+[Considerate Followers - Followers are Silent During Dialogue](https://www.nexusmods.com/skyrimspecialedition/mods/133659)  
+[Exit Sneak On Sprint](https://www.nexusmods.com/skyrimspecialedition/mods/138669)  
+[Unequip Quiver NG](https://www.nexusmods.com/skyrimspecialedition/mods/128582)  
+[Spell Perk Item Distributor (SPID)](https://www.nexusmods.com/skyrimspecialedition/mods/36869)  
+[SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/106659)  
+[Container Distribution Framework](https://www.nexusmods.com/skyrimspecialedition/mods/120152)  
+[Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/60805)  
+[Actor Value Generator](https://www.nexusmods.com/skyrimspecialedition/mods/84743)  
+[LeveledList Crash Fix](https://www.nexusmods.com/skyrimspecialedition/mods/129136)  
+[Crash Logger SSE AE VR - PDB support](https://www.nexusmods.com/skyrimspecialedition/mods/59818)  
+[SSE Display Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705)  
+[MCM Helper](https://www.nexusmods.com/skyrimspecialedition/mods/53000)  
+[Main Menu Video](https://www.nexusmods.com/skyrimspecialedition/mods/160238)  
+[CBPC - Physics with Collisions for SSE and VR](https://www.nexusmods.com/skyrimspecialedition/mods/21224)  
+[Racemenu Rotation with Gamepad Support NG](https://www.nexusmods.com/skyrimspecialedition/mods/177359)  
+[Ultimate Animated Potions NG](https://www.nexusmods.com/skyrimspecialedition/mods/97674)  
+[Smart NPC Potions - Enemies Use Potions and Poisons](https://www.nexusmods.com/skyrimspecialedition/mods/40102)  
+[Floating Subtitles](https://www.nexusmods.com/skyrimspecialedition/mods/154424)  
+[DynDOLOD 3 Alpha](https://www.nexusmods.com/skyrimspecialedition/mods/68518)  
+[DynDOLOD DLL NG](https://www.nexusmods.com/skyrimspecialedition/mods/97720)  
+[PGPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/120946)  
+[Texture Downscaler](https://www.nexusmods.com/skyrimspecialedition/mods/187049)  
+[Ultimate Optimized Scripts Compilation](https://www.nexusmods.com/skyrimspecialedition/mods/122999)  
+[Helmet Toggle 2](https://www.nexusmods.com/skyrimspecialedition/mods/100617)  
+[OStim Standalone - Advanced Adult Animation Framework](https://www.nexusmods.com/skyrimspecialedition/mods/98163)  
+[Ostim Standalone Sound Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/120663)  
+[ORomance Plus - Multiple Marriage and Relationship System](https://www.nexusmods.com/skyrimspecialedition/mods/81635)  
+[Tiny but Useful - Yet Another Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/62050)  
+[JK's Interiors Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/35910)  
+[Cities of the North - Dawnstar Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/30885)  
+[Orc Strongholds - AIO - Patches Collection](https://www.nexusmods.com/skyrimspecialedition/mods/160944)  
+
+---
+
+## Removals 
+
+[USSEP - Default2StateActivator Script Fix](https://www.nexusmods.com/skyrimspecialedition/mods/122999)  
+[Kauz ENB](https://www.nexusmods.com/skyrimspecialedition/mods/111431)  
+[Cabbage ENB for NAT 3 Weather](https://www.nexusmods.com/skyrimspecialedition/mods/103042)  
+[Silent Horizons 2 - Shader Core](https://www.nexusmods.com/skyrimspecialedition/mods/101696)  
+[ENB Extender and Helper Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/99406)  
+
+---
+
+## Tweaks
+
+- Added/edited the following custom patches: 
+   - `VOV - Helmet Compatibility Patch` - Thanks, [Rynfri](https://www.nexusmods.com/profile/Rynfri?gameId=1704)!  
+   - `VOV - MCM and INI Settings`  
+   - `VOV - xEdit Output`  
+   - `ENB Presets and DLSS 5 - Setup Instructions`  
+   - `DLSS 5 AIO - RTX 50 Series`  
+   - `DLSS 5 AIO - RTX 20 30 40 Series`  
+- Removed the following custom patches:
+   - NONE
+- Regenerated the following outputs:
+   - `VOV - BodySlide Output`  
+   - `VOV - Pandora Output`  
+   - `VOV - Synthesis Output`  
+   - `VOV - ParallaxGen Output`  
+   - `VOV - TexGen Output`  
+   - `VOV - DynDOLOD Output`  
+
+---
+
 # VOV 3.0.1 (Updated - 09.21.2026)
 
 This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
