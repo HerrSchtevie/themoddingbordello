@@ -16,6 +16,137 @@ Save compatibility depends on **which number changes** between releases.
   Examples: `4.2.0 → 4.2.1`, `5.1.0 → 5.1.1`  
   Bug fixes, tuning, or minor adjustments. **Safe to update mid-save.**
 
+# HOH 5.1.0 (WORK IN PROGRESS)
+
+This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
+The actual MO2 modlist is always the authoritative reference for modlist content.
+
+---
+
+## Additions
+
+[Grass Optimizations - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/188628)  
+[Shadow Scene Node Crash Fix](https://www.nexusmods.com/skyrimspecialedition/mods/193863)  
+[Lexicon SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/153176)  
+[Magelight UI](https://www.nexusmods.com/skyrimspecialedition/mods/193303)  
+[OStrands - Procedural Fluid for OStim Standalone](https://www.nexusmods.com/skyrimspecialedition/mods/195115)  
+[OGaze](https://www.nexusmods.com/skyrimspecialedition/mods/196580) - Thanks, [Juntii](https://www.nexusmods.com/profile/Juntii)!  
+[Gentleman Khajiit - Enhanced Khajiit TNG Compatibility](https://www.nexusmods.com/skyrimspecialedition/mods/192902) - Thanks, [Arveth](https://www.nexusmods.com/profile/Arveth)!  
+[NAT Effect 11](https://www.nexusmods.com/skyrimspecialedition/mods/186575)  
+[NAT Effect 11 Preset](https://www.nexusmods.com/skyrimspecialedition/mods/186575)  
+
+---
+
+## Updates
+
+[Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492)  
+[Effects 11](https://github.com/community-shaders/skyrim-community-shaders/releases/tag/v1.9.1)  
+[Skylighting - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/139352)  
+[Terrain Variation - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/148123)  
+[Light Placer](https://www.nexusmods.com/skyrimspecialedition/mods/127557)  
+[ISL Helper SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/179132)  
+[Save Unbaker](https://www.nexusmods.com/skyrimspecialedition/mods/85565)  
+[LOD Refresh Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/187070)  
+[Considerate Followers - Followers are Silent During Dialogue](https://www.nexusmods.com/skyrimspecialedition/mods/133659)  
+[Exit Sneak On Sprint](https://www.nexusmods.com/skyrimspecialedition/mods/138669)  
+[Unequip Quiver NG](https://www.nexusmods.com/skyrimspecialedition/mods/128582)  
+[Spell Perk Item Distributor (SPID)](https://www.nexusmods.com/skyrimspecialedition/mods/36869)  
+[SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/106659)  
+[Container Distribution Framework](https://www.nexusmods.com/skyrimspecialedition/mods/120152)  
+[Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/60805)  
+[Actor Value Generator](https://www.nexusmods.com/skyrimspecialedition/mods/84743)  
+[LeveledList Crash Fix](https://www.nexusmods.com/skyrimspecialedition/mods/129136)  
+[Crash Logger SSE AE VR - PDB support](https://www.nexusmods.com/skyrimspecialedition/mods/59818)  
+[SSE Display Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705)  
+[MCM Helper](https://www.nexusmods.com/skyrimspecialedition/mods/53000)  
+[Main Menu Video](https://www.nexusmods.com/skyrimspecialedition/mods/160238)  
+[CBPC - Physics with Collisions for SSE and VR](https://www.nexusmods.com/skyrimspecialedition/mods/21224)  
+[Racemenu Rotation with Gamepad Support NG](https://www.nexusmods.com/skyrimspecialedition/mods/177359)  
+[Ultimate Animated Potions NG](https://www.nexusmods.com/skyrimspecialedition/mods/97674)  
+[Unread Books Glow Redone](https://www.nexusmods.com/skyrimspecialedition/mods/138451)  
+[Smart NPC Potions - Enemies Use Potions and Poisons](https://www.nexusmods.com/skyrimspecialedition/mods/40102)  
+[Floating Subtitles](https://www.nexusmods.com/skyrimspecialedition/mods/154424)  
+[DynDOLOD 3 Alpha](https://www.nexusmods.com/skyrimspecialedition/mods/68518)  
+[DynDOLOD DLL NG](https://www.nexusmods.com/skyrimspecialedition/mods/97720)  
+[PGPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/120946)  
+[Texture Downscaler](https://www.nexusmods.com/skyrimspecialedition/mods/187049)  
+[Ultimate Optimized Scripts Compilation](https://www.nexusmods.com/skyrimspecialedition/mods/122999)  
+[Tailor - An Outfit and Wig Manager](https://www.nexusmods.com/skyrimspecialedition/mods/173691)  
+[Helmet Toggle 2](https://www.nexusmods.com/skyrimspecialedition/mods/100617)  
+[Legacy of the Dragonborn SSE](https://www.nexusmods.com/skyrimspecialedition/mods/11802)  
+[Legacy of the Dragonborn Patches (Official)](https://www.nexusmods.com/skyrimspecialedition/mods/30980)  
+[Legacy of the Dragonborn - Creation Club Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/31563)  
+[Legacy of the Dragonborn - The Curator's Companion](https://www.nexusmods.com/skyrimspecialedition/mods/38529)  
+[Legacy of the Dragonborn - Followers Patch (Inigo-Auri-Kaidan-Xelzaz-Val Serano-Grandma Shirley-Remiel-Redcap)](https://www.nexusmods.com/skyrimspecialedition/mods/40816)  
+[Legacy of the Dragonborn - Craftloot Sort and Storage FormList Patches (FLM)](https://www.nexusmods.com/skyrimspecialedition/mods/74810)  
+[Animated Armoury Legacy of the Dragonborn Updated Displays Patch](https://www.nexusmods.com/skyrimspecialedition/mods/134438)  
+[OStim Standalone - Advanced Adult Animation Framework](https://www.nexusmods.com/skyrimspecialedition/mods/98163)  
+[Ostim Standalone Sound Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/120663)  
+[Sanguine's Trade - An Economy Mod](https://www.nexusmods.com/skyrimspecialedition/mods/185788) - Thanks, [Juntii](https://www.nexusmods.com/profile/Juntii)!  
+[Val Serano - Pirate Follower and Quest Adventure](https://www.nexusmods.com/skyrimspecialedition/mods/103669)  
+[Val Serano - OStim Integration](https://www.nexusmods.com/skyrimspecialedition/mods/189665)  
+[Project ja-Kha'jay Body Patches - HIMBO - TNG - Feet](https://www.nexusmods.com/skyrimspecialedition/mods/186674)  
+[VIGILANT SE](https://www.nexusmods.com/skyrimspecialedition/mods/11849)  
+[VIGILANT - English Translation (Plus Voiced Addon)](https://www.nexusmods.com/skyrimspecialedition/mods/11894)  
+[VIGILANT(missing lines) - ElevenLabs Voiced](https://www.nexusmods.com/skyrimspecialedition/mods/161442)  
+[Unslaad SE](https://www.nexusmods.com/skyrimspecialedition/mods/11789)  
+[UNSLAAD - English Translation (Plus Voiced Addon)](https://www.nexusmods.com/skyrimspecialedition/mods/11896)  
+[UNSLAAD - ElevenLabs Voiced](https://www.nexusmods.com/skyrimspecialedition/mods/155073)  
+[Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565)  
+[Redcap the Riekling - A Fully Voice-Acted Immersive Follower and Quest](https://www.nexusmods.com/skyrimspecialedition/mods/73441)  
+[Serana Dialogue Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/32161)  
+[Serana Dialogue Add-On Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/70782)  
+[Follower Dialogue Expansion - Aela the Huntress](https://www.nexusmods.com/skyrimspecialedition/mods/114801)  
+[Follower Dialogue Expansion - Jenassa](https://www.nexusmods.com/skyrimspecialedition/mods/120255)  
+[Lucien - Immersive Fully Voiced Male Follower](https://www.nexusmods.com/skyrimspecialedition/mods/20035)  
+[Gore - A Companion Mod](https://www.nexusmods.com/skyrimspecialedition/mods/85298)  
+[Remiel-Custom Voiced Dwemer Specialist and Companion](https://www.nexusmods.com/skyrimspecialedition/mods/51874)  
+[Tiny but Useful - Yet Another Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/62050)  
+[JK's Interiors Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/35910)  
+[Cities of the North - Dawnstar Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/30885)  
+[Orc Strongholds - AIO - Patches Collection](https://www.nexusmods.com/skyrimspecialedition/mods/160944)  
+[Vaelyra the Veiled](https://www.nexusmods.com/skyrimspecialedition/mods/182838) - Thanks, [bridgeburnerr](https://www.nexusmods.com/profile/bridgeburnerr?gameId=1704)!  
+[Yoana the Wanderer](https://www.nexusmods.com/skyrimspecialedition/mods/164506) - Thanks, [bridgeburnerr](https://www.nexusmods.com/profile/bridgeburnerr?gameId=1704)!  
+
+---
+
+## Removals 
+
+[Skyrim Outfit Equipment System NG](https://www.nexusmods.com/skyrimspecialedition/mods/147011)  
+[Wet Function Redux SE compatibility for Skyrim Outfit System](https://www.nexusmods.com/skyrimspecialedition/mods/89585)  
+[USSEP - Default2StateActivator Script Fix](https://www.nexusmods.com/skyrimspecialedition/mods/122999)  
+[Enhanced Khajiit and Khajiit-yllux SOS and TRX Patches](https://www.nexusmods.com/skyrimspecialedition/mods/176702)  
+[Kauz ENB](https://www.nexusmods.com/skyrimspecialedition/mods/111431)  
+[Cabbage ENB for NAT 3 Weather](https://www.nexusmods.com/skyrimspecialedition/mods/103042)  
+[Silent Horizons 2 - Shader Core](https://www.nexusmods.com/skyrimspecialedition/mods/101696)  
+[ENB Extender and Helper Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/99406)  
+
+---
+
+## Tweaks
+
+- Added/edited the following custom patches: 
+   - `SOS - Merged Patches FOMOD`  
+   - `SOS - Forms of Order`  
+   - `HOH - Helmet Compatibility Patch` - Thanks, [Rynfri](https://www.nexusmods.com/profile/Rynfri?gameId=1704)!  
+   - `HOH - MCM and INI Settings`  
+   - `HOH - xEdit Output`  
+   - `ENB Presets and DLSS 5 - Setup Instructions`  
+   - `DLSS 5 AIO - RTX 50 Series`  
+   - `DLSS 5 AIO - RTX 20 30 40 Series`  
+- Removed the following custom patches:
+   - NONE
+- Regenerated the following outputs:
+   - `HOH - BodySlide Output`  
+   - `HOH - Pandora Output`  
+   - `HOH - NPC Merge`  
+   - `HOH - Synthesis Output`  
+   - `HOH - ParallaxGen Output`  
+   - `HOH - TexGen Output`  
+   - `HOH - DynDOLOD Output`  
+
+---
+
 # HOH 5.0.3 (Updated - 10.30.2026)
 
 This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
