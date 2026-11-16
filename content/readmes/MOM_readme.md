@@ -90,7 +90,7 @@ Before installing, use the SOS Pre-Install Checker to confirm your system and se
 ## Features
 
 - **Community Shaders, with ENB on Tap:**  
-  MOM ships a single profile, `Mantras of Mara`, built on Community Shaders. Five ENB presets and two card-specific DLSS 5 add-ons ride along disabled, ready to switch on under Rule 11; see ENB Presets and DLSS 5 in the post-installation steps.
+  MOM ships a single profile, `Mantras of Mara`, built on Community Shaders. Three ENB presets plus the NAT Effect 11 preset, and two card-specific DLSS 5 add-ons, ride along disabled, ready to switch on under Rule 11; see ENB Presets and DLSS 5 in the post-installation steps.
 
 - **Quest Mods:**  
   MOM includes a massive lineup of lore-rich, fully patched quests that expand Skyrim's world with new factions, dungeons, and narratives. Major entries include:  
@@ -354,17 +354,14 @@ Where possible, keep Windows Display Settings at 100% scale. Higher Windows scal
 
 MOM runs Community Shaders. Two optional visual add-ons ship with the list, both disabled by default, and both fall under Rule 11. They can be used together.
 
-- **ENB presets through Effects 11.** Five presets ship disabled and render through the Effects 11 feature of Community Shaders. No ENB binaries are installed, and none should ever be added.
-  - [Cabbage ENB](https://www.nexusmods.com/skyrimspecialedition/mods/103042)
-  - [Kauz ENB](https://www.nexusmods.com/skyrimspecialedition/mods/111431)
+- **ENB presets through Effects 11.** Three ENB presets plus the NAT Effect 11 preset ship disabled and render through the Effects 11 feature of Community Shaders. No ENB binaries are installed, and none should ever be added.
   - [Rudy ENB](https://www.nexusmods.com/skyrimspecialedition/mods/91675)
   - [Berserkyr ENB](https://www.nexusmods.com/skyrimspecialedition/mods/62381)
   - [Amon ENB](https://www.nexusmods.com/skyrimspecialedition/mods/99786)
+  - [NAT Effect 11 Preset](https://www.nexusmods.com/skyrimspecialedition/mods/186575)
 - **DLSS 5 neural rendering**, delivered through ReShade. It ships as two card-specific mods, both disabled: enable the one that matches your card, and never both. It needs an NVIDIA RTX card, with no particular driver version to chase or avoid. The cost is manageable on a 50 series card and substantial on a 20, 30 or 40 series, where you should expect to tune performance back with the [SOS Performance Tuning Guide](/guides/sos-performance-tuning-guide).
 
-The step-by-step setup lives in the list itself: open the `ENB Presets and DLSS 5 - Setup Instructions` mod in MO2's left pane. It covers which mods to enable, where each preset's plugin goes, the ENB Extender version lock, and which caches to clear from `overwrite`. Read its section 5 before changing anything; a stale `overwrite\ShaderCache` is the most common cause of "it did not work". Enable one preset at a time, and expect a list update to reset these choices.
-
-For side-by-side comparisons, see [Berserkyr vs Rudy vs Kauz vs Cabbage](https://www.youtube.com/watch?v=iYbj4jkhap0) and [Amon vs Kauz vs Cabbage](https://www.youtube.com/watch?v=HsH8YF6uSmc).
+The step-by-step setup lives in the list itself: open the `ENB Presets and DLSS 5 - Setup Instructions` mod in MO2's left pane. It covers which mods to enable (every preset also needs the separate `NAT Effect 11` weather mod), where each preset's plugin goes, and which caches to clear from `overwrite`. Read its section 5 before changing anything; a stale `overwrite\ShaderCache` is the most common cause of "it did not work". Enable one preset at a time, and expect a list update to reset these choices.
 
 ---
 

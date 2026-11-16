@@ -24,7 +24,7 @@ Before installing, use the SOS Pre-Install Checker to validate your system and c
 
 ## One Profile, Your Choice of Look
 
-VOV ships a single profile, `Visions of Vaermina`, built on Community Shaders. Five ENB presets and two card-specific DLSS 5 add-ons ride along disabled for anyone who wants them, switched on under Rule 11 with the instructions included in the list.
+VOV ships a single profile, `Visions of Vaermina`, built on Community Shaders. Three ENB presets plus the NAT Effect 11 preset, and two card-specific DLSS 5 add-ons, ride along disabled for anyone who wants them, switched on under Rule 11 with the instructions included in the list.
 
 ---
 
@@ -32,7 +32,7 @@ VOV ships a single profile, `Visions of Vaermina`, built on Community Shaders. F
 
 - Massive city and terrain overhauls via [JK's Skyrim](https://next.nexusmods.com/profile/jkrojmal/mods?gameId=1704), [Cities of the North](https://next.nexusmods.com/profile/JPSteel2/mods?gameId=1704), and [The Great Cities](https://next.nexusmods.com/profile/Archinatic/mods?gameId=1704)
 - Enhanced lighting and weather using [Lux](https://www.nexusmods.com/skyrimspecialedition/mods/43158), [Embers XD](https://www.nexusmods.com/skyrimspecialedition/mods/37085), [NAT III](https://www.nexusmods.com/skyrimspecialedition/mods/27141), and more
-- High-resolution textures, Community Shaders with five optional ENB presets, dense foliage with distant grass, and region-specific landscapes
+- High-resolution textures, Community Shaders with three optional ENB presets plus the NAT Effect 11 preset, dense foliage with distant grass, and region-specific landscapes
 
 ---
 
