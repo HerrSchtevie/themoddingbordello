@@ -13,7 +13,7 @@ The images below mirror the in-game keyboard reference for quick access from the
 <h2 style="color:#C22222;border-bottom-color:rgba(194,34,34,0.28)">Journals of Jyggalag (JOJ) - v8.1.0</h2>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/95b0a51e-da49-497d-928f-20d0fc4e6c75" alt="JOJ keyboard layout">
+  <img src="https://github.com/user-attachments/assets/5a47b41b-f44a-4b8d-99cc-01a5970b4389" alt="JOJ keyboard layout">
 </p>
 
 **Notes:**
@@ -33,7 +33,7 @@ The images below mirror the in-game keyboard reference for quick access from the
 <h2 style="color:#7DA87B;border-bottom-color:rgba(125,168,123,0.28)">Hymns of Hircine (HOH) - v5.0.0</h2>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fc611d1a-82e5-42ba-ab15-807834a6862c" alt="HOH keyboard layout">
+  <img src="https://github.com/user-attachments/assets/ed1173bd-e62b-4417-9338-5b015cdc8eca" alt="HOH keyboard layout">
 </p>
 
 **Notes:**
@@ -45,7 +45,7 @@ The images below mirror the in-game keyboard reference for quick access from the
 <h2 style="color:#D46F00;border-bottom-color:rgba(212,111,0,0.28)">Mantras of Mara (MOM) - v4.0.0</h2>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/42173cc9-2b46-4142-b804-fb467e794faa" alt="MOM keyboard layout">
+  <img src="https://github.com/user-attachments/assets/e20b4761-e5bc-460e-a329-242f25199903" alt="MOM keyboard layout">
 </p>
 
 **Notes:**
@@ -58,7 +58,7 @@ The images below mirror the in-game keyboard reference for quick access from the
 <h2 style="color:#A46FE0;border-bottom-color:rgba(164,111,224,0.28)">Diaries of Dibella (DOD) - v3.0.0</h2>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/adc8b5a6-ac19-4849-88fb-bd2b19f8f19f" alt="DOD keyboard layout">
+  <img src="https://github.com/user-attachments/assets/892ccba3-7f1b-4568-9f4d-98ae05940675" alt="DOD keyboard layout">
 </p>
 
 **Notes:**
@@ -71,7 +71,7 @@ The images below mirror the in-game keyboard reference for quick access from the
 <h2 style="color:#3AAFB8;border-bottom-color:rgba(58,175,184,0.28)">Visions of Vaermina (VOV) - v3.0.0</h2>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fef25fa8-6d3a-4d9a-9927-f385d2379ab0" alt="VOV keyboard layout">
+  <img src="https://github.com/user-attachments/assets/591706b1-b7a2-4325-a481-f95639374ede" alt="VOV keyboard layout">
 </p>
 
 **Notes:**
